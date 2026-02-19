@@ -1,0 +1,14 @@
+const functions = require("firebase-functions");
+const next = require("next");
+
+// Firebase Functions 上では常に prod（dev=false）
+const dev = false;
+
+// Next.js のビルドフォルダが functions の一つ上にある場合
+const app = next({ dev, conf: { distDir: "../.next" } });
+const handle = app.getRequestHandler();
+
+// 全リクエストを Next.js に渡す
+exports.nextApp = functions.https.onRequest((req, res) => {
+    return app.prepare().then(() => handle(req, res));
+});
