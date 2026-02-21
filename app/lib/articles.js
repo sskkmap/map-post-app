@@ -10,7 +10,7 @@ import rehypeSlug from 'rehype-slug';
 import rehypeStringify from 'rehype-stringify';
 import GithubSlugger from 'github-slugger';
 
-const articlesDirectory = path.join(process.cwd(), 'public/dataallarticle');
+const articlesDirectory = path.join(process.cwd(), 'content-data');
 
 export function getSortedArticlesData() {
     // Create directory if it doesn't exist to avoid errors
