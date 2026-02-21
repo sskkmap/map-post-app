@@ -14,13 +14,20 @@ const articlesDirectory = path.join(process.cwd(), 'app/data/articles');
 
 export function getSortedArticlesData() {
     // Return empty array if directory doesn't exist
+    console.log(`[SSR] Checking directory: ${articlesDirectory}`);
     if (!fs.existsSync(articlesDirectory)) {
         console.warn(`[WARN] Articles directory not found: ${articlesDirectory}`);
+        // Let's also check parent to see where we are
+        const parentDir = path.dirname(articlesDirectory);
+        if (fs.existsSync(parentDir)) {
+            console.log(`[DEBUG] Parent directory exists. Children: ${fs.readdirSync(parentDir).join(', ')}`);
+        }
         return [];
     }
 
-    // Get file names under /dataallarticle
+    // Get file names under /data/articles
     const fileNames = fs.readdirSync(articlesDirectory);
+    console.log(`[SSR] Found ${fileNames.length} articles`);
     const allArticlesData = fileNames.map((fileName) => {
         // Remove ".md" from file name to get id and normalize to lowercase
         const id = fileName.replace(/\.md$/, '').toLowerCase();
