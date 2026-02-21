@@ -1,3 +1,4 @@
+//ホームページ
 import { profileData } from '../../data/mockData';
 
 export default function Profile() {
