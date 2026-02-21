@@ -3,7 +3,7 @@ const nextConfig = {
     output: 'standalone',
     experimental: {
         outputFileTracingIncludes: {
-            '/articles/*': ['./app/data/articles/**/*'],
+            '/articles/*': ['./public/data-articles/**/*'],
         },
     },
     serverExternalPackages: ['remark', 'remark-gfm', 'remark-rehype', 'rehype-slug', 'rehype-stringify', 'gray-matter'],
