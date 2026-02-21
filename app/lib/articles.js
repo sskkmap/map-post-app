@@ -10,12 +10,12 @@ import rehypeSlug from 'rehype-slug';
 import rehypeStringify from 'rehype-stringify';
 import GithubSlugger from 'github-slugger';
 
-const articlesDirectory = path.join(process.cwd(), 'content-data');
+const articlesDirectory = path.join(process.cwd(), 'app/data/articles');
 
 export function getSortedArticlesData() {
-    // Create directory if it doesn't exist to avoid errors
+    // Return empty array if directory doesn't exist
     if (!fs.existsSync(articlesDirectory)) {
-        fs.mkdirSync(articlesDirectory, { recursive: true });
+        console.warn(`[WARN] Articles directory not found: ${articlesDirectory}`);
         return [];
     }
 
