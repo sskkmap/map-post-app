@@ -25,12 +25,15 @@ export function generatePatientSchedule(patient, startDate, endDate) {
     baseDate.setHours(0, 0, 0, 0);
 
     while (current <= endDate) {
-        if (isScheduledDay(patient, current, baseDate)) {
+        // 計算基準日より前の日付にはスケジュールを生成しない
+        if (current >= baseDate && isScheduledDay(patient, current, baseDate)) {
+            const dateStr = formatDateLocal(current);
             schedules.push({
                 id: generateId(),
                 patientId: patient.id,
-                date: current.toISOString().split('T')[0],
-                status: 'scheduled', // scheduled | received | no_prescription | confirmed | rescheduled
+                date: dateStr,
+                originalDate: dateStr, // 別日変更時の追跡用
+                status: 'not_arrived', // not_arrived | arrived | calling | rescheduled
                 updatedAt: new Date().toISOString(),
             });
         }
@@ -99,30 +102,54 @@ function formatDateLocal(date) {
  */
 export function syncGlobalSchedules(patients, existingSchedules, range) {
     const { start, end } = range;
-    const startStr = start.toISOString().split('T')[0];
-    const endStr = end.toISOString().split('T')[0];
+    const startStr = formatDateLocal(start);
+    const endStr = formatDateLocal(end);
 
     // 1. 保存すべきデータの切り出し
-    // - 範囲外(1ヶ月より前)のデータ
-    // - 範囲内だが、すでに「対応済」などのステータスがついているデータ
+    // 指定範囲（startStr）より前のデータはバッサリ削除する（月初めのクリーンアップ）
+    // ただし「対応済み(not_arrived 以外)」でどうしても残したい場合は残す設計も考えられますが、
+    // 今回は「一番古い1ヶ月の削除」という要望に合わせてシンプルに範囲外をカットします。
+    // （表示も6ヶ月にするため）
     let preserved = existingSchedules.filter(s => {
-        const d = s.date;
-        return d < startStr || s.status !== 'scheduled';
+        // 元の日付（originalDate）または現在の日付（date）が startStr 以降なら保持
+        const targetD = s.originalDate || s.date;
+        return targetD >= startStr;
     });
 
-    // 2. アクティブな患者ごとにスケジュールを生成して追加
+    // 2. アクティブな患者ごとに新しいスケジュールをすべて生成
+    const allNewSchedules = [];
     patients.forEach(patient => {
-        if (!patient.active || patient.deleted) return;
+        if (patient.deleted) return;
+
+        // 旧データの active: false は終了扱いとするなど互換性保持
+        // status が明示されている場合はそれを優先
+        const currentStatus = patient.status || (patient.active ? 'active' : 'ended');
+        if (currentStatus !== 'active') return; // 稼働中以外はスケジュールを生成しない
 
         const patientSchedules = generatePatientSchedule(patient, start, end);
+        allNewSchedules.push(...patientSchedules);
+    });
 
-        patientSchedules.forEach(newS => {
-            // 同一日の同一患者にすでにデータ（preservedにある「対応済」など）があれば、新規の 'scheduled' は追加しない
-            const exists = preserved.find(es => es.patientId === newS.patientId && es.date === newS.date);
-            if (!exists) {
-                preserved.push(newS);
-            }
-        });
+    // 3. 既存のスケジュール整理
+    // 「未対応(not_arrived)かつ別日に移動させていない(originalDate === date)」のに、
+    // 新しいルールの allNewSchedules に存在しないものは、条件変更によって不要になった昔の予定なので削除する。
+    preserved = preserved.filter(es => {
+        if (es.status === 'not_arrived' && es.originalDate === es.date) {
+            const stillExists = allNewSchedules.some(ns => ns.patientId === es.patientId && ns.originalDate === es.originalDate);
+            if (!stillExists) return false; // 新しいルールに存在しないものは消す
+        }
+        return true;
+    });
+
+    // 4. 新しいスケジュールの中から、まだ保存されていないものを追加
+    allNewSchedules.forEach(newS => {
+        const exists = preserved.find(es =>
+            es.patientId === newS.patientId &&
+            (es.originalDate || es.date) === newS.originalDate
+        );
+        if (!exists) {
+            preserved.push(newS);
+        }
     });
 
     return preserved.sort((a, b) => a.date.localeCompare(b.date));

@@ -9,7 +9,8 @@ import DaysCalc from '../../components/tools/DaysCalc';
 import { categories } from '../../data/mockData';
 import Header from '../../components/Header';
 import Footer from '../../components/Footer';
-import VisitManagement from '../../components/tools/VisitManagement';
+import VisitManagementWrapper from '../../components/tools/VisitManagementWrapper';
+import ZanyakuCalc from '../../components/tools/ZanyakuCalc';
 
 export function generateStaticParams() {
     const articles = getSortedArticlesData();
@@ -82,7 +83,7 @@ export default async function ArticlePage({ params, searchParams }) {
 
             <article className="container glass-panel" style={{ padding: '2rem' }}>
                 {/* Article Header */}
-                <header style={{ marginBottom: '2rem', borderBottom: '1px solid hsl(var(--secondary))', paddingBottom: '2rem' }}>
+                <header className="article-info-header" style={{ marginBottom: '2rem', borderBottom: '1px solid hsl(var(--secondary))', paddingBottom: '2rem' }}>
                     <div style={{
                         display: 'inline-block',
                         fontSize: '0.9rem',
@@ -111,10 +112,10 @@ export default async function ArticlePage({ params, searchParams }) {
                             下書き (Draft)
                         </span>
                     )}
-                    <h1 style={{ fontSize: '2rem', fontWeight: '800', lineHeight: '1.3', marginBottom: '1rem' }}>
+                    <h1 className="article-header-intro" style={{ fontSize: '2rem', fontWeight: '800', lineHeight: '1.3', marginBottom: '1rem' }}>
                         {articleData.title}
                     </h1>
-                    <p style={{ fontSize: '1.1rem', opacity: 0.8, marginBottom: '1.5rem' }}>
+                    <p className="article-header-intro" style={{ fontSize: '1.1rem', opacity: 0.8, marginBottom: '1.5rem' }}>
                         {articleData.summary}
                     </p>
                     <div style={{ display: 'flex', gap: '0.5rem', flexWrap: 'wrap' }}>
@@ -129,7 +130,7 @@ export default async function ArticlePage({ params, searchParams }) {
 
                 {/* Table of Contents */}
                 {articleData.toc && articleData.toc.length > 0 && (
-                    <div className="glass-panel" style={{
+                    <div className="glass-panel article-page-toc" style={{
                         margin: '0 0 3rem 0',
                         padding: '1.5rem',
                         background: 'hsl(var(--secondary) / 0.3)',
@@ -168,11 +169,12 @@ export default async function ArticlePage({ params, searchParams }) {
 
                 {/* Article Content */}
                 {id === 'days-calc' && <DaysCalc />}
-                {id === 'visit-management' && <VisitManagement />}
+                {id === 'visit-management' && <VisitManagementWrapper />}
+                {id === 'zanyaku-calc' && <ZanyakuCalc />}
                 <ArticleContent html={articleData.contentHtml} />
             </article>
             <div className="container" style={{ minHeight: '60px', display: 'flex', alignItems: 'center' }}>
-                <Link href="/" className="btn btn-primary" style={{ fontSize: '0.9rem', padding: '0.5rem 1rem' }}>
+                <Link href="/" className="btn btn-primary back-home-button" style={{ fontSize: '0.9rem', padding: '0.5rem 1rem' }}>
                     ← ホームに戻る
                 </Link>
             </div>

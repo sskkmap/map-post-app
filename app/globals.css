@@ -1,3 +1,5 @@
+@import "tailwindcss";
+
 :root {
   /* HSL Color Palette - Premium & Clean */
   --background: 210 20% 98%;
@@ -14,6 +16,9 @@
 
   --accent: 210 40% 96%;
   --accent-foreground: 222 47% 11%;
+
+  --destructive: 0 84.2% 60.2%;
+  --destructive-foreground: 210 40% 98%;
 
   --glass-bg: rgba(255, 255, 255, 0.7);
   --glass-border: rgba(255, 255, 255, 0.5);
@@ -37,6 +42,9 @@
 
     --accent: 217 19% 27%;
     --accent-foreground: 210 40% 98%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
 
     --glass-bg: rgba(30, 41, 59, 0.7);
     --glass-border: rgba(255, 255, 255, 0.1);
