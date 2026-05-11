@@ -22,6 +22,21 @@ export default async function HomePage() {
 
       <div className="container">
         <Profile />
+
+        <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '1.5rem' }}>
+          <span style={{
+            fontSize: '0.9rem',
+            color: 'hsl(var(--primary))',
+            background: 'hsl(var(--primary) / 0.1)',
+            padding: '0.3rem 1.2rem',
+            borderRadius: '2rem',
+            fontWeight: '600',
+            border: '1px solid hsl(var(--primary) / 0.2)'
+          }}>
+            全 {allArticles.length} 記事 公開中
+          </span>
+        </div>
+
         <div style={{ marginBottom: '2rem' }}>
           <SearchInput />
         </div>

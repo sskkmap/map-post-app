@@ -1,10 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     output: 'standalone',
+    outputFileTracingIncludes: {
+        '/articles/*': ['./public/data-articles/**/*'],
+    },
     experimental: {
-        outputFileTracingIncludes: {
-            '/articles/*': ['./public/data-articles/**/*'],
-        },
     },
     serverExternalPackages: ['remark', 'remark-gfm', 'remark-rehype', 'rehype-slug', 'rehype-stringify', 'gray-matter'],
 };

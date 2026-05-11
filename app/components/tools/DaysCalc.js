@@ -281,7 +281,7 @@ export default function DaysCalc() {
     return (
         <div className="glass-panel" style={{ padding: '2rem', marginTop: '2rem', marginBottom: '2rem' }}>
             <h2 style={{ marginTop: 0, color: 'hsl(var(--primary))', fontSize: '1.5rem', borderBottom: '2px solid hsl(var(--primary) / 0.1)', paddingBottom: '0.5rem', marginBottom: '1.5rem' }}>
-                🚩 処方日数計算ツール
+                🚩 その日まで何錠必要？錠剤数確認ツール
             </h2>
 
             {/* Mode Selector */}

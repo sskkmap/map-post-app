@@ -11,6 +11,17 @@ import Header from '../../components/Header';
 import Footer from '../../components/Footer';
 import VisitManagementWrapper from '../../components/tools/VisitManagementWrapper';
 import ZanyakuCalc from '../../components/tools/ZanyakuCalc';
+import NarcoticPumpCalc from '../../components/tools/NarcoticPumpCalc';
+import DaysCalculation from '../../components/tools/DaysCalculation';
+import RenalCalc from '../../components/tools/RenalCalc';
+import KampoSearch from '../../components/tools/KampoSearch';
+import BmiCalc from '../../components/tools/BmiCalc';
+import SteroidCalc from '../../components/tools/SteroidCalc';
+import PotassiumCalc from '../../components/tools/PotassiumCalc';
+import InsulinCalc from '../../components/tools/InsulinCalc';
+import CpCalc from '../../components/tools/CpCalc';
+import OpioidCalc from '../../components/tools/OpioidCalc';
+import MedicationHistorySupportTool from '../../components/tools/MedicationHistorySupportTool';
 
 export function generateStaticParams() {
     const articles = getSortedArticlesData();
@@ -30,7 +41,7 @@ export default async function ArticlePage({ params, searchParams }) {
     const isPublished = articleData.published;
 
     // Static generation doesn't support searchParams at build time
-    const preview = searchParams?.preview;
+    const preview = (await searchParams)?.preview;
     const isSecretPreview = preview === 'secret';
     const isDev = process.env.NODE_ENV === 'development';
 
@@ -167,10 +178,23 @@ export default async function ArticlePage({ params, searchParams }) {
                     </div>
                 )}
 
+                {/* Medication History Support Tool */}
+                {id === 'medication-history-support' && <MedicationHistorySupportTool />}
+
                 {/* Article Content */}
                 {id === 'days-calc' && <DaysCalc />}
                 {id === 'visit-management' && <VisitManagementWrapper />}
                 {id === 'zanyaku-calc' && <ZanyakuCalc />}
+                {id === 'narcotic-pump' && <NarcoticPumpCalc />}
+                {id === 'days-calculation' && <DaysCalculation />}
+                {id === 'renal-calc' && <RenalCalc />}
+                {id === 'kampo-search' && <KampoSearch />}
+                {id === 'bmi-calc' && <BmiCalc />}
+                {id === 'steroid-calc' && <SteroidCalc />}
+                {id === 'potassium-calc' && <PotassiumCalc />}
+                {id === 'insulin-calc' && <InsulinCalc />}
+                {id === 'cp-calc' && <CpCalc />}
+                {id === 'opioid-calc' && <OpioidCalc />}
                 <ArticleContent html={articleData.contentHtml} />
             </article>
             <div className="container" style={{ minHeight: '60px', display: 'flex', alignItems: 'center' }}>

@@ -80,7 +80,10 @@ export async function getArticleData(id) {
         const match = line.match(/^(#{2,3})\s+(.*)/);
         if (match) {
             const level = match[1].length;
-            const text = match[2].trim();
+            // Strip markdown link formatting from TOC text
+            let text = match[2].trim().replace(/\[([^\]]+)\]\([^)]+\)/g, '$1');
+            // Also strip any HTML tags if present
+            text = text.replace(/<[^>]*>?/gm, '');
             const id = slugger.slug(text);
             toc.push({ level, text, id });
         }
@@ -137,11 +140,13 @@ export async function getArticleData(id) {
                     // Strip all existing HTML tags from the content first to avoid splitting tags like <strong>
                     const textContent = tdContent.replace(/<[^>]*>/g, '');
 
-                    // Split content by separators (e.g., " / ", "／", "・")
-                    const parts = textContent.split(/(\s*[\/／]\s*)/);
+                    // Split content by separators (e.g., " / ", "／", "・", "(", ")", "（", "）")
+                    // Use a regex that captures the separators so we can preserve them if needed, 
+                    // or just filter them out for linking.
+                    const parts = textContent.split(/([\/／・（）\(\)])/);
                     const linkedParts = parts.map(part => {
                         // If it's a separator, keep it as is
-                        if (/^\s*[\/／]\s*$/.test(part)) return part;
+                        if (/^[\/／・（）\(\)]$/.test(part)) return part;
 
                         const text = part.trim();
                         if (text && text.length > 1) {

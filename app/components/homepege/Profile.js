@@ -33,7 +33,13 @@ export default function Profile() {
             <p style={{ color: 'hsl(var(--primary))', fontWeight: '600', marginBottom: '1rem' }}>
                 {profileData.role}
             </p>
-            <p style={{ maxWidth: '600px', margin: '0 auto', color: 'hsl(var(--foreground))', opacity: 0.8 }}>
+            <p style={{ 
+                maxWidth: '600px', 
+                margin: '0 auto', 
+                color: 'hsl(var(--foreground))', 
+                opacity: 0.8,
+                whiteSpace: 'pre-wrap'
+            }}>
                 {profileData.bio}
             </p>
         </section>
