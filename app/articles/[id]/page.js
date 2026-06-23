@@ -1,7 +1,7 @@
 export const dynamic = "force-dynamic";
 
 // ここで各記事をMDからHTMLへ変更
-import { getArticleData, getSortedArticlesData } from '../../lib/articles';
+import { getArticleData, getSortedArticlesData, getRelatedArticles, getAdjacentArticles } from '../../lib/articles';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import ArticleContent from '../../components/ArticleContent';
@@ -29,6 +29,44 @@ export function generateStaticParams() {
     return articles.map((article) => ({
         id: article.id,
     }));
+}
+
+export async function generateMetadata({ params }) {
+    const { id } = await params;
+    let articleData = null;
+    try {
+        articleData = await getArticleData(id);
+    } catch (e) {
+        // エラー時はデフォルト値を返す
+    }
+
+    if (!articleData) {
+        return {
+            title: '記事が見つかりません',
+        };
+    }
+
+    const title = articleData.title;
+    const description = articleData.summary || `${title}についての解説記事です。`;
+
+    return {
+        title: title,
+        description: description,
+        alternates: {
+            canonical: `/articles/${id}`,
+        },
+        openGraph: {
+            title: title,
+            description: description,
+            url: `/articles/${id}`,
+            type: 'article',
+        },
+        twitter: {
+            card: 'summary_large_image',
+            title: title,
+            description: description,
+        },
+    };
 }
 export default async function ArticlePage({ params, searchParams }) {
     const { id } = await params;
@@ -122,14 +160,75 @@ export default async function ArticlePage({ params, searchParams }) {
     // Since color is HSL string, we can hack it or just use it as border/text
     // Let's use it as border and text, and a light background
 
+    // JSON-LD data
+    const baseUrl = 'https://first-year-pharmacist-note.site';
+    const jsonLdBreadcrumb = {
+        '@context': 'https://schema.org',
+        '@type': 'BreadcrumbList',
+        itemListElement: [
+            {
+                '@type': 'ListItem',
+                position: 1,
+                name: 'ホーム',
+                item: baseUrl,
+            },
+            ...(articleData.category ? [{
+                '@type': 'ListItem',
+                position: 2,
+                name: articleData.category,
+                item: `${baseUrl}/?category=${encodeURIComponent(articleData.category)}`,
+            }] : []),
+            {
+                '@type': 'ListItem',
+                position: articleData.category ? 3 : 2,
+                name: articleData.title,
+                item: `${baseUrl}/articles/${id}`,
+            }
+        ]
+    };
+
+    const jsonLdArticle = {
+        '@context': 'https://schema.org',
+        '@type': 'Article',
+        headline: articleData.title,
+        description: articleData.summary || '',
+        datePublished: articleData.date ? new Date(articleData.date.replace(/\./g, '-')).toISOString() : new Date().toISOString(),
+        author: {
+            '@type': 'Organization',
+            name: 'Yakuzaishi Note'
+        }
+    };
+
     return (
         <main style={{
             minHeight: '100vh',
             background: 'radial-gradient(circle at top right, hsl(var(--primary) / 0.1), transparent 40%)',
             paddingBottom: '4rem'
         }}>
+            <script
+                type="application/ld+json"
+                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdBreadcrumb) }}
+            />
+            <script
+                type="application/ld+json"
+                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }}
+            />
+
             {/* Header / Nav */}
             <Header />
+
+            {/* Breadcrumbs UI */}
+            <div className="container" style={{ margin: '1rem auto', padding: '0 1rem', fontSize: '0.85rem', color: 'hsl(var(--secondary-foreground))' }}>
+                <Link href="/" style={{ color: 'inherit', textDecoration: 'none' }}>ホーム</Link>
+                <span style={{ margin: '0 0.5rem', opacity: 0.5 }}>{'>'}</span>
+                {articleData.category && (
+                    <>
+                        <Link href={`/?category=${encodeURIComponent(articleData.category)}`} style={{ color: 'inherit', textDecoration: 'none' }}>{articleData.category}</Link>
+                        <span style={{ margin: '0 0.5rem', opacity: 0.5 }}>{'>'}</span>
+                    </>
+                )}
+                <span style={{ color: 'hsl(var(--primary))', fontWeight: '500' }}>{articleData.title}</span>
+            </div>
 
             <article className="container glass-panel" style={{ padding: '1rem' }}>
                 {/* Article Header */}
@@ -237,8 +336,37 @@ export default async function ArticlePage({ params, searchParams }) {
                 <ArticleContent html={articleData.contentHtml} />
             </article>
 
-            <div className="container" style={{ marginTop: '2rem', marginBottom: '2rem' }}>
-                <RandomArticleLinks articles={allArticles} />
+            {/* 前後の記事リンク */}
+            <div className="container" style={{ marginTop: '3rem', marginBottom: '2rem' }}>
+                <div style={{ display: 'flex', justifyContent: 'space-between', gap: '1rem', flexWrap: 'wrap' }}>
+                    {getAdjacentArticles(id, allArticles).prev ? (
+                        <Link href={`/articles/${getAdjacentArticles(id, allArticles).prev.id}`} className="glass-panel" style={{ flex: 1, minWidth: '250px', padding: '1rem', background: 'rgba(255, 255, 255, 0.8)', borderRadius: '8px', border: '1px solid hsl(var(--secondary))', textDecoration: 'none', color: 'inherit', display: 'flex', flexDirection: 'column' }}>
+                            <span style={{ fontSize: '0.8rem', color: 'hsl(var(--primary))', marginBottom: '0.5rem' }}>← 前の記事</span>
+                            <span style={{ fontWeight: '600', fontSize: '0.95rem' }}>{getAdjacentArticles(id, allArticles).prev.title}</span>
+                        </Link>
+                    ) : <div style={{ flex: 1, minWidth: '250px' }}></div>}
+                    
+                    {getAdjacentArticles(id, allArticles).next ? (
+                        <Link href={`/articles/${getAdjacentArticles(id, allArticles).next.id}`} className="glass-panel" style={{ flex: 1, minWidth: '250px', padding: '1rem', background: 'rgba(255, 255, 255, 0.8)', borderRadius: '8px', border: '1px solid hsl(var(--secondary))', textDecoration: 'none', color: 'inherit', display: 'flex', flexDirection: 'column', alignItems: 'flex-end', textAlign: 'right' }}>
+                            <span style={{ fontSize: '0.8rem', color: 'hsl(var(--primary))', marginBottom: '0.5rem' }}>次の記事 →</span>
+                            <span style={{ fontWeight: '600', fontSize: '0.95rem' }}>{getAdjacentArticles(id, allArticles).next.title}</span>
+                        </Link>
+                    ) : <div style={{ flex: 1, minWidth: '250px' }}></div>}
+                </div>
+            </div>
+
+            {/* 関連記事 */}
+            <div className="container" style={{ marginBottom: '3rem' }}>
+                <h3 style={{ fontSize: '1.5rem', fontWeight: 'bold', marginBottom: '1.5rem', borderBottom: '2px solid hsl(var(--primary))', paddingBottom: '0.5rem', display: 'inline-block' }}>関連記事</h3>
+                <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '1.5rem' }}>
+                    {getRelatedArticles(articleData, allArticles, 6).map((article) => (
+                        <Link key={article.id} href={`/articles/${article.id}`} className="glass-panel" style={{ padding: '1.5rem', background: 'rgba(255, 255, 255, 0.8)', borderRadius: '12px', border: '1px solid hsl(var(--secondary))', textDecoration: 'none', color: 'inherit', display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
+                            <div style={{ fontSize: '0.8rem', color: 'hsl(var(--primary))' }}>{article.category}</div>
+                            <h4 style={{ fontSize: '1.1rem', fontWeight: 'bold', margin: 0, lineHeight: 1.4 }}>{article.title}</h4>
+                            <div style={{ fontSize: '0.85rem', opacity: 0.8, marginTop: 'auto', paddingTop: '0.5rem' }}>{article.date}</div>
+                        </Link>
+                    ))}
+                </div>
             </div>
 
             <div className="container" style={{ minHeight: '60px', display: 'flex', alignItems: 'center' }}>

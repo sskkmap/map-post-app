@@ -14,7 +14,7 @@ export default function AboutPage() {
             <div className="container" style={{ maxWidth: '800px' }}>
                 <div className="glass-panel" style={{ padding: '2rem' }}>
                     <h1 style={{ fontSize: '1.75rem', fontWeight: '800', marginBottom: '1.5rem', paddingBottom: '1rem', borderBottom: '1px solid hsl(var(--secondary))' }}>
-                        このサイトについて
+                        サイトについて
                     </h1>
 
                     <div className="article-content">

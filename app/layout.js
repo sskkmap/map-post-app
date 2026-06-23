@@ -10,8 +10,45 @@ const notoSansJP = Noto_Sans_JP({
 });
 
 export const metadata = {
-  title: "Yakuzaishi Note | 薬剤師向け処方箋ベース薬剤選択ガイド",
+  metadataBase: new URL('https://first-year-pharmacist-note.site'),
+  title: {
+    default: "Yakuzaishi Note | 薬剤師向け処方箋ベース薬剤選択ガイド",
+    template: "%s | Yakuzaishi Note"
+  },
   description: "処方箋情報から治療段階や処方意図を推測し、服薬指導に活かすための薬剤師向けブログ。",
+  openGraph: {
+    title: "Yakuzaishi Note | 薬剤師向け処方箋ベース薬剤選択ガイド",
+    description: "処方箋情報から治療段階や処方意図を推測し、服薬指導に活かすための薬剤師向けブログ。",
+    url: "https://first-year-pharmacist-note.site",
+    siteName: "Yakuzaishi Note",
+    locale: "ja_JP",
+    type: "website",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Yakuzaishi Note",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Yakuzaishi Note | 薬剤師向け処方箋ベース薬剤選択ガイド",
+    description: "処方箋情報から治療段階や処方意図を推測し、服薬指導に活かすための薬剤師向けブログ。",
+    images: ["/og-image.png"],
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
 };
 
 export default function RootLayout({ children }) {

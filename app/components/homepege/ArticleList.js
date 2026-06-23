@@ -14,7 +14,7 @@ export default function ArticleList({ articles, title = "最新記事", viewMore
                 )}
             </div>
 
-            <div className={`grid-auto-fit ${horizontalScroll ? 'mobile-horizontal-scroll' : 'grid-list-vertical'}`}>
+            <div className="grid-auto-fit grid-list-vertical">
                 {articles.map((article) => {
                     const categoryColor = categories.find(c => c.name === article.category)?.color || 'hsl(var(--secondary))';
                     const isDraft = article.published === false;
@@ -59,7 +59,7 @@ export default function ArticleList({ articles, title = "最新記事", viewMore
                                 </div>
 
                                 <div style={{ marginTop: 'auto' }}>
-                                    <div style={{ display: 'flex', gap: '0.5rem', flexWrap: 'wrap', marginBottom: '1rem' }}>
+                                    <div className="article-card-tags-container" style={{ display: 'flex', gap: '0.5rem', flexWrap: 'wrap', marginBottom: '1rem' }}>
                                         {article.tags?.map(tag => (
                                             <span key={tag} className="article-card-tag" style={{ fontSize: '0.8rem', color: 'hsl(var(--primary))' }}>#{tag}</span>
                                         ))}
@@ -72,7 +72,7 @@ export default function ArticleList({ articles, title = "最新記事", viewMore
                             </article>
                             {/* Draft Badge Overlay */}
                             {isDraft && (
-                                <div style={{
+                                <div className="article-draft-badge" style={{
                                     position: 'absolute',
                                     top: '1rem',
                                     right: '1rem',

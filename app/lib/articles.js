@@ -9,6 +9,7 @@ import remarkRehype from 'remark-rehype';
 import rehypeSlug from 'rehype-slug';
 import rehypeStringify from 'rehype-stringify';
 import GithubSlugger from 'github-slugger';
+import { autoLinkKeywords } from './keywordIndex.js';
 
 let articlesDirectory = path.join(process.cwd(), 'data-articles');
 
@@ -61,8 +62,11 @@ export function getSortedArticlesData() {
         };
     });
 
+    const isDev = process.env.NODE_ENV === 'development';
+    const filteredArticles = allArticlesData.filter(article => isDev || article.published !== false);
+
     // Sort posts by date
-    return allArticlesData.sort((a, b) => {
+    return filteredArticles.sort((a, b) => {
         const dateA = (a.date || '').replace(/\./g, '-');
         const dateB = (b.date || '').replace(/\./g, '-');
         
@@ -148,7 +152,7 @@ export async function getArticleData(id) {
 
             const drugColumnIndices = headerMatch.reduce((acc, th, index) => {
                 const text = th.replace(/<[^>]*>/g, '').trim();
-                if (/医薬品名|一般名|薬剤名|商品名/.test(text)) {
+                if (/医薬品名|一般名|薬剤名|商品名|成分名|代表的な薬/.test(text)) {
                     acc.push(index);
                 }
                 return acc;
@@ -204,6 +208,10 @@ export async function getArticleData(id) {
 
             return `<div class="table-wrapper">${processedTable}</div>`;
         });
+
+        // 3. キーワードの自動リンク化処理（案A）
+        // id（現在のスラッグ）を渡して、自ページへのリンクを回避する
+        contentHtml = autoLinkKeywords(contentHtml, id);
 
         // Combine the data with the id and contentHtml
         return {
@@ -274,4 +282,60 @@ export function getArticlesForSearch(query) {
 
         return titleMatch || summaryMatch || contentMatch;
     });
+}
+
+export function getRelatedArticles(currentArticle, allArticles, limit = 5) {
+    if (!currentArticle) return [];
+
+    const related = allArticles
+        .filter(a => a.id !== currentArticle.id) // 現在の記事を除外
+        .map(a => {
+            let score = 0;
+            // カテゴリが同じならスコアを加算
+            if (a.category && currentArticle.category && a.category === currentArticle.category) {
+                score += 2;
+            }
+            // タグの共通数をカウント
+            if (a.tags && currentArticle.tags) {
+                const commonTags = a.tags.filter(tag => currentArticle.tags.includes(tag));
+                score += commonTags.length * 3; // タグの共通は重み付けを大きく
+            }
+            return { ...a, score };
+        })
+        .filter(a => a.score > 0) // 関連性があるものだけ残す
+        .sort((a, b) => b.score - a.score || new Date(b.date).getTime() - new Date(a.date).getTime()) // スコア順、同点なら新しい順
+        .slice(0, limit);
+
+    // 関連記事が足りない場合は、同じカテゴリから補充、それでも足りなければ最新記事から補充
+    if (related.length < limit) {
+        const excludeIds = [currentArticle.id, ...related.map(r => r.id)];
+        const categoryFillers = allArticles
+            .filter(a => a.category === currentArticle.category && !excludeIds.includes(a.id))
+            .slice(0, limit - related.length);
+        
+        related.push(...categoryFillers);
+        
+        if (related.length < limit) {
+            const newExcludeIds = [currentArticle.id, ...related.map(r => r.id)];
+            const recentFillers = allArticles
+                .filter(a => !newExcludeIds.includes(a.id))
+                .slice(0, limit - related.length);
+            related.push(...recentFillers);
+        }
+    }
+
+    return related;
+}
+
+export function getAdjacentArticles(currentId, allArticles) {
+    const index = allArticles.findIndex(a => a.id === currentId);
+    if (index === -1) return { prev: null, next: null };
+
+    // allArticlesは日付の新しい順（降順）にソートされている
+    // 次の記事（時間的に新しい）= index - 1
+    // 前の記事（時間的に古い）= index + 1
+    const next = index > 0 ? allArticles[index - 1] : null;
+    const prev = index < allArticles.length - 1 ? allArticles[index + 1] : null;
+
+    return { prev, next };
 }

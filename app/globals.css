@@ -469,8 +469,20 @@ a {
     margin-bottom: 0.75rem !important;
   }
 
+  .grid-list-vertical .article-card-tags-container {
+    gap: 0.2rem !important;
+    margin-bottom: 0.5rem !important;
+  }
+
   .grid-list-vertical .article-card-tag {
-    font-size: 0.7rem !important;
+    font-size: 0.55rem !important;
+  }
+
+  .grid-list-vertical .article-draft-badge {
+    font-size: 0.55rem !important;
+    padding: 0.15rem 0.3rem !important;
+    top: 0.4rem !important;
+    right: 0.4rem !important;
   }
 
   .grid-list-vertical .article-card-footer {
