@@ -214,8 +214,6 @@ export const keywordIndex = {
     "SRS": "what-is-srs-evaluation-scale",
     "TPA": "what-is-tpa-tumor-marker",
     "RF": "rheumatoid-factor",
-    "カロナール": "acetaminophen-nsaids-explanation",
-    "アセトアミノフェン": "acetaminophen-nsaids-explanation",
     "アルコール消毒": "alcohol-disinfection-concentration",
     "エタノール消毒": "alcohol-disinfection-concentration",
     "次亜塩素酸ナトリウム": "alcohol-disinfection-concentration",
