@@ -68,7 +68,7 @@ function isScheduledDay(patient, date, baseDate) {
     }
 
     // --- 特定の一つの週指定 (互換性用) ---
-    if (patient.weekNumber && patient.weekNumber !== 'every') {
+    if (patient.weekNumber && patient.weekNumber !== 'every' && patient.weekNumber !== 'interval') {
         const weekNum = Math.ceil(date.getDate() / 7);
         if (weekNum === parseInt(patient.weekNumber)) {
             return true;

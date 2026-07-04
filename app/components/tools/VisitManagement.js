@@ -45,6 +45,8 @@ export default function VisitManagement({ onLoginStateChange }) {
     // 曜日・週選択状態（React状態で管理して視覚フィードバック）
     const [selectedDayOfWeek, setSelectedDayOfWeek] = useState(1);
     const [selectedWeeks, setSelectedWeeks] = useState([]);
+    const [scheduleMode, setScheduleMode] = useState('monthly_week'); // 'monthly_week' | 'interval'
+    const [intervalWeeks, setIntervalWeeks] = useState(2);
     // 別日対応ステート
     const [rescheduleScheduleId, setRescheduleScheduleId] = useState(null);
     const [rescheduleDate, setRescheduleDate] = useState('');
@@ -63,7 +65,15 @@ export default function VisitManagement({ onLoginStateChange }) {
         if (isEditModalOpen && editingPatient) {
             setModalInputName(editingPatient.name || '');
             setSelectedDayOfWeek(editingPatient.dayOfWeek ?? 1);
-            setSelectedWeeks(editingPatient.weekNumbers ?? []);
+            if (editingPatient.intervalWeeks > 1 || editingPatient.weekNumber === 'interval') {
+                setScheduleMode('interval');
+                setIntervalWeeks(editingPatient.intervalWeeks || 2);
+                setSelectedWeeks([]);
+            } else {
+                setScheduleMode('monthly_week');
+                setIntervalWeeks(2);
+                setSelectedWeeks(editingPatient.weekNumbers ?? []);
+            }
         }
     }, [isEditModalOpen, editingPatient?.id]);
 
@@ -71,56 +81,89 @@ export default function VisitManagement({ onLoginStateChange }) {
 
     const handleExport = async () => {
         try {
-            const XLSX = await import('xlsx');
-            const wb = XLSX.utils.book_new();
+            const ExcelJS = await import('exceljs');
+            const wb = new ExcelJS.Workbook();
+            try {
+                // テンプレートファイルをフェッチ
+                const res = await fetch('/visit_management_data_2026-07-04.xlsx');
+                if (res.ok) {
+                    const ab = await res.arrayBuffer();
+                    await wb.xlsx.load(ab);
+                } else {
+                    throw new Error('Template not found');
+                }
+            } catch (err) {
+                console.error('Failed to load template:', err);
+                alert('テンプレートファイルの読み込みに失敗しました。');
+                return;
+            }
 
             const daysMap = ['日', '月', '火', '水', '木', '金', '土'];
             const statusMap = { 'active': '稼働中', 'paused': '一時停止', 'ended': '終了' };
             const calcMap = { 'exact': 'きっかり当日', 'near_day': '近接曜日合わせ' };
 
-            const applyValidation = (ws, range, validations) => {
-                // xlsx package open source version doesn't fully support data validation creation easily
-                // So we format the headers to be descriptive, and use a standard format for data
+            const fillSheet = (sheetName, data) => {
+                const ws = wb.getWorksheet(sheetName);
+                if (!ws) return;
+                
+                // 既存のデータをクリア (ヘッダー1行目以外)
+                ws.eachRow((row, rowNumber) => {
+                    if (rowNumber > 1) {
+                        row.eachCell((cell) => {
+                            cell.value = null;
+                        });
+                    }
+                });
+
+                // 新しいデータを書き込み
+                data.forEach((dataRow, i) => {
+                    const rowNumber = i + 2;
+                    const row = ws.getRow(rowNumber);
+                    dataRow.forEach((cellValue, j) => {
+                        const colNumber = j + 1;
+                        const cell = row.getCell(colNumber);
+                        cell.value = cellValue;
+                    });
+                    row.commit();
+                });
+
+                // exceljsのバグで別シート参照(=リスト!$A:$A)の入力規則が読み込み時に消失するため、F列に再設定する
+                if (sheetName === '定期患者' || sheetName === 'タスク') {
+                    ws.dataValidations.add('F2:F1000', {
+                        type: 'list',
+                        allowBlank: true,
+                        showErrorMessage: true,
+                        formulae: ['リスト!$A:$A']
+                    });
+                }
             };
 
             // 1. 定期患者 (periodic)
-            const periodicHeaders = ['ID(自動・変更不可)', '患者氏名', '備考', '計算基準日(YYYY-MM-DD)', '訪問曜日(月/火/水...)', '訪問週(カンマ区切り1,2,3,4)', 'ステータス(稼働中/一時停止/終了)'];
             const periodicData = appData.patients.filter(p => !p.deleted && p.type === 'periodic').map(p => [
-                p.id, p.name, p.memo || '', p.startBaseDate || '', p.dayOfWeek !== undefined ? daysMap[p.dayOfWeek] : '', p.weekNumbers?.join(',') || p.weekNumber || '', statusMap[p.status] || '稼働中'
+                p.id, p.name, p.memo || '', p.startBaseDate || '', p.dayOfWeek !== undefined ? daysMap[p.dayOfWeek] : '', (p.intervalWeeks > 1 || p.weekNumber === 'interval') ? `${p.intervalWeeks || 2}週間毎` : (p.weekNumbers?.join(',') || p.weekNumber || ''), statusMap[p.status] || '稼働中'
             ]);
-            // 空の行をいくつか足してテンプレートとして使いやすくする
-            if (periodicData.length === 0) {
-                periodicData.push(['', '', '', new Date().toISOString().split('T')[0], '月', '1,3', '稼働中']);
-            }
-            const wsPeriodic = XLSX.utils.aoa_to_sheet([periodicHeaders, ...periodicData]);
-            wsPeriodic['!cols'] = [{ wch: 36 }, { wch: 20 }, { wch: 30 }, { wch: 20 }, { wch: 20 }, { wch: 25 }, { wch: 25 }];
-            XLSX.utils.book_append_sheet(wb, wsPeriodic, '定期患者');
+            fillSheet('定期患者', periodicData);
 
             // 2. 単発患者 (single)
-            const singleHeaders = ['ID(自動・変更不可)', '患者氏名', '備考', '今回処方日(YYYY-MM-DD)', '処方日数', '計算モード(きっかり当日/近接曜日合わせ)', 'ステータス(稼働中/一時停止/終了)'];
             const singleData = appData.patients.filter(p => !p.deleted && p.type === 'single').map(p => [
                 p.id, p.name, p.memo || '', p.singleBaseDate || '', p.prescriptionDays || '', calcMap[p.calcMode] || 'きっかり当日', statusMap[p.status] || '稼働中'
             ]);
-            if (singleData.length === 0) {
-                singleData.push(['', '', '', new Date().toISOString().split('T')[0], '28', 'きっかり当日', '稼働中']);
-            }
-            const wsSingle = XLSX.utils.aoa_to_sheet([singleHeaders, ...singleData]);
-            wsSingle['!cols'] = [{ wch: 36 }, { wch: 20 }, { wch: 30 }, { wch: 20 }, { wch: 10 }, { wch: 35 }, { wch: 25 }];
-            XLSX.utils.book_append_sheet(wb, wsSingle, '単発患者');
+            fillSheet('単発患者', singleData);
 
             // 3. タスク (task)
-            const taskHeaders = ['ID(自動・変更不可)', 'タスク名', '備考', '計算基準日(YYYY-MM-DD)', '発生曜日(月/火/水...)', '発生週(カンマ区切り1,2,3,4)', 'ステータス(稼働中/一時停止/終了)'];
             const taskData = appData.patients.filter(p => !p.deleted && p.type === 'task').map(p => [
-                p.id, p.name, p.memo || '', p.startBaseDate || '', p.dayOfWeek !== undefined ? daysMap[p.dayOfWeek] : '', p.weekNumbers?.join(',') || p.weekNumber || '', statusMap[p.status] || '稼働中'
+                p.id, p.name, p.memo || '', p.startBaseDate || '', p.dayOfWeek !== undefined ? daysMap[p.dayOfWeek] : '', (p.intervalWeeks > 1 || p.weekNumber === 'interval') ? `${p.intervalWeeks || 2}週間毎` : (p.weekNumbers?.join(',') || p.weekNumber || ''), statusMap[p.status] || '稼働中'
             ]);
-            if (taskData.length === 0) {
-                taskData.push(['', '', '', new Date().toISOString().split('T')[0], '水', '1,2,3,4', '稼働中']);
-            }
-            const wsTask = XLSX.utils.aoa_to_sheet([taskHeaders, ...taskData]);
-            wsTask['!cols'] = [{ wch: 36 }, { wch: 20 }, { wch: 30 }, { wch: 20 }, { wch: 20 }, { wch: 25 }, { wch: 25 }];
-            XLSX.utils.book_append_sheet(wb, wsTask, 'タスク');
+            fillSheet('タスク', taskData);
 
-            XLSX.writeFile(wb, `visit_management_data_${new Date().toISOString().split('T')[0]}.xlsx`);
+            const buffer = await wb.xlsx.writeBuffer();
+            const blob = new Blob([buffer], { type: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet' });
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `visit_management_data_${new Date().toISOString().split('T')[0]}.xlsx`;
+            a.click();
+            window.URL.revokeObjectURL(url);
         } catch (e) {
             console.error('Export Error:', e);
             alert('出力に失敗しました');
@@ -158,11 +201,21 @@ export default function VisitManagement({ onLoginStateChange }) {
                     return dayObj[str] !== undefined ? dayObj[str] : (parseInt(str, 10) || 0);
                 };
 
-                const parseWeekNumbers = (val) => {
-                    if (!val) return [1];
-                    const str = String(val).replace(/第/g, '').replace(/週/g, '').trim();
+                const parseWeekOrInterval = (val) => {
+                    if (!val) return { weekNumbers: [1], intervalWeeks: 1, weekNumber: '1' };
+                    const rawStr = String(val).trim();
+                    
+                    const intervalMatch = rawStr.match(/([0-9０-９]+)\s*週(?:間)?毎/);
+                    if (intervalMatch) {
+                        const numStr = intervalMatch[1].replace(/[０-９]/g, (s) => String.fromCharCode(s.charCodeAt(0) - 0xFEE0));
+                        const interval = parseInt(numStr, 10) || 1;
+                        return { weekNumbers: [], intervalWeeks: interval, weekNumber: 'interval' };
+                    }
+
+                    const str = rawStr.replace(/第/g, '').replace(/週/g, '').trim();
                     const nums = str.split(/[、,]/).map(n => parseInt(n, 10)).filter(n => !isNaN(n));
-                    return nums.length > 0 ? nums : [1];
+                    const wNums = nums.length > 0 ? nums : [1];
+                    return { weekNumbers: wNums, intervalWeeks: 1, weekNumber: wNums[0].toString() };
                 };
 
                 const parseStatus = (val) => {
@@ -205,15 +258,15 @@ export default function VisitManagement({ onLoginStateChange }) {
                 };
 
                 processSheet('定期患者', 'periodic', (row) => {
-                    const weeks = parseWeekNumbers(row[5]);
+                    const parsedWeekInfo = parseWeekOrInterval(row[5]);
                     return {
                         name: String(row[1] || ''),
                         memo: String(row[2] || ''),
                         startBaseDate: parseExcelDate(row[3]),
                         dayOfWeek: parseDayOfWeek(row[4]),
-                        weekNumbers: weeks,
-                        weekNumber: weeks[0]?.toString() || '1',
-                        intervalWeeks: 1,
+                        weekNumbers: parsedWeekInfo.weekNumbers,
+                        weekNumber: parsedWeekInfo.weekNumber,
+                        intervalWeeks: parsedWeekInfo.intervalWeeks,
                         status: parseStatus(row[6])
                     };
                 });
@@ -243,15 +296,15 @@ export default function VisitManagement({ onLoginStateChange }) {
                 });
 
                 processSheet('タスク', 'task', (row) => {
-                    const weeks = parseWeekNumbers(row[5]);
+                    const parsedWeekInfo = parseWeekOrInterval(row[5]);
                     return {
                         name: String(row[1] || ''),
                         memo: String(row[2] || ''),
                         startBaseDate: parseExcelDate(row[3]),
                         dayOfWeek: parseDayOfWeek(row[4]),
-                        weekNumbers: weeks,
-                        weekNumber: weeks[0]?.toString() || '1',
-                        intervalWeeks: 1,
+                        weekNumbers: parsedWeekInfo.weekNumbers,
+                        weekNumber: parsedWeekInfo.weekNumber,
+                        intervalWeeks: parsedWeekInfo.intervalWeeks,
                         status: parseStatus(row[6])
                     };
                 });
@@ -307,6 +360,12 @@ export default function VisitManagement({ onLoginStateChange }) {
 
     // --- 補助: データの保存 ---
     const commitData = async (newData) => {
+        // 履歴（ログ）が溜まりすぎて重くなるのを防ぐため、最新の500件のみを保持する
+        const MAX_LOGS = 500;
+        if (newData.logs && newData.logs.length > MAX_LOGS) {
+            newData.logs = newData.logs.slice(-MAX_LOGS);
+        }
+
         setAppData(newData);
         const stored = await getData('encrypted_package');
         if (stored && encryptionKey) {
@@ -432,14 +491,15 @@ export default function VisitManagement({ onLoginStateChange }) {
         };
 
         if (type === 'periodic' || type === 'task') {
-            const weekNumbers = selectedWeeks.length > 0 ? [...selectedWeeks] : [];
+            const isInterval = scheduleMode === 'interval';
+            const weekNumbers = isInterval ? [] : (selectedWeeks.length > 0 ? [...selectedWeeks] : []);
             patient = {
                 ...patient,
                 dayOfWeek: selectedDayOfWeek,
                 weekNumbers: weekNumbers,
                 // 下位互換性のためのweekNumber (最初の1つ)
-                weekNumber: weekNumbers[0] || 'every',
-                intervalWeeks: 1, // 第N週指定がある場合は1で固定し、スケジュールロジック側に任せる
+                weekNumber: isInterval ? 'interval' : (weekNumbers[0] || 'every'),
+                intervalWeeks: isInterval ? intervalWeeks : 1, // 第N週指定がある場合は1で固定し、スケジュールロジック側に任せる
                 startBaseDate: fd.get('startBaseDate')
             };
 
@@ -1145,30 +1205,35 @@ export default function VisitManagement({ onLoginStateChange }) {
                                     <p>エクセルファイルを使って、患者さんやタスクを一覧で確認したり、一気に新しく登録したりできます。</p>
                                     <div className="bg-primary/5 p-3 rounded-xl border border-primary/10">
                                         <ol className="list-decimal list-inside space-y-1">
-                                            <li><span className="font-bold">「テンプレートを出力」</span>を押してエクセルをダウンロード</li>
+                                            <li><span className="font-bold">「テンプレートをダウンロード」</span>を押して空のエクセルを取得するか、<span className="font-bold">「現在のデータを出力」</span>で登録済みデータを出力します</li>
                                             <li>ダウンロードしたエクセルを開き、患者さんの名前や曜日を入力して保存<br />
                                                 <span className="text-[10px] text-destructive ml-4">※「ID」の列はそのままにして、新しい人はIDを空欄にしてください</span>
                                             </li>
-                                            <li><span className="font-bold">「完成したデータを読込」</span>を押して、保存したエクセルを選ぶ</li>
+                                            <li><span className="font-bold">「データ取込」</span>を押して、保存したエクセルを選ぶ</li>
                                         </ol>
-                                        <p className="text-[10px] mt-2 opacity-60 ml-4">※ 曜日は「月」、ステータスは「稼働中」など日本語で入力できます。</p>
+                                        <p className="text-[10px] mt-2 opacity-60 ml-4">※ 曜日は「月」、週は「1,3」や「2週間毎」などと入力できます。</p>
                                     </div>
                                 </div>
-                                <div className="flex gap-2 w-full mt-auto pt-2">
-                                    <button onClick={handleExport} className="flex-1 py-3 bg-primary border border-primary/20 rounded-2xl font-bold shadow-lg shadow-primary/20 hover:scale-[1.02] active:scale-95 transition-all text-sm flex items-center justify-center gap-2">
-                                        <span>📤</span> データ出力
-                                    </button>
-                                    <div className="flex-1 relative">
-                                        <button onClick={() => fileInputRef.current?.click()} className="w-full py-3 bg-secondary text-primary rounded-2xl font-bold border border-primary/20 hover:scale-[1.02] active:scale-95 transition-all text-sm flex items-center justify-center gap-2">
-                                            <span>📥</span> データ取込
+                                <div className="flex flex-col gap-3 w-full mt-auto pt-2">
+                                    <a href="/visit_management_data_2026-07-04.xlsx" download className="w-full py-3 bg-green-600 text-white border border-green-700/50 rounded-2xl font-bold shadow-lg shadow-green-600/20 hover:scale-[1.02] active:scale-95 transition-all text-sm flex items-center justify-center gap-2">
+                                        <span>📄</span> テンプレートをダウンロード
+                                    </a>
+                                    <div className="flex gap-2 w-full">
+                                        <button onClick={handleExport} className="flex-1 py-3 bg-primary border border-primary/20 rounded-2xl font-bold shadow-lg shadow-primary/20 hover:scale-[1.02] active:scale-95 transition-all text-sm flex items-center justify-center gap-2">
+                                            <span>📤</span> 現在のデータを出力
                                         </button>
-                                        <input
-                                            type="file"
-                                            accept=".xlsx"
-                                            className="hidden"
-                                            ref={fileInputRef}
-                                            onChange={handleImport}
-                                        />
+                                        <div className="flex-1 relative">
+                                            <button onClick={() => fileInputRef.current?.click()} className="w-full py-3 bg-secondary text-primary rounded-2xl font-bold border border-primary/20 hover:scale-[1.02] active:scale-95 transition-all text-sm flex items-center justify-center gap-2">
+                                                <span>📥</span> データ取込
+                                            </button>
+                                            <input
+                                                type="file"
+                                                accept=".xlsx"
+                                                className="hidden"
+                                                ref={fileInputRef}
+                                                onChange={handleImport}
+                                            />
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -1299,36 +1364,55 @@ export default function VisitManagement({ onLoginStateChange }) {
                                                     {/* 訪問週 */}
                                                     <div>
                                                         <div style={{ fontSize: '0.7rem', fontWeight: 900, color: accentColor, marginBottom: '0.35rem', display: 'flex', alignItems: 'center', gap: '0.3rem' }}>
-                                                            🔢 {isTask ? 'タスク発生週' : '訪問週'}
+                                                            🔢 {isTask ? 'タスク発生の頻度' : '訪問の頻度'}
                                                         </div>
-                                                        <div style={{ display: 'flex', gap: '0.35rem' }}>
-                                                            {[
-                                                                { val: 1, label: '第1週' }, { val: 2, label: '第2週' },
-                                                                { val: 3, label: '第3週' }, { val: 4, label: '第4週' }
-                                                            ].map(w => {
-                                                                const isChecked = selectedWeeks.includes(w.val);
-                                                                return (
-                                                                    <React.Fragment key={w.val}>
-                                                                        {isChecked && <input type="hidden" name="weekNumbers" value={w.val} />}
-                                                                        <button type="button"
-                                                                            onClick={() => setSelectedWeeks(prev =>
-                                                                                prev.includes(w.val) ? prev.filter(v => v !== w.val) : [...prev, w.val]
-                                                                            )}
-                                                                            style={{
-                                                                                flex: 1, padding: '0.4rem 0', textAlign: 'center',
-                                                                                borderRadius: '0.4rem', fontSize: '0.75rem', fontWeight: 900,
-                                                                                cursor: 'pointer', border: 'none', transition: 'all 0.15s',
-                                                                                background: isChecked ? accentColor : 'rgba(0,0,0,0.05)',
-                                                                                color: isChecked ? 'white' : '#334155',
-                                                                                boxShadow: isChecked ? `0 2px 8px ${accentColor}60` : 'none',
-                                                                                transform: isChecked ? 'scale(1.05)' : 'scale(1)',
-                                                                            }}>
-                                                                            {w.label}
-                                                                        </button>
-                                                                    </React.Fragment>
-                                                                );
-                                                            })}
+                                                        <div style={{ display: 'flex', gap: '0.5rem', marginBottom: '0.75rem', padding: '0.25rem', background: 'rgba(0,0,0,0.05)', borderRadius: '0.75rem' }}>
+                                                            <button type="button" onClick={() => setScheduleMode('monthly_week')}
+                                                                style={{ flex: 1, padding: '0.4rem', borderRadius: '0.5rem', fontSize: '0.75rem', fontWeight: 900, border: 'none', cursor: 'pointer', transition: 'all 0.2s', background: scheduleMode === 'monthly_week' ? accentColor : 'transparent', color: scheduleMode === 'monthly_week' ? 'white' : 'inherit', opacity: scheduleMode === 'monthly_week' ? 1 : 0.4 }}>
+                                                                月ごとの週指定
+                                                            </button>
+                                                            <button type="button" onClick={() => setScheduleMode('interval')}
+                                                                style={{ flex: 1, padding: '0.4rem', borderRadius: '0.5rem', fontSize: '0.75rem', fontWeight: 900, border: 'none', cursor: 'pointer', transition: 'all 0.2s', background: scheduleMode === 'interval' ? accentColor : 'transparent', color: scheduleMode === 'interval' ? 'white' : 'inherit', opacity: scheduleMode === 'interval' ? 1 : 0.4 }}>
+                                                                〇週間ごと指定
+                                                            </button>
                                                         </div>
+
+                                                        {scheduleMode === 'monthly_week' ? (
+                                                            <div style={{ display: 'flex', gap: '0.35rem' }}>
+                                                                {[
+                                                                    { val: 1, label: '第1週' }, { val: 2, label: '第2週' },
+                                                                    { val: 3, label: '第3週' }, { val: 4, label: '第4週' }
+                                                                ].map(w => {
+                                                                    const isChecked = selectedWeeks.includes(w.val);
+                                                                    return (
+                                                                        <React.Fragment key={w.val}>
+                                                                            {isChecked && <input type="hidden" name="weekNumbers" value={w.val} />}
+                                                                            <button type="button"
+                                                                                onClick={() => setSelectedWeeks(prev =>
+                                                                                    prev.includes(w.val) ? prev.filter(v => v !== w.val) : [...prev, w.val]
+                                                                                )}
+                                                                                style={{
+                                                                                    flex: 1, padding: '0.4rem 0', textAlign: 'center',
+                                                                                    borderRadius: '0.4rem', fontSize: '0.75rem', fontWeight: 900,
+                                                                                    cursor: 'pointer', border: 'none', transition: 'all 0.15s',
+                                                                                    background: isChecked ? accentColor : 'rgba(0,0,0,0.05)',
+                                                                                    color: isChecked ? 'white' : '#334155',
+                                                                                    boxShadow: isChecked ? `0 2px 8px ${accentColor}60` : 'none',
+                                                                                    transform: isChecked ? 'scale(1.05)' : 'scale(1)',
+                                                                                }}>
+                                                                                {w.label}
+                                                                            </button>
+                                                                        </React.Fragment>
+                                                                    );
+                                                                })}
+                                                            </div>
+                                                        ) : (
+                                                            <div className="flex items-center gap-4">
+                                                                <input type="number" value={intervalWeeks} onChange={(e) => setIntervalWeeks(parseInt(e.target.value) || 1)} min="1" max="30"
+                                                                    style={{ flex: 1, padding: '0.75rem', borderRadius: '0.5rem', background: 'hsl(var(--background))', border: `1px solid ${accentColor}`, outline: 'none', fontSize: '1.25rem', fontWeight: 900, textAlign: 'center', color: accentColor }} />
+                                                                <span className="text-sm font-black opacity-60">週間ごとに{isTask ? '発生' : '訪問'}</span>
+                                                            </div>
+                                                        )}
                                                     </div>
                                                 </div>
                                             </div>
