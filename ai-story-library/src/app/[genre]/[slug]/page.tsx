@@ -183,7 +183,7 @@ export default async function ArticlePage({ params }: Props) {
         </div>
 
         <div className="mt-12 flex justify-end border-t border-white/10 pt-8">
-          <ShareButtons title={article.title} description={article.description} />
+          <ShareButtons title={article.title} />
         </div>
       </article>
 
