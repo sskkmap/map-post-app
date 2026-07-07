@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "source": ".",
+    "source": "ai-story-library",
     "ignore": [
       "firebase.json",
       "**/.*",

@@ -1,0 +1,142 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme inline {
+  --color-background: var(--bg-color);
+  --color-foreground: var(--fg-color);
+  --color-accent: var(--accent-color);
+  --color-white: var(--theme-white);
+  --color-black: var(--theme-black);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+:root {
+  /* Default (portal/mystery) - Dark Mode */
+  --bg-color: #050505;
+  --fg-color: #eaeaea;
+  --accent-color: #00ff66;
+  --theme-white: #ffffff;
+  --theme-black: #000000;
+  --bg-gradient: radial-gradient(circle at 50% 0%, rgba(20, 20, 20, 1) 0%, rgba(5, 5, 5, 1) 100%);
+  --glass-bg: rgba(20, 20, 20, 0.6);
+  --glass-border: rgba(255, 255, 255, 0.08);
+  --prose-invert: 1; /* Dark mode typography */
+}
+
+/* ミステリー：より深く暗いアングラな雰囲気 */
+:root[data-theme="mystery"] {
+  --bg-color: #030303;
+  --fg-color: #e5e5e5;
+  --accent-color: #00ff66;
+  --theme-white: #ffffff;
+  --theme-black: #000000;
+  --bg-gradient: radial-gradient(circle at 50% 0%, rgba(10, 25, 15, 0.5) 0%, rgba(0, 0, 0, 1) 100%);
+  --glass-bg: rgba(10, 10, 10, 0.7);
+  --glass-border: rgba(0, 255, 102, 0.15);
+}
+
+/* 旅行：青空のような爽やかなライトモード */
+:root[data-theme="trip"] {
+  --bg-color: #f0f8ff;
+  --fg-color: #1a202c;
+  --accent-color: #3b82f6; /* blue-500 */
+  --theme-white: #0a0a0a; /* 白と黒を反転 */
+  --theme-black: #ffffff;
+  --bg-gradient: linear-gradient(135deg, #e0f2fe 0%, #bae6fd 100%);
+  --glass-bg: rgba(255, 255, 255, 0.6);
+  --glass-border: rgba(59, 130, 246, 0.2);
+}
+
+/* スマイル：ポップで温かみのあるライトモード */
+:root[data-theme="smile"] {
+  --bg-color: #fffbeb;
+  --fg-color: #451a03;
+  --accent-color: #f59e0b; /* amber-500 */
+  --theme-white: #1a1a1a;
+  --theme-black: #ffffff;
+  --bg-gradient: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+  --glass-bg: rgba(255, 255, 255, 0.7);
+  --glass-border: rgba(245, 158, 11, 0.2);
+}
+
+/* 感動：優しく温かいライトモード */
+:root[data-theme="emotion"] {
+  --bg-color: #fdf2f8; /* pink-50 */
+  --fg-color: #831843; /* pink-900 */
+  --accent-color: #ec4899; /* pink-500 */
+  --theme-white: #2d0615;
+  --theme-black: #ffffff;
+  --bg-gradient: linear-gradient(135deg, #fce7f3 0%, #fbcfe8 100%);
+  --glass-bg: rgba(255, 255, 255, 0.6);
+  --glass-border: rgba(236, 72, 153, 0.2);
+}
+
+/* 人生・仕事：落ち着いた爽やかなライトモード */
+:root[data-theme="life"] {
+  --bg-color: #ecfdf5; /* emerald-50 */
+  --fg-color: #064e3b; /* emerald-900 */
+  --accent-color: #10b981; /* emerald-500 */
+  --theme-white: #022c22;
+  --theme-black: #ffffff;
+  --bg-gradient: linear-gradient(135deg, #d1fae5 0%, #a7f3d0 100%);
+  --glass-bg: rgba(255, 255, 255, 0.6);
+  --glass-border: rgba(16, 185, 129, 0.2);
+}
+
+/* 雑学・歴史：知的なライトモード */
+:root[data-theme="knowledge"] {
+  --bg-color: #f5f3ff; /* violet-50 */
+  --fg-color: #4c1d95; /* violet-900 */
+  --accent-color: #8b5cf6; /* violet-500 */
+  --theme-white: #2e1065;
+  --theme-black: #ffffff;
+  --bg-gradient: linear-gradient(135deg, #ede9fe 0%, #ddd6fe 100%);
+  --glass-bg: rgba(255, 255, 255, 0.6);
+  --glass-border: rgba(139, 92, 246, 0.2);
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--fg-color);
+  font-family: var(--font-sans), sans-serif;
+  background-image: var(--bg-gradient);
+  background-attachment: fixed;
+  min-height: 100vh;
+  transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+/* グラスモーフィズム用ユーティリティ */
+.glass-panel {
+  background: var(--glass-bg);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--glass-border);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.5s ease, border-color 0.5s ease;
+}
+
+/* ネオンテキスト用ユーティリティ */
+.neon-text {
+  color: var(--accent-color);
+  text-shadow: 0 0 5px var(--accent-color), 0 0 10px var(--accent-color);
+}
+
+/* スクロールバーのカスタマイズ */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.1);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--accent-color);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--fg-color);
+}

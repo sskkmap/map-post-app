@@ -1,3 +1,9 @@
+# media files
+**/public/audio/**/*.wav
+**/public/audio/**/*.mp3
+**/public/audio/bgm/**/*.mp3
+**/public/audio/bgm/**/*.wav
+
 # dependencies
 node_modules/
 **/node_modules/
