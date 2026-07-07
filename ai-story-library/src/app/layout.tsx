@@ -3,6 +3,7 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { LayoutGrid, Headphones, BookOpen, PenTool } from "lucide-react";
 import Link from "next/link";
+import Script from "next/script";
 import ThemeProvider from "@/components/ThemeProvider";
 import Footer from "@/components/Footer";
 
@@ -43,7 +44,12 @@ export default function RootLayout({
   return (
     <html lang="ja" data-theme="portal">
       <head>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3015895490418469" crossOrigin="anonymous"></script>
+        <Script 
+          async 
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3015895490418469" 
+          crossOrigin="anonymous"
+          strategy="afterInteractive"
+        />
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased transition-colors duration-700`}
