@@ -1,11 +1,16 @@
 ---
-title: "消えた「完璧な密室」の唯一の痕跡：指先ほどの小さな氷の欠片"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "雪山の山荘で発見された死体。鍵は内側から施錠され、窓も全て凍りついていた。警察が自殺として処理しようとする中、探偵は現場に落ちていた「数ミリの正体不明の濡れた染み」に着目。物理法則を逆手に取った、冷酷な密室トリックの全貌を解き明かす。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-vanishing-ice-shard-mystery.mp3"
+title: 消えた「完璧な密室」の唯一の痕跡：指先ほどの小さな氷の欠片
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  雪山の山荘で発見された死体。鍵は内側から施錠され、窓も全て凍りついていた。警察が自殺として処理しようとする中、探偵は現場に落ちていた「数ミリの正体不明の濡れた染み」に着目。物理法則を逆手に取った、冷酷な密室トリックの全貌を解き明かす。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-vanishing-ice-shard-mystery.mp3
+image: >-
+  https://images.unsplash.com/photo-1768051579751-a332d76b5d52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5Mjd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 凍てついた密室の残像：消えた凶器が語る死の真相

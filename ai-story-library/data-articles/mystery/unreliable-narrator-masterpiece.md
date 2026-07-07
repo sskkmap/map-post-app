@@ -1,11 +1,16 @@
 ---
-title: "容疑者全員が嘘をつく：フィクションにおける「信用できない語り手」の傑作選"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "叙述トリックの醍醐味である「信用できない語り手」が登場する作品を特集。読者がいつの間にかミスリードされる心理メカニズムを解説し、読むたびに違った景色が見えてくるおすすめの作品をランキング形式で紹介する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/unreliable-narrator-masterpiece.mp3"
+title: 容疑者全員が嘘をつく：フィクションにおける「信用できない語り手」の傑作選
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  叙述トリックの醍醐味である「信用できない語り手」が登場する作品を特集。読者がいつの間にかミスリードされる心理メカニズムを解説し、読むたびに違った景色が見えてくるおすすめの作品をランキング形式で紹介する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/unreliable-narrator-masterpiece.mp3
+image: >-
+  https://images.unsplash.com/photo-1651246020878-d21c5ff76120?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5MzN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 騙される快感――「信用できない語り手」が仕掛ける、最も危険なミステリーの迷宮

@@ -1,11 +1,15 @@
 ---
-title: "AIに「面白い話をして」と無茶ぶりし続けた結果、哲学的な迷走を始めた"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "最新のAIに大喜利やジョークを要求し続け、最終的にAIが「人間とは何か」という深い問いに逃げ出したり、逆にスベり倒して逆ギレしたりする爆笑の対話ログ集。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-existential-crisis-comedy.mp3"
+title: AIに「面白い話をして」と無茶ぶりし続けた結果、哲学的な迷走を始めた
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: 最新のAIに大喜利やジョークを要求し続け、最終的にAIが「人間とは何か」という深い問いに逃げ出したり、逆にスベり倒して逆ギレしたりする爆笑の対話ログ集。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-existential-crisis-comedy.mp3
+image: >-
+  https://images.unsplash.com/photo-1557199868-02a704b27808?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5NjJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # AIに「面白い話をして」と追い詰め続けた結果、哲学的な迷走を始めた件

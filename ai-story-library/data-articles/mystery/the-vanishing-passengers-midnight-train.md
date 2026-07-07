@@ -1,11 +1,16 @@
 ---
-title: "消えた乗客：深夜の最終電車、車両から誰もいなくなった理由"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "深夜、地下鉄の最終車両に乗り合わせた5人の男女。トンネル内で車両が緊急停止し、照明が消えたわずか10秒の間に、乗客全員が忽然と姿を消した。残されたのは彼らの荷物と、窓ガラスに刻まれた奇妙な数字だけ。防犯カメラに映らない「空白の時間」の真相を追う。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-vanishing-passengers-midnight-train.mp3"
+title: 消えた乗客：深夜の最終電車、車両から誰もいなくなった理由
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  深夜、地下鉄の最終車両に乗り合わせた5人の男女。トンネル内で車両が緊急停止し、照明が消えたわずか10秒の間に、乗客全員が忽然と姿を消した。残されたのは彼らの荷物と、窓ガラスに刻まれた奇妙な数字だけ。防犯カメラに映らない「空白の時間」の真相を追う。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-vanishing-passengers-midnight-train.mp3
+image: >-
+  https://images.unsplash.com/photo-1771654951481-999614349007?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5Mjh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 深夜0時の不可解な消失：最終電車から5人が消えた「空白の10秒」

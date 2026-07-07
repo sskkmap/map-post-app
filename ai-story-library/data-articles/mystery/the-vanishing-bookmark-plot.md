@@ -1,11 +1,16 @@
 ---
-title: "読書会で起きた「消えた栞」が暗示する、連続殺人のプロット"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "毎月開催されるミステリー読書会。ある日、メンバーの一人が貸し出した本から栞が消え、翌週その人物が本の内容と同じ手口で殺された。次の被害者は、次に読書会で議論される本を所持している人間だということが判明する。物語の結末を知る犯人は、誰の手で次の殺人を演出するのか。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-vanishing-bookmark-plot.mp3"
+title: 読書会で起きた「消えた栞」が暗示する、連続殺人のプロット
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  毎月開催されるミステリー読書会。ある日、メンバーの一人が貸し出した本から栞が消え、翌週その人物が本の内容と同じ手口で殺された。次の被害者は、次に読書会で議論される本を所持している人間だということが判明する。物語の結末を知る犯人は、誰の手で次の殺人を演出するのか。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-vanishing-bookmark-plot.mp3
+image: >-
+  https://images.unsplash.com/photo-1700367055485-4e9ab90eeedb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5MjF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 消えた栞が告げる死の予告：読書会を蝕む「プロット」の正体

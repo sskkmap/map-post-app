@@ -1,11 +1,16 @@
 ---
-title: "【検証】「完全犯罪」は現実世界で本当に可能なのか？"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "ミステリー小説で描かれる「完全犯罪」の手法を、現代の法医学や最新技術の観点から徹底検証。なぜ現実には必ず綻びが生じるのか、科学的根拠に基づいて分析する、少しダークで知的な読み物。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-myth-of-the-perfect-crime.mp3"
+title: 【検証】「完全犯罪」は現実世界で本当に可能なのか？
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  ミステリー小説で描かれる「完全犯罪」の手法を、現代の法医学や最新技術の観点から徹底検証。なぜ現実には必ず綻びが生じるのか、科学的根拠に基づいて分析する、少しダークで知的な読み物。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-myth-of-the-perfect-crime.mp3
+image: >-
+  https://images.unsplash.com/photo-1770362603231-7c7b3a01d587?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5MDN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 【検証】「完全犯罪」は現実世界で本当に可能なのか？：科学が暴く「綻び」の正体

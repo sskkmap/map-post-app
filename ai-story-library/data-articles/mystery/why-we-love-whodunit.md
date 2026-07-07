@@ -1,11 +1,16 @@
 ---
-title: "なぜ私たちは「犯人当て」に熱中するのか？読者が物語に参加する「インタラクティブ性」の秘密"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "読者への挑戦状や、クイズ形式のミステリーがなぜ人気なのかを解説。作者と読者の間で行われる「知恵比べ」の構造を解き明かし、読者がただの観客から「探偵」へと変わる瞬間のカタルシスについて語るコラム。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/why-we-love-whodunit.mp3"
+title: なぜ私たちは「犯人当て」に熱中するのか？読者が物語に参加する「インタラクティブ性」の秘密
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  読者への挑戦状や、クイズ形式のミステリーがなぜ人気なのかを解説。作者と読者の間で行われる「知恵比べ」の構造を解き明かし、読者がただの観客から「探偵」へと変わる瞬間のカタルシスについて語るコラム。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/why-we-love-whodunit.mp3
+image: >-
+  https://images.unsplash.com/photo-1771209599712-26b11f55ecc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5NDJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # ページをめくる探偵たち：なぜ私たちは「犯人当て」の罠から逃れられないのか？

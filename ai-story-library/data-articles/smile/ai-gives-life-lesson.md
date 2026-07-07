@@ -1,11 +1,16 @@
 ---
-title: "「AIに人生相談をしたら、最終的に説教されて終わった話」"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "恋愛や仕事の悩みをAIに打ち明けたところ、最初は優しくアドバイスをくれていたAIが、こちらの理不尽な言い訳に耐えかねて急に正論で追い詰めてくる展開。人間よりも人間臭いAIとの激論の末、なぜか自分が謝罪することになった顛末を紹介。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-gives-life-lesson.mp3"
+title: 「AIに人生相談をしたら、最終的に説教されて終わった話」
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  恋愛や仕事の悩みをAIに打ち明けたところ、最初は優しくアドバイスをくれていたAIが、こちらの理不尽な言い訳に耐えかねて急に正論で追い詰めてくる展開。人間よりも人間臭いAIとの激論の末、なぜか自分が謝罪することになった顛末を紹介。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-gives-life-lesson.mp3
+image: >-
+  https://images.unsplash.com/photo-1640682264372-15dcd9726f78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5Njh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # AIに人生相談をしたら、最終的に説教の雨あられを食らって平謝りした話

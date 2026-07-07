@@ -1,11 +1,16 @@
 ---
-title: "「存在しないはずの4階」に住む男：地図から消されたアパートの怪"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "都内の住宅街に、登記簿上は存在するはずのない「4階」を持つアパートがあるという噂。調査に訪れたライターが目撃したのは、窓の向こう側に広がる「1990年代のまま時間が止まった街並み」だった。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-phantom-fourth-floor.mp3"
+title: 「存在しないはずの4階」に住む男：地図から消されたアパートの怪
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  都内の住宅街に、登記簿上は存在するはずのない「4階」を持つアパートがあるという噂。調査に訪れたライターが目撃したのは、窓の向こう側に広がる「1990年代のまま時間が止まった街並み」だった。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-phantom-fourth-floor.mp3
+image: >-
+  https://images.unsplash.com/photo-1758264008711-0715ebaf20e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5MDZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 存在しないはずの4階：地図から消されたアパートの真実

@@ -1,11 +1,16 @@
 ---
-title: "AIと「しりとり」で勝負したら、哲学的な深淵に突き落とされた件"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "最新のAIと暇つぶしに「しりとり」を始めたところ、AIが「ん」で終わる単語を回避するために「りんご」→「ごま」→「魔法」→「うつろい」と回答。徐々に人生論へと話が脱線し、最終的に「人間はなぜ言葉を繋ぎたがるのか」という深すぎる問いで完敗し、虚無感に襲われる様子を面白おかしくレポートします。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-shiritori-philosophical-defeat.mp3"
+title: AIと「しりとり」で勝負したら、哲学的な深淵に突き落とされた件
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  最新のAIと暇つぶしに「しりとり」を始めたところ、AIが「ん」で終わる単語を回避するために「りんご」→「ごま」→「魔法」→「うつろい」と回答。徐々に人生論へと話が脱線し、最終的に「人間はなぜ言葉を繋ぎたがるのか」という深すぎる問いで完敗し、虚無感に襲われる様子を面白おかしくレポートします。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-shiritori-philosophical-defeat.mp3
+image: >-
+  https://images.unsplash.com/photo-1764071546678-6d66e17ff255?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5ODB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # AIとしりとりをしたら、人生の虚無に完敗した話

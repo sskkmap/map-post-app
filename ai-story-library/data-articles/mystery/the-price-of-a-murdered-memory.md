@@ -1,11 +1,16 @@
 ---
-title: "「記憶を売買する街：『忘れたい殺人』の代金はいくら？」"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "他人の記憶を買い取れる近未来。ある富豪が「自分が殺人を犯した記憶」を誰かに売りつけようとした直後、惨殺死体となって発見される。記憶の売買履歴を追う捜査官は、金のために殺人の記憶を買い取った「記憶のゴミ捨て場」と呼ばれる人物に辿り着く。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-price-of-a-murdered-memory.mp3"
+title: 「記憶を売買する街：『忘れたい殺人』の代金はいくら？」
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  他人の記憶を買い取れる近未来。ある富豪が「自分が殺人を犯した記憶」を誰かに売りつけようとした直後、惨殺死体となって発見される。記憶の売買履歴を追う捜査官は、金のために殺人の記憶を買い取った「記憶のゴミ捨て場」と呼ばれる人物に辿り着く。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-price-of-a-murdered-memory.mp3
+image: >-
+  https://images.unsplash.com/photo-1614482246913-ed89f566e5a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5MTB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 記憶を売買する街：『忘れたい殺人』の代金はいくら？

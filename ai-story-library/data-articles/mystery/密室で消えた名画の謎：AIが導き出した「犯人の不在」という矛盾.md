@@ -9,6 +9,8 @@ tags:
 description: >-
   午前3時14分。世界最高峰の警備を誇る国立美術館のメインギャラリーで、それは起きた。 
   中央の台座に展示されていた至宝、フェルメールの『静寂の肖像』が、一夜にして忽然と姿を消したのだ。美術館に導入され...
+image: >-
+  https://images.unsplash.com/photo-1730438445573-6f223c4a2b52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5NTF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 消えた「無」の静物画：AI警備を欺いた数式トリック

@@ -1,11 +1,16 @@
 ---
-title: "読者が探偵になる！Webで完結する「仮想殺人事件」の捜査ファイル"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "記事の中に現場写真、関係者の証言、タイムライン、死因の特定情報を断片的に掲載。読者がその場で考察し、コメント欄で真相を推理する参加型ミステリー。数日後に解決編を公開する構成。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/virtual-murder-case-001.mp3"
+title: 読者が探偵になる！Webで完結する「仮想殺人事件」の捜査ファイル
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  記事の中に現場写真、関係者の証言、タイムライン、死因の特定情報を断片的に掲載。読者がその場で考察し、コメント欄で真相を推理する参加型ミステリー。数日後に解決編を公開する構成。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/virtual-murder-case-001.mp3
+image: >-
+  https://images.unsplash.com/photo-1732338033983-fbae5241684a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5Mzh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 【参加型ミステリー】密室に響くピアノの調べ ―消えたピアニストの真相を暴け―

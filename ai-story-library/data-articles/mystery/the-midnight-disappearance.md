@@ -1,11 +1,16 @@
 ---
-title: "「現実から消えた招待状」―なぜ招待客全員が同じ時刻に失踪したのか"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "ある山奥の豪華な別荘で開かれた晩餐会。招待客が全員、深夜0時に姿を消した。残されたのは、真っ白なキャンバスと一通の脅迫状。死体なき密室の謎を、現場に居合わせた唯一の生存者が解き明かす。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-midnight-disappearance.mp3"
+title: 「現実から消えた招待状」―なぜ招待客全員が同じ時刻に失踪したのか
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  ある山奥の豪華な別荘で開かれた晩餐会。招待客が全員、深夜0時に姿を消した。残されたのは、真っ白なキャンバスと一通の脅迫状。死体なき密室の謎を、現場に居合わせた唯一の生存者が解き明かす。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-midnight-disappearance.mp3
+image: >-
+  https://images.unsplash.com/photo-1617865415119-08afb90a1fec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ4OTZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 深夜0時の空白：山荘の晩餐会から消えた12人の招待客

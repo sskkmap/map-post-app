@@ -1,11 +1,16 @@
 ---
-title: "消えた容疑者、あるいは神隠し：日本の「未解決失踪事件」に隠された物語的伏線"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "実際に起きた未解決失踪事件を、ミステリーのプロットの観点から分析する。もしこれが小説ならどのような「落ち」が想定できるのか、情報の断片をパズルのように組み立てて、論理的な推論を試みる。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/vanished-without-a-trace.mp3"
+title: 消えた容疑者、あるいは神隠し：日本の「未解決失踪事件」に隠された物語的伏線
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  実際に起きた未解決失踪事件を、ミステリーのプロットの観点から分析する。もしこれが小説ならどのような「落ち」が想定できるのか、情報の断片をパズルのように組み立てて、論理的な推論を試みる。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/vanished-without-a-trace.mp3
+image: >-
+  https://images.unsplash.com/photo-1548932062-b1449034d77a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5MzZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 消えた容疑者、あるいは神隠し：未解決失踪事件をミステリーのプロットで解読する

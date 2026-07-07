@@ -1,11 +1,16 @@
 ---
-title: "「AIに『私のこと、面白く紹介して』と頼んだら、毒舌すぎて人間関係が崩壊しかけた話」"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "自己紹介文を生成してもらったところ、長所が一つもなく「平均より少しだけ長生きしそうな平凡な人」と判定。あまりの的確なディスりに、AIと本気で喧嘩する様子を再現。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-roast-my-introduction.mp3"
+title: 「AIに『私のこと、面白く紹介して』と頼んだら、毒舌すぎて人間関係が崩壊しかけた話」
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  自己紹介文を生成してもらったところ、長所が一つもなく「平均より少しだけ長生きしそうな平凡な人」と判定。あまりの的確なディスりに、AIと本気で喧嘩する様子を再現。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-roast-my-introduction.mp3
+image: >-
+  https://images.unsplash.com/photo-1653990467214-3feda54c4ce7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5Nzh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # AIに自己紹介を頼んだら、あまりの毒舌に人格を全否定された話

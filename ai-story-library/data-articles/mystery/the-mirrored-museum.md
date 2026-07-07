@@ -1,11 +1,16 @@
 ---
-title: "真夜中の美術館、展示品がすべて「左右反転」していた理由"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "朝、美術館の展示室に入った職員は息を呑んだ。飾られていた絵画、彫刻、備品、すべてが左右逆の配置に整えられていたのだ。セキュリティカメラには誰も映っていない。これは悪質なイタズラか、それとも現実を歪める何らかの「意図」なのか。美術史の暗部を紐解く知的パズル。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-mirrored-museum.mp3"
+title: 真夜中の美術館、展示品がすべて「左右反転」していた理由
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  朝、美術館の展示室に入った職員は息を呑んだ。飾られていた絵画、彫刻、備品、すべてが左右逆の配置に整えられていたのだ。セキュリティカメラには誰も映っていない。これは悪質なイタズラか、それとも現実を歪める何らかの「意図」なのか。美術史の暗部を紐解く知的パズル。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-mirrored-museum.mp3
+image: >-
+  https://images.unsplash.com/photo-1606254114671-a72acb28e564?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ4OTl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 真夜中の美術館：展示品がすべて「左右反転」していた理由

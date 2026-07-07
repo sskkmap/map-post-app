@@ -1,10 +1,16 @@
 ---
-slug: "tokyo-station-underground-secret"
-title: "東京駅地下の秘密施設"
-date: "2026-07-05"
-category: "都市伝説"
-tags: ["東京駅", "地下空間", "幻のホーム", "闇の物流"]
-description: "日本の心臓部、東京駅の地下深くに潜むとされる、地図にはない「空白の階層」についての記録。"
+slug: tokyo-station-underground-secret
+title: 東京駅地下の秘密施設
+date: '2026-07-05'
+category: 都市伝説
+tags:
+  - 東京駅
+  - 地下空間
+  - 幻のホーム
+  - 闇の物流
+description: 日本の心臓部、東京駅の地下深くに潜むとされる、地図にはない「空白の階層」についての記録。
+image: >-
+  https://images.unsplash.com/photo-1623155941001-5059ab5b0325?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5MzF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 # 東京駅地下の秘密施設
 

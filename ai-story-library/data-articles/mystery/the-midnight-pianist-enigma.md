@@ -1,11 +1,16 @@
 ---
-title: "消えた遺書と午前0時のピアノ：なぜ名ピアニストは演奏中に命を落としたのか"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "世界的なピアニストがコンサートの生放送中にピアノの上で急死した。死因は毒殺だが、鍵盤には一切の毒はなかった。現場にいた唯一の証人である調律師が語る「演奏中に聞こえたはずのない拍子」とは。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-midnight-pianist-enigma.mp3"
+title: 消えた遺書と午前0時のピアノ：なぜ名ピアニストは演奏中に命を落としたのか
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  世界的なピアニストがコンサートの生放送中にピアノの上で急死した。死因は毒殺だが、鍵盤には一切の毒はなかった。現場にいた唯一の証人である調律師が語る「演奏中に聞こえたはずのない拍子」とは。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-midnight-pianist-enigma.mp3
+image: >-
+  https://images.unsplash.com/photo-1616673241792-a8dff17e93e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ4OTd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 消えた遺書と午前0時のピアノ：なぜ名ピアニストは演奏中に命を落としたのか

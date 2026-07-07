@@ -1,11 +1,16 @@
 ---
-title: "「名探偵はなぜ消えた？密室に遺された『10年前のチェス盤』の謎」"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "伝説的な探偵が引退から数年後、完全に封鎖された書斎で姿を消した。部屋には食べかけの食事と、10年前に彼が解決したはずの未解決事件の配置を再現したチェス盤だけが遺されていた。弟子である主人公が、盤面の「最後の一手」を解読し、師匠が抱えていた秘密と再会を目指す物語。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-vanishing-detective-and-the-chess-board.mp3"
+title: 「名探偵はなぜ消えた？密室に遺された『10年前のチェス盤』の謎」
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  伝説的な探偵が引退から数年後、完全に封鎖された書斎で姿を消した。部屋には食べかけの食事と、10年前に彼が解決したはずの未解決事件の配置を再現したチェス盤だけが遺されていた。弟子である主人公が、盤面の「最後の一手」を解読し、師匠が抱えていた秘密と再会を目指す物語。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-vanishing-detective-and-the-chess-board.mp3
+image: >-
+  https://images.unsplash.com/photo-1766524790069-723c134fb663?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5MjV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 名探偵はなぜ消えた？密室に遺された『10年前のチェス盤』の謎

@@ -1,11 +1,16 @@
 ---
-title: "未解決事件の「迷宮入り」には理由がある：現実の捜査とフィクションの決定的な溝"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "ドラマや小説では必ず犯人が捕まるが、現実はそうではない。警察の捜査手法やDNA鑑定の限界など、ミステリー小説には描かれない「捜査が停滞するリアルな理由」を現役の防犯アドバイザーや専門家の知見を借りて紐解く。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-unsolved-truth-vs-fiction.mp3"
+title: 未解決事件の「迷宮入り」には理由がある：現実の捜査とフィクションの決定的な溝
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  ドラマや小説では必ず犯人が捕まるが、現実はそうではない。警察の捜査手法やDNA鑑定の限界など、ミステリー小説には描かれない「捜査が停滞するリアルな理由」を現役の防犯アドバイザーや専門家の知見を借りて紐解く。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-unsolved-truth-vs-fiction.mp3
+image: >-
+  https://images.unsplash.com/photo-1636381996019-ab434fcf484d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5MTl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # なぜ「完全犯罪」は終わらないのか？現実の捜査が抱える「迷宮入り」の正体

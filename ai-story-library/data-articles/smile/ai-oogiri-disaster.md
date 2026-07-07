@@ -1,11 +1,16 @@
 ---
-title: "AIに大喜利をさせたら斜め上すぎて腹筋崩壊した件"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "最新のAIにお題を出して「面白い回答」を求めた結果、AI特有のズレた回答や、真面目すぎて逆に笑える回答を検証。人間には思いつかない珍回答の数々を突っ込みながら紹介する実験企画。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-oogiri-disaster.mp3"
+title: AIに大喜利をさせたら斜め上すぎて腹筋崩壊した件
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  最新のAIにお題を出して「面白い回答」を求めた結果、AI特有のズレた回答や、真面目すぎて逆に笑える回答を検証。人間には思いつかない珍回答の数々を突っ込みながら紹介する実験企画。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-oogiri-disaster.mp3
+image: >-
+  https://images.unsplash.com/photo-1658157338228-e5d8dd0fc20c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5NzV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # AIに大喜利をさせたら斜め上すぎて腹筋崩壊した件

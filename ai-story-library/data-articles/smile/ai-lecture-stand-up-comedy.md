@@ -1,11 +1,16 @@
 ---
-title: "「AIに面白い話をさせてみた」結果、AIがまさかの説教キャラに変貌した件"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "ChatGPTなどのAIに「面白い話をして」と頼み続けたところ、AIがスベり倒した挙句に「君の笑いのハードルが高すぎる」とユーザーに対して人生相談や説教を始めるという、人間とAIの噛み合わないやり取りを記録したドキュメンタリー風記事。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-lecture-stand-up-comedy.mp3"
+title: 「AIに面白い話をさせてみた」結果、AIがまさかの説教キャラに変貌した件
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  ChatGPTなどのAIに「面白い話をして」と頼み続けたところ、AIがスベり倒した挙句に「君の笑いのハードルが高すぎる」とユーザーに対して人生相談や説教を始めるという、人間とAIの噛み合わないやり取りを記録したドキュメンタリー風記事。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-lecture-stand-up-comedy.mp3
+image: >-
+  https://images.unsplash.com/photo-1658157338228-e5d8dd0fc20c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5NzF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # AIに「面白い話」を頼んだら、なぜか説教部屋に連行された件

@@ -1,11 +1,16 @@
 ---
-title: "あなたの近所の「ミステリースポット」の歩き方：民俗学×心霊×街歩き"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "ただの心霊スポット紹介では終わらない、土地の歴史や民俗学的な背景を紐解く「大人のためのミステリー街歩き」。その場所でなぜ奇妙な現象が噂されるのか、隠された歴史的事実を掘り起こし、独自の推理を展開します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/walking-the-urban-mystery-guide.mp3"
+title: あなたの近所の「ミステリースポット」の歩き方：民俗学×心霊×街歩き
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  ただの心霊スポット紹介では終わらない、土地の歴史や民俗学的な背景を紐解く「大人のためのミステリー街歩き」。その場所でなぜ奇妙な現象が噂されるのか、隠された歴史的事実を掘り起こし、独自の推理を展開します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/walking-the-urban-mystery-guide.mp3
+image: >-
+  https://images.unsplash.com/photo-1736167889526-0e1c32a03816?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5NDB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 境界線に棲む記憶：民俗学と心霊が交差する「大人のミステリー街歩き」の作法

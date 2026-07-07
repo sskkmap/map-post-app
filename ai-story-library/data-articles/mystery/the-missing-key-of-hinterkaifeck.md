@@ -1,11 +1,16 @@
 ---
-title: "密室の鍵はどこへ消えた？歴史を変えた「未解決事件」の意外な真相を科学が解き明かす"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "世界を震撼させた歴史的事件の現場に、最新の科学捜査技術やAI分析を導入。当時では不可能だった犯人特定やトリックの再現を試み、現代の視点から「真犯人は誰だったのか」を再考察する連載企画。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-missing-key-of-hinterkaifeck.mp3"
+title: 密室の鍵はどこへ消えた？歴史を変えた「未解決事件」の意外な真相を科学が解き明かす
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  世界を震撼させた歴史的事件の現場に、最新の科学捜査技術やAI分析を導入。当時では不可能だった犯人特定やトリックの再現を試み、現代の視点から「真犯人は誰だったのか」を再考察する連載企画。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-missing-key-of-hinterkaifeck.mp3
+image: >-
+  https://images.unsplash.com/photo-1631507623204-8c11b57e3fa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5MDF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 密室の鍵はどこへ消えた？――最新AIが暴く、百年越しに解かれた「ヒンターカイフェック」の闇

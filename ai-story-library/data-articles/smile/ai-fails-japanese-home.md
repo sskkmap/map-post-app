@@ -1,11 +1,16 @@
 ---
-title: "「実家あるある」をAIに描かせたら、もはや別の惑星の出来事になった件"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "「日本の実家」をAI画像生成ツールに指示した結果、畳の上にコタツが5段積み重なっていたり、謎の置物（タヌキ）が巨大化していたりと、狂気じみた画像を振り返りながらツッコむネタ記事。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-fails-japanese-home.mp3"
+title: 「実家あるある」をAIに描かせたら、もはや別の惑星の出来事になった件
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  「日本の実家」をAI画像生成ツールに指示した結果、畳の上にコタツが5段積み重なっていたり、謎の置物（タヌキ）が巨大化していたりと、狂気じみた画像を振り返りながらツッコむネタ記事。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-fails-japanese-home.mp3
+image: >-
+  https://images.unsplash.com/photo-1597805076134-74508aca4ec4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5NjZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「実家を描いて」とAIに頼んだら、そこは地球外生命体の巣窟だった

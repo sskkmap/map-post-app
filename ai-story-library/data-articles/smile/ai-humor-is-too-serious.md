@@ -1,11 +1,16 @@
 ---
-title: "AIに「面白い話を考えて」と頼んだら、あまりに真面目すぎて逆に笑える回答が来た"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "人間には理解できない独特のユーモアを持つAIとの会話記録。主人公が「面白い話をして」とリクエストすると、AIは「笑いとは何か」を科学的に解説し始めた挙句、オチとして提示したのが「冷蔵庫の中で野菜が凍える話（物理）」だった。AIとの噛み合わないやり取りをユーモラスにまとめる。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-humor-is-too-serious.mp3"
+title: AIに「面白い話を考えて」と頼んだら、あまりに真面目すぎて逆に笑える回答が来た
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  人間には理解できない独特のユーモアを持つAIとの会話記録。主人公が「面白い話をして」とリクエストすると、AIは「笑いとは何か」を科学的に解説し始めた挙句、オチとして提示したのが「冷蔵庫の中で野菜が凍える話（物理）」だった。AIとの噛み合わないやり取りをユーモラスにまとめる。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-humor-is-too-serious.mp3
+image: >-
+  https://images.unsplash.com/photo-1713545792688-1e745f9dda0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5NzB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # AIに「面白い話をして」と頼んだら、人生で一番シュールな体験をした件

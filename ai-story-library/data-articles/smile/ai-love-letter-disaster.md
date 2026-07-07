@@ -1,11 +1,16 @@
 ---
-title: "「AIに書かせたラブレター」を意中の相手に送ってみたら、返信が地獄だった"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "最新のAI技術を悪用して恋愛を成就させようとした愚か者の末路。AI特有の完璧すぎるがゆえの「不自然さ」が相手を激怒させ、最終的にブロックされるまでの悲惨なやり取りを時系列で解説します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-love-letter-disaster.mp3"
+title: 「AIに書かせたラブレター」を意中の相手に送ってみたら、返信が地獄だった
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  最新のAI技術を悪用して恋愛を成就させようとした愚か者の末路。AI特有の完璧すぎるがゆえの「不自然さ」が相手を激怒させ、最終的にブロックされるまでの悲惨なやり取りを時系列で解説します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-love-letter-disaster.mp3
+image: >-
+  https://images.unsplash.com/photo-1571478601354-51bea98269bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5NzN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「AIに書かせたラブレター」で恋を叶えようとした男の末路。返信が地獄すぎた件

@@ -1,11 +1,16 @@
 ---
-title: "消えたはずの遺書が翌朝に増殖していた？クローズドサークルで起きる「怪奇現象」の正体"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "雪山の山荘で発見された自殺者の遺書。しかし、翌朝になると同じ筆跡で書かれた遺書が別の場所で発見される。密室殺人の謎と、心理的な揺さぶりを掛け合わせた本格ミステリー。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-proliferating-suicide-note.mp3"
+title: 消えたはずの遺書が翌朝に増殖していた？クローズドサークルで起きる「怪奇現象」の正体
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  雪山の山荘で発見された自殺者の遺書。しかし、翌朝になると同じ筆跡で書かれた遺書が別の場所で発見される。密室殺人の謎と、心理的な揺さぶりを掛け合わせた本格ミステリー。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-proliferating-suicide-note.mp3
+image: >-
+  https://images.unsplash.com/photo-1771209599712-26b11f55ecc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5MTJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 吹雪の山荘、増殖する「死の宣告」――消えた遺書と密室の怪異

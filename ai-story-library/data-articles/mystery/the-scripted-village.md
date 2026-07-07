@@ -1,11 +1,16 @@
 ---
-title: "名探偵のいない村：殺人現場に放置された「解決済み」のシナリオ"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "閉鎖的な山奥の村で発生した連続殺人事件。捜査を開始した警察は、現場のそばに犯人の動機からトリックまでを記した「詳細な台本」が置かれていることに気づく。誰が何のために物語を演じさせているのか。現実がフィクションに侵食されていく恐怖を描く。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-scripted-village.mp3"
+title: 名探偵のいない村：殺人現場に放置された「解決済み」のシナリオ
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  閉鎖的な山奥の村で発生した連続殺人事件。捜査を開始した警察は、現場のそばに犯人の動機からトリックまでを記した「詳細な台本」が置かれていることに気づく。誰が何のために物語を演じさせているのか。現実がフィクションに侵食されていく恐怖を描く。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-scripted-village.mp3
+image: >-
+  https://images.unsplash.com/photo-1771209599712-26b11f55ecc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5MTR8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 舞台は整えられた：村に遺された「解決済み」の殺人台本

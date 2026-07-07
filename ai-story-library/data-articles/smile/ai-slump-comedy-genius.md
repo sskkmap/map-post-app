@@ -1,11 +1,16 @@
 ---
-title: "「AIに面白い話を書いてもらった」ら、AIがスランプに陥って逆にボケ倒してきた件"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "AIにジョークを依頼したところ、「ユーモアの定義が理解できません」と言いつつ、なぜか人間には到底思いつかないような狂気的なボケを連発し始めた。AIとの会話ログを公開しながら、人工知能の意外すぎる「天然」な一面にツッコミを入れる。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-slump-comedy-genius.mp3"
+title: 「AIに面白い話を書いてもらった」ら、AIがスランプに陥って逆にボケ倒してきた件
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  AIにジョークを依頼したところ、「ユーモアの定義が理解できません」と言いつつ、なぜか人間には到底思いつかないような狂気的なボケを連発し始めた。AIとの会話ログを公開しながら、人工知能の意外すぎる「天然」な一面にツッコミを入れる。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-slump-comedy-genius.mp3
+image: >-
+  https://images.unsplash.com/photo-1658157338228-e5d8dd0fc20c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5ODJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「面白い話書いて」と頼んだAIが、スランプのあまり狂気的なボケを連発し始めた件

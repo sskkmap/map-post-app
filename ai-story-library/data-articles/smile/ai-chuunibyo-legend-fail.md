@@ -1,11 +1,16 @@
 ---
-title: "「AIに架空の伝説を作らせたら中二病全開になった」件"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "最新のAIに「壮大な歴史ファンタジー」を書かせたところ、設定が盛りすぎて読み進めるうちに腹筋が崩壊したという検証記事。AI特有の支離滅裂な展開や、なぜか必ず登場する謎の武器の名前を解説します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-chuunibyo-legend-fail.mp3"
+title: 「AIに架空の伝説を作らせたら中二病全開になった」件
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  最新のAIに「壮大な歴史ファンタジー」を書かせたところ、設定が盛りすぎて読み進めるうちに腹筋が崩壊したという検証記事。AI特有の支離滅裂な展開や、なぜか必ず登場する謎の武器の名前を解説します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-chuunibyo-legend-fail.mp3
+image: >-
+  https://images.unsplash.com/photo-1658681931112-7797e2a8be93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5NjB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # AIに「壮大な伝説」を書かせたら、中二病の煮凝りが爆誕した件

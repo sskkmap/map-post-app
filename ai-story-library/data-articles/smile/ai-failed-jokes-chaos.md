@@ -1,11 +1,16 @@
 ---
-title: "実録！AIに「面白い話をして」と無茶ぶりし続けた結果がカオスすぎた"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "最新のAIに対して、あえて「スベる前提」で大喜利やジョークを要求し続け、AIが混乱して珍回答を連発する様子をレポート。真面目な回答から徐々に論理が崩壊し、最終的に哲学的な名言（？）が飛び出すまでの軌跡を面白おかしく振り返ります。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-failed-jokes-chaos.mp3"
+title: 実録！AIに「面白い話をして」と無茶ぶりし続けた結果がカオスすぎた
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  最新のAIに対して、あえて「スベる前提」で大喜利やジョークを要求し続け、AIが混乱して珍回答を連発する様子をレポート。真面目な回答から徐々に論理が崩壊し、最終的に哲学的な名言（？）が飛び出すまでの軌跡を面白おかしく振り返ります。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-failed-jokes-chaos.mp3
+image: >-
+  https://images.unsplash.com/photo-1679108570356-1f877064a222?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5NjR8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 実録！AIに「面白い話をして」と無茶ぶりし続けた結果、哲学の深淵に到達してしまった話

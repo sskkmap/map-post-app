@@ -1,11 +1,16 @@
 ---
-title: "SNSで拡散された「存在しない街」の自撮り写真"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "あるインフルエンサーが投稿した写真に、地図上には存在しないはずの街が写り込んでいた。画像解析の専門家とミステリー好きのライターが、その場所の正体と、写真に隠された背筋の凍るメッセージを追う調査ドキュメント風記事。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-phantom-city-selfie.mp3"
+title: SNSで拡散された「存在しない街」の自撮り写真
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  あるインフルエンサーが投稿した写真に、地図上には存在しないはずの街が写り込んでいた。画像解析の専門家とミステリー好きのライターが、その場所の正体と、写真に隠された背筋の凍るメッセージを追う調査ドキュメント風記事。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-phantom-city-selfie.mp3
+image: >-
+  https://images.unsplash.com/photo-1631507623204-8c11b57e3fa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5MDV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 存在しないはずの街：SNSで拡散された「一枚の自撮り」に隠された戦慄の真実

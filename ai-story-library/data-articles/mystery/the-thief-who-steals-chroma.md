@@ -1,11 +1,16 @@
 ---
-title: "色彩を盗む怪盗：絵画の中の犠牲者が語る、犯人の正体"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "美術館に展示されている名画から、特定の「色」だけが消失する事件が多発。しかし、色が消えるたびに、絵画のモデルになった人物が現実で同じ部位を欠損して発見される。アートの美学に潜む狂気を紐解く、芸術とミステリーを掛け合わせた心理スリラー。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-thief-who-steals-chroma.mp3"
+title: 色彩を盗む怪盗：絵画の中の犠牲者が語る、犯人の正体
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  美術館に展示されている名画から、特定の「色」だけが消失する事件が多発。しかし、色が消えるたびに、絵画のモデルになった人物が現実で同じ部位を欠損して発見される。アートの美学に潜む狂気を紐解く、芸術とミステリーを掛け合わせた心理スリラー。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-thief-who-steals-chroma.mp3
+image: >-
+  https://images.unsplash.com/photo-1646915640280-c5ff92e79d61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5MTV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 色彩を盗む怪盗：キャンバスに刻まれた「欠落」の真実

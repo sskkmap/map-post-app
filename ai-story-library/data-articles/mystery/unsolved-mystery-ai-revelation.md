@@ -1,11 +1,16 @@
 ---
-title: "「未解決事件」をAIで再検証：犯人が残した「不可解なメッセージ」の真実"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "過去の迷宮入り事件に残された、意味不明な暗号やメモを最新のAI技術で解析。専門家すら気づかなかった「隠された規則性」を発見し、当時の捜査網がなぜ犯人にたどり着けなかったのか、新たな視点から論理的に考察する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/unsolved-mystery-ai-revelation.mp3"
+title: 「未解決事件」をAIで再検証：犯人が残した「不可解なメッセージ」の真実
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  過去の迷宮入り事件に残された、意味不明な暗号やメモを最新のAI技術で解析。専門家すら気づかなかった「隠された規則性」を発見し、当時の捜査網がなぜ犯人にたどり着けなかったのか、新たな視点から論理的に考察する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/unsolved-mystery-ai-revelation.mp3
+image: >-
+  https://images.unsplash.com/photo-1771209599712-26b11f55ecc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5MzR8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 未解決事件とAIの邂逅：犯人が残した「不可解なメッセージ」の真実

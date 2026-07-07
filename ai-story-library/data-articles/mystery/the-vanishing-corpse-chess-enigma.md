@@ -1,11 +1,16 @@
 ---
-title: "死体が消える密室：最後に残されたのは「チェスの駒」一つ"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "吹雪で孤立した山荘で主人が殺害されるが、発見時には死体が忽然と姿を消していた。唯一の遺留品であるチェスの駒が指し示す「次なるチェックメイト」とは。読者と一緒に謎を解く参加型ミステリー。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-vanishing-corpse-chess-enigma.mp3"
+title: 死体が消える密室：最後に残されたのは「チェスの駒」一つ
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  吹雪で孤立した山荘で主人が殺害されるが、発見時には死体が忽然と姿を消していた。唯一の遺留品であるチェスの駒が指し示す「次なるチェックメイト」とは。読者と一緒に謎を解く参加型ミステリー。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-vanishing-corpse-chess-enigma.mp3
+image: >-
+  https://images.unsplash.com/photo-1760243875150-89d24451a06c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5MjN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 消えた死体とチェスの悪戯：山荘の密室に仕掛けられた「チェックメイト」

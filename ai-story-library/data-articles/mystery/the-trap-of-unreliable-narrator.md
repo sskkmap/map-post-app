@@ -1,11 +1,16 @@
 ---
-title: "読者を騙す「信頼できない語り手」の罠：なぜ私たちは物語の途中で足元をすくわれるのか"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "叙述トリックを用いた名作小説を分析し、読者の脳内で勝手に作り上げられた「思い込み」がどう裏切られるのかを解説。物語を2回読み返したくなる、ミステリー特有の読書体験の構造を解き明かします。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-trap-of-unreliable-narrator.mp3"
+title: 読者を騙す「信頼できない語り手」の罠：なぜ私たちは物語の途中で足元をすくわれるのか
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  叙述トリックを用いた名作小説を分析し、読者の脳内で勝手に作り上げられた「思い込み」がどう裏切られるのかを解説。物語を2回読み返したくなる、ミステリー特有の読書体験の構造を解き明かします。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-trap-of-unreliable-narrator.mp3
+image: >-
+  https://images.unsplash.com/photo-1683260181221-dd116a376f34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5MTd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 信頼できない語り手の罠：なぜ私たちは物語の途中で足元をすくわれるのか

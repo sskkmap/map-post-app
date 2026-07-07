@@ -1,11 +1,16 @@
 ---
-title: "安楽椅子探偵はなぜ椅子から動かないのか？ミステリーに見る「場所」と「閉鎖性」の歴史"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "初期の古典から現代のデスクトップ・ミステリーまで、物語の舞台がどのように変遷してきたかを解説。なぜミステリーは特定の「箱庭」の中で語られる必要があるのか、物語構成の黄金律を歴史的背景から読み解く。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-philosophy-of-the-armchair-detective.mp3"
+title: 安楽椅子探偵はなぜ椅子から動かないのか？ミステリーに見る「場所」と「閉鎖性」の歴史
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  初期の古典から現代のデスクトップ・ミステリーまで、物語の舞台がどのように変遷してきたかを解説。なぜミステリーは特定の「箱庭」の中で語られる必要があるのか、物語構成の黄金律を歴史的背景から読み解く。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-philosophy-of-the-armchair-detective.mp3
+image: >-
+  https://images.unsplash.com/photo-1672666580044-2701e76dfca5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5MDh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 安楽椅子探偵はなぜ椅子から動かないのか？ミステリーに見る「場所」と「閉鎖性」の歴史

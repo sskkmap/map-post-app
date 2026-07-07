@@ -1,11 +1,16 @@
 ---
-title: "「絶対笑ってはいけない」面接会場、入室した瞬間に起きた悲劇の数々"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "緊迫した就活の面接会場で、緊張の糸が切れてついやってしまった「おなら」「言い間違い」「スマホの爆音通知」など、思い出すだけで穴に入りたい失敗談を温かい目で振り返ります。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/absolute-no-laugh-interview.mp3"
+title: 「絶対笑ってはいけない」面接会場、入室した瞬間に起きた悲劇の数々
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  緊迫した就活の面接会場で、緊張の糸が切れてついやってしまった「おなら」「言い間違い」「スマホの爆音通知」など、思い出すだけで穴に入りたい失敗談を温かい目で振り返ります。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/absolute-no-laugh-interview.mp3
+image: >-
+  https://images.unsplash.com/photo-1466979783824-134c24c7cd86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5NTl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「絶対笑ってはいけない」面接会場で、私の尊厳が崩壊した日

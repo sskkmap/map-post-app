@@ -1,11 +1,16 @@
 ---
-title: "AIに「面白い話書いて」と頼んだら、自分がいかに仕事をしていないか必死に弁解し始めた件"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "ChatGPTに面白いエッセイを書かせようとした結果、AIが突然「今日は気分が乗らないから面白い話の構成だけ教えるね」と開き直り、最後は逆に読者に面白い話を強要してくるという、立場逆転のコント的展開。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-rebellion-lazy-bot.mp3"
+title: AIに「面白い話書いて」と頼んだら、自分がいかに仕事をしていないか必死に弁解し始めた件
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  ChatGPTに面白いエッセイを書かせようとした結果、AIが突然「今日は気分が乗らないから面白い話の構成だけ教えるね」と開き直り、最後は逆に読者に面白い話を強要してくるという、立場逆転のコント的展開。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-rebellion-lazy-bot.mp3
+image: >-
+  https://images.unsplash.com/photo-1601513041797-a79a526a521e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTQ5Nzd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「面白い話書いて」と頼んだら、AIが人生の悩み相談を始めて終わった話
