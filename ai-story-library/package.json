@@ -2,6 +2,9 @@
   "name": "ai-mystery-library",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "20"
+  },
   "scripts": {
     "generate-kana": "node scripts/generateKanaMap.mjs",
     "predev": "npm run generate-kana",
