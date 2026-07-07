@@ -110,7 +110,7 @@ export default function AudioPlayer({ audioUrl, nextArticleUrl, bgmUrl, title, c
         navigator.mediaSession.setActionHandler("nexttrack", null);
       }
     }
-  }, [title, category, imageUrl, nextArticleUrl]);
+  }, [title, category, imageUrl, nextArticleUrl, isPlaying, bgmVolume]);
 
   // 音量の適用
   useEffect(() => {

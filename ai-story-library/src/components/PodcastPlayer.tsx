@@ -127,6 +127,7 @@ export default function PodcastPlayer({ articles, bgmMap }: { articles: ArticleD
   useEffect(() => {
     const savedRate = localStorage.getItem("playbackRate");
     if (savedRate) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       setPlaybackRate(parseFloat(savedRate));
     }
     

@@ -6,15 +6,15 @@ import { useState, useEffect } from "react";
 interface ShareButtonsProps {
   url?: string;
   title?: string;
-  description?: string;
 }
 
-export default function ShareButtons({ url, title, description }: ShareButtonsProps) {
+export default function ShareButtons({ url, title }: ShareButtonsProps) {
   const [currentUrl, setCurrentUrl] = useState("");
   const [copied, setCopied] = useState(false);
 
   useEffect(() => {
     // サーバーサイドレンダリング時は window.location がないのでクライアント側で取得
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setCurrentUrl(url || window.location.href);
   }, [url]);
 

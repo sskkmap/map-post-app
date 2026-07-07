@@ -32,7 +32,9 @@ export default function SpeechReaderUI({ text, colorClass, title = "" }: SpeechR
       return { text: part, startChar, endChar };
     });
     
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setSentenceData(data);
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setTotalChars(currentTotal);
   }, [text]);
 
@@ -94,7 +96,7 @@ export default function SpeechReaderUI({ text, colorClass, title = "" }: SpeechR
     return () => {
       window.removeEventListener("audioProgress", handleAudioProgress);
     };
-  }, [sentenceData, totalChars]);
+  }, [sentenceData, totalChars, title]);
 
   const [isUserScrolling, setIsUserScrolling] = useState(false);
   const scrollTimeoutRef = useRef<NodeJS.Timeout | null>(null);
