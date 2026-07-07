@@ -1,11 +1,16 @@
 ---
-title: "週休3日時代のサバイバル術：休日に「何もしない」ことが、最強の生産性を生む理由"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "「休みの日も自己研鑽しなければ」という強迫観念に警鐘を鳴らす。脳のデフォルト・モード・ネットワークを活性化させ、創造力を最大化するための「意図的な何もしない時間」の作り方と、それが仕事のパフォーマンスに与える驚きの効果を解説する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/art-of-doing-nothing-for-productivity.mp3"
+title: 週休3日時代のサバイバル術：休日に「何もしない」ことが、最強の生産性を生む理由
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  「休みの日も自己研鑽しなければ」という強迫観念に警鐘を鳴らす。脳のデフォルト・モード・ネットワークを活性化させ、創造力を最大化するための「意図的な何もしない時間」の作り方と、それが仕事のパフォーマンスに与える驚きの効果を解説する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/art-of-doing-nothing-for-productivity.mp3
+image: >-
+  https://images.unsplash.com/photo-1641749460561-0e9a55f55342?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1MTd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 週休3日時代のサバイバル術：「何もしない」ことが最強の生産性を生む理由

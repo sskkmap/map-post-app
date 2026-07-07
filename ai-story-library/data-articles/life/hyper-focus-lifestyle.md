@@ -1,11 +1,16 @@
 ---
-title: "「週40時間の労働はもう古い？生産性を1.5倍にする『超集中・超余暇』のライフスタイル」"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "ダラダラと長時間働くよりも、脳のパフォーマンスが高い2〜3時間に全集中し、残りの時間は徹底的に遊ぶという働き方の提案。実際にこのサイクルを取り入れているフリーランスやビジネスパーソンの事例を通じ、人生の幸福度とアウトプットを最大化する方法を探る。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/hyper-focus-lifestyle.mp3"
+title: 「週40時間の労働はもう古い？生産性を1.5倍にする『超集中・超余暇』のライフスタイル」
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  ダラダラと長時間働くよりも、脳のパフォーマンスが高い2〜3時間に全集中し、残りの時間は徹底的に遊ぶという働き方の提案。実際にこのサイクルを取り入れているフリーランスやビジネスパーソンの事例を通じ、人生の幸福度とアウトプットを最大化する方法を探る。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/hyper-focus-lifestyle.mp3
+image: >-
+  https://images.unsplash.com/photo-1472826084753-4f7e8df18800?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1NjN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 週40時間労働はもう古い？生産性を1.5倍にする「超集中・超余暇」という選択

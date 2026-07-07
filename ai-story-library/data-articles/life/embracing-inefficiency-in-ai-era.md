@@ -1,11 +1,16 @@
 ---
-title: "AI時代に「あえて非効率なこと」をして生き残る：人間らしさが最強のブランドになる理由"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "ChatGPTが何でも答えてくれる時代だからこそ、人間がやるべきは「非効率な手間」をかけること。手書きの手紙、対面での雑談、泥臭い現地調査など、あえて面倒なことを選ぶ人が、信頼と独自の付加価値を勝ち取るメカニズムを探ります。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/embracing-inefficiency-in-ai-era.mp3"
+title: AI時代に「あえて非効率なこと」をして生き残る：人間らしさが最強のブランドになる理由
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  ChatGPTが何でも答えてくれる時代だからこそ、人間がやるべきは「非効率な手間」をかけること。手書きの手紙、対面での雑談、泥臭い現地調査など、あえて面倒なことを選ぶ人が、信頼と独自の付加価値を勝ち取るメカニズムを探ります。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/embracing-inefficiency-in-ai-era.mp3
+image: >-
+  https://images.unsplash.com/photo-1562577309-d67db487e6cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1NDF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # AI時代に「あえて非効率」を選ぶ人だけが手にする、圧倒的な「人間力」という名のブランド

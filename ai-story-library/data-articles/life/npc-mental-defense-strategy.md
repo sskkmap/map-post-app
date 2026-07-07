@@ -1,11 +1,16 @@
 ---
-title: "嫌いな上司を「NPC（ノンプレイヤーキャラクター）」として扱う、職場の感情防御術"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "人間関係のストレスを軽減するため、苦手な相手をRPGの背景キャラクターとして客観視する心理テクニックを紹介。感情的に反応せず、淡々とタスクをこなすためのメンタルコントロール法と、職場をゲーム化して楽しむ視点の切り替えを説きます。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/npc-mental-defense-strategy.mp3"
+title: 嫌いな上司を「NPC（ノンプレイヤーキャラクター）」として扱う、職場の感情防御術
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  人間関係のストレスを軽減するため、苦手な相手をRPGの背景キャラクターとして客観視する心理テクニックを紹介。感情的に反応せず、淡々とタスクをこなすためのメンタルコントロール法と、職場をゲーム化して楽しむ視点の切り替えを説きます。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/npc-mental-defense-strategy.mp3
+image: >-
+  https://images.unsplash.com/photo-1523740875376-aa90b6d1fab4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1Nzd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 嫌いな上司は「ただのNPC」——感情を消耗させない職場サバイバル術

@@ -1,11 +1,16 @@
 ---
-title: "30代からの「無駄なプライド」断捨離リスト：身軽になった人だけが手に入れられる圧倒的なスピード感"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "プライドが高いほど人生の難易度は上がる。「分かったふり」をやめ、素直に助けを求め、恥をかくことを恐れなくなった先に何があるのか。心理学的観点から、プライドを捨てた人が手に入れる「人間関係のストレスフリー」と「最短距離の成長」を解説します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/discarding-pointless-pride.mp3"
+title: 30代からの「無駄なプライド」断捨離リスト：身軽になった人だけが手に入れられる圧倒的なスピード感
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  プライドが高いほど人生の難易度は上がる。「分かったふり」をやめ、素直に助けを求め、恥をかくことを恐れなくなった先に何があるのか。心理学的観点から、プライドを捨てた人が手に入れる「人間関係のストレスフリー」と「最短距離の成長」を解説します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/discarding-pointless-pride.mp3
+image: >-
+  https://images.unsplash.com/photo-1736852801771-2a47938a7bc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1MzB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 30代からの「無駄なプライド」断捨離リスト：身軽になった人だけが手に入れられる圧倒的なスピード感

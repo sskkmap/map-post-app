@@ -1,11 +1,16 @@
 ---
-title: "なぜ私たちは「やりたいこと」が見つからないのか？ 答えは探すものではなく「消去法」で作るもの"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "「やりたいこと探し」に疲弊している読者に向けて、ポジティブな探索を辞め、徹底的に「やりたくないこと」を可視化することで、結果的に本当にやるべきことが浮かび上がるプロセスの逆転術を解説する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/finding-purpose-by-elimination.mp3"
+title: なぜ私たちは「やりたいこと」が見つからないのか？ 答えは探すものではなく「消去法」で作るもの
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  「やりたいこと探し」に疲弊している読者に向けて、ポジティブな探索を辞め、徹底的に「やりたくないこと」を可視化することで、結果的に本当にやるべきことが浮かび上がるプロセスの逆転術を解説する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/finding-purpose-by-elimination.mp3
+image: >-
+  https://images.unsplash.com/photo-1472826084753-4f7e8df18800?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1NDV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「やりたいこと」が見つからないあなたへ。答えは探すのではなく「消去法」で浮かび上がらせる

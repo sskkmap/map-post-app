@@ -1,11 +1,16 @@
 ---
-title: "「頑張らないほうがうまくいく」は本当か？脱力系キャリア戦略の真実"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "常に全力投球することで燃え尽きてしまう現代人に対し、あえて80％の力でパフォーマンスを維持する「脱力戦略」の有効性を検証。緩く長く走り続けるためのセルフマネジメント術を提案します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/effortless-career-strategy.mp3"
+title: 「頑張らないほうがうまくいく」は本当か？脱力系キャリア戦略の真実
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  常に全力投球することで燃え尽きてしまう現代人に対し、あえて80％の力でパフォーマンスを維持する「脱力戦略」の有効性を検証。緩く長く走り続けるためのセルフマネジメント術を提案します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/effortless-career-strategy.mp3
+image: >-
+  https://images.unsplash.com/photo-1655848178207-706170a2ff52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1MzJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「頑張りすぎ」が最大の敵？8割の力で最高の結果を出す「脱力系キャリア」の極意

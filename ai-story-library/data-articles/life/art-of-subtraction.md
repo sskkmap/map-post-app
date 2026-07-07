@@ -1,11 +1,16 @@
 ---
-title: "「『やらないことリスト』を毎日更新する：人生の密度を高める究極の引き算術」"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "ToDoリストを作るのではなく、人生の質を下げる「やらないこと（SNSの無駄見、断れない誘い、気乗りしない習慣など）」を毎日リストアップする手法の紹介。選択肢を減らすことで、本当に大切なことに集中するためのエネルギーをいかに確保するかを提案します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/art-of-subtraction.mp3"
+title: 「『やらないことリスト』を毎日更新する：人生の密度を高める究極の引き算術」
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  ToDoリストを作るのではなく、人生の質を下げる「やらないこと（SNSの無駄見、断れない誘い、気乗りしない習慣など）」を毎日リストアップする手法の紹介。選択肢を減らすことで、本当に大切なことに集中するためのエネルギーをいかに確保するかを提案します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/art-of-subtraction.mp3
+image: >-
+  https://images.unsplash.com/photo-1666220657794-6dd939281a7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1MjF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「やらないことリスト」を毎日更新する：人生の密度を高める究極の引き算術

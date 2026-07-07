@@ -1,11 +1,16 @@
 ---
-title: "「丁寧な暮らし」に疲れた人へ。あえて少しだけ「雑に生きる」ことで手に入る生産性と幸福感"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "ミニマリズムや丁寧な暮らしが推奨される風潮に対するアンチテーゼとして、完璧主義を手放し、「60点のクオリティ」で回すことで心の余白と仕事の成果を両立させる具体的な思考法を提案する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/embrace-the-messy-life.mp3"
+title: 「丁寧な暮らし」に疲れた人へ。あえて少しだけ「雑に生きる」ことで手に入る生産性と幸福感
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  ミニマリズムや丁寧な暮らしが推奨される風潮に対するアンチテーゼとして、完璧主義を手放し、「60点のクオリティ」で回すことで心の余白と仕事の成果を両立させる具体的な思考法を提案する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/embrace-the-messy-life.mp3
+image: >-
+  https://images.unsplash.com/photo-1589480562577-f262ad5f49ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1Mzd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「丁寧な暮らし」に疲れたあなたへ。あえて「60点の自分」で生きる技術

@@ -1,11 +1,16 @@
 ---
-title: "「やらないことリスト」を作ったら、年収と睡眠時間が同時に増えた話"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "ToDoリストを捨て、引き算で生きる哲学を実践。自分にとって本当に価値のあるタスクを見極めるための具体的なステップと、残りの時間を「人生の余白」として使うことで得られる幸福感について、具体的な事例を挙げて紹介する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/list-of-not-to-do.mp3"
+title: 「やらないことリスト」を作ったら、年収と睡眠時間が同時に増えた話
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  ToDoリストを捨て、引き算で生きる哲学を実践。自分にとって本当に価値のあるタスクを見極めるための具体的なステップと、残りの時間を「人生の余白」として使うことで得られる幸福感について、具体的な事例を挙げて紹介する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/list-of-not-to-do.mp3
+image: >-
+  https://images.unsplash.com/photo-1628565176530-025986248033?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1Njh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「やらないことリスト」を作ったら、年収と睡眠時間が同時に増えた話

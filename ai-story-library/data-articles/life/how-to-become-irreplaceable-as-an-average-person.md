@@ -1,11 +1,16 @@
 ---
-title: "「何者かになりたい」と焦る君へ。凡人が才能なしで「代わりのいない存在」になるための生存戦略"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "特別な才能がなくても、複数の「中途半端なスキル」を掛け合わせることで市場価値を高める方法を解説。個性を磨くのではなく、自分の適性をパズルのように配置し直すという現実的なキャリア論。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/how-to-become-irreplaceable-as-an-average-person.mp3"
+title: 「何者かになりたい」と焦る君へ。凡人が才能なしで「代わりのいない存在」になるための生存戦略
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  特別な才能がなくても、複数の「中途半端なスキル」を掛け合わせることで市場価値を高める方法を解説。個性を磨くのではなく、自分の適性をパズルのように配置し直すという現実的なキャリア論。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/how-to-become-irreplaceable-as-an-average-person.mp3
+image: >-
+  https://images.unsplash.com/photo-1557489312-fe47cf2187fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1NTl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「何者か」にならなくていい。凡人が「代わりのいない存在」になるための生存戦略

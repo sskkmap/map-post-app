@@ -1,11 +1,16 @@
 ---
-title: "30代からの「人間関係断捨離」：本当の友達が3人いれば、人生は余裕で勝ち組である"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "多くの人と繋がろうとするSNS時代の疲れを解消する提案。人間関係を「広げる」のではなく「深める」ことに特化した生き方を推奨し、余計な付き合いを減らした結果、心と時間にどのような豊かさが生まれるのかを実体験ベースで紹介する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/quality-over-quantity-relationships.mp3"
+title: 30代からの「人間関係断捨離」：本当の友達が3人いれば、人生は余裕で勝ち組である
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  多くの人と繋がろうとするSNS時代の疲れを解消する提案。人間関係を「広げる」のではなく「深める」ことに特化した生き方を推奨し、余計な付き合いを減らした結果、心と時間にどのような豊かさが生まれるのかを実体験ベースで紹介する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/quality-over-quantity-relationships.mp3
+image: >-
+  https://images.unsplash.com/photo-1629772263201-341186d77793?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1ODZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 30代からの「人間関係断捨離」：本当の友達が3人いれば、人生は余裕で勝ち組である

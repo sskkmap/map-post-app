@@ -1,11 +1,16 @@
 ---
-title: "「意識高い系」を卒業した人だけが知る、人生の「中だるみ」を最高に楽しむ方法"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "20代の野心から30代以降の現実路線へシフトする際、多くの人が感じる焦燥感を「第二の青春」と捉え直す提案。無理な成長を捨て、あえて「ほどほど」の幸せを追い求めることで得られる、真の心の豊かさについて考察する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/graduating-from-hustle-culture.mp3"
+title: 「意識高い系」を卒業した人だけが知る、人生の「中だるみ」を最高に楽しむ方法
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  20代の野心から30代以降の現実路線へシフトする際、多くの人が感じる焦燥感を「第二の青春」と捉え直す提案。無理な成長を捨て、あえて「ほどほど」の幸せを追い求めることで得られる、真の心の豊かさについて考察する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/graduating-from-hustle-culture.mp3
+image: >-
+  https://images.unsplash.com/photo-1775172990797-dac8556f2669?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1NTR8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「意識高い系」を卒業した人だけが知る、人生の「中だるみ」を最高に楽しむ方法

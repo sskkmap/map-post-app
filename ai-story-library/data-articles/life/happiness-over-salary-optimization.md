@@ -1,11 +1,16 @@
 ---
-title: "年収アップより幸福度アップ。お金と時間の「交換コスト」を可視化する人生の収支計算書"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "単に年収を追い求めるのではなく、その収入を得るために失っている「時間」や「心の平穏」をコストとして換算し、自分の幸福度を最大化するための賢い人生の投資先を提案します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/happiness-over-salary-optimization.mp3"
+title: 年収アップより幸福度アップ。お金と時間の「交換コスト」を可視化する人生の収支計算書
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  単に年収を追い求めるのではなく、その収入を得るために失っている「時間」や「心の平穏」をコストとして換算し、自分の幸福度を最大化するための賢い人生の投資先を提案します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/happiness-over-salary-optimization.mp3
+image: >-
+  https://images.unsplash.com/photo-1630091693641-b7ea979cea64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1NTd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「年収」という罠を抜け出せ。幸福度を最大化する「人生の収支計算書」のつくり方

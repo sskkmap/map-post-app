@@ -1,11 +1,16 @@
 ---
-title: "30代からの「学び直し」は、実用書より「児童書」を読め"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "大人になるほど難解な本に手を出しがちだが、本質を理解するには児童書こそが最短ルートであると提言。あえて大人向けのビジネス書を封印し、あえて図鑑や絵本を読み込んで仕事に応用した結果をレポートします。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/restart-learning-with-childrens-books.mp3"
+title: 30代からの「学び直し」は、実用書より「児童書」を読め
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  大人になるほど難解な本に手を出しがちだが、本質を理解するには児童書こそが最短ルートであると提言。あえて大人向けのビジネス書を封印し、あえて図鑑や絵本を読み込んで仕事に応用した結果をレポートします。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/restart-learning-with-childrens-books.mp3
+image: >-
+  https://images.unsplash.com/photo-1733259785333-a91fc971710d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1OTF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 30代からの「学び直し」は、実用書より「児童書」を読め

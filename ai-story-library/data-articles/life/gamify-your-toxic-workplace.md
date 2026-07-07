@@ -1,11 +1,16 @@
 ---
-title: "職場の「どうでもいい人間関係」をゲーム感覚でクリアする方法"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "面倒な上司や同僚を「NPC（ノンプレイヤーキャラクター）」として捉え、感情を排して攻略対象として向き合うというマインドセット術。衝突を避けつつ、自分のメンタルを守りながら職場で成果を出すための「ゲーミフィケーション思考」を解説します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/gamify-your-toxic-workplace.mp3"
+title: 職場の「どうでもいい人間関係」をゲーム感覚でクリアする方法
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  面倒な上司や同僚を「NPC（ノンプレイヤーキャラクター）」として捉え、感情を排して攻略対象として向き合うというマインドセット術。衝突を避けつつ、自分のメンタルを守りながら職場で成果を出すための「ゲーミフィケーション思考」を解説します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/gamify-your-toxic-workplace.mp3
+image: >-
+  https://images.unsplash.com/photo-1549627653-65acb97a9894?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1NTB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 職場の「どうでもいい人間関係」を攻略する！面倒な上司を「NPC」と見なすゲーム思考術

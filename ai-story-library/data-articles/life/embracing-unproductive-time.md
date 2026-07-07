@@ -1,11 +1,16 @@
 ---
-title: "仕事の「生産性」に疲れたあなたへ：あえて「無駄な時間」をスケジュールに組み込む重要性"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "常に効率を求められる現代において、意図的に生産性を捨てる時間を設ける「アンプロダクティブ・タイム」の効能を説く。散歩やぼんやりと考え事をする時間が、なぜ結果的にクリエイティブなアイデアやメンタル安定につながるのか、脳科学的エビデンスを交えて検証する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/embracing-unproductive-time.mp3"
+title: 仕事の「生産性」に疲れたあなたへ：あえて「無駄な時間」をスケジュールに組み込む重要性
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  常に効率を求められる現代において、意図的に生産性を捨てる時間を設ける「アンプロダクティブ・タイム」の効能を説く。散歩やぼんやりと考え事をする時間が、なぜ結果的にクリエイティブなアイデアやメンタル安定につながるのか、脳科学的エビデンスを交えて検証する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/embracing-unproductive-time.mp3
+image: >-
+  https://images.unsplash.com/photo-1551708919-74a7f0889da7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1NDN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「生産性」の呪縛を解く：あえて「無駄な時間」をスケジュールに組み込む勇気

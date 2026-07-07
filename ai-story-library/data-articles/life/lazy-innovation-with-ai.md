@@ -1,11 +1,16 @@
 ---
-title: "「嫌な仕事」を自動化するAI活用術：怠惰こそが最高のイノベーションを生む理由"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "「楽をしたい」という純粋な欲望をモチベーションに変え、最新のAIツールを使って面倒な事務作業を極限まで効率化する方法。怠惰を「悪」とせず、知的生産性を上げる武器に変えるためのマインドセットを解説。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/lazy-innovation-with-ai.mp3"
+title: 「嫌な仕事」を自動化するAI活用術：怠惰こそが最高のイノベーションを生む理由
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  「楽をしたい」という純粋な欲望をモチベーションに変え、最新のAIツールを使って面倒な事務作業を極限まで効率化する方法。怠惰を「悪」とせず、知的生産性を上げる武器に変えるためのマインドセットを解説。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/lazy-innovation-with-ai.mp3
+image: >-
+  https://images.unsplash.com/photo-1608178691857-070a7f2606df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1NjV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「嫌な仕事」を自動化せよ：怠惰こそが最高のイノベーションを生む理由

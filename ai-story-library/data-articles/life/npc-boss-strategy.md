@@ -1,11 +1,16 @@
 ---
-title: "嫌いな上司は「NPC」だと思えばいい。職場の人間関係をゲーム感覚で攻略する方法"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "職場をRPGに見立て、理不尽な上司を「クエストの障害物」、面倒なタスクを「経験値稼ぎ」と再定義。感情的に向き合わず、客観的な視点を持つことで精神的ダメージをゼロにするメンタル防衛術を解説します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/npc-boss-strategy.mp3"
+title: 嫌いな上司は「NPC」だと思えばいい。職場の人間関係をゲーム感覚で攻略する方法
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  職場をRPGに見立て、理不尽な上司を「クエストの障害物」、面倒なタスクを「経験値稼ぎ」と再定義。感情的に向き合わず、客観的な視点を持つことで精神的ダメージをゼロにするメンタル防衛術を解説します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/npc-boss-strategy.mp3
+image: >-
+  https://images.unsplash.com/photo-1676450731109-1c15b2fb5f0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1NzV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 職場をRPGに変える。「嫌いな上司」を攻略対象のNPCと見なすメンタル防衛術

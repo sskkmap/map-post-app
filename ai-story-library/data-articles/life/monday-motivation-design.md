@@ -1,11 +1,16 @@
 ---
-title: "月曜の朝が楽しみになる？「平日8割・休日2割」の余白デザイン術"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "週初めの憂鬱を解消するために、あえて平日の夜に「自分が最もワクワクする小さなプロジェクト」を組み込む手法。仕事とプライベートを分断せず、日常にスパイスを効かせることで、人生の体感時間を延ばすテクニックを紹介。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/monday-motivation-design.mp3"
+title: 月曜の朝が楽しみになる？「平日8割・休日2割」の余白デザイン術
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  週初めの憂鬱を解消するために、あえて平日の夜に「自分が最もワクワクする小さなプロジェクト」を組み込む手法。仕事とプライベートを分断せず、日常にスパイスを効かせることで、人生の体感時間を延ばすテクニックを紹介。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/monday-motivation-design.mp3
+image: >-
+  https://images.unsplash.com/photo-1605206731612-e7dc29d3209a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1NzN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 月曜の朝が待ち遠しくなる。「平日8割・休日2割」の余白デザイン術

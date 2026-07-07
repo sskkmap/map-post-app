@@ -1,11 +1,16 @@
 ---
-title: "「30代で人生が詰む」という迷信を笑い飛ばす、大器晩成型のための逆転戦略"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "世間に溢れる早期リタイアや成功のロールモデルに疲れた人へ。人生のタイムラインをあえて長く設定し、50代でピークを迎えるために今から「種まき」をしておくべき、コスパ無視の面白い趣味やスキルの磨き方を提案する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/reverse-strategy-for-late-bloomers.mp3"
+title: 「30代で人生が詰む」という迷信を笑い飛ばす、大器晩成型のための逆転戦略
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  世間に溢れる早期リタイアや成功のロールモデルに疲れた人へ。人生のタイムラインをあえて長く設定し、50代でピークを迎えるために今から「種まき」をしておくべき、コスパ無視の面白い趣味やスキルの磨き方を提案する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/reverse-strategy-for-late-bloomers.mp3
+image: >-
+  https://images.unsplash.com/photo-1658237019554-15cf14f3293a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1OTV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「30代で人生が詰む」なんて嘘。50代で最高傑作を作るための「あえて非効率」な種まき戦略

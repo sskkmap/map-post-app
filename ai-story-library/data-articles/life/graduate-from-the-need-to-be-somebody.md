@@ -1,11 +1,16 @@
 ---
-title: "「何者かになりたい」はもう卒業。平凡な自分を最大限に活かす「ニッチな強み」の掘り起こし術"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "SNSの影響で焦燥感を感じがちな現代人に対し、あえて特別な才能を求めず、過去のささやかな経験や趣味の組み合わせから「自分だけのポジショニング」を見つけるための、自己分析ワークショップ形式の解説記事です。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/graduate-from-the-need-to-be-somebody.mp3"
+title: 「何者かになりたい」はもう卒業。平凡な自分を最大限に活かす「ニッチな強み」の掘り起こし術
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  SNSの影響で焦燥感を感じがちな現代人に対し、あえて特別な才能を求めず、過去のささやかな経験や趣味の組み合わせから「自分だけのポジショニング」を見つけるための、自己分析ワークショップ形式の解説記事です。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/graduate-from-the-need-to-be-somebody.mp3
+image: >-
+  https://images.unsplash.com/photo-1499536442294-5f6f0e84e881?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1NTJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「何者か」になる必要なんてない。平凡なピースを組み合わせてつくる、あなただけの「ニッチな強み」

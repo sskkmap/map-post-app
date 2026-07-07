@@ -1,11 +1,16 @@
 ---
-title: "「何者かになりたい」と焦る20代へ贈る：あえて「何者でもない」を極める時間の価値"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "成功者やインフルエンサーのキラキラした姿と比較して焦燥感に駆られる若者に向け、「何者でもない期間」こそが唯一無二の感性を育む土壌であることを説き、無名時代を最高に楽しむためのマインドセットを伝えます。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/embrace-the-nobody-era.mp3"
+title: 「何者かになりたい」と焦る20代へ贈る：あえて「何者でもない」を極める時間の価値
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  成功者やインフルエンサーのキラキラした姿と比較して焦燥感に駆られる若者に向け、「何者でもない期間」こそが唯一無二の感性を育む土壌であることを説き、無名時代を最高に楽しむためのマインドセットを伝えます。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/embrace-the-nobody-era.mp3
+image: >-
+  https://images.unsplash.com/photo-1676287569499-62bb892d67d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1Mzl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「何者か」になる必要なんてない：焦燥感を武器に変える「何者でもない」贅沢な時間の過ごし方

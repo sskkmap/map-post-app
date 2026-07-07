@@ -1,11 +1,16 @@
 ---
-title: "30代からの「無駄なプライド」の捨て方講座：年下上司に素直に教えを請う技術"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "キャリアを重ねるほど邪魔になる「見栄」をどう解体するか。年下上司や部下に対して「教えてください」と頭を下げることの心理的ハードルを下げ、結果として仕事が驚くほどスムーズに進むメカニズムを解説する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/how-to-discard-useless-pride-in-your-30s.mp3"
+title: 30代からの「無駄なプライド」の捨て方講座：年下上司に素直に教えを請う技術
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  キャリアを重ねるほど邪魔になる「見栄」をどう解体するか。年下上司や部下に対して「教えてください」と頭を下げることの心理的ハードルを下げ、結果として仕事が驚くほどスムーズに進むメカニズムを解説する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/how-to-discard-useless-pride-in-your-30s.mp3
+image: >-
+  https://images.unsplash.com/photo-1548753666-78325d0a0d92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1NjF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 30代からの「無駄なプライド」の捨て方：年下上司に「教えてください」と言える強さ

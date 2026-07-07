@@ -1,11 +1,16 @@
 ---
-title: "年収200万円で心豊かに暮らす「ミニマリスト・サラリーマン」の思考法"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "「稼ぐこと＝幸せ」という固定観念を捨て、あえて年収を抑えて自由時間を最大化した男の暮らしを紹介。お金で解決せず、工夫で解決する生活の楽しみ方と、キャリアに対する独特の価値観を深掘りする。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/minimalist-salaryman-wealth.mp3"
+title: 年収200万円で心豊かに暮らす「ミニマリスト・サラリーマン」の思考法
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  「稼ぐこと＝幸せ」という固定観念を捨て、あえて年収を抑えて自由時間を最大化した男の暮らしを紹介。お金で解決せず、工夫で解決する生活の楽しみ方と、キャリアに対する独特の価値観を深掘りする。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/minimalist-salaryman-wealth.mp3
+image: >-
+  https://images.unsplash.com/photo-1630091693641-b7ea979cea64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1NzB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 年収200万円で「人生の主導権」を取り戻す。ミニマリスト・サラリーマンの幸福論

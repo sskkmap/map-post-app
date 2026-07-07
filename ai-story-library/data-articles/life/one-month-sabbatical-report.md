@@ -1,11 +1,16 @@
 ---
-title: "「人生の夏休み」を1ヶ月取ったら、幸福度はどう変化したか"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "仕事漬けだった会社員が、勇気を出して1ヶ月の休暇を取得。最初の3日は不安に押しつぶされ、1週間で生活リズムが崩れ、2週間目で「人生で本当にやりたいこと」が見えてくるまでの、感情の変化と生活のリアルをレポート。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/one-month-sabbatical-report.mp3"
+title: 「人生の夏休み」を1ヶ月取ったら、幸福度はどう変化したか
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  仕事漬けだった会社員が、勇気を出して1ヶ月の休暇を取得。最初の3日は不安に押しつぶされ、1週間で生活リズムが崩れ、2週間目で「人生で本当にやりたいこと」が見えてくるまでの、感情の変化と生活のリアルをレポート。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/one-month-sabbatical-report.mp3
+image: >-
+  https://images.unsplash.com/photo-1680771761827-b1fdebe06339?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1Nzl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「人生の夏休み」を1ヶ月取ったら、幸福度はどう変化したか。会社員が辿り着いた意外な真実

@@ -1,11 +1,16 @@
 ---
-title: "「30代で転職先を『給与』ではなく『面白そうな人』だけで選んだ男の末路」"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "条件面を一切無視して、尊敬できる経営者がいる会社へ飛び込んだ筆者の体験談。キャリアの安定を捨てた代わりに得られた「一生モノの繋がり」や「予期せぬチャンス」を赤裸々に綴り、現代における「人的資本」の価値について読者に問いかけます。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/choosing-people-over-paycheck.mp3"
+title: 「30代で転職先を『給与』ではなく『面白そうな人』だけで選んだ男の末路」
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  条件面を一切無視して、尊敬できる経営者がいる会社へ飛び込んだ筆者の体験談。キャリアの安定を捨てた代わりに得られた「一生モノの繋がり」や「予期せぬチャンス」を赤裸々に綴り、現代における「人的資本」の価値について読者に問いかけます。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/choosing-people-over-paycheck.mp3
+image: >-
+  https://images.unsplash.com/photo-1551708919-cc12ce6421eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1MjZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 30代で年収を下げて「面白そうな人」についていった男の末路

@@ -1,11 +1,16 @@
 ---
-title: "「やりたいこと」が見つからない人のための、人生の「消去法」戦略"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "夢や目標を見つけようと焦るのではなく、「これだけは絶対にやりたくない」という条件をすべて書き出し、残った選択肢の中から最小単位で試すことで、結果的に天職に辿り着くための逆転の発想術。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/elimination-strategy-for-finding-purpose.mp3"
+title: 「やりたいこと」が見つからない人のための、人生の「消去法」戦略
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  夢や目標を見つけようと焦るのではなく、「これだけは絶対にやりたくない」という条件をすべて書き出し、残った選択肢の中から最小単位で試すことで、結果的に天職に辿り着くための逆転の発想術。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/elimination-strategy-for-finding-purpose.mp3
+image: >-
+  https://images.unsplash.com/photo-1499536442294-5f6f0e84e881?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1MzR8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「やりたいこと」なんてなくていい。人生を好転させる「消去法」という最強の戦略

@@ -1,11 +1,16 @@
 ---
-title: "職場の上司を「攻略対象のNPC」だと思って接してみたら人生が変わった話"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "対人関係のストレスを軽減するために、人間関係をRPGゲームのように客観視する思考法を紹介。苦手な上司を「手強いボス」や「攻略すべきキャラ」として捉えることで、感情を切り離し、冷静にコミュニケーションの最適解を見出すためのメンタルコントロール術を提案する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/boss-as-npc-strategy.mp3"
+title: 職場の上司を「攻略対象のNPC」だと思って接してみたら人生が変わった話
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  対人関係のストレスを軽減するために、人間関係をRPGゲームのように客観視する思考法を紹介。苦手な上司を「手強いボス」や「攻略すべきキャラ」として捉えることで、感情を切り離し、冷静にコミュニケーションの最適解を見出すためのメンタルコントロール術を提案する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/boss-as-npc-strategy.mp3
+image: >-
+  https://images.unsplash.com/photo-1597166637997-9479003f24b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1MjN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 職場の上司を「攻略対象のNPC」だと思って接してみたら、人生がゲームに変わった話

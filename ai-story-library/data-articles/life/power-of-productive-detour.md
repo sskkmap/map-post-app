@@ -1,11 +1,16 @@
 ---
-title: "「明日から使える」を捨てよう。あえて非効率な「寄り道」こそが人生の最強の武器になる理由"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "最短ルートで成功することばかりが推奨される現代において、あえて遠回りや無駄な経験をすることが、中長期的に見ていかに創造性やリスク耐性を高めるのかを、脳科学的・キャリア論的な視点から考察する記事。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/power-of-productive-detour.mp3"
+title: 「明日から使える」を捨てよう。あえて非効率な「寄り道」こそが人生の最強の武器になる理由
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  最短ルートで成功することばかりが推奨される現代において、あえて遠回りや無駄な経験をすることが、中長期的に見ていかに創造性やリスク耐性を高めるのかを、脳科学的・キャリア論的な視点から考察する記事。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/power-of-productive-detour.mp3
+image: >-
+  https://images.unsplash.com/photo-1782330740757-d76b93b0c7fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1ODJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「明日から使える」を捨てよう。あえて非効率な「寄り道」こそが人生の最強の武器になる理由

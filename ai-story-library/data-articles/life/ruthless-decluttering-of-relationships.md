@@ -1,11 +1,16 @@
 ---
-title: "30代からの「人間関係の断捨離」。縁を切るべき相手と、一生大事にすべき相手を見極める残酷な基準"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "ライフステージの変化とともに変わる人間関係の質について、情を捨てて合理的に付き合うべき相手を判別する方法と、孤独を恐れずに自分のエネルギーを優先する重要性を説く。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/ruthless-decluttering-of-relationships.mp3"
+title: 30代からの「人間関係の断捨離」。縁を切るべき相手と、一生大事にすべき相手を見極める残酷な基準
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  ライフステージの変化とともに変わる人間関係の質について、情を捨てて合理的に付き合うべき相手を判別する方法と、孤独を恐れずに自分のエネルギーを優先する重要性を説く。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/ruthless-decluttering-of-relationships.mp3
+image: >-
+  https://images.unsplash.com/photo-1558470252-689a7a78ba0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1OTd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 30代からの「人間関係の断捨離」。縁を切るべき相手と、一生大事にすべき相手を見極める残酷な基準

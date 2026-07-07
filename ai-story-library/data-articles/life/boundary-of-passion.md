@@ -1,11 +1,16 @@
 ---
-title: "「好きを仕事に」が地獄を見た瞬間：情熱を消費して燃え尽きないための「推し」との距離感"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "趣味を仕事にして幸せになれるのは一部の天才だけ？「好き」という感情を維持したまま働くための境界線について。情熱を摩耗させないための自己管理術と、仕事と趣味をあえて切り離すことで得られる心の豊かさについて考察します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/boundary-of-passion.mp3"
+title: 「好きを仕事に」が地獄を見た瞬間：情熱を消費して燃え尽きないための「推し」との距離感
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  趣味を仕事にして幸せになれるのは一部の天才だけ？「好き」という感情を維持したまま働くための境界線について。情熱を摩耗させないための自己管理術と、仕事と趣味をあえて切り離すことで得られる心の豊かさについて考察します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/boundary-of-passion.mp3
+image: >-
+  https://images.unsplash.com/photo-1758518731049-84eef34d8ba2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1MjV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「好き」を仕事にして地獄を見たあなたへ。情熱を燃え尽きさせないための「境界線」の引き方

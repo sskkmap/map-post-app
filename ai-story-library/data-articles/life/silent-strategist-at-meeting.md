@@ -1,11 +1,16 @@
 ---
-title: "会議で黙っている人が実は一番「賢い」と言われる理由"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "沈黙を「無能」と捉える風潮に対し、俯瞰して情報を整理し、重要な局面でだけ発言する「沈黙の戦略」を分析。自己主張の強さよりも重要視されるべき「状況判断力」について深掘りします。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/silent-strategist-at-meeting.mp3"
+title: 会議で黙っている人が実は一番「賢い」と言われる理由
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  沈黙を「無能」と捉える風潮に対し、俯瞰して情報を整理し、重要な局面でだけ発言する「沈黙の戦略」を分析。自己主張の強さよりも重要視されるべき「状況判断力」について深掘りします。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/silent-strategist-at-meeting.mp3
+image: >-
+  https://images.unsplash.com/photo-1482440308425-276ad0f28b19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc2MDB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 会議で黙っている人が実は一番「賢い」と言われる理由

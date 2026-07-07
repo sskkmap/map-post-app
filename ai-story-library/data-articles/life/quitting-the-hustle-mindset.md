@@ -1,11 +1,16 @@
 ---
-title: "「意識高い系」を卒業したあとの景色：無理をしない努力が一番成果を出す科学的根拠"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "常に高いモチベーションを維持しようとして燃え尽きてしまう人に向けて、頑張りすぎない「持続可能な努力」への切り替え方と、リラックスした状態こそが脳のパフォーマンスを最大化するという最新の心理学的事実を紐解きます。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/quitting-the-hustle-mindset.mp3"
+title: 「意識高い系」を卒業したあとの景色：無理をしない努力が一番成果を出す科学的根拠
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  常に高いモチベーションを維持しようとして燃え尽きてしまう人に向けて、頑張りすぎない「持続可能な努力」への切り替え方と、リラックスした状態こそが脳のパフォーマンスを最大化するという最新の心理学的事実を紐解きます。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/quitting-the-hustle-mindset.mp3
+image: >-
+  https://images.unsplash.com/photo-1782330740757-d76b93b0c7fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1ODl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「意識高い系」を卒業したあとの景色：無理をしない努力が一番成果を出す科学的根拠

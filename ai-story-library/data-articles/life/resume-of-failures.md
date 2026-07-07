@@ -1,11 +1,16 @@
 ---
-title: "失敗の履歴書を公開します：輝かしい経歴よりも「やらかし」があなたの信頼度を高める理由"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "完璧主義に陥るビジネスパーソンに向けた提案。成功体験よりも「盛大に失敗した経験」を周囲に共有することで、かえって人間的な魅力と強固な信頼関係が築けるという心理学的事実を考察する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/resume-of-failures.mp3"
+title: 失敗の履歴書を公開します：輝かしい経歴よりも「やらかし」があなたの信頼度を高める理由
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  完璧主義に陥るビジネスパーソンに向けた提案。成功体験よりも「盛大に失敗した経験」を周囲に共有することで、かえって人間的な魅力と強固な信頼関係が築けるという心理学的事実を考察する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/resume-of-failures.mp3
+image: >-
+  https://images.unsplash.com/photo-1640077596566-d53aa00e99fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1OTN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「失敗の履歴書」を公開せよ：なぜあなたの「やらかし」が最強の武器になるのか

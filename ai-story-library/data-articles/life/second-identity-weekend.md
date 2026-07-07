@@ -1,11 +1,16 @@
 ---
-title: "週末だけ「別の人格」になってみる：副業以上に人生を変える「第2のアイデンティティ」の育て方"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "今の仕事の自分とは全く違うキャラクターとして活動するコミュニティや趣味を持つ重要性。会社という枠組みに依存せず、「自分には複数の顔がある」と認識することで、精神的な自立と創造性が劇的に向上するライフハックを紹介します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/second-identity-weekend.mp3"
+title: 週末だけ「別の人格」になってみる：副業以上に人生を変える「第2のアイデンティティ」の育て方
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  今の仕事の自分とは全く違うキャラクターとして活動するコミュニティや趣味を持つ重要性。会社という枠組みに依存せず、「自分には複数の顔がある」と認識することで、精神的な自立と創造性が劇的に向上するライフハックを紹介します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/second-identity-weekend.mp3
+image: >-
+  https://images.unsplash.com/photo-1584907797015-7554cd315667?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1OTh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 週末だけ「別の人格」になってみる：副業以上に人生を変える「第2のアイデンティティ」の育て方

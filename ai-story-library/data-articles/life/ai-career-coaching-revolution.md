@@ -1,11 +1,16 @@
 ---
-title: "AIにキャリア相談をしたら人生が変わった：人間とAIで「天職」を見つけるセルフコーチング術"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "漠然とした不安を抱える読者が、ChatGPTなどのAIを「自分専属の冷徹なキャリアコンサルタント」として活用し、自分の本音を引き出すためのプロンプト活用術と、対話を通じてキャリアの転機を掴むステップを紹介します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/ai-career-coaching-revolution.mp3"
+title: AIにキャリア相談をしたら人生が変わった：人間とAIで「天職」を見つけるセルフコーチング術
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  漠然とした不安を抱える読者が、ChatGPTなどのAIを「自分専属の冷徹なキャリアコンサルタント」として活用し、自分の本音を引き出すためのプロンプト活用術と、対話を通じてキャリアの転機を掴むステップを紹介します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/ai-career-coaching-revolution.mp3
+image: >-
+  https://images.unsplash.com/photo-1547648952-2a382717c505?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1MTZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # AIにキャリア相談をしたら人生が変わった：人間とAIで「天職」を見つけるセルフコーチング術

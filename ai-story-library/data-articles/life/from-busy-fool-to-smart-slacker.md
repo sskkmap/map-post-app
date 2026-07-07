@@ -1,11 +1,16 @@
 ---
-title: "無能な働き者から「有能なサボり魔」に転身するための極意"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "長時間労働こそが正義という価値観を捨て、短い時間で最大の結果を出すための「一点突破・集中主義」を提案。ダラダラと長く働く習慣を捨て、プロの「サボり方（＝エネルギーの温存法）」を身につけるためのガイド。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/from-busy-fool-to-smart-slacker.mp3"
+title: 無能な働き者から「有能なサボり魔」に転身するための極意
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  長時間労働こそが正義という価値観を捨て、短い時間で最大の結果を出すための「一点突破・集中主義」を提案。ダラダラと長く働く習慣を捨て、プロの「サボり方（＝エネルギーの温存法）」を身につけるためのガイド。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/from-busy-fool-to-smart-slacker.mp3
+image: >-
+  https://images.unsplash.com/photo-1684589489429-5ed3156be533?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1NDh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「無能な働き者」を卒業せよ：成果を最大化する「有能なサボり魔」への転身ガイド

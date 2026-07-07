@@ -1,11 +1,15 @@
 ---
-title: "なぜ私たちは「やりたいこと」が見つからないのか？「小さな好奇心」の育て方"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "大きな夢や目標を持つプレッシャーから解放し、日常の些細な「なんとなく気になる」を習慣化することで、自分だけの武器を見つけるためのステップを紹介します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/finding-your-passion-through-curiosity.mp3"
+title: なぜ私たちは「やりたいこと」が見つからないのか？「小さな好奇心」の育て方
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: 大きな夢や目標を持つプレッシャーから解放し、日常の些細な「なんとなく気になる」を習慣化することで、自分だけの武器を見つけるためのステップを紹介します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/finding-your-passion-through-curiosity.mp3
+image: >-
+  https://images.unsplash.com/photo-1610792472421-b81c0943d169?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1NDZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「やりたいことがない」と焦るあなたへ。大きな夢より「小さな好奇心」が人生を変える理由

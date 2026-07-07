@@ -1,11 +1,16 @@
 ---
-title: "「嫌な上司を『モブキャラ』として観察せよ：感情を殺すメタ認知トレーニング」"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "仕事上のストレスを「自分」の問題ではなく「他人の言動」として客観視するための心理テクニックを紹介。上司やクレーマーをゲームやドラマの登場人物（モブキャラ）として捉え、感情を揺らさずにやり過ごすための具体的な思考転換術をレクチャーする。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/mob-character-observation-technique.mp3"
+title: 「嫌な上司を『モブキャラ』として観察せよ：感情を殺すメタ認知トレーニング」
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  仕事上のストレスを「自分」の問題ではなく「他人の言動」として客観視するための心理テクニックを紹介。上司やクレーマーをゲームやドラマの登場人物（モブキャラ）として捉え、感情を揺らさずにやり過ごすための具体的な思考転換術をレクチャーする。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/mob-character-observation-technique.mp3
+image: >-
+  https://images.unsplash.com/photo-1573817291663-a13a25b57466?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1NzJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 嫌な上司を「モブキャラ」として観察せよ：感情を揺らさないメタ認知の技術

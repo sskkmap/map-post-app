@@ -1,11 +1,16 @@
 ---
-title: "「明日辞める」つもりで働くと、仕事のパフォーマンスが劇的に上がる理由"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "「いつでも辞められる」という心理的余裕が、過度な忖度や不要なストレスを排除し、むしろ本質的な成果を生み出す逆説的なメカニズムを解説。心理的安全性と当事者意識の両立について考察します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/quit-tomorrow-work-strategy.mp3"
+title: 「明日辞める」つもりで働くと、仕事のパフォーマンスが劇的に上がる理由
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  「いつでも辞められる」という心理的余裕が、過度な忖度や不要なストレスを排除し、むしろ本質的な成果を生み出す逆説的なメカニズムを解説。心理的安全性と当事者意識の両立について考察します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/quit-tomorrow-work-strategy.mp3
+image: >-
+  https://images.unsplash.com/photo-1531646218238-b4f5b56a5ec7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1ODh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「明日辞める」つもりで働くと、仕事のパフォーマンスが劇的に上がる理由

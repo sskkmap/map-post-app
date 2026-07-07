@@ -1,11 +1,16 @@
 ---
-title: "「明日からやりたくなる」ゴミ拾いの心理学：なぜ成功者はあえて汚い場所を掃除するのか？"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "成功者が運気を高めるために行っているとされる「ゴミ拾い」を、心理学と行動経済学の観点から分析。自己肯定感を高め、周囲の観察眼を鋭くする「掃除の効能」を、科学的根拠を交えて解説する記事。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/psychology-of-picking-up-trash.mp3"
+title: 「明日からやりたくなる」ゴミ拾いの心理学：なぜ成功者はあえて汚い場所を掃除するのか？
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  成功者が運気を高めるために行っているとされる「ゴミ拾い」を、心理学と行動経済学の観点から分析。自己肯定感を高め、周囲の観察眼を鋭くする「掃除の効能」を、科学的根拠を交えて解説する記事。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/psychology-of-picking-up-trash.mp3
+image: >-
+  https://images.unsplash.com/photo-1641749460561-0e9a55f55342?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1ODR8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「明日からやりたくなる」ゴミ拾いの心理学：なぜ成功者はあえて汚い場所を掃除するのか？

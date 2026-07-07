@@ -1,11 +1,16 @@
 ---
-title: "30代からの「人生の断捨離」：所有物と人間関係を半分に減らして見えた、本当の豊かさ"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "年収や肩書きを追い求める競争から降り、持ち物や人間関係を徹底的に削ぎ落とした結果、皮肉にも人生の質が向上したという個人の実験記録。ミニマリズムを「制限」ではなく「自由への切符」として再定義する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/life-decluttering-30s.mp3"
+title: 30代からの「人生の断捨離」：所有物と人間関係を半分に減らして見えた、本当の豊かさ
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  年収や肩書きを追い求める競争から降り、持ち物や人間関係を徹底的に削ぎ落とした結果、皮肉にも人生の質が向上したという個人の実験記録。ミニマリズムを「制限」ではなく「自由への切符」として再定義する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/life-decluttering-30s.mp3
+image: >-
+  https://images.unsplash.com/photo-1640077596566-d53aa00e99fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1NjZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 30代、人生を「半分」に削ぎ落とす。競争を降りた先にあった、皮肉なほど豊かな景色

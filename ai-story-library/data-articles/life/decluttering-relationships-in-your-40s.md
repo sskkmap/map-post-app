@@ -1,11 +1,16 @@
 ---
-title: "40代から始める「人生の断捨離」：人間関係を整理すると時間が増える"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "物理的な持ち物だけでなく、会うべき人・会わなくていい人を見極める重要性を提案。自分の人生を主導権を取り戻すための、冷徹かつポジティブな人間関係のリセット術を紹介します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/decluttering-relationships-in-your-40s.mp3"
+title: 40代から始める「人生の断捨離」：人間関係を整理すると時間が増える
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  物理的な持ち物だけでなく、会うべき人・会わなくていい人を見極める重要性を提案。自分の人生を主導権を取り戻すための、冷徹かつポジティブな人間関係のリセット術を紹介します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/decluttering-relationships-in-your-40s.mp3
+image: >-
+  https://images.unsplash.com/photo-1757492211675-5c8a9be17f4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1Mjh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 40代からの「人間関係の断捨離」：残り時間を最高に使うための冷徹な処方箋

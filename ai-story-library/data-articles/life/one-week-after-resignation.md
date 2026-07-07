@@ -1,11 +1,16 @@
 ---
-title: "「明日から辞める」と上司に言ったあとの1週間の日記"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "退職の意思を伝えた後の、会社での奇妙な居心地の悪さと、逆に吹っ切れて見えてきた職場の人間模様を赤裸々に描く。退職までのカウントダウン中に気づいた「結局、仕事なんてこの程度だったんだ」という教訓を紹介。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/one-week-after-resignation.mp3"
+title: 「明日から辞める」と上司に言ったあとの1週間の日記
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  退職の意思を伝えた後の、会社での奇妙な居心地の悪さと、逆に吹っ切れて見えてきた職場の人間模様を赤裸々に描く。退職までのカウントダウン中に気づいた「結局、仕事なんてこの程度だったんだ」という教訓を紹介。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/one-week-after-resignation.mp3
+image: >-
+  https://images.unsplash.com/photo-1551708919-cc12ce6421eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1ODF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「明日から辞めます」と伝えたあとの、不思議な7日間

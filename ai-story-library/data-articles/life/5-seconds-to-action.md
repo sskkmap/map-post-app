@@ -1,11 +1,16 @@
 ---
-title: "「面倒くさい」は神のサイン。億劫なタスクを片付けるための「5秒脳トレ」"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "心理学的な観点から「面倒」と感じるメカニズムを解説し、意志の力を使わずに動き出すための「5秒ルール」や、脳を騙すタスクの細分化テクニックを紹介。仕事に追われる現代人が、最短距離で重い腰を上げるためのハック術です。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/5-seconds-to-action.mp3"
+title: 「面倒くさい」は神のサイン。億劫なタスクを片付けるための「5秒脳トレ」
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  心理学的な観点から「面倒」と感じるメカニズムを解説し、意志の力を使わずに動き出すための「5秒ルール」や、脳を騙すタスクの細分化テクニックを紹介。仕事に追われる現代人が、最短距離で重い腰を上げるためのハック術です。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/5-seconds-to-action.mp3
+image: >-
+  https://images.unsplash.com/photo-1603205431090-8dcdfcb54897?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1MTR8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「面倒くさい」は神のサイン。億劫なタスクを片付けるための「5秒脳トレ」

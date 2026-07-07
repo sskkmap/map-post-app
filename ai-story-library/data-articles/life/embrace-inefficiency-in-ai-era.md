@@ -1,11 +1,16 @@
 ---
-title: "AI時代に「あえて非効率」を選ぶ：生産性中毒から脱出するための処方箋"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "何でも効率化しようとする現代の働き方に警鐘を鳴らす。あえて遠回りする読書やアナログ作業を取り入れることで、むしろ脳が活性化し、創造的なアイデアが生まれるという科学的根拠と実践法を提案する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/embrace-inefficiency-in-ai-era.mp3"
+title: AI時代に「あえて非効率」を選ぶ：生産性中毒から脱出するための処方箋
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  何でも効率化しようとする現代の働き方に警鐘を鳴らす。あえて遠回りする読書やアナログ作業を取り入れることで、むしろ脳が活性化し、創造的なアイデアが生まれるという科学的根拠と実践法を提案する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/embrace-inefficiency-in-ai-era.mp3
+image: >-
+  https://images.unsplash.com/photo-1623997660493-a4d59ad5b0b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1MzZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # AI時代に「あえて非効率」を選ぶ：生産性中毒から脱出するための処方箋

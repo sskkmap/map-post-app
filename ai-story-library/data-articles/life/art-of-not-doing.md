@@ -1,11 +1,16 @@
 ---
-title: "「やらないことリスト」を極めたら、人生の幸福度が爆上がりした話"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "「やりたいこと」よりも「やらないこと」を決めることが、実は最高の意思決定術であるという説を実体験ベースで紹介。惰性でやっていた習慣を一つずつ手放し、空いた時間と脳のリソースで何が起きたのかを綴ります。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/art-of-not-doing.mp3"
+title: 「やらないことリスト」を極めたら、人生の幸福度が爆上がりした話
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  「やりたいこと」よりも「やらないこと」を決めることが、実は最高の意思決定術であるという説を実体験ベースで紹介。惰性でやっていた習慣を一つずつ手放し、空いた時間と脳のリソースで何が起きたのかを綴ります。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/art-of-not-doing.mp3
+image: >-
+  https://images.unsplash.com/photo-1650546374294-32de380f0461?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1MTl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「やらないことリスト」を極めたら、人生の幸福度が爆上がりした話

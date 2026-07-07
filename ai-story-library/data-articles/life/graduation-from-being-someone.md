@@ -1,11 +1,16 @@
 ---
-title: "「何者かになりたい」を卒業する。普通を極めて「無双」する大人の幸福論"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "特別な肩書きや成功を追い求める疲れから脱却し、自分の手の届く範囲の人間関係や日常を最適化することで得られる「本当の豊かさ」に焦点を当てる。等身大の自分でいながら、圧倒的な充実感を得るためのマインドセットを解説します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/graduation-from-being-someone.mp3"
+title: 「何者かになりたい」を卒業する。普通を極めて「無双」する大人の幸福論
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  特別な肩書きや成功を追い求める疲れから脱却し、自分の手の届く範囲の人間関係や日常を最適化することで得られる「本当の豊かさ」に焦点を当てる。等身大の自分でいながら、圧倒的な充実感を得るためのマインドセットを解説します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/graduation-from-being-someone.mp3
+image: >-
+  https://images.unsplash.com/photo-1568351554857-a9c0f712cd40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzOTc1NTZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「何者かになりたい」を卒業する。普通を極めて「無双」する大人の幸福論
