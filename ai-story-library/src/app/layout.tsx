@@ -44,11 +44,12 @@ export default function RootLayout({
   return (
     <html lang="ja" data-theme="portal">
       <head>
+        <meta name="google-adsense-account" content="ca-pub-3015895490418469" />
         <Script 
-          async 
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3015895490418469" 
+          id="adsbygoogle-init"
+          strategy="beforeInteractive"
           crossOrigin="anonymous"
-          strategy="afterInteractive"
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3015895490418469"
         />
       </head>
       <body
