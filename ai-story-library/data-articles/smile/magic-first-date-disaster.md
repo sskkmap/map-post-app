@@ -1,11 +1,16 @@
 ---
-title: "「初デートで『俺、実はちょっとした魔法が使えるんだ』と嘘をついた男の末路」"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "中二病をこじらせて嘘をついた結果、相手の女性が「じゃあ、この雨を止めてみて」と本気で要求。逃げ場を失い、雨の中で意味不明な呪文を唱え続ける滑稽な数時間を綴る。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/magic-first-date-disaster.mp3"
+title: 「初デートで『俺、実はちょっとした魔法が使えるんだ』と嘘をついた男の末路」
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  中二病をこじらせて嘘をついた結果、相手の女性が「じゃあ、この雨を止めてみて」と本気で要求。逃げ場を失い、雨の中で意味不明な呪文を唱え続ける滑稽な数時間を綴る。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/magic-first-date-disaster.mp3
+image: >-
+  https://images.unsplash.com/photo-1571112421482-ae0eea81cb3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4ODR8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 初デートで「俺、実は魔法使いなんだ」と見栄を張った結果、土砂降りの雨に打たれることになった男の話

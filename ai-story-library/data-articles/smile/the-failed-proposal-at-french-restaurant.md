@@ -1,11 +1,16 @@
 ---
-title: "「絶対に笑ってはいけない」高級フレンチでのプロポーズが、店員さんの「お茶目すぎるミス」で台無しに"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "ロマンチックなプロポーズの瞬間に、店員さんがサプライズ演出を間違えて全く別の（しかもかなり滑稽な）キャラクターの被り物で登場してしまう。重い空気と笑いが混ざり合う、一生忘れられないプロポーズの失敗談。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-failed-proposal-at-french-restaurant.mp3"
+title: 「絶対に笑ってはいけない」高級フレンチでのプロポーズが、店員さんの「お茶目すぎるミス」で台無しに
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  ロマンチックなプロポーズの瞬間に、店員さんがサプライズ演出を間違えて全く別の（しかもかなり滑稽な）キャラクターの被り物で登場してしまう。重い空気と笑いが混ざり合う、一生忘れられないプロポーズの失敗談。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-failed-proposal-at-french-restaurant.mp3
+image: >-
+  https://images.unsplash.com/photo-1601513041797-a79a526a521e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwMjZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「一生忘れられない夜」を贈るはずが…高級フレンチで起きた、前代未聞の爆笑プロポーズ事件

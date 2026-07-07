@@ -1,11 +1,16 @@
 ---
-title: "空港で「一番安い国際線」に乗ったらどこへ行く？行き先を決めない弾丸トリップ"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "成田空港の出発ロビーで、その日一番安く出発できる海外行きチケットを即決購入。手持ちの現金と着の身着のままで、全く馴染みのない国に降り立った筆者が、現地の言語もわからぬまま一日を生き抜くサバイバル体験記。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/destiny-by-the-board.mp3"
+title: 空港で「一番安い国際線」に乗ったらどこへ行く？行き先を決めない弾丸トリップ
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  成田空港の出発ロビーで、その日一番安く出発できる海外行きチケットを即決購入。手持ちの現金と着の身着のままで、全く馴染みのない国に降り立った筆者が、現地の言語もわからぬまま一日を生き抜くサバイバル体験記。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/destiny-by-the-board.mp3
+image: >-
+  https://images.unsplash.com/photo-1727721361159-93adc6ddd89d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwOTF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 行き先は「最安値」の神のみぞ知る。成田空港、ノープラン弾丸トリップの結末

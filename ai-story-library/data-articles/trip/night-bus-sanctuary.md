@@ -1,11 +1,16 @@
 ---
-title: "高級ホテルのスイートルームより「夜行バスの最後列」が落ち着くのはなぜか"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "バックパッカー時代の貧乏旅行の記憶を辿り、大人になった今だからこそ感じる「移動中の狭い空間」の魅力を分析。都会の喧騒から離れ、暗闇とエンジンの振動だけがある非日常な時間を文学的に表現する、大人のためのノスタルジック旅行記。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/night-bus-sanctuary.mp3"
+title: 高級ホテルのスイートルームより「夜行バスの最後列」が落ち着くのはなぜか
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  バックパッカー時代の貧乏旅行の記憶を辿り、大人になった今だからこそ感じる「移動中の狭い空間」の魅力を分析。都会の喧騒から離れ、暗闇とエンジンの振動だけがある非日常な時間を文学的に表現する、大人のためのノスタルジック旅行記。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/night-bus-sanctuary.mp3
+image: >-
+  https://images.unsplash.com/photo-1581520666713-4469279d5662?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3NjJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 揺りかごの暗闇：高級ホテルよりも、夜行バスの最後列が落ち着く理由

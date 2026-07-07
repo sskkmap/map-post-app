@@ -1,11 +1,16 @@
 ---
-title: "美容室で「お任せで」と言った結果、鏡の中に「別の人」が映っていた悲劇"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "「似合うようにしてください」という禁句を美容師に放った末、個性的すぎる髪型に仕上がった実体験。帰り道、すれ違う人全員に二度見され、さらには職場の同僚に気づいてもらえず「初対面の人」として挨拶されるまでのシュールな一日。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-tragedy-of-omakase.mp3"
+title: 美容室で「お任せで」と言った結果、鏡の中に「別の人」が映っていた悲劇
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  「似合うようにしてください」という禁句を美容師に放った末、個性的すぎる髪型に仕上がった実体験。帰り道、すれ違う人全員に二度見され、さらには職場の同僚に気づいてもらえず「初対面の人」として挨拶されるまでのシュールな一日。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-tragedy-of-omakase.mp3
+image: >-
+  https://images.unsplash.com/photo-1568296153059-93d6d9d707d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwNDJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「お任せで」と言った結果、鏡の中に知らないおじさんがいた件

@@ -1,11 +1,16 @@
 ---
-title: "ペットの「絶対やってはいけない寝相」が芸術的すぎた件"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "飼い主にしか見せない、動物たちの「液体化」「変身」「謎のポーズ」写真を一挙公開。なぜその姿勢で寝ようと思ったのか、ペットたちの思考を無理やり推理する、癒やしと爆笑のフォトエッセイ。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-art-of-forbidden-sleeping-poses.mp3"
+title: ペットの「絶対やってはいけない寝相」が芸術的すぎた件
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  飼い主にしか見せない、動物たちの「液体化」「変身」「謎のポーズ」写真を一挙公開。なぜその姿勢で寝ようと思ったのか、ペットたちの思考を無理やり推理する、癒やしと爆笑のフォトエッセイ。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-art-of-forbidden-sleeping-poses.mp3
+image: >-
+  https://images.unsplash.com/photo-1717231857422-3224534911ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwMTd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 芸術か、それともバグか？ペットたちの「絶対やってはいけない寝相」図鑑

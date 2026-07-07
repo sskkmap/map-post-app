@@ -1,11 +1,15 @@
 ---
-title: "「会議中、静かな部屋で鳴り響いた『想定外の着信音』で全員凍りついた話」"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "極めてシリアスな役員会議中、自身のスマホから流れ出したのは「大音量の幼稚園のお遊戯曲」。弁解の余地がない状況で、空気を変えるためにとった渾身の行動とその後。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-unexpected-ringtone.mp3"
+title: 「会議中、静かな部屋で鳴り響いた『想定外の着信音』で全員凍りついた話」
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: 極めてシリアスな役員会議中、自身のスマホから流れ出したのは「大音量の幼稚園のお遊戯曲」。弁解の余地がない状況で、空気を変えるためにとった渾身の行動とその後。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-unexpected-ringtone.mp3
+image: >-
+  https://images.unsplash.com/photo-1762114930983-1d81b9a97929?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwNDR8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 役員会議を「お遊戯会」に変えた、僕の最大のミス

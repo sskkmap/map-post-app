@@ -1,11 +1,16 @@
 ---
-title: "30代からの「おっさん・おばさん化」が止まらない！鏡を見て絶望した瞬間選手権"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "「急に椅子から立ち上がる時に変な声が出る」「カタカナ語が思い出せず擬音で説明する」など、加齢とともに訪れる切なくも笑える日常の現象を読者投稿とともに振り返る共感型コラム。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/hopeless-middle-age-chronicles.mp3"
+title: 30代からの「おっさん・おばさん化」が止まらない！鏡を見て絶望した瞬間選手権
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  「急に椅子から立ち上がる時に変な声が出る」「カタカナ語が思い出せず擬音で説明する」など、加齢とともに訪れる切なくも笑える日常の現象を読者投稿とともに振り返る共感型コラム。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/hopeless-middle-age-chronicles.mp3
+image: >-
+  https://images.unsplash.com/photo-1688552187734-a16eeff68fcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4Nzh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 鏡を見て絶望、そして奇声。我ら30代からの「おっさん・おばさん化」選手権！

@@ -1,11 +1,16 @@
 ---
-title: "「3000円の高級トイレットペーパー」を来客用に用意したら、悲しい事件が起きた話"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "奮発して購入した高級ペーパーを「お客様用」として設置したところ、事情を知らない友人たちがそれを使いまくり、一瞬で芯だけになった光景を目の当たりにする。その後の、一瞬の贅沢と引き換えに金銭感覚が崩壊していく過程をユーモラスに描く。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-tragedy-of-luxury-toilet-paper.mp3"
+title: 「3000円の高級トイレットペーパー」を来客用に用意したら、悲しい事件が起きた話
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  奮発して購入した高級ペーパーを「お客様用」として設置したところ、事情を知らない友人たちがそれを使いまくり、一瞬で芯だけになった光景を目の当たりにする。その後の、一瞬の贅沢と引き換えに金銭感覚が崩壊していく過程をユーモラスに描く。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-tragedy-of-luxury-toilet-paper.mp3
+image: >-
+  https://images.unsplash.com/photo-1543810280-2511de4fe1d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwNDB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 3000円のトイレットペーパーを友人たちに「粉砕」された日の記録

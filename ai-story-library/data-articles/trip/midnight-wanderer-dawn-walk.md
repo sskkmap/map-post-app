@@ -1,11 +1,16 @@
 ---
-title: "終電を逃した街で「夜が明けるまで」の即興ヒッチハイク＆徒歩散策"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "意図的に終電を逃し、タクシーを使わずに早朝の始発まで、その土地の裏路地や深夜営業の店だけを繋いで歩く。知らない街の夜の素顔と、そこで出会う深夜労働者たちの人間ドラマを描く。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/midnight-wanderer-dawn-walk.mp3"
+title: 終電を逃した街で「夜が明けるまで」の即興ヒッチハイク＆徒歩散策
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  意図的に終電を逃し、タクシーを使わずに早朝の始発まで、その土地の裏路地や深夜営業の店だけを繋いで歩く。知らない街の夜の素顔と、そこで出会う深夜労働者たちの人間ドラマを描く。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/midnight-wanderer-dawn-walk.mp3
+image: >-
+  https://images.unsplash.com/photo-1576460951883-553d40263f18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3NTZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 終電後の迷宮：街の「裏の呼吸」を辿る午前2時の徒歩旅行

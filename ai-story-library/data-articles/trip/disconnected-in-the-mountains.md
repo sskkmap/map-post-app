@@ -1,11 +1,16 @@
 ---
-title: "デジタルデトックスのつもりが…電波の入らない山小屋で書き上げた「紙の手書き日記」をそのまま公開"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "スマホを預け、PCもカメラも持たずに1週間山小屋で過ごす旅。デジタル社会から切り離されたことで変化した思考の変化と、不慣れな手書きで綴った素朴な日記をそのまま記事化し、読者に「静寂の時間」を追体験させる構成。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/disconnected-in-the-mountains.mp3"
+title: デジタルデトックスのつもりが…電波の入らない山小屋で書き上げた「紙の手書き日記」をそのまま公開
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  スマホを預け、PCもカメラも持たずに1週間山小屋で過ごす旅。デジタル社会から切り離されたことで変化した思考の変化と、不慣れな手書きで綴った素朴な日記をそのまま記事化し、読者に「静寂の時間」を追体験させる構成。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/disconnected-in-the-mountains.mp3
+image: >-
+  https://images.unsplash.com/photo-1503503330041-4cd943d2b61f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMxMDB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 電波の入らない山小屋で：デジタルデトックスのつもりが、私は「手書き」に救われた

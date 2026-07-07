@@ -1,11 +1,16 @@
 ---
-title: "実録！「お母さんのLINE」が斜め上すぎて会話が成立しない件"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "親世代特有の独特すぎる誤変換や、謎のスタンプ連打、突然の自分語りなど、読者が思わず「うちの親もやる！」と共感してしまう面白LINEのスクリーンショットを集めた紹介記事。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/mom-line-chaos-chronicles.mp3"
+title: 実録！「お母さんのLINE」が斜め上すぎて会話が成立しない件
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  親世代特有の独特すぎる誤変換や、謎のスタンプ連打、突然の自分語りなど、読者が思わず「うちの親もやる！」と共感してしまう面白LINEのスクリーンショットを集めた紹介記事。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/mom-line-chaos-chronicles.mp3
+image: >-
+  https://images.unsplash.com/photo-1731031078169-b3e23ed1225a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4ODl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 実録！「お母さんのLINE」が斜め上すぎて会話が成立しない件

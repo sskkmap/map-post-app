@@ -1,11 +1,16 @@
 ---
-title: "「あえて」終電を逃す旅：深夜2時の無人駅で味わう、静寂とコンビニ飯の贅沢"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "帰宅するふりをして、意図的に終電を逃し、降りたことのない無人駅周辺で夜を明かす実験的企画。深夜の誰もいない街を散策し、一番近いコンビニで買った温かい飲み物とカップ麺で夜明けを待つ。日常の延長線上にある、少しの背徳感と非日常的な孤独を綴る。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/missing-the-last-train-adventure.mp3"
+title: 「あえて」終電を逃す旅：深夜2時の無人駅で味わう、静寂とコンビニ飯の贅沢
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  帰宅するふりをして、意図的に終電を逃し、降りたことのない無人駅周辺で夜を明かす実験的企画。深夜の誰もいない街を散策し、一番近いコンビニで買った温かい飲み物とカップ麺で夜明けを待つ。日常の延長線上にある、少しの背徳感と非日常的な孤独を綴る。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/missing-the-last-train-adventure.mp3
+image: >-
+  https://images.unsplash.com/photo-1607931358565-8f708615cee5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3NjB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 深夜2時の脱走劇：無人駅で味わう、背徳と孤独の贅沢

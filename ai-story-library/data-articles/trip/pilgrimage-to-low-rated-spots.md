@@ -1,11 +1,16 @@
 ---
-title: "Googleマップの「低評価レビュー」を巡る聖地巡礼：酷評の裏側に隠れた隠れた名店を探す"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "あえて評価星2以下の観光地や飲食店だけを巡る旅。酷評されている理由が「店主の愛想が悪い」や「場所がわかりにくい」といった個人的な理由であることを突き止め、実際に行ってみると実はとんでもなく個性的で魅力的な場所だった……という視点の逆転を楽しむ検証企画。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/pilgrimage-to-low-rated-spots.mp3"
+title: Googleマップの「低評価レビュー」を巡る聖地巡礼：酷評の裏側に隠れた隠れた名店を探す
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  あえて評価星2以下の観光地や飲食店だけを巡る旅。酷評されている理由が「店主の愛想が悪い」や「場所がわかりにくい」といった個人的な理由であることを突き止め、実際に行ってみると実はとんでもなく個性的で魅力的な場所だった……という視点の逆転を楽しむ検証企画。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/pilgrimage-to-low-rated-spots.mp3
+image: >-
+  https://images.unsplash.com/photo-1673515335048-ace62cf73a26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3Nzh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 星2つの真実：Googleマップの「酷評」を辿った先にあった極上の体験

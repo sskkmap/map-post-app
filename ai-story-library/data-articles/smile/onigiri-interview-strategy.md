@@ -1,11 +1,16 @@
 ---
-title: "「意識高い系」の面接官に、すべて「おにぎりの具」で答えてみた"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "就活生のフリをして、どんな質問にも「それは鮭ですね」「明太子のような柔軟性が大事かと」と、ひたすらおにぎりの具で返答。面接官が困惑しながらも、なぜか「哲学的な深みがある」と勘違いして面接が進んでしまうシュールなシチュエーションコメディ。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/onigiri-interview-strategy.mp3"
+title: 「意識高い系」の面接官に、すべて「おにぎりの具」で答えてみた
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  就活生のフリをして、どんな質問にも「それは鮭ですね」「明太子のような柔軟性が大事かと」と、ひたすらおにぎりの具で返答。面接官が困惑しながらも、なぜか「哲学的な深みがある」と勘違いして面接が進んでしまうシュールなシチュエーションコメディ。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/onigiri-interview-strategy.mp3
+image: >-
+  https://images.unsplash.com/photo-1782790382566-7c8a2b08d647?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg5MTh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「御社のビジョンは鮭です」——おにぎりの具だけで面接を突破しようとした話

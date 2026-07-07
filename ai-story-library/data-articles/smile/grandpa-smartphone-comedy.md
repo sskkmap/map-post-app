@@ -1,11 +1,16 @@
 ---
-title: "おじいちゃんのスマホ珍プレー！孫とのLINEで繰り広げられた爆笑の誤字・変換ミス全集"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "高齢者がスマホを使い始めた際によくある「予測変換の暴走」や「スタンプの誤爆」に焦点を当てる。孫に送ったはずが近所の人に送られていた、シュールすぎる誤爆メッセージのスクリーンショットを交えて解説。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/grandpa-smartphone-comedy.mp3"
+title: おじいちゃんのスマホ珍プレー！孫とのLINEで繰り広げられた爆笑の誤字・変換ミス全集
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  高齢者がスマホを使い始めた際によくある「予測変換の暴走」や「スタンプの誤爆」に焦点を当てる。孫に送ったはずが近所の人に送られていた、シュールすぎる誤爆メッセージのスクリーンショットを交えて解説。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/grandpa-smartphone-comedy.mp3
+image: >-
+  https://images.unsplash.com/photo-1648216819813-4f06ffa041d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4NjZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # おじいちゃんのスマホ珍プレー！孫とのLINEで繰り広げられた爆笑の誤字・変換ミス全集

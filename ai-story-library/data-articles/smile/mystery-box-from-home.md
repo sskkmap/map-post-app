@@ -1,11 +1,16 @@
 ---
-title: "実家から届いた「謎の段ボール」の中身がツッコミどころ満載だった件"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "親心で送られてくる仕送りの中に混ざっている「誰が使うねん」「賞味期限どうなってるんだ」という不可解な品々の写真を紹介。箱を開けた瞬間の絶望と、その後に来るシュールな笑いを共有します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/mystery-box-from-home.mp3"
+title: 実家から届いた「謎の段ボール」の中身がツッコミどころ満載だった件
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  親心で送られてくる仕送りの中に混ざっている「誰が使うねん」「賞味期限どうなってるんだ」という不可解な品々の写真を紹介。箱を開けた瞬間の絶望と、その後に来るシュールな笑いを共有します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/mystery-box-from-home.mp3
+image: >-
+  https://images.unsplash.com/photo-1658157338228-e5d8dd0fc20c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg5MTF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 実家から届いた「謎の段ボール」を開封したら、そこはシュールな異世界だった

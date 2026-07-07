@@ -1,11 +1,16 @@
 ---
-title: "「100円ショップの便利グッズだけで24時間サバイバル旅」に挑んでみた"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "キャンプ場や公園など特定の場所で、100円ショップの道具だけを使って寝食を完結させる過酷旅。現地でどんなトラブルが起き、何が一番役に立ったのかを、ユーモアを交えて検証するリアル体験記。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/100yen-shop-survival-trip.mp3"
+title: 「100円ショップの便利グッズだけで24時間サバイバル旅」に挑んでみた
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  キャンプ場や公園など特定の場所で、100円ショップの道具だけを使って寝食を完結させる過酷旅。現地でどんなトラブルが起き、何が一番役に立ったのかを、ユーモアを交えて検証するリアル体験記。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/100yen-shop-survival-trip.mp3
+image: >-
+  https://images.unsplash.com/photo-1604960856119-1cfb25cbe698?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwNzR8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 100円ショップの絆で生き抜く！「所持金1,000円・道具は100均縛り」の24時間サバイバル旅

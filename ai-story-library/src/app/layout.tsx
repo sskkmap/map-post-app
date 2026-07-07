@@ -4,6 +4,7 @@ import "./globals.css";
 import { LayoutGrid, Headphones, BookOpen, PenTool } from "lucide-react";
 import Link from "next/link";
 import Script from "next/script";
+import { GoogleAnalytics } from '@next/third-parties/google';
 import ThemeProvider from "@/components/ThemeProvider";
 import Footer from "@/components/Footer";
 
@@ -19,8 +20,12 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.share-map-bubble.site"),
-  title: "AI CONTENT PORTAL - Bubble-Share",
+  title: {
+    template: "%s | AI CONTENT PORTAL - Bubble-Share",
+    default: "AI CONTENT PORTAL - Bubble-Share",
+  },
   description: "読む・聴く・投稿する・AIと創る。AIコンテンツライブラリ",
+  keywords: ["聞き流し", "作業用", "オーディオ", "小話", "AI", "コンテンツ", "Bubble-Share"],
   openGraph: {
     title: "AI CONTENT PORTAL - Bubble-Share",
     description: "読む・聴く・投稿する・AIと創る。AIコンテンツライブラリ",
@@ -54,6 +59,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased transition-colors duration-700`}
       >
+        <GoogleAnalytics gaId="G-ZJT51D16V3" />
         <ThemeProvider>
           <nav className="fixed top-0 w-full z-50 glass-panel border-b border-white/10 theme-nav">
             <div className="max-w-5xl mx-auto px-4 h-16 flex items-center justify-between">

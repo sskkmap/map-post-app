@@ -1,11 +1,16 @@
 ---
-title: "「逆走」の旅：高級旅館からスタートし、最後はネットカフェで締めくくる贅沢と地獄のコントラスト"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "旅の開始時に予算の8割を高級旅館の一泊に使い果たし、残りの数日間を極貧で生き抜くという無謀な計画。天国と地獄の格差に一喜一憂する、感情の起伏が激しいドキュメンタリー風記事。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/reverse-luxury-to-hell-travel.mp3"
+title: 「逆走」の旅：高級旅館からスタートし、最後はネットカフェで締めくくる贅沢と地獄のコントラスト
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  旅の開始時に予算の8割を高級旅館の一泊に使い果たし、残りの数日間を極貧で生き抜くという無謀な計画。天国と地獄の格差に一喜一憂する、感情の起伏が激しいドキュメンタリー風記事。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/reverse-luxury-to-hell-travel.mp3
+image: >-
+  https://images.unsplash.com/photo-1707073764579-bea8d7f09a08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3ODN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 豪遊の果て、ネカフェの片隅で。予算の8割を「15時間に捧げた」逆走の旅路

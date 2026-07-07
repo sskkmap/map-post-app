@@ -1,11 +1,16 @@
 ---
-title: "AIが書いた「おかんのLINE」を実母に送りつけたら、返信のセンスが破壊的だった件"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "AIに「おかん風のLINE」を書かせて実母に送信し、母親がどう反応するかを検証。しかし、母親の返信がAIの学習データを超越するほどの天然ボケや予測不能なスタンプ攻撃で、AIが逆に「完敗」するまでを描くドキュメンタリー。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-vs-mom-line-battle.mp3"
+title: AIが書いた「おかんのLINE」を実母に送りつけたら、返信のセンスが破壊的だった件
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  AIに「おかん風のLINE」を書かせて実母に送信し、母親がどう反応するかを検証。しかし、母親の返信がAIの学習データを超越するほどの天然ボケや予測不能なスタンプ攻撃で、AIが逆に「完敗」するまでを描くドキュメンタリー。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-vs-mom-line-battle.mp3
+image: >-
+  https://images.unsplash.com/photo-1746811513465-7047fb3f7257?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4NDZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # AIが書いた「おかん風LINE」を実母に送ったら、AIが「完敗」して論理崩壊した話

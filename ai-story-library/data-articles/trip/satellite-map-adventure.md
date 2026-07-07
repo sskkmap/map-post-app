@@ -1,11 +1,16 @@
 ---
-title: "Googleマップの「航空写真」だけを頼りに、迷子になることを楽しむ旅"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "地図の道路表記を信じず、衛星写真で見つけた「何かわからない巨大な謎の物体」や「不自然な道」を目指して歩く冒険記。迷い込んだ先で地元のお年寄りと出会い、思わぬ歴史エピソードを聞き出すまでを追う。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/satellite-map-adventure.mp3"
+title: Googleマップの「航空写真」だけを頼りに、迷子になることを楽しむ旅
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  地図の道路表記を信じず、衛星写真で見つけた「何かわからない巨大な謎の物体」や「不自然な道」を目指して歩く冒険記。迷い込んだ先で地元のお年寄りと出会い、思わぬ歴史エピソードを聞き出すまでを追う。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/satellite-map-adventure.mp3
+image: >-
+  https://images.unsplash.com/photo-1763872686941-b230792e5b9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3OTJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # Googleマップの「衛星」が導いた、地図にない場所の物語

@@ -1,11 +1,16 @@
 ---
-title: "「人生で一番恥ずかしかった『聞き間違い』選手権」開催します"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "日常の何気ない会話で、相手の発言を全く別の意味に変換して受け取ってしまった「勘違いエピソード」を募集・紹介。真面目な会議中に「お腹空いた」を「おかずください」と空耳して盛大に返事をしてしまった話など、読者の共感を呼ぶ失敗談をまとめます。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/biggest-mishearing-mishap.mp3"
+title: 「人生で一番恥ずかしかった『聞き間違い』選手権」開催します
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  日常の何気ない会話で、相手の発言を全く別の意味に変換して受け取ってしまった「勘違いエピソード」を募集・紹介。真面目な会議中に「お腹空いた」を「おかずください」と空耳して盛大に返事をしてしまった話など、読者の共感を呼ぶ失敗談をまとめます。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/biggest-mishearing-mishap.mp3
+image: >-
+  https://images.unsplash.com/photo-1769571302261-36321454190a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4NDd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 全人類が赤面！「人生で一番恥ずかしかった『聞き間違い』選手権」開幕

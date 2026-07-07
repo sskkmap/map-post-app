@@ -9,6 +9,8 @@ tags:
 description: >-
   「ねえ、AI。何か一番笑える話をしてくれない？」 
   私は軽い気持ちで、最新のAIチャットボットにそう問いかけた。抱腹絶倒のエピソードで一日の疲れを癒やそうという、ささやかな期待と共に。しかし、返ってき...
+image: >-
+  https://images.unsplash.com/photo-1717402063037-fbfbcd7518b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwNTZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # AIに「一番笑える話」を頼んだら、ナルシストな哲学書が返ってきた件

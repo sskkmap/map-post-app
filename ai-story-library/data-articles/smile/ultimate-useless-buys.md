@@ -1,11 +1,16 @@
 ---
-title: "「これぞ究極の無駄遣い」ネットで勢いでポチって後悔した謎の珍グッズ・ランキング"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "深夜のテンションでつい買ってしまった「光る耳かき」「巨大すぎるクッション」「使い道が不明な銅像」など、届いた瞬間に「なぜ買ったのか」と頭を抱えた、愛すべき失敗購入品をレビューするコラム。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ultimate-useless-buys.mp3"
+title: 「これぞ究極の無駄遣い」ネットで勢いでポチって後悔した謎の珍グッズ・ランキング
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  深夜のテンションでつい買ってしまった「光る耳かき」「巨大すぎるクッション」「使い道が不明な銅像」など、届いた瞬間に「なぜ買ったのか」と頭を抱えた、愛すべき失敗購入品をレビューするコラム。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ultimate-useless-buys.mp3
+image: >-
+  https://images.unsplash.com/photo-1734018959141-c0cf72dc897a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwNTN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 深夜のポチりにはご用心：人生で最も「無駄」を愛した、後悔の珍グッズ・ランキング

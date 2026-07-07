@@ -1,11 +1,16 @@
 ---
-title: "もしも歴史上の偉人が現代で「SNS」を始めたらどうなるか考察してみた"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "織田信長がTwitterで炎上したり、クレオパトラがInstagramで過剰に映えを意識したりするなど、もし偉人が現代ツールを使ったらどうなるかをシミュレーション。本人のキャラ設定を活かした投稿内容を妄想し、そのズレから生まれる滑稽さを描きます。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/historical-figures-on-social-media.mp3"
+title: もしも歴史上の偉人が現代で「SNS」を始めたらどうなるか考察してみた
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  織田信長がTwitterで炎上したり、クレオパトラがInstagramで過剰に映えを意識したりするなど、もし偉人が現代ツールを使ったらどうなるかをシミュレーション。本人のキャラ設定を活かした投稿内容を妄想し、そのズレから生まれる滑稽さを描きます。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/historical-figures-on-social-media.mp3
+image: >-
+  https://images.unsplash.com/photo-1606001918616-734b7dae05fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4NzV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 歴史上の偉人がSNSを始めたら？ 炎上必至の「戦国・古代インスタグラマー」を考察する

@@ -1,11 +1,16 @@
 ---
-title: "30代からの「急に健康に目覚めて逆に体調を崩す」という矛盾の記録"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "深夜に突如筋トレを開始して翌日全身筋肉痛で動けなくなる、高級な青汁を飲んでお腹を壊すなど、健康意識が空回りして自爆していくアラサーの悲哀をコメディタッチで描く。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/health-overdrive-disaster.mp3"
+title: 30代からの「急に健康に目覚めて逆に体調を崩す」という矛盾の記録
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  深夜に突如筋トレを開始して翌日全身筋肉痛で動けなくなる、高級な青汁を飲んでお腹を壊すなど、健康意識が空回りして自爆していくアラサーの悲哀をコメディタッチで描く。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/health-overdrive-disaster.mp3
+image: >-
+  https://images.unsplash.com/photo-1736439170456-4fc027b6a21a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4NzF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 30代、健康に目覚めた結果「むしろ命を削る」ことになった話

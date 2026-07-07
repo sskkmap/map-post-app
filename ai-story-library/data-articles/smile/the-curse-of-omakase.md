@@ -1,11 +1,16 @@
 ---
-title: "美容室で「お任せで」と言った結果、鏡に映ったのは見知らぬ自分だった話"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "「似合うようにしてください」という魔法の言葉（呪文）を唱えた結果、奇抜すぎる髪型になってしまった人々の悲劇。美容師との微妙な空気感や、帰宅後に家族から放たれた衝撃の一言までをコミカルに再現します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-curse-of-omakase.mp3"
+title: 美容室で「お任せで」と言った結果、鏡に映ったのは見知らぬ自分だった話
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  「似合うようにしてください」という魔法の言葉（呪文）を唱えた結果、奇抜すぎる髪型になってしまった人々の悲劇。美容師との微妙な空気感や、帰宅後に家族から放たれた衝撃の一言までをコミカルに再現します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-curse-of-omakase.mp3
+image: >-
+  https://images.unsplash.com/photo-1653990467214-3feda54c4ce7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwMjB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「お任せで」の魔法を唱えた代償：鏡の中にいたのは、誰？

@@ -1,11 +1,16 @@
 ---
-title: "「AI翻訳アプリが引き起こした国際的大誤解」：外国人と仲良くなろうとアプリを使ったら、翻訳がポンコツすぎて相手を絶望的に怒らせてしまった、笑うに笑えない勘違いエピソード集。"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: ""
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-translation-disaster.mp3"
+title: >-
+  「AI翻訳アプリが引き起こした国際的大誤解」：外国人と仲良くなろうとアプリを使ったら、翻訳がポンコツすぎて相手を絶望的に怒らせてしまった、笑うに笑えない勘違いエピソード集。
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: ''
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-translation-disaster.mp3
+image: >-
+  https://images.unsplash.com/photo-1729821729034-6d1aede4f14b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4NDR8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 善意の翻訳、悪意の誤変換：AIアプリで国際交流しようとして地獄を見た話

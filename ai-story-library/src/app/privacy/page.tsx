@@ -1,4 +1,10 @@
+import { Metadata } from "next";
 import Breadcrumb from "@/components/Breadcrumb";
+
+export const metadata: Metadata = {
+  title: "プライバシーポリシー",
+  description: "AI CONTENT PORTAL - Bubble-Share のプライバシーポリシーです。",
+};
 
 export default function PrivacyPolicyPage() {
   return (

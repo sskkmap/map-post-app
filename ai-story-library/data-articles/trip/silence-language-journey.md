@@ -1,11 +1,16 @@
 ---
-title: "言葉が通じない国で「ジェスチャー」だけで一日過ごしたら、人生で一番の友達ができた話"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "海外旅行中、意図的にスマホの翻訳アプリや英語の使用を封印し、身振り手振りのみで現地の人と触れ合う実験的紀行。言葉の壁を超えた時、人はどうやって信頼関係を築くのかという人間ドラマに迫る。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/silence-language-journey.mp3"
+title: 言葉が通じない国で「ジェスチャー」だけで一日過ごしたら、人生で一番の友達ができた話
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  海外旅行中、意図的にスマホの翻訳アプリや英語の使用を封印し、身振り手振りのみで現地の人と触れ合う実験的紀行。言葉の壁を超えた時、人はどうやって信頼関係を築くのかという人間ドラマに迫る。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/silence-language-journey.mp3
+image: >-
+  https://images.unsplash.com/photo-1725649079238-901bf741f65f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3OTR8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 言葉を捨てた日、隣に座った「一生の親友」

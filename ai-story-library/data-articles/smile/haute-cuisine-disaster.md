@@ -1,11 +1,16 @@
 ---
-title: "「実録・高級フレンチでの大失態」：コース料理の品名が読めず、店員に「一番上のやつ」と指さし注文したら、店一番の特大ケーキ（デザート）が最初に運ばれてきた男性の悲劇。"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: ""
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/haute-cuisine-disaster.mp3"
+title: >-
+  「実録・高級フレンチでの大失態」：コース料理の品名が読めず、店員に「一番上のやつ」と指さし注文したら、店一番の特大ケーキ（デザート）が最初に運ばれてきた男性の悲劇。
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: ''
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/haute-cuisine-disaster.mp3
+image: >-
+  https://images.unsplash.com/photo-1613007065691-84bf7ab479ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4Njl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「一番上のやつ」でお願いします！高級フレンチで運ばれてきた“絶望のタワー”

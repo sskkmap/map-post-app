@@ -1,11 +1,16 @@
 ---
-title: "「スマホの充電が切れたら終了」というルールで、知らない街を歩き回る冒険"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "紙の地図と勘だけを頼りに、見知らぬ地方都市を散策。スマホによる検索や現在地の確認を一切封印することで、道端の看板や商店街の張り紙、地元民への道案内など、アナログな手段でしか得られない情報を頼りに目的地を目指す。「迷うこと」こそが最大の娯楽になる過程を描く。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/lost-in-the-analog-city.mp3"
+title: 「スマホの充電が切れたら終了」というルールで、知らない街を歩き回る冒険
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  紙の地図と勘だけを頼りに、見知らぬ地方都市を散策。スマホによる検索や現在地の確認を一切封印することで、道端の看板や商店街の張り紙、地元民への道案内など、アナログな手段でしか得られない情報を頼りに目的地を目指す。「迷うこと」こそが最大の娯楽になる過程を描く。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/lost-in-the-analog-city.mp3
+image: >-
+  https://images.unsplash.com/photo-1546434870-16c5f7a9bc7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3MzV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # スマホを捨てて街へ：充電0％から始まる「迷宮」の歩き方

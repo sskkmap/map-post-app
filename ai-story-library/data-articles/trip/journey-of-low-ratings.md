@@ -1,11 +1,16 @@
 ---
-title: "Googleマップの「低評価レビュー」だけを頼りに観光地を巡る過酷旅"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "あえて絶景や名店を避け、評価が低い飲食店や寂れた観光スポットだけを巡る旅。なぜ低評価なのかを現地で調査し、その「哀愁」や「意外な真実」をレポートする逆転の発想によるエンタメ記事。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/journey-of-low-ratings.mp3"
+title: Googleマップの「低評価レビュー」だけを頼りに観光地を巡る過酷旅
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  あえて絶景や名店を避け、評価が低い飲食店や寂れた観光スポットだけを巡る旅。なぜ低評価なのかを現地で調査し、その「哀愁」や「意外な真実」をレポートする逆転の発想によるエンタメ記事。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/journey-of-low-ratings.mp3
+image: >-
+  https://images.unsplash.com/photo-1464917474204-45ad826a6a13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3MjB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「星1つ」の絶景を求めて：Googleマップの低評価だけを辿る、孤独と哀愁の旅路

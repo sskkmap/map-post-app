@@ -1,11 +1,15 @@
 ---
-title: "美容室での「話しかけられたくない」VS「気まずい」の心理戦、完全攻略マニュアル"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "美容師と客の、お互いに気を使っているようで全く噛み合っていない攻防戦をドラマチックに描き、明日から使える「絶妙な断りテクニック」をユーモラスに提案します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/silent-battle-at-the-salon.mp3"
+title: 美容室での「話しかけられたくない」VS「気まずい」の心理戦、完全攻略マニュアル
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: 美容師と客の、お互いに気を使っているようで全く噛み合っていない攻防戦をドラマチックに描き、明日から使える「絶妙な断りテクニック」をユーモラスに提案します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/silent-battle-at-the-salon.mp3
+image: >-
+  https://images.unsplash.com/photo-1775264047165-d01f87ac328b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg5Mjd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 美容室の「無言の攻防戦」を制せ！沈黙を愛する者のための完全攻略マニュアル

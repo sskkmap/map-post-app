@@ -1,11 +1,16 @@
 ---
-title: "メルカリで「何に使うか分からない謎のガラクタ」を買ってみた結果"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "「使用用途不明」として数百円で出品されていた、見たこともない形状の金属部品を購入。届いた実物を手に、ネット掲示板の住人たちと「これは宇宙人の道具か？それとも……」と全力で妄想を広げ、最終的に判明した「意外すぎる正体」で腰を抜かすまでの一部始終。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/mysterious-junk-mercari.mp3"
+title: メルカリで「何に使うか分からない謎のガラクタ」を買ってみた結果
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  「使用用途不明」として数百円で出品されていた、見たこともない形状の金属部品を購入。届いた実物を手に、ネット掲示板の住人たちと「これは宇宙人の道具か？それとも……」と全力で妄想を広げ、最終的に判明した「意外すぎる正体」で腰を抜かすまでの一部始終。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/mysterious-junk-mercari.mp3
+image: >-
+  https://images.unsplash.com/photo-1748816982276-306ab46c4bec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg5MDV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # メルカリで「用途不明の謎パーツ」を買った結果、人類の叡智（？）に触れてしまった話

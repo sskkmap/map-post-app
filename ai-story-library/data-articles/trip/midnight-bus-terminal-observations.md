@@ -1,11 +1,16 @@
 ---
-title: "終電を逃した夜、24時間営業の「深夜バスセンター」で人間観察記"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "あえて終電を逃し、全国の主要ターミナルにある深夜営業のバス待合所をハシゴする。そこには人生の分岐点にいる人や、謎のルーティンを持つ常連客がいた。夜が明けるまでの静かで少し寂しい、しかし温かい人間ドラマを綴る。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/midnight-bus-terminal-observations.mp3"
+title: 終電を逃した夜、24時間営業の「深夜バスセンター」で人間観察記
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  あえて終電を逃し、全国の主要ターミナルにある深夜営業のバス待合所をハシゴする。そこには人生の分岐点にいる人や、謎のルーティンを持つ常連客がいた。夜が明けるまでの静かで少し寂しい、しかし温かい人間ドラマを綴る。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/midnight-bus-terminal-observations.mp3
+image: >-
+  https://images.unsplash.com/photo-1537820350443-dac23bb6c469?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3NDZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 終電後の「境界線」で：深夜バスセンターで交差する人生の断片

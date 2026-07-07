@@ -1,11 +1,16 @@
 ---
-title: "「絶対に笑ってはいけないオンライン会議」を開催したら、上司の猫が全ての主導権を握った話"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "真面目な進捗報告会で、一人でも笑ったら即退室というルールを課した途端、上司の飼い猫が画面に乱入。カメラの角度を絶妙に操り、マイクをミュートにし、最終的に上司の顔を巨大な肉球で隠し続けるという、猫による会議完全ジャックの一部始終。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/cat-takes-over-zoom-meeting.mp3"
+title: 「絶対に笑ってはいけないオンライン会議」を開催したら、上司の猫が全ての主導権を握った話
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  真面目な進捗報告会で、一人でも笑ったら即退室というルールを課した途端、上司の飼い猫が画面に乱入。カメラの角度を絶妙に操り、マイクをミュートにし、最終的に上司の顔を巨大な肉球で隠し続けるという、猫による会議完全ジャックの一部始終。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/cat-takes-over-zoom-meeting.mp3
+image: >-
+  https://images.unsplash.com/photo-1543596734-951d6f4f052c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4NDl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「絶対に笑ってはいけないオンライン会議」の末路：我が家の上司は猫だった

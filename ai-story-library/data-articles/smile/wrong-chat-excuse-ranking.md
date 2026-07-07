@@ -1,11 +1,16 @@
 ---
-title: "「お前、それ本気で言ってる？」社内チャットの誤爆で判明した、部下の斜め上の言い訳ランキング"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "リモートワーク中に起きた、ビジネスチャットの送信ミス。慌てて送った「やばい言い訳」や、取り繕った結果さらに墓穴を掘ったエピソードを厳選して紹介。読者が「あるある」と共感しつつ、心底笑える失敗談をまとめます。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/wrong-chat-excuse-ranking.mp3"
+title: 「お前、それ本気で言ってる？」社内チャットの誤爆で判明した、部下の斜め上の言い訳ランキング
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  リモートワーク中に起きた、ビジネスチャットの送信ミス。慌てて送った「やばい言い訳」や、取り繕った結果さらに墓穴を掘ったエピソードを厳選して紹介。読者が「あるある」と共感しつつ、心底笑える失敗談をまとめます。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/wrong-chat-excuse-ranking.mp3
+image: >-
+  https://images.unsplash.com/photo-1592295227425-8512e8d6975e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwNTV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「お前、それ本気で言ってる？」社内チャットの誤爆で判明した、部下の斜め上の言い訳ランキング

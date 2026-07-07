@@ -1,11 +1,16 @@
 ---
-title: "コンビニ食だけで「その土地の食」を語ることはできるのか？"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "高級グルメ旅をあえて封印し、現地のコンビニやスーパーで売っている「地元パン」や「ご当地限定カップ麺」だけで3日間過ごす企画。大手チェーンの棚に隠された、その土地ならではの食のこだわりを鋭く分析する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/gourmet-adventure-at-convenience-store.mp3"
+title: コンビニ食だけで「その土地の食」を語ることはできるのか？
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  高級グルメ旅をあえて封印し、現地のコンビニやスーパーで売っている「地元パン」や「ご当地限定カップ麺」だけで3日間過ごす企画。大手チェーンの棚に隠された、その土地ならではの食のこだわりを鋭く分析する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/gourmet-adventure-at-convenience-store.mp3
+image: >-
+  https://images.unsplash.com/photo-1650884226540-d753ff802677?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3MTF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # グルメ旅はもう古い？コンビニ食だけで「その土地の食文化」を解剖してみた

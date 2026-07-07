@@ -1,11 +1,16 @@
 ---
-title: "「旅先で一切スマホを使わない」と決めたら、逆に世界が広がりすぎた件"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "地図アプリも翻訳アプリも禁止。紙の地図と、道行く人への「聞き込み」だけで目的地を目指すアナログ旅。スマホを封印することで、地元の人との予想外の交流や、あえて迷い込んだ路地裏での運命的な出会いをドラマチックに描写する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/analog-journey-world-expansion.mp3"
+title: 「旅先で一切スマホを使わない」と決めたら、逆に世界が広がりすぎた件
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  地図アプリも翻訳アプリも禁止。紙の地図と、道行く人への「聞き込み」だけで目的地を目指すアナログ旅。スマホを封印することで、地元の人との予想外の交流や、あえて迷い込んだ路地裏での運命的な出会いをドラマチックに描写する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/analog-journey-world-expansion.mp3
+image: >-
+  https://images.unsplash.com/photo-1504609773096-104ff2c73ba4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwNzd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 旅先でスマホを捨てたら、世界が「解像度」を取り戻した話

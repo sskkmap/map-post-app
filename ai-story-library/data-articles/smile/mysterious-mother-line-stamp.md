@@ -1,11 +1,16 @@
 ---
-title: "実家の母から送られてきた「謎のLINEスタンプ」の解釈を巡る親子の攻防"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "普段スタンプを使わない母が、突然「明らかに誰かと間違えている」意味不明なシュール系スタンプを連打してきた。その真意を問いただすと、とんでもない誤解が発覚したり、母なりの独特なネットリテラシーが炸裂したりする、LINEのやり取りを時系列で追うドキュメンタリー。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/mysterious-mother-line-stamp.mp3"
+title: 実家の母から送られてきた「謎のLINEスタンプ」の解釈を巡る親子の攻防
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  普段スタンプを使わない母が、突然「明らかに誰かと間違えている」意味不明なシュール系スタンプを連打してきた。その真意を問いただすと、とんでもない誤解が発覚したり、母なりの独特なネットリテラシーが炸裂したりする、LINEのやり取りを時系列で追うドキュメンタリー。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/mysterious-mother-line-stamp.mp3
+image: >-
+  https://images.unsplash.com/photo-1717231855057-ccb0aeae914e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg5MDl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 母のLINEがホラー級にカオスな件。スタンプ1つで繰り広げられる「誤解の迷宮」

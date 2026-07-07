@@ -1,11 +1,16 @@
 ---
-title: "深夜の高速道路、サービスエリアの「究極の朝食」を探す0泊3日の弾丸ドライブ"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "目的地を決めず、夜通し走って一番美味しい朝食を食べられるサービスエリアを目指す旅。各地のSAで販売されている限定フードを深夜のテンションで食べ比べ、一番「朝日に向かって食べるのに相応しい一品」を勝手に決定する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/midnight-highway-breakfast-odyssey.mp3"
+title: 深夜の高速道路、サービスエリアの「究極の朝食」を探す0泊3日の弾丸ドライブ
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  目的地を決めず、夜通し走って一番美味しい朝食を食べられるサービスエリアを目指す旅。各地のSAで販売されている限定フードを深夜のテンションで食べ比べ、一番「朝日に向かって食べるのに相応しい一品」を勝手に決定する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/midnight-highway-breakfast-odyssey.mp3
+image: >-
+  https://images.unsplash.com/photo-1549014835-266807bd341e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3NDh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 深夜の高速道路、胃袋を捧げる「究極の朝食」を探す0泊3日の弾丸ドライブ

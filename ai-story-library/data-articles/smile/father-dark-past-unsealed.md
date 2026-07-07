@@ -1,11 +1,16 @@
 ---
-title: "「中二病の過去を持つ父親が、思春期の息子に『黒歴史の封印』を解かれて大パニックになる話」"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "息子が父親のクローゼットの奥から「伝説の魔剣（と名付けたサビた鉄パイプ）」と「世界を支配する術が書かれたノート」を発見。父親が必死に「あれは当時の流行りだ」と言い訳しながら、息子にノートを奪い返そうと必死になるドタバタ劇。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/father-dark-past-unsealed.mp3"
+title: 「中二病の過去を持つ父親が、思春期の息子に『黒歴史の封印』を解かれて大パニックになる話」
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  息子が父親のクローゼットの奥から「伝説の魔剣（と名付けたサビた鉄パイプ）」と「世界を支配する術が書かれたノート」を発見。父親が必死に「あれは当時の流行りだ」と言い訳しながら、息子にノートを奪い返そうと必死になるドタバタ劇。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/father-dark-past-unsealed.mp3
+image: >-
+  https://images.unsplash.com/photo-1604481674661-0bf4155d9d49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4NTh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 封印されし「漆黒の鉄パイプ」と、父の尊厳が崩壊する午後

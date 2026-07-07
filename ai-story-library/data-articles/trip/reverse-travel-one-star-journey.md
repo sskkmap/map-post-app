@@ -1,11 +1,16 @@
 ---
-title: "Googleマップの「評価1」の観光地だけを巡る、逆転の国内旅行"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "あえて絶景や名所を避け、レビューで低評価がついている場所ばかりを訪れる旅。なぜ低評価なのかを実地調査し、「接客が最悪だが料理が最高」「アクセスが最悪だが独り占めできる穴場」など、星の数には表れない本当の魅力を再発見する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/reverse-travel-one-star-journey.mp3"
+title: Googleマップの「評価1」の観光地だけを巡る、逆転の国内旅行
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  あえて絶景や名所を避け、レビューで低評価がついている場所ばかりを訪れる旅。なぜ低評価なのかを実地調査し、「接客が最悪だが料理が最高」「アクセスが最悪だが独り占めできる穴場」など、星の数には表れない本当の魅力を再発見する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/reverse-travel-one-star-journey.mp3
+image: >-
+  https://images.unsplash.com/photo-1526547118874-cdc60d0011e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3ODd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 評価1の絶景を求めて：Googleマップの「不評」を逆手に取った逆転の旅

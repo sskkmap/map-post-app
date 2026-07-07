@@ -1,11 +1,16 @@
 ---
-title: "会議中に「絶対笑ってはいけない」ミッションを自分に課した結果"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "真面目な会議中に、隣の人の髪型がどうしても何かに見えて笑いを堪えることになった体験談。耐えれば耐えるほど面白くなる心理状態と、思わず吹き出してしまった瞬間の言い訳を紹介。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-forbidden-meeting-laugh.mp3"
+title: 会議中に「絶対笑ってはいけない」ミッションを自分に課した結果
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  真面目な会議中に、隣の人の髪型がどうしても何かに見えて笑いを堪えることになった体験談。耐えれば耐えるほど面白くなる心理状態と、思わず吹き出してしまった瞬間の言い訳を紹介。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-forbidden-meeting-laugh.mp3
+image: >-
+  https://images.unsplash.com/photo-1584098737302-1cbd284db96a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwMjh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 会議中に「絶対笑ってはいけない」ミッションを自分に課した結果、地獄を見た話

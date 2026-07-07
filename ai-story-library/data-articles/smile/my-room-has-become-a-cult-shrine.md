@@ -1,11 +1,16 @@
 ---
-title: "「実家に帰ったら、自分の部屋が『謎の宗教施設』になっていた」：久しぶりに帰省した実家の自室が、母親の趣味で過剰なパワーストーンと謎の置物に埋め尽くされ、完全に儀式会場と化していた衝撃の光景。"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: ""
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/my-room-has-become-a-cult-shrine.mp3"
+title: >-
+  「実家に帰ったら、自分の部屋が『謎の宗教施設』になっていた」：久しぶりに帰省した実家の自室が、母親の趣味で過剰なパワーストーンと謎の置物に埋め尽くされ、完全に儀式会場と化していた衝撃の光景。
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: ''
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/my-room-has-become-a-cult-shrine.mp3
+image: >-
+  https://images.unsplash.com/photo-1648216819813-4f06ffa041d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg5MDB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 実家に帰ったら、自室が「謎の教団の総本山」になっていた話

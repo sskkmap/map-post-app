@@ -1,11 +1,16 @@
 ---
-title: "「Googleストリートビュー」で世界一周した気分になり、現地のネットスーパーで取り寄せた食材で晩酌してみた"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "物理的な移動を一切せず、モニター越しに海外の街並みを散策し、その国らしい輸入食材をネットで注文。自宅にいながら「サイバー旅行」でどれだけその土地の空気感を再現できるかに挑む実験的紀行。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/cyber-travel-dinner-around-the-world.mp3"
+title: 「Googleストリートビュー」で世界一周した気分になり、現地のネットスーパーで取り寄せた食材で晩酌してみた
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  物理的な移動を一切せず、モニター越しに海外の街並みを散策し、その国らしい輸入食材をネットで注文。自宅にいながら「サイバー旅行」でどれだけその土地の空気感を再現できるかに挑む実験的紀行。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/cyber-travel-dinner-around-the-world.mp3
+image: >-
+  https://images.unsplash.com/photo-1650884230497-d3459c67f14c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwODl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # パジャマで世界一周：Googleストリートビューと「輸入食材」で挑む究極の自宅旅行記

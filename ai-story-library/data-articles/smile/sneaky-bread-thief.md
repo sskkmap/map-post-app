@@ -1,10 +1,15 @@
 ---
-slug: "sneaky-bread-thief"
-title: "日常で起きたクスッと笑える話"
-date: "2026-07-05"
-category: "動物・ペット"
-tags: ["猫", "食いしん坊", "日常の笑い"]
-description: "我が家の愛猫が繰り広げた、あまりにも大胆なパン泥棒の全貌を公開します。"
+slug: sneaky-bread-thief
+title: 日常で起きたクスッと笑える話
+date: '2026-07-05'
+category: 動物・ペット
+tags:
+  - 猫
+  - 食いしん坊
+  - 日常の笑い
+description: 我が家の愛猫が繰り広げた、あまりにも大胆なパン泥棒の全貌を公開します。
+image: >-
+  https://images.unsplash.com/photo-1725199097099-dfe8d655a643?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg5Mjl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 # 日常で起きたクスッと笑える話
 

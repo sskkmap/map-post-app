@@ -1,11 +1,16 @@
 ---
-title: "「気まずい！美容院で『イケメン風にしてください』と頼んだ結果、とんでもない髪型になった件」"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "お任せでお願いした結果、美容師さんがまさかの「アニメキャラのコスプレカット」を提案。鏡を見た瞬間の絶望と、そこから店を出るまでの必死の言い訳劇をコミカルに描く。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-anime-haircut-disaster.mp3"
+title: 「気まずい！美容院で『イケメン風にしてください』と頼んだ結果、とんでもない髪型になった件」
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  お任せでお願いした結果、美容師さんがまさかの「アニメキャラのコスプレカット」を提案。鏡を見た瞬間の絶望と、そこから店を出るまでの必死の言い訳劇をコミカルに描く。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-anime-haircut-disaster.mp3
+image: >-
+  https://images.unsplash.com/photo-1679802657230-913ddd83a4f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwMTV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「イケメンにしてください」と言った結果、僕の頭が2次元に侵食された話

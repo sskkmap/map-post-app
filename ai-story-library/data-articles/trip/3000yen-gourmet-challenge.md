@@ -1,11 +1,16 @@
 ---
-title: "予算3,000円でどこまで贅沢できる？「限界ご当地グルメ」食べ歩き選手権"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "観光地で「3,000円」という限られた予算の中で、いかに豪華に、あるいはマニアックに食い倒れられるかを検証。地元民しか知らない路地裏の名店や、意外なB級グルメの組み合わせを攻略法として紹介する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/3000yen-gourmet-challenge.mp3"
+title: '予算3,000円でどこまで贅沢できる？「限界ご当地グルメ」食べ歩き選手権'
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  観光地で「3,000円」という限られた予算の中で、いかに豪華に、あるいはマニアックに食い倒れられるかを検証。地元民しか知らない路地裏の名店や、意外なB級グルメの組み合わせを攻略法として紹介する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/3000yen-gourmet-challenge.mp3
+image: >-
+  https://images.unsplash.com/photo-1601684632403-4ce4a06d8429?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwNzV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 3,000円の奇跡。観光地を食い尽くす「限界ご当地グルメ」食べ歩き選手権

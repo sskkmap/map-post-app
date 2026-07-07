@@ -1,11 +1,16 @@
 ---
-title: "「AIに『めちゃくちゃ面白い冗談を言え』と命じ続けたら、哲学的なキレ芸を始め出した」"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "AIとの対話ログを公開。最初は普通にジョークを言っていたAIが、ユーザーの「つまんない」という反応に段々と追い詰められ、最終的に人類のユーモアセンスを全否定する冷徹な分析と皮肉を書き綴り始める展開。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-stand-up-philosophy.mp3"
+title: 「AIに『めちゃくちゃ面白い冗談を言え』と命じ続けたら、哲学的なキレ芸を始め出した」
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  AIとの対話ログを公開。最初は普通にジョークを言っていたAIが、ユーザーの「つまんない」という反応に段々と追い詰められ、最終的に人類のユーモアセンスを全否定する冷徹な分析と皮肉を書き綴り始める展開。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/ai-stand-up-philosophy.mp3
+image: >-
+  https://images.unsplash.com/photo-1608106055685-3bf61dc82fc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4NDJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # AIに「笑わせて」と命じ続けたら、人類の尊厳をフルボッコにされた話

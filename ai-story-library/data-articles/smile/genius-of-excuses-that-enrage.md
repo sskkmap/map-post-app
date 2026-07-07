@@ -1,11 +1,16 @@
 ---
-title: "「全力で謝罪しているのに、なぜか怒りを買ってしまう」天才の言い訳集"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "謝っているはずなのに、言葉のチョイスや態度のせいで逆に相手を逆上させてしまった「言い訳の失敗談」を紹介。なぜか悪びれていないように聞こえてしまう、損をするタイプの人々の「不用意な発言」を分析し、反面教師として笑い飛ばします。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/genius-of-excuses-that-enrage.mp3"
+title: 「全力で謝罪しているのに、なぜか怒りを買ってしまう」天才の言い訳集
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  謝っているはずなのに、言葉のチョイスや態度のせいで逆に相手を逆上させてしまった「言い訳の失敗談」を紹介。なぜか悪びれていないように聞こえてしまう、損をするタイプの人々の「不用意な発言」を分析し、反面教師として笑い飛ばします。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/genius-of-excuses-that-enrage.mp3
+image: >-
+  https://images.unsplash.com/photo-1606204701364-c415e7c8462e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4NjR8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 全力で謝罪しているのに、なぜか火に油を注ぐ「天才的な言い訳」列伝

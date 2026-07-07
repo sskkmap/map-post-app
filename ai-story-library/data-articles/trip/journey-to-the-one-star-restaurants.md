@@ -1,11 +1,16 @@
 ---
-title: "Googleマップの「評価1」の店だけを巡る！勇者たちの絶望と奇跡のグルメツアー"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "評価の低い店には、それなりの理由があるのか？実際に現地へ足を運び、あえて酷評された店で食事をしてみる検証企画。不衛生で残念な店に出会うのか、それとも「隠れた名店」に出会ってしまうのか、その予測不可能な旅の記録。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/journey-to-the-one-star-restaurants.mp3"
+title: Googleマップの「評価1」の店だけを巡る！勇者たちの絶望と奇跡のグルメツアー
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  評価の低い店には、それなりの理由があるのか？実際に現地へ足を運び、あえて酷評された店で食事をしてみる検証企画。不衛生で残念な店に出会うのか、それとも「隠れた名店」に出会ってしまうのか、その予測不可能な旅の記録。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/journey-to-the-one-star-restaurants.mp3
+image: >-
+  https://images.unsplash.com/photo-1526547118874-cdc60d0011e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3MjN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 評価「★1」の店だけを巡る！絶望と奇跡のグルメツアーへようこそ

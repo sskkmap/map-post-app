@@ -1,11 +1,16 @@
 ---
-title: "あえて「終電」で降りた駅で、一夜限りの絶景と出会う旅"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "深夜の終電に乗り、サイコロで決めた駅や、なんとなく気になった駅で降りてみる。深夜の静まり返った街の空気感や、早朝の始発が動き出す瞬間の「街が目覚める景色」を写真とエッセイで綴る。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/midnight-journey-unexpected-dawn.mp3"
+title: あえて「終電」で降りた駅で、一夜限りの絶景と出会う旅
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  深夜の終電に乗り、サイコロで決めた駅や、なんとなく気になった駅で降りてみる。深夜の静まり返った街の空気感や、早朝の始発が動き出す瞬間の「街が目覚める景色」を写真とエッセイで綴る。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/midnight-journey-unexpected-dawn.mp3
+image: >-
+  https://images.unsplash.com/photo-1675316045976-324c81ed5922?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3NDl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 終電の果て、誰もいない街が「秘密」を教えてくれるまで

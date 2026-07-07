@@ -1,11 +1,16 @@
 ---
-title: "高級リゾートの格安プランで「どこまで贅沢できるか」を追求する限界調査"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "最高級ホテルの「一番安い素泊まりプラン」だけを予約し、ホテル内の無料サービスやアメニティを極限まで使い倒して、いかに優雅な休日を過ごせるかを競う検証ドキュメント。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/luxury-budget-challenge.mp3"
+title: 高級リゾートの格安プランで「どこまで贅沢できるか」を追求する限界調査
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  最高級ホテルの「一番安い素泊まりプラン」だけを予約し、ホテル内の無料サービスやアメニティを極限まで使い倒して、いかに優雅な休日を過ごせるかを競う検証ドキュメント。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/luxury-budget-challenge.mp3
+image: >-
+  https://images.unsplash.com/photo-1464917474204-45ad826a6a13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3Mzl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 最高級ホテルの「一番安い素泊まり」で、どこまで貴族になれるか検証してみた

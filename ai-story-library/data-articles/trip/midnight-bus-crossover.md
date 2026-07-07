@@ -1,11 +1,16 @@
 ---
-title: "真夜中の夜行バスで隣り合わせた、名前も知らない誰かとの「一夜限りの交信」"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "目的地までの数時間を共にする隣人との、適度な距離感と偶然の出会いを綴るエッセイ。深い夜、消灯後の車内で交わされる小声の会話や、カーテン越しに伝わる気配。旅先での出来事そのものよりも、移動という「狭間」の時間に焦点を当て、人間味溢れる旅の孤独と連帯を描き出す。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/midnight-bus-crossover.mp3"
+title: 真夜中の夜行バスで隣り合わせた、名前も知らない誰かとの「一夜限りの交信」
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  目的地までの数時間を共にする隣人との、適度な距離感と偶然の出会いを綴るエッセイ。深い夜、消灯後の車内で交わされる小声の会話や、カーテン越しに伝わる気配。旅先での出来事そのものよりも、移動という「狭間」の時間に焦点を当て、人間味溢れる旅の孤独と連帯を描き出す。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/midnight-bus-crossover.mp3
+image: >-
+  https://images.unsplash.com/photo-1719498602819-6386a356a211?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3NDR8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 真夜中のバス、カーテンの向こう側にあった「余白」の話

@@ -9,6 +9,8 @@ tags:
 description: >-
   「LINEのスタンプは、感情を補足するもの」。そんな常識は、我が家のおかんには通用しない。
   彼女にとってスタンプとは、もはや前衛芸術であり、時に凶器であり、時に解読不能な暗号である。  今回は、私のス...
+image: >-
+  https://images.unsplash.com/photo-1610792472421-b81c0943d169?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwNjZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 我が家のおかん、LINEスタンプの「用法」が完全に迷子な件

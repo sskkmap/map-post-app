@@ -1,11 +1,16 @@
 ---
-title: "全人類が「心の声」を読み取れる世界で、一番恥をかいたのは誰だ選手権"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "もし他人の本音が筒抜けだったらという設定で、日常の些細な場面で起こるパニックをシミュレーション。エレベーターで「この人臭いな」と思ったら本人も同じことを考えていた、などの「地獄の気まずい瞬間」あるあるを紹介。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/mental-voice-catastrophe-championship.mp3"
+title: 全人類が「心の声」を読み取れる世界で、一番恥をかいたのは誰だ選手権
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  もし他人の本音が筒抜けだったらという設定で、日常の些細な場面で起こるパニックをシミュレーション。エレベーターで「この人臭いな」と思ったら本人も同じことを考えていた、などの「地獄の気まずい瞬間」あるあるを紹介。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/mental-voice-catastrophe-championship.mp3
+image: >-
+  https://images.unsplash.com/photo-1601820554948-804070e88c68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4ODZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 全人類が「心の声」を読み取れる世界で、一番恥をかいたのは誰だ選手権

@@ -1,11 +1,16 @@
 ---
-title: "親のスマホの予測変換履歴が、なぜか「思春期の反抗期男子」みたいになっていた件"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "ある日、親に貸したスマホの予測変換が「しんどい」「まじかよ」「了解（スタンプのみ）」など、明らかに親のキャラと乖離していることに気づく。親子でスマホを交換して数日間過ごした結果、お互いの隠れた性格や苦労が予測変換を通して浮き彫りになる笑いと涙のドキュメント。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/rebellious-smartphone-parent.mp3"
+title: 親のスマホの予測変換履歴が、なぜか「思春期の反抗期男子」みたいになっていた件
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  ある日、親に貸したスマホの予測変換が「しんどい」「まじかよ」「了解（スタンプのみ）」など、明らかに親のキャラと乖離していることに気づく。親子でスマホを交換して数日間過ごした結果、お互いの隠れた性格や苦労が予測変換を通して浮き彫りになる笑いと涙のドキュメント。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/rebellious-smartphone-parent.mp3
+image: >-
+  https://images.unsplash.com/photo-1597083182432-80c5d153f055?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg5MjF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # スマホを貸したら、親が「中二病」に覚醒した件について

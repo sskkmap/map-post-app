@@ -1,7 +1,13 @@
+import { Metadata } from "next";
 import { getAllArticlesGlobal } from "@/lib/articles";
 import PodcastPlayer from "@/components/PodcastPlayer";
 import { Headphones } from "lucide-react";
 import bgmMapData from "@/data/bgmMap.json";
+
+export const metadata: Metadata = {
+  title: "聴く（オーディオ・聞き流し作業用）",
+  description: "AIが生成した小話やストーリーを作業用や聞き流しのオーディオとして連続再生でお楽しみいただけます。",
+};
 
 export default function ListenPage() {
   const articles = getAllArticlesGlobal();

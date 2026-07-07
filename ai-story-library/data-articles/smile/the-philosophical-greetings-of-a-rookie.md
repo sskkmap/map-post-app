@@ -1,11 +1,16 @@
 ---
-title: "新入社員の「お疲れ様です」が一周回って哲学的に聞こえる瞬間ランキング"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "「お疲れ様です」だけで感情の全バリエーションを表現しようとする新入社員の様子を面白おかしく実況。朝の挨拶と退勤時の挨拶が全く同じテンションであることの違和感など、オフィスあるあるを深掘り。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-philosophical-greetings-of-a-rookie.mp3"
+title: 新入社員の「お疲れ様です」が一周回って哲学的に聞こえる瞬間ランキング
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  「お疲れ様です」だけで感情の全バリエーションを表現しようとする新入社員の様子を面白おかしく実況。朝の挨拶と退勤時の挨拶が全く同じテンションであることの違和感など、オフィスあるあるを深掘り。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-philosophical-greetings-of-a-rookie.mp3
+image: >-
+  https://images.unsplash.com/photo-1571478601354-51bea98269bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwMzV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # なぜか深い。新入社員の「お疲れ様です」が一周回って哲学的に聞こえる瞬間ランキング

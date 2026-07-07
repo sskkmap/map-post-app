@@ -1,11 +1,16 @@
 ---
-title: "翻訳ソフトを通さずに現地の市場で「一番高いもの」を買うまで帰れません"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "言葉が通じない海外の市場で、身振り手振りだけで現地の人に交渉し、その店で最も高価なものを買うという無茶な旅。高級品を買うまでのプロセスで現地の人と育まれる、奇妙な友情とコミュニケーションの面白さを追う。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/market-gamble-no-translator.mp3"
+title: 翻訳ソフトを通さずに現地の市場で「一番高いもの」を買うまで帰れません
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  言葉が通じない海外の市場で、身振り手振りだけで現地の人に交渉し、その店で最も高価なものを買うという無茶な旅。高級品を買うまでのプロセスで現地の人と育まれる、奇妙な友情とコミュニケーションの面白さを追う。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/market-gamble-no-translator.mp3
+image: >-
+  https://images.unsplash.com/photo-1576460951883-553d40263f18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3NDB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 言葉は不要、銭で語れ。現地の市場で「一番高いもの」を買い切るまで帰れません

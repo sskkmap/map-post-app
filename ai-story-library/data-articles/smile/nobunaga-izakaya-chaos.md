@@ -1,11 +1,16 @@
 ---
-title: "もしも歴史上の偉人が「現代の飲み会」に参加したら？織田信長が注文した「意外すぎるメニュー」"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "歴史上の偉人が現代の居酒屋に迷い込んだらどうなるか？という妄想。特に織田信長が「本能寺の変」のトラウマで、店員が運んでくる「焼き鳥」に過剰反応して暴走する姿をコミカルに描き出す。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/nobunaga-izakaya-chaos.mp3"
+title: もしも歴史上の偉人が「現代の飲み会」に参加したら？織田信長が注文した「意外すぎるメニュー」
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  歴史上の偉人が現代の居酒屋に迷い込んだらどうなるか？という妄想。特に織田信長が「本能寺の変」のトラウマで、店員が運んでくる「焼き鳥」に過剰反応して暴走する姿をコミカルに描き出す。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/nobunaga-izakaya-chaos.mp3
+image: >-
+  https://images.unsplash.com/photo-1556575157-15758d4d0d19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg5MTZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 織田信長、現代の居酒屋で「焼き鳥」にブチ切れるの巻

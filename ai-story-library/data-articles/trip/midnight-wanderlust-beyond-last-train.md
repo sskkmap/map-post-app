@@ -1,11 +1,16 @@
 ---
-title: "「あえて終電を逃す」という贅沢。深夜2時からの無計画な街歩きで出会った奇跡の景色"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "終電後の静まり返った駅前や、深夜営業の店で見つけた意外な人情。あえて帰る場所をなくすことで、普段の旅行では見えない街の裏側と、深夜特有の解放感を追体験するエッセイ。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/midnight-wanderlust-beyond-last-train.mp3"
+title: 「あえて終電を逃す」という贅沢。深夜2時からの無計画な街歩きで出会った奇跡の景色
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  終電後の静まり返った駅前や、深夜営業の店で見つけた意外な人情。あえて帰る場所をなくすことで、普段の旅行では見えない街の裏側と、深夜特有の解放感を追体験するエッセイ。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/midnight-wanderlust-beyond-last-train.mp3
+image: >-
+  https://images.unsplash.com/photo-1610023926499-571d3b203226?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3NTh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # あえて終電を逃す贅沢。深夜2時の街が教えてくれた「本当の顔」

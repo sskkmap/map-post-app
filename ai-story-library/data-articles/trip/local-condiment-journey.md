@@ -1,11 +1,16 @@
 ---
-title: "旅先のスーパーで「ご当地調味料」だけを買って帰る、禁断の晩酌レシピ企画"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "観光地で定番の土産物ではなく、現地のスーパーの調味料棚だけを深掘り。見たこともない醤油やスパイスを買い込み、帰宅後にそれらを使って「その土地の味」を自宅で再現（または冒険的なアレンジ）する。旅の余韻を食卓で長期間楽しむための、実用的かつマニアックな旅行記。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/local-condiment-journey.mp3"
+title: 旅先のスーパーで「ご当地調味料」だけを買って帰る、禁断の晩酌レシピ企画
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  観光地で定番の土産物ではなく、現地のスーパーの調味料棚だけを深掘り。見たこともない醤油やスパイスを買い込み、帰宅後にそれらを使って「その土地の味」を自宅で再現（または冒険的なアレンジ）する。旅の余韻を食卓で長期間楽しむための、実用的かつマニアックな旅行記。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/local-condiment-journey.mp3
+image: >-
+  https://images.unsplash.com/photo-1754196159624-b6f1a7610a1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3MzB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 旅の土産は「調味料」だけ。スーパーの棚で出会った異国の風を自宅で呑み干す

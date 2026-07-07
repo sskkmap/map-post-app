@@ -1,11 +1,16 @@
 ---
-title: "「Googleマップの評価1.0」の店だけを巡る絶望と奇跡のグルメツアー"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "ネットの評判がすこぶる悪い店に特攻し、実際にその理由を体当たり調査。罵詈雑言の裏側に隠された「店主のこだわり」や「不器用すぎるサービス」を深掘りし、星の数だけでは測れない「食の真実」をコミカルに描き出す。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/google-map-one-star-gourmet-tour.mp3"
+title: 「Googleマップの評価1.0」の店だけを巡る絶望と奇跡のグルメツアー
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  ネットの評判がすこぶる悪い店に特攻し、実際にその理由を体当たり調査。罵詈雑言の裏側に隠された「店主のこだわり」や「不器用すぎるサービス」を深掘りし、星の数だけでは測れない「食の真実」をコミカルに描き出す。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/google-map-one-star-gourmet-tour.mp3
+image: >-
+  https://images.unsplash.com/photo-1570102442187-34804fe363bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3MDl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 星1つには理由がある。Googleマップ「最低評価」の店をあえて巡る絶望と奇跡のグルメ旅

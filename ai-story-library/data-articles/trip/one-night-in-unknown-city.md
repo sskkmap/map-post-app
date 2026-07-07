@@ -1,11 +1,16 @@
 ---
-title: "終電を逃した街で「始発までの24時間」を過ごすドキュメント"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "予期せぬトラブルで帰れなくなったと仮定し、見知らぬ街で朝までどう生き延びるかを描く。深夜営業の銭湯、24時間ファミレスの人間観察、始発を待つ人々の物語を綴り、街の裏の顔を浮き彫りにする。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/one-night-in-unknown-city.mp3"
+title: 終電を逃した街で「始発までの24時間」を過ごすドキュメント
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  予期せぬトラブルで帰れなくなったと仮定し、見知らぬ街で朝までどう生き延びるかを描く。深夜営業の銭湯、24時間ファミレスの人間観察、始発を待つ人々の物語を綴り、街の裏の顔を浮き彫りにする。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/one-night-in-unknown-city.mp3
+image: >-
+  https://images.unsplash.com/photo-1644395628537-4c531de12e57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3NzF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 終電を逃した街で――始発までの「空白」を生き延びる作法

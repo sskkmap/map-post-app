@@ -1,11 +1,16 @@
 ---
-title: "コンビニのレジで起きた「店員との謎の間」選手権"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "「温めますか？」と聞かれた時に、なぜか「あ、大丈夫です（冷たいままでいいという意味）」と答え、店員と静寂に包まれる瞬間など、コンビニあるあるな気まずい瞬間をユーモアたっぷりにランキング化します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/convenience-store-awkward-moments.mp3"
+title: コンビニのレジで起きた「店員との謎の間」選手権
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  「温めますか？」と聞かれた時に、なぜか「あ、大丈夫です（冷たいままでいいという意味）」と答え、店員と静寂に包まれる瞬間など、コンビニあるあるな気まずい瞬間をユーモアたっぷりにランキング化します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/convenience-store-awkward-moments.mp3
+image: >-
+  https://images.unsplash.com/photo-1640999404996-89d3446fd56c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4NTF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # コンビニのレジで起きた「謎の静寂」選手権：あなたの気まずさは何位？

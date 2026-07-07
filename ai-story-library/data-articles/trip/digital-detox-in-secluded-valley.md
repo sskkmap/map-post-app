@@ -1,11 +1,16 @@
 ---
-title: "「日本一の秘境」でWi-Fiを切ってみた。デジタルデトックス24時間のリアルな顛末"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "SNS依存の筆者が、携帯の電波が一切入らない山奥の宿に一泊。退屈と不安に苛まれながらも、次第に五感が研ぎ澄まされていく過程と、帰還直後に待ち受けていた「通知の洪水」に対する恐怖を描くドキュメンタリー。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/digital-detox-in-secluded-valley.mp3"
+title: 「日本一の秘境」でWi-Fiを切ってみた。デジタルデトックス24時間のリアルな顛末
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  SNS依存の筆者が、携帯の電波が一切入らない山奥の宿に一泊。退屈と不安に苛まれながらも、次第に五感が研ぎ澄まされていく過程と、帰還直後に待ち受けていた「通知の洪水」に対する恐怖を描くドキュメンタリー。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/digital-detox-in-secluded-valley.mp3
+image: >-
+  https://images.unsplash.com/photo-1653657747415-dc2e02defdbc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwOTh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「日本一の秘境」でWi-Fiを切ってみた。デジタルデトックス24時間のリアルな顛末

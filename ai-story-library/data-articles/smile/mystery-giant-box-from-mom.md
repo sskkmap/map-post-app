@@ -1,11 +1,16 @@
 ---
-title: "実家の母から送られてきた「謎の巨大段ボール」の中身が予想の斜め上すぎた"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "一人暮らしの家に突然届いた、冷蔵庫が入るレベルの巨大な段ボール。期待を胸に開封すると、中から出てきたのは「大量のトイレットペーパー」と「なぜか半分に切られたスイカ」という謎の組み合わせ。母に電話で理由を聞くと、驚愕の天然すぎる動機が判明するドタバタ劇。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/mystery-giant-box-from-mom.mp3"
+title: 実家の母から送られてきた「謎の巨大段ボール」の中身が予想の斜め上すぎた
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  一人暮らしの家に突然届いた、冷蔵庫が入るレベルの巨大な段ボール。期待を胸に開封すると、中から出てきたのは「大量のトイレットペーパー」と「なぜか半分に切られたスイカ」という謎の組み合わせ。母に電話で理由を聞くと、驚愕の天然すぎる動機が判明するドタバタ劇。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/mystery-giant-box-from-mom.mp3
+image: >-
+  https://images.unsplash.com/photo-1659352786566-fd1c165b3260?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg5MTJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 実家から届いた「冷蔵庫サイズの段ボール」を開けたら、地獄のような光景が広がっていた

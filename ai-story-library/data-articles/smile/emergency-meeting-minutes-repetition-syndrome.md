@@ -1,11 +1,16 @@
 ---
-title: "「全社員が突然『語尾に語尾をつけないと死ぬ病』にかかった社内会議の議事録」"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "社内チャットに流れてきた、深刻な経営会議の議事録が、全員の語尾が語尾を繰り返す仕様になっており、深刻な話ほど語尾の繰り返しが過激化して内容が頭に入ってこない様子を公開する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/emergency-meeting-minutes-repetition-syndrome.mp3"
+title: 「全社員が突然『語尾に語尾をつけないと死ぬ病』にかかった社内会議の議事録」
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  社内チャットに流れてきた、深刻な経営会議の議事録が、全員の語尾が語尾を繰り返す仕様になっており、深刻な話ほど語尾の繰り返しが過激化して内容が頭に入ってこない様子を公開する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/emergency-meeting-minutes-repetition-syndrome.mp3
+image: >-
+  https://images.unsplash.com/photo-1661643887620-04c9807cce01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4NTV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 【緊急速報】全社員が「語尾を繰り返さないと死ぬ病」に罹患した結果、会議が地獄絵図になった件

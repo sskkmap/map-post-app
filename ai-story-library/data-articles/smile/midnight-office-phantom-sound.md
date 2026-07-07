@@ -1,11 +1,16 @@
 ---
-title: "「聞こえるはずのない音」が聞こえる…深夜のオフィスで一人残業した時の恐怖と勘違い"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "深夜のオフィスで怪奇現象かと思い怯えていた投稿者が、震えながら音の正体を突き止めると、そこには意外すぎるほど間抜けな原因が。ホラーの緊張感から一転、脱力感に襲われるまでの心の変化をコミカルに描写。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/midnight-office-phantom-sound.mp3"
+title: 「聞こえるはずのない音」が聞こえる…深夜のオフィスで一人残業した時の恐怖と勘違い
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  深夜のオフィスで怪奇現象かと思い怯えていた投稿者が、震えながら音の正体を突き止めると、そこには意外すぎるほど間抜けな原因が。ホラーの緊張感から一転、脱力感に襲われるまでの心の変化をコミカルに描写。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/midnight-office-phantom-sound.mp3
+image: >-
+  https://images.unsplash.com/photo-1643288102350-7733a53f278a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4ODh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 深夜のオフィスで「呪いの咀嚼音」に震えた結果、起きた悲劇

@@ -1,11 +1,16 @@
 ---
-title: "全校集会で全校生徒が爆笑？校長先生がマイクをオンにしたままトイレに行った結果"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "全校集会の最中、中座した校長先生がマイクを切るのを忘れてしまい、トイレでの「ある音」と「独り言」が体育館中に響き渡ってしまう。生徒たちが必死に笑いを堪えて震える様子と、戻ってきた校長先生の顔面蒼白な表情をシュールに描く。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/principal-microphone-fiasco.mp3"
+title: 全校集会で全校生徒が爆笑？校長先生がマイクをオンにしたままトイレに行った結果
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  全校集会の最中、中座した校長先生がマイクを切るのを忘れてしまい、トイレでの「ある音」と「独り言」が体育館中に響き渡ってしまう。生徒たちが必死に笑いを堪えて震える様子と、戻ってきた校長先生の顔面蒼白な表情をシュールに描く。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/principal-microphone-fiasco.mp3
+image: >-
+  https://images.unsplash.com/photo-1731031078169-b3e23ed1225a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg5MjB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 全校集会の伝説：校長先生が忘れた「最後の一線」

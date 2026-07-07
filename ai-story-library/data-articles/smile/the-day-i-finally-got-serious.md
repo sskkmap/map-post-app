@@ -1,11 +1,16 @@
 ---
-title: "「明日から本気出す」と言い続けて10年、ついに「本気」を出した男の末路"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "「明日から痩せる」「明日から英語をやる」と10年間言い訳し続けた男が、ある日突然、全ての目標を「今日中に達成する」と決意。しかし、気合が入りすぎて、夕方には燃え尽きて虚無になるまでの滑稽な24時間をレポート。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-day-i-finally-got-serious.mp3"
+title: 「明日から本気出す」と言い続けて10年、ついに「本気」を出した男の末路
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  「明日から痩せる」「明日から英語をやる」と10年間言い訳し続けた男が、ある日突然、全ての目標を「今日中に達成する」と決意。しかし、気合が入りすぎて、夕方には燃え尽きて虚無になるまでの滑稽な24時間をレポート。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-day-i-finally-got-serious.mp3
+image: >-
+  https://images.unsplash.com/photo-1622637695717-ca03513a215b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwMjJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「明日から本気出す」のプロ、ついに今日から本気を出す。その末路はあまりに虚無だった

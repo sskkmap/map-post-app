@@ -1,11 +1,16 @@
 ---
-title: "「自分だけが知っている我が家の奇妙なルール」を募集したらカオスすぎた"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "「カレーには必ず醤油をかける」「夜中に謎の儀式をする」など、各家庭の独自の風習や、家族内での謎の言動を共有し、自分の常識が非常識だと気づいてしまう読者参加型の投稿紹介記事。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/my-family-is-chaos.mp3"
+title: 「自分だけが知っている我が家の奇妙なルール」を募集したらカオスすぎた
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  「カレーには必ず醤油をかける」「夜中に謎の儀式をする」など、各家庭の独自の風習や、家族内での謎の言動を共有し、自分の常識が非常識だと気づいてしまう読者参加型の投稿紹介記事。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/my-family-is-chaos.mp3
+image: >-
+  https://images.unsplash.com/photo-1529939620248-273fd31a7cdf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4OTV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「お宅のルール、常識ですか？」我が家の奇妙な風習を募集したらカオスすぎて腹筋が崩壊した件

@@ -1,11 +1,16 @@
 ---
-title: "深夜の高速道路、サービスエリアの「一番端っこ」にある謎の施設を全制覇する旅"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "誰も見向きもしないサービスエリアの隅にあるコインシャワー、古い伝言板、謎の石碑など、「忘れ去られた設備」だけを巡るドライブ旅。単なるトイレ休憩場所だと思っていたSAが、実は深い歴史や人間ドラマの交差点であることを描き出す。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/midnight-sa-hidden-treasures.mp3"
+title: 深夜の高速道路、サービスエリアの「一番端っこ」にある謎の施設を全制覇する旅
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  誰も見向きもしないサービスエリアの隅にあるコインシャワー、古い伝言板、謎の石碑など、「忘れ去られた設備」だけを巡るドライブ旅。単なるトイレ休憩場所だと思っていたSAが、実は深い歴史や人間ドラマの交差点であることを描き出す。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/midnight-sa-hidden-treasures.mp3
+image: >-
+  https://images.unsplash.com/photo-1770385801890-50f2e80c7f46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3NTF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 深夜の高速道路、サービスエリア「一番端っこ」の忘れ物を巡る旅

@@ -1,11 +1,16 @@
 ---
-title: "1万円でどこまで行ける？サイコロと運命に身を任せた「ノープラン格安放浪記」"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "所持金1万円を握りしめ、交通手段をサイコロで決める過酷な旅。限られた予算の中でいかにして豪華な体験を作り出すか、知恵と工夫を凝らしたサバイバル・トラベルの記録。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/dice-travel-survival-10000yen.mp3"
+title: 1万円でどこまで行ける？サイコロと運命に身を任せた「ノープラン格安放浪記」
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  所持金1万円を握りしめ、交通手段をサイコロで決める過酷な旅。限られた予算の中でいかにして豪華な体験を作り出すか、知恵と工夫を凝らしたサバイバル・トラベルの記録。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/dice-travel-survival-10000yen.mp3
+image: >-
+  https://images.unsplash.com/photo-1764267868368-fc7220d13a61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwOTZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 所持金1万円、運命はサイコロに捧ぐ。限界突破のノープラン放浪記

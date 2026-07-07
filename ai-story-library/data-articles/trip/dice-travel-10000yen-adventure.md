@@ -1,11 +1,16 @@
 ---
-title: "1万円でどこまで遠くへ行ける？サイコロと駅のホームで決める行き当たりばったり旅"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "手持ち予算1万円を使い、駅のホームでサイコロを振って行き先を決めるルール。途中下車でその街の名物を必ず食べなければならないという制約を設け、金欠のピンチと予測不能な展開を笑いと共に綴る。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/dice-travel-10000yen-adventure.mp3"
+title: 1万円でどこまで遠くへ行ける？サイコロと駅のホームで決める行き当たりばったり旅
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  手持ち予算1万円を使い、駅のホームでサイコロを振って行き先を決めるルール。途中下車でその街の名物を必ず食べなければならないという制約を設け、金欠のピンチと予測不能な展開を笑いと共に綴る。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/dice-travel-10000yen-adventure.mp3
+image: >-
+  https://images.unsplash.com/photo-1610023926499-571d3b203226?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwOTV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 所持金1万円、サイコロ任せの無鉄砲旅。終電間際の胃袋と戦う「駅のホームの賭け」

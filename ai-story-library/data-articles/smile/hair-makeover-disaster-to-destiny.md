@@ -1,11 +1,16 @@
 ---
-title: "美容室で「お任せで」と言ったら、店員さんがノリノリで人生の転機を迎えさせる髪型にしてきた話"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "「似合うようにしてください」と伝えただけなのに、なぜか店員さんが過度に感情移入し、「今のあなたにはこれが必要です！」と前髪をバッサリ切られ、結果的に失恋したての自分をポジティブに改造されるまでのドタバタ奮闘記。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/hair-makeover-disaster-to-destiny.mp3"
+title: 美容室で「お任せで」と言ったら、店員さんがノリノリで人生の転機を迎えさせる髪型にしてきた話
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  「似合うようにしてください」と伝えただけなのに、なぜか店員さんが過度に感情移入し、「今のあなたにはこれが必要です！」と前髪をバッサリ切られ、結果的に失恋したての自分をポジティブに改造されるまでのドタバタ奮闘記。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/hair-makeover-disaster-to-destiny.mp3
+image: >-
+  https://images.unsplash.com/photo-1762114458182-b02138caf912?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4Njh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「お任せで」と言っただけなのに！美容師の熱血指導で失恋から強制脱却した話

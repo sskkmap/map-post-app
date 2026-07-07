@@ -1,11 +1,16 @@
 ---
-title: "Googleマップの「星1」レビューだけを頼りに弾丸旅行したら、予想外の結末が待っていた"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "あえて評価が極端に低い観光地や飲食店だけを巡る旅。低評価の理由を現地で深掘りすることで、ガイドブックには載らない「知られざる真実」や、意外な穴場スポットを発掘する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/journey-to-the-one-star-destinations.mp3"
+title: Googleマップの「星1」レビューだけを頼りに弾丸旅行したら、予想外の結末が待っていた
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  あえて評価が極端に低い観光地や飲食店だけを巡る旅。低評価の理由を現地で深掘りすることで、ガイドブックには載らない「知られざる真実」や、意外な穴場スポットを発掘する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/journey-to-the-one-star-destinations.mp3
+image: >-
+  https://images.unsplash.com/photo-1729515613256-82ec0224cad0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3MjJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # Googleマップの「星1」だけを巡る旅――酷評の裏側に隠された「真実」を掘り起こす

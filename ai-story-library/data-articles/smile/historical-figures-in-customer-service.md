@@ -1,11 +1,16 @@
 ---
-title: "もしも歴史上の偉人が「現代の接客業」をしたら？クレーム対応で大混乱編"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "織田信長がコンビニの店員だったら、あるいはナポレオンがカフェでバイトをしたら……というIF設定で、持ち前の個性を発揮して逆に客を追い詰めてしまう様子を描いたコント風記事。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/historical-figures-in-customer-service.mp3"
+title: もしも歴史上の偉人が「現代の接客業」をしたら？クレーム対応で大混乱編
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  織田信長がコンビニの店員だったら、あるいはナポレオンがカフェでバイトをしたら……というIF設定で、持ち前の個性を発揮して逆に客を追い詰めてしまう様子を描いたコント風記事。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/historical-figures-in-customer-service.mp3
+image: >-
+  https://images.unsplash.com/photo-1720757742028-35c58a074ea7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4NzN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 歴史上の偉人がコンビニ店員になった結果、客が逃げ出した件

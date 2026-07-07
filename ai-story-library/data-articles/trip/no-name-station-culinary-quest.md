@@ -1,11 +1,16 @@
 ---
-title: "あえて「観光地ゼロ」の無名駅で降りて、地元の人しか知らない絶品グルメを探す旅"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "誰もが通過するだけの小さな駅で下車し、スマホ検索を禁止して「地元民への聞き込み」だけで食事処を探す企画。ガイドブックに載っていない最高の一皿と、そこで出会う人情ドラマを描く。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/no-name-station-culinary-quest.mp3"
+title: あえて「観光地ゼロ」の無名駅で降りて、地元の人しか知らない絶品グルメを探す旅
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  誰もが通過するだけの小さな駅で下車し、スマホ検索を禁止して「地元民への聞き込み」だけで食事処を探す企画。ガイドブックに載っていない最高の一皿と、そこで出会う人情ドラマを描く。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/no-name-station-culinary-quest.mp3
+image: >-
+  https://images.unsplash.com/photo-1688092807424-8f1ee617d5ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3NjR8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 地図を捨て、耳で歩く。名もなき駅で見つけた「人生最高の一皿」

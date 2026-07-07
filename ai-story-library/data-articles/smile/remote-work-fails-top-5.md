@@ -1,11 +1,16 @@
 ---
-title: "親の顔より見た「やらかし」！実録・オンライン会議で全世界に晒した恥ずかしい事故5選"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "テレワーク普及により激増した「マイク切り忘れ」「背景設定ミス」「カメラ越しの家族乱入」など、読者が思わず「自分じゃなくてよかった」と胸をなでおろす、笑えて少し切ない失敗談をランキング形式で紹介します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/remote-work-fails-top-5.mp3"
+title: 親の顔より見た「やらかし」！実録・オンライン会議で全世界に晒した恥ずかしい事故5選
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  テレワーク普及により激増した「マイク切り忘れ」「背景設定ミス」「カメラ越しの家族乱入」など、読者が思わず「自分じゃなくてよかった」と胸をなでおろす、笑えて少し切ない失敗談をランキング形式で紹介します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/remote-work-fails-top-5.mp3
+image: >-
+  https://images.unsplash.com/photo-1713370638896-a2f113ccbe7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg5MjN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 親の顔より見た「やらかし」！実録・オンライン会議で全世界に晒した恥ずかしい事故5選

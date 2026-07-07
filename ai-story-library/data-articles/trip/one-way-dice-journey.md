@@ -1,11 +1,16 @@
 ---
-title: "片道切符とサイコロの旅：駅の改札で運命を決定、最終目的地は神のみぞ知る"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "ルールは「特急券を買うこと」と「サイコロで降りる駅を決めること」だけ。各駅でサイコロを振り、出た目の数だけ先に進む。予算と時間を使い果たした先にある見知らぬ町で、その土地の「一番安い酒場」を探し当てるまでのドキュメンタリー。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/one-way-dice-journey.mp3"
+title: 片道切符とサイコロの旅：駅の改札で運命を決定、最終目的地は神のみぞ知る
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  ルールは「特急券を買うこと」と「サイコロで降りる駅を決めること」だけ。各駅でサイコロを振り、出た目の数だけ先に進む。予算と時間を使い果たした先にある見知らぬ町で、その土地の「一番安い酒場」を探し当てるまでのドキュメンタリー。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/one-way-dice-journey.mp3
+image: >-
+  https://images.unsplash.com/photo-1761933921029-3b71911b939c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3NzZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # サイコロが導く彷徨の果て：運命の特急列車と「一番安い酒場」の奇跡

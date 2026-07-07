@@ -1,11 +1,16 @@
 ---
-title: "誰にも教えたくない「深夜のサービスエリア」だけをハシゴする車中泊の夜"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "目的地に行くことよりも、道中の「深夜のサービスエリア」を目的地にする贅沢な提案。深夜2時に食べる絶品ラーメンや、仮眠中のドライバーたちが醸し出す独特の静寂、早朝のパーキングエリアで見られる美しい朝焼けを情緒的に綴る。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/midnight-sa-journey.mp3"
+title: 誰にも教えたくない「深夜のサービスエリア」だけをハシゴする車中泊の夜
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  目的地に行くことよりも、道中の「深夜のサービスエリア」を目的地にする贅沢な提案。深夜2時に食べる絶品ラーメンや、仮眠中のドライバーたちが醸し出す独特の静寂、早朝のパーキングエリアで見られる美しい朝焼けを情緒的に綴る。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/midnight-sa-journey.mp3
+image: >-
+  https://images.unsplash.com/photo-1532188142562-df556b861e6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3NTN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 目的地は「深夜のサービスエリア」だけ。高速道路で過ごす、禁断の贅沢な夜

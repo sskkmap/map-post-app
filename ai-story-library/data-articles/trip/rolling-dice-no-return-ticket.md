@@ -1,11 +1,16 @@
 ---
-title: "帰りのチケットを持たずに、「サイコロの出目」だけで目的地を決める一週間"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "空港や駅でサイコロを振り、出た目の数だけ隣の県へ移動する、完全無計画なバックパッカー旅。所持金と体力が尽きた場所が旅のゴールとなる過酷なルールの中で、予期せぬトラブルを楽しみ、偶然出会った人との絆に救われる様子を綴る。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/rolling-dice-no-return-ticket.mp3"
+title: 帰りのチケットを持たずに、「サイコロの出目」だけで目的地を決める一週間
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  空港や駅でサイコロを振り、出た目の数だけ隣の県へ移動する、完全無計画なバックパッカー旅。所持金と体力が尽きた場所が旅のゴールとなる過酷なルールの中で、予期せぬトラブルを楽しみ、偶然出会った人との絆に救われる様子を綴る。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/rolling-dice-no-return-ticket.mp3
+image: >-
+  https://images.unsplash.com/photo-1707073764579-bea8d7f09a08?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3OTB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 帰りのチケットは「運」のみ。サイコロが導いた、終わりなき一週間の放浪記

@@ -1,5 +1,11 @@
+import { Metadata } from "next";
 import Breadcrumb from "@/components/Breadcrumb";
 import { Sparkles, Headphones, PenTool } from "lucide-react";
+
+export const metadata: Metadata = {
+  title: "サイトについて",
+  description: "AI CONTENT PORTAL - Bubble-Share について。読む・聴く・AIと創る。無限に広がるコンテンツライブラリです。",
+};
 
 export default function AboutPage() {
   return (

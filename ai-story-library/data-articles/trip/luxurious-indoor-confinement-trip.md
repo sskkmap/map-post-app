@@ -1,11 +1,16 @@
 ---
-title: "高級ホテルのスイートルームを予約して、一歩も外に出ずに24時間過ごす贅沢な監禁旅"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "観光地に行かず、あえて最高級ホテルの客室に引きこもることに全振りした記録。ルームサービスを頼み倒し、備え付けのバスアメニティを使い尽くし、ただひたすら窓の外の景色と内装の細部を観察する、究極のインドア観光の楽しみ方を提案する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/luxurious-indoor-confinement-trip.mp3"
+title: 高級ホテルのスイートルームを予約して、一歩も外に出ずに24時間過ごす贅沢な監禁旅
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  観光地に行かず、あえて最高級ホテルの客室に引きこもることに全振りした記録。ルームサービスを頼み倒し、備え付けのバスアメニティを使い尽くし、ただひたすら窓の外の景色と内装の細部を観察する、究極のインドア観光の楽しみ方を提案する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/luxurious-indoor-confinement-trip.mp3
+image: >-
+  https://images.unsplash.com/photo-1749302860560-92235f8eb7ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3Mzd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「何もしない」を極める。最高級ホテルのスイートルームに24時間、幽閉される贅沢

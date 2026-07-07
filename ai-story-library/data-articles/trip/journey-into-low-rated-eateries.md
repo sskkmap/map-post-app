@@ -1,11 +1,16 @@
 ---
-title: "「Googleマップの低評価レビュー」が高い店だけをあえて行く、勇者のグルメ旅"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "星1〜2のレビューがついている店には、必ず「クセが強すぎる」「店主が個性的すぎる」といった独自の理由がある。あえてその「悪評」の真相を確かめに潜入し、チェーン店では味わえない予測不能な体験と、なぜか癖になる食体験を記録する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/journey-into-low-rated-eateries.mp3"
+title: 「Googleマップの低評価レビュー」が高い店だけをあえて行く、勇者のグルメ旅
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  星1〜2のレビューがついている店には、必ず「クセが強すぎる」「店主が個性的すぎる」といった独自の理由がある。あえてその「悪評」の真相を確かめに潜入し、チェーン店では味わえない予測不能な体験と、なぜか癖になる食体験を記録する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/journey-into-low-rated-eateries.mp3
+image: >-
+  https://images.unsplash.com/photo-1561137832-10d27c2957a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3MTh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # Googleマップの「星1」は宝の山？悪評高き店に突撃する勇者のグルメ旅

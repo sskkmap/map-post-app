@@ -1,11 +1,16 @@
 ---
-title: "「絶対に笑ってはいけない」私の勘違い！日常で起きた恥ずかしすぎる大誤解エピソード5選"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "読者から募集した「スーパーのレジで店員にプロポーズしたと勘違いされた話」や「美容室で鏡越しに目が合った赤の他人に会釈してしまった話」など、誰もが経験しそうな恥ずかしい瞬間を面白おかしく紹介する共感型コラム。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/embarrassing-misunderstandings-collection.mp3"
+title: 「絶対に笑ってはいけない」私の勘違い！日常で起きた恥ずかしすぎる大誤解エピソード5選
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  読者から募集した「スーパーのレジで店員にプロポーズしたと勘違いされた話」や「美容室で鏡越しに目が合った赤の他人に会釈してしまった話」など、誰もが経験しそうな恥ずかしい瞬間を面白おかしく紹介する共感型コラム。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/embarrassing-misunderstandings-collection.mp3
+image: >-
+  https://images.unsplash.com/photo-1679802470260-b5cf71f792a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4NTN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「絶対に笑ってはいけない」私の勘違い！日常で起きた恥ずかしすぎる大誤解エピソード5選

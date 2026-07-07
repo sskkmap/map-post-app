@@ -1,11 +1,16 @@
 ---
-title: "Googleマップの「星1」の場所には何がある？ネットの評判を逆手に取った恐怖と発見の旅"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "絶賛されている観光地ではなく、あえてネットのレビューで「何もない」「汚い」と酷評されているスポットを巡る旅。実際に訪れることで見えてくる、レビューだけでは計れない「場所の本当の価値」を検証する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/one-star-review-expedition.mp3"
+title: Googleマップの「星1」の場所には何がある？ネットの評判を逆手に取った恐怖と発見の旅
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  絶賛されている観光地ではなく、あえてネットのレビューで「何もない」「汚い」と酷評されているスポットを巡る旅。実際に訪れることで見えてくる、レビューだけでは計れない「場所の本当の価値」を検証する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/one-star-review-expedition.mp3
+image: >-
+  https://images.unsplash.com/photo-1708454260824-c484d15fe92e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3NzR8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 星1つの迷宮へ：酷評された「何もない場所」で見つけた本当の価値

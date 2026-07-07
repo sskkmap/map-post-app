@@ -1,11 +1,16 @@
 ---
-title: "あえて「各駅停車」で日本を縦断してみた：車窓と無人駅で見つけた240時間の人間ドラマ"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "新幹線を使わず、あえて全行程を鈍行列車のみで移動する過酷な旅。乗り換え待ちの無人駅で出会った地元の人々との交流や、普段は見逃してしまう日本の美しい原風景を写真と言葉で綴る、心の余白を取り戻すロードムービー風エッセイ。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/cross-japan-slow-train-odyssey.mp3"
+title: あえて「各駅停車」で日本を縦断してみた：車窓と無人駅で見つけた240時間の人間ドラマ
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  新幹線を使わず、あえて全行程を鈍行列車のみで移動する過酷な旅。乗り換え待ちの無人駅で出会った地元の人々との交流や、普段は見逃してしまう日本の美しい原風景を写真と言葉で綴る、心の余白を取り戻すロードムービー風エッセイ。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/cross-japan-slow-train-odyssey.mp3
+image: >-
+  https://images.unsplash.com/photo-1594961369762-4ec474777fbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwODd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 240時間の鈍行列車――新幹線を捨てて、僕は「置き去りにされた時間」を取り戻しに行った

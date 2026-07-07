@@ -1,11 +1,16 @@
 ---
-title: "実家の母から送られてきた「謎の野菜」をどう料理するか、家族会議を開いてみた結果"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "畑で正体不明の巨大な植物を収穫した母から「たぶん食べられる」という適当なメッセージと共に野菜が届く。ネットで検索しても一致するものが見つからず、未知の食材を全力で美味しくしようと奮闘する家族の、カオスな料理実験の記録。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/mysterious-giant-vegetable-cooking-experiment.mp3"
+title: 実家の母から送られてきた「謎の野菜」をどう料理するか、家族会議を開いてみた結果
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  畑で正体不明の巨大な植物を収穫した母から「たぶん食べられる」という適当なメッセージと共に野菜が届く。ネットで検索しても一致するものが見つからず、未知の食材を全力で美味しくしようと奮闘する家族の、カオスな料理実験の記録。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/mysterious-giant-vegetable-cooking-experiment.mp3
+image: >-
+  https://images.unsplash.com/photo-1779400535906-44df4a73c9a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg5MDR8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 届いたのは「未知との遭遇」か？母から送られてきた謎の巨大野菜を食す死闘記

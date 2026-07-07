@@ -1,11 +1,16 @@
 ---
-title: "一生に一度は泊まりたい「崖っぷち」宿での1泊2日デトックス"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "電波も届かないような断崖絶壁や山奥にある、究極の不便宿を厳選。Wi-Fiを切断し、デジタルデトックスを強制的に実行する。焚き火の音と星空だけを友に、自分自身と向き合う「何もしないこと」の贅沢さをエッセイ形式で紹介する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/cliffside-detox-retreat.mp3"
+title: 一生に一度は泊まりたい「崖っぷち」宿での1泊2日デトックス
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  電波も届かないような断崖絶壁や山奥にある、究極の不便宿を厳選。Wi-Fiを切断し、デジタルデトックスを強制的に実行する。焚き火の音と星空だけを友に、自分自身と向き合う「何もしないこと」の贅沢さをエッセイ形式で紹介する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/cliffside-detox-retreat.mp3
+image: >-
+  https://images.unsplash.com/photo-1701008420226-6c6ecdcbfdc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwODN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 断崖の果てで、自分を取り戻す。スマホを手放して過ごす「究極の不便」という贅沢

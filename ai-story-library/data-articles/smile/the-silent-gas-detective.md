@@ -1,11 +1,16 @@
 ---
-title: "隣の席の同僚が「無音のオナラ」の犯人を突き止めるために必死すぎる件"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "オフィスに漂う「あの匂い」の犯人を突き止めるべく、同僚が全社員の「着席時の姿勢」と「表情の変化」を秘密裏にデータ化。シャーロック・ホームズ気取りで捜査を進める姿が、周囲からは完全に「不審な監視員」にしか見えていない悲劇的かつ滑稽な顛末。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-silent-gas-detective.mp3"
+title: 隣の席の同僚が「無音のオナラ」の犯人を突き止めるために必死すぎる件
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  オフィスに漂う「あの匂い」の犯人を突き止めるべく、同僚が全社員の「着席時の姿勢」と「表情の変化」を秘密裏にデータ化。シャーロック・ホームズ気取りで捜査を進める姿が、周囲からは完全に「不審な監視員」にしか見えていない悲劇的かつ滑稽な顛末。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-silent-gas-detective.mp3
+image: >-
+  https://images.unsplash.com/photo-1601513041797-a79a526a521e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwMzd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 隣の席の同僚が「無音のオナラ」の犯人を突き止めるために必死すぎる件

@@ -1,11 +1,16 @@
 ---
-title: "「ガイドブックの逆を行く」観光地で最もマイナーな看板を探す旅"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "その街の観光名所には一切行かず、街中に点在する謎の看板や、古い自販機、忘れ去られた記念碑だけを写真に収める。メジャーな観光地を「観光」しないことで見えてくる、その街の本当の湿度をレポート。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/off-the-beaten-path-signs.mp3"
+title: 「ガイドブックの逆を行く」観光地で最もマイナーな看板を探す旅
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  その街の観光名所には一切行かず、街中に点在する謎の看板や、古い自販機、忘れ去られた記念碑だけを写真に収める。メジャーな観光地を「観光」しないことで見えてくる、その街の本当の湿度をレポート。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/off-the-beaten-path-signs.mp3
+image: >-
+  https://images.unsplash.com/photo-1701008420226-6c6ecdcbfdc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3Njd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # ガイドブックが捨てた街の湿度：忘れ去られた看板と自販機を追う旅

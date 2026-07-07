@@ -1,11 +1,16 @@
 ---
-title: "「初めてのジムで起きた、意識高い系への強烈なカウンター」：最新のウェアを着込んで完璧な準備で臨んだジム初日。意気揚々とマシンに乗った瞬間、使い方がわからず派手にひっくり返り、全員の視線を独占した一部始終。"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: ""
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/first-day-gym-disaster.mp3"
+title: >-
+  「初めてのジムで起きた、意識高い系への強烈なカウンター」：最新のウェアを着込んで完璧な準備で臨んだジム初日。意気揚々とマシンに乗った瞬間、使い方がわからず派手にひっくり返り、全員の視線を独占した一部始終。
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: ''
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/first-day-gym-disaster.mp3
+image: >-
+  https://images.unsplash.com/photo-1676641153249-d27fb6179ea3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4NjB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 意識高い系を気取った代償。ジム初日で繰り広げた「逆立ち」の悲劇

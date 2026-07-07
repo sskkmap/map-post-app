@@ -1,11 +1,16 @@
 ---
-title: "あえて「目的地」を決めない！Googleマップのランダム機能だけで行く弾丸旅の記録"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "自宅から一番近い駅でサイコロを振り、出た目の数だけ移動する。降り立った先のGoogleマップで「評価の高い飲食店」に絞ってハシゴするという、計画性ゼロの行き当たりばったり旅をドキュメンタリー形式で綴ります。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/random-dice-journey.mp3"
+title: あえて「目的地」を決めない！Googleマップのランダム機能だけで行く弾丸旅の記録
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  自宅から一番近い駅でサイコロを振り、出た目の数だけ移動する。降り立った先のGoogleマップで「評価の高い飲食店」に絞ってハシゴするという、計画性ゼロの行き当たりばったり旅をドキュメンタリー形式で綴ります。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/random-dice-journey.mp3
+image: >-
+  https://images.unsplash.com/photo-1612257998585-c1c4cebb06f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3ODJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 目的地は「サイコロ」に聞け。Googleマップで彷徨う、計画放棄の弾丸旅

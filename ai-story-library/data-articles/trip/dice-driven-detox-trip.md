@@ -1,11 +1,16 @@
 ---
-title: "スマホを家に置いてきた。地図も持たず、行き先を「サイコロ」で決めた3日間"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "旅の計画をすべて運に任せ、駅の改札でサイコロを振って行き先を決める実験的旅行。迷子になる恐怖と、偶然辿り着いた場所での予想外の出会いをリアルタイム感たっぷりに執筆。デジタルデトックスの効能を考察する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/dice-driven-detox-trip.mp3"
+title: スマホを家に置いてきた。地図も持たず、行き先を「サイコロ」で決めた3日間
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  旅の計画をすべて運に任せ、駅の改札でサイコロを振って行き先を決める実験的旅行。迷子になる恐怖と、偶然辿り着いた場所での予想外の出会いをリアルタイム感たっぷりに執筆。デジタルデトックスの効能を考察する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/dice-driven-detox-trip.mp3
+image: >-
+  https://images.unsplash.com/photo-1610023926499-571d3b203226?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwOTN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 偶然という名の地図を歩く。スマホを捨て、サイコロと旅した3日間

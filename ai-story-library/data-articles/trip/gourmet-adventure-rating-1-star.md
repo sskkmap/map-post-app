@@ -1,11 +1,16 @@
 ---
-title: "あえて「Googleマップの評価1.0」の店だけを巡る！恐怖と感動のグルメ旅"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "評価が極端に低い飲食店には、独自のこだわりや癖が強すぎる店主がいるのではないか？という仮説を立て、あえて低評価の店のみをハシゴする検証企画。実際に訪れてみると、ネットの評判とは裏腹に意外な人間ドラマや「なぜかクセになる味」に出会ってしまう様子をコミカルに描く。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/gourmet-adventure-rating-1-star.mp3"
+title: あえて「Googleマップの評価1.0」の店だけを巡る！恐怖と感動のグルメ旅
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  評価が極端に低い飲食店には、独自のこだわりや癖が強すぎる店主がいるのではないか？という仮説を立て、あえて低評価の店のみをハシゴする検証企画。実際に訪れてみると、ネットの評判とは裏腹に意外な人間ドラマや「なぜかクセになる味」に出会ってしまう様子をコミカルに描く。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/gourmet-adventure-rating-1-star.mp3
+image: >-
+  https://images.unsplash.com/photo-1639450258701-d546b904be61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3MTN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「Googleマップ評価1.0」の店だけを巡る。底辺グルメで見つけた、ネットに書けない「人間味」の話

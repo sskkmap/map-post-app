@@ -1,11 +1,16 @@
 ---
-title: "近所のスーパーで見つけた「ネーミングセンスが爆発している商品」図鑑"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "「なぜその名前をつけた？」と思わず二度見したPOPや商品名を集めたギャラリー。担当者の暴走か、あるいは高度な戦略か。生活感あふれる売り場で発見された奇跡的な陳列ミスや誤字脱字を深掘りします。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/naming-sense-explosion-supermarket.mp3"
+title: 近所のスーパーで見つけた「ネーミングセンスが爆発している商品」図鑑
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  「なぜその名前をつけた？」と思わず二度見したPOPや商品名を集めたギャラリー。担当者の暴走か、あるいは高度な戦略か。生活感あふれる売り場で発見された奇跡的な陳列ミスや誤字脱字を深掘りします。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/naming-sense-explosion-supermarket.mp3
+image: >-
+  https://images.unsplash.com/photo-1600506451234-9e555c0c8d05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg5MTR8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 買い物カゴがひっくり返る！「ネーミングセンスが爆発」しているスーパーの闇と光

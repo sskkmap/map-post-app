@@ -1,11 +1,16 @@
 ---
-title: "「スマホの充電が切れたら終了」というルールで、知らない街を歩いてみた"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "地図アプリも翻訳アプリも使えない状態で、充電が切れるまで見知らぬ街を徘徊するサバイバル旅行記。人に道を聞いたり、勘だけで店に入ったりする中で、スマホ依存の自分たちが「偶然の出会い」からいかに遠ざかっていたかを再発見するエッセイ。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/off-the-grid-wanderlust.mp3"
+title: 「スマホの充電が切れたら終了」というルールで、知らない街を歩いてみた
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  地図アプリも翻訳アプリも使えない状態で、充電が切れるまで見知らぬ街を徘徊するサバイバル旅行記。人に道を聞いたり、勘だけで店に入ったりする中で、スマホ依存の自分たちが「偶然の出会い」からいかに遠ざかっていたかを再発見するエッセイ。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/off-the-grid-wanderlust.mp3
+image: >-
+  https://images.unsplash.com/photo-1679447194376-eb324b6b121d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3Njl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # スマホの息の根が止まったとき、旅は本当の意味で始まった

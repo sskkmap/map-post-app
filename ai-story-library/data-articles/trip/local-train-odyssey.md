@@ -1,11 +1,16 @@
 ---
-title: "始発から終電まで「各駅停車」だけでどこまで行けるか検証してみた"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "特急や新幹線を使わず、ローカル線の各駅停車のみを乗り継いで、丸一日かけてどこまで到達できるかを検証するドキュメンタリー。窓から見える景色が劇的に変わっていく様子を、エモーショナルな筆致で描く。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/local-train-odyssey.mp3"
+title: 始発から終電まで「各駅停車」だけでどこまで行けるか検証してみた
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  特急や新幹線を使わず、ローカル線の各駅停車のみを乗り継いで、丸一日かけてどこまで到達できるかを検証するドキュメンタリー。窓から見える景色が劇的に変わっていく様子を、エモーショナルな筆致で描く。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/local-train-odyssey.mp3
+image: >-
+  https://images.unsplash.com/photo-1712479667983-9f2872d33fb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3MzN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 鈍行列車が描く日本列島：始発から終電まで「各駅停車」だけでどこまで行けるか

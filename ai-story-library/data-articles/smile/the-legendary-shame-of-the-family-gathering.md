@@ -1,11 +1,16 @@
 ---
-title: "親戚の集まりで「意識高い系」を装った結果、伝説の恥をかいた全記録"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "久々の親戚の集まりで、自分を大きく見せようと横文字や知ったかぶりを多用。しかし、年長者の鋭すぎる指摘と、無邪気な子供の容赦ない暴露によって、メッキが剥がれ落ちていく様を自虐たっぷりに綴る。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-legendary-shame-of-the-family-gathering.mp3"
+title: 親戚の集まりで「意識高い系」を装った結果、伝説の恥をかいた全記録
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  久々の親戚の集まりで、自分を大きく見せようと横文字や知ったかぶりを多用。しかし、年長者の鋭すぎる指摘と、無邪気な子供の容赦ない暴露によって、メッキが剥がれ落ちていく様を自虐たっぷりに綴る。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-legendary-shame-of-the-family-gathering.mp3
+image: >-
+  https://images.unsplash.com/photo-1618225955865-996a8a5eaeb8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwMzJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「意識高い系」をこじらせた結果、親戚の集まりで社会的に死んだ話

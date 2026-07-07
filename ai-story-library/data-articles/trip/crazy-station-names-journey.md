@@ -1,11 +1,16 @@
 ---
-title: "日本中の「珍妙な名前の駅」を制覇する。看板とツーショットを撮り続ける無意味で最高な旅"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "「小前田」「大歩危」「増毛」など、読み方や漢字がユニークな駅名を巡る旅。ただ看板と写真を撮るだけという極めて単純な目的のために、鈍行列車を乗り継ぎ、駅弁を食べて移動し続ける、効率とは無縁の「贅沢な無駄」を噛み締めるエッセイ。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/crazy-station-names-journey.mp3"
+title: 日本中の「珍妙な名前の駅」を制覇する。看板とツーショットを撮り続ける無意味で最高な旅
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  「小前田」「大歩危」「増毛」など、読み方や漢字がユニークな駅名を巡る旅。ただ看板と写真を撮るだけという極めて単純な目的のために、鈍行列車を乗り継ぎ、駅弁を食べて移動し続ける、効率とは無縁の「贅沢な無駄」を噛み締めるエッセイ。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/crazy-station-names-journey.mp3
+image: >-
+  https://images.unsplash.com/photo-1571648393998-fce5af1535e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwODV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 効率を捨てて、駅名とキスをする旅へ。珍妙駅制覇の記録

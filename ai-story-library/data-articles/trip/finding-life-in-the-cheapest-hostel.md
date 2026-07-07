@@ -1,11 +1,16 @@
 ---
-title: "「最安値の宿」に5日間泊まり続けたら、人生観が変わる出会いと哲学が待っていた"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "あえて最安値のバックパッカー宿やゲストハウスを渡り歩き、そこで出会った個性的な旅人たちの人生ストーリーを記録。安宿特有の距離感だからこそ生まれる、深い対話と人間模様を描く。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/finding-life-in-the-cheapest-hostel.mp3"
+title: 「最安値の宿」に5日間泊まり続けたら、人生観が変わる出会いと哲学が待っていた
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  あえて最安値のバックパッカー宿やゲストハウスを渡り歩き、そこで出会った個性的な旅人たちの人生ストーリーを記録。安宿特有の距離感だからこそ生まれる、深い対話と人間模様を描く。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/finding-life-in-the-cheapest-hostel.mp3
+image: >-
+  https://images.unsplash.com/photo-1604960594064-882f500a5f5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3MDV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 1泊1,500円の哲学：最安値の宿で出会った「人生の余白」

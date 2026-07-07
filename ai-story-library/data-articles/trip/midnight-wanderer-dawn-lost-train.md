@@ -1,11 +1,16 @@
 ---
-title: "「終電を逃した街」で朝日を迎えるまで。誰も知らない深夜の風景と孤独の流儀"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "酔い潰れたオフィス街や、静まり返った地方の駅前。終電を逃すという「失敗」を逆手に取り、始発までの数時間をその街の住人として徘徊する。誰もいない真夜中の路地裏で気づいた、昼間とは全く異なる街の表情と孤独の美学について。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/midnight-wanderer-dawn-lost-train.mp3"
+title: 「終電を逃した街」で朝日を迎えるまで。誰も知らない深夜の風景と孤独の流儀
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  酔い潰れたオフィス街や、静まり返った地方の駅前。終電を逃すという「失敗」を逆手に取り、始発までの数時間をその街の住人として徘徊する。誰もいない真夜中の路地裏で気づいた、昼間とは全く異なる街の表情と孤独の美学について。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/midnight-wanderer-dawn-lost-train.mp3
+image: >-
+  https://images.unsplash.com/photo-1571648393484-946ad884996d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3NTV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 終電を逃した街で――午前3時、境界線を歩く孤独の流儀

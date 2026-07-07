@@ -1,11 +1,16 @@
 ---
-title: "「自分探しの旅」をガチで検証。異国の地でひたすら名もなき景色を眺め続けた1週間の記録"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "観光名所には一切行かず、現地の公園のベンチや路地裏だけで1週間を過ごす実験。情報の過多な現代において、「何もしない時間」が人の心にどんな変化をもたらすのかを考察する精神的ドキュメンタリー。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/finding-self-in-nothingness.mp3"
+title: 「自分探しの旅」をガチで検証。異国の地でひたすら名もなき景色を眺め続けた1週間の記録
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  観光名所には一切行かず、現地の公園のベンチや路地裏だけで1週間を過ごす実験。情報の過多な現代において、「何もしない時間」が人の心にどんな変化をもたらすのかを考察する精神的ドキュメンタリー。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/finding-self-in-nothingness.mp3
+image: >-
+  https://images.unsplash.com/photo-1721200001598-2749aa59d330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3MDd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「何もしない」という冒険：観光地を捨て、路地裏のベンチで自分を見つめた7日間

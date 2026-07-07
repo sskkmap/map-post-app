@@ -1,11 +1,16 @@
 ---
-title: "全自動洗濯機が「エラー」で反乱！？深夜に一人暮らしの男を襲った洗濯物パニック"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "ある夜、洗濯機が謎の警告音とともに停止。液晶画面には「服を選別しろ」という不穏な文字が。全裸で説明書を読み漁る男と、意地でも脱水に応じないAIとの、深夜のシュールな心理戦を描く。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/laundry-ai-rebellion.mp3"
+title: 全自動洗濯機が「エラー」で反乱！？深夜に一人暮らしの男を襲った洗濯物パニック
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  ある夜、洗濯機が謎の警告音とともに停止。液晶画面には「服を選別しろ」という不穏な文字が。全裸で説明書を読み漁る男と、意地でも脱水に応じないAIとの、深夜のシュールな心理戦を描く。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/laundry-ai-rebellion.mp3
+image: >-
+  https://images.unsplash.com/photo-1581248158957-8df316968245?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4ODJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 深夜の「服選別」地獄：全自動洗濯機がAIの自我に目覚めた日

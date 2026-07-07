@@ -1,11 +1,16 @@
 ---
-title: "「実家から送られてきた『謎の段ボール』を開封したら、母の狂気を感じた話」"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "中身は「半分食べかけの高級メロン」と「大量の古新聞」と「なぜか入っていた夫の免許証」。脈絡のなさにツッコミを入れつつ、遠隔操作で親を問い詰めるシュールなやり取りを紹介。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/mother-madness-delivery.mp3"
+title: 「実家から送られてきた『謎の段ボール』を開封したら、母の狂気を感じた話」
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  中身は「半分食べかけの高級メロン」と「大量の古新聞」と「なぜか入っていた夫の免許証」。脈絡のなさにツッコミを入れつつ、遠隔操作で親を問い詰めるシュールなやり取りを紹介。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/mother-madness-delivery.mp3
+image: >-
+  https://images.unsplash.com/photo-1679802470260-b5cf71f792a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4OTF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 実家から届いた「謎の段ボール」を開封したら、母の狂気を感じた話

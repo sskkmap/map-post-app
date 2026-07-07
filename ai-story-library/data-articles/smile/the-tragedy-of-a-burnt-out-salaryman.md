@@ -1,11 +1,16 @@
 ---
-title: "限界社会人の悲哀…「真面目に生きてるはずなのに何かがおかしい」仕事中の珍行動"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "疲労のあまり、会社のデスクでPCに向かって寝落ちし「キーボードの跡が顔にくっきり残った」や「電話対応中に全く違う言葉を話してしまった」など、頑張るほどに空回りする現代人のリアルな笑える失敗談。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-tragedy-of-a-burnt-out-salaryman.mp3"
+title: 限界社会人の悲哀…「真面目に生きてるはずなのに何かがおかしい」仕事中の珍行動
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  疲労のあまり、会社のデスクでPCに向かって寝落ちし「キーボードの跡が顔にくっきり残った」や「電話対応中に全く違う言葉を話してしまった」など、頑張るほどに空回りする現代人のリアルな笑える失敗談。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-tragedy-of-a-burnt-out-salaryman.mp3
+image: >-
+  https://images.unsplash.com/photo-1770223852397-59e061270f9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwMzl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 限界社会人の生存戦略：なぜ私の顔には「QWERTY」と刻まれているのか

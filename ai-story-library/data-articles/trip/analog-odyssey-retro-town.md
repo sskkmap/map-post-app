@@ -1,11 +1,16 @@
 ---
-title: "「Googleマップを使わずに」目的地まで行く！ 地方都市の昭和レトロ商店街探訪"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "スマホをあえてカバンに封印し、駅に貼られた古い地図と地元民への聞き込みだけで目的地を目指す。迷い込んだ路地裏で見つけた「奇跡的な看板」や「謎の郷土料理」を巡る、偶発性重視のドキュメント旅。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/analog-odyssey-retro-town.mp3"
+title: 「Googleマップを使わずに」目的地まで行く！ 地方都市の昭和レトロ商店街探訪
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  スマホをあえてカバンに封印し、駅に貼られた古い地図と地元民への聞き込みだけで目的地を目指す。迷い込んだ路地裏で見つけた「奇跡的な看板」や「謎の郷土料理」を巡る、偶発性重視のドキュメント旅。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/analog-odyssey-retro-town.mp3
+image: >-
+  https://images.unsplash.com/photo-1768830223681-d4f912764d86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwNzl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # スマホを封印、地図は「人」だけ。昭和の面影が残る路地裏で奇跡を拾う旅

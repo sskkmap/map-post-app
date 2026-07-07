@@ -1,10 +1,17 @@
 ---
-slug: "kyoto-hidden-cafe-tour"
-title: "京都の隠れ家カフェ巡り"
-date: "2026-07-05"
-category: "カフェ巡り"
-tags: ["京都観光", "隠れ家カフェ", "穴場スポット", "カフェ巡り"]
-description: "ガイドブックには載っていない、京都の路地裏で見つけた静かで素敵な隠れ家カフェをご紹介します。日常を忘れて心安らぐ、あなただけの特別な時間を見つけに行きませんか？"
+slug: kyoto-hidden-cafe-tour
+title: 京都の隠れ家カフェ巡り
+date: '2026-07-05'
+category: カフェ巡り
+tags:
+  - 京都観光
+  - 隠れ家カフェ
+  - 穴場スポット
+  - カフェ巡り
+description: >-
+  ガイドブックには載っていない、京都の路地裏で見つけた静かで素敵な隠れ家カフェをご紹介します。日常を忘れて心安らぐ、あなただけの特別な時間を見つけに行きませんか？
+image: >-
+  https://images.unsplash.com/photo-1775826405309-6a7666387eb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3MjZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 # 京都の隠れ家カフェ巡り
 

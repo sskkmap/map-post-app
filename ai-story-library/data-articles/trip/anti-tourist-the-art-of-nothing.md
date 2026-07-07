@@ -1,11 +1,16 @@
 ---
-title: "「あえて逆を行く」観光地巡り：誰もいない穴場を探す旅"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "SNSで話題の「映えスポット」を一切排除し、Googleマップで評価が一件もない場所や、ガイドブックに載らない廃駅・無人集落だけを巡る旅の記録。不便さと静寂の中で見つけた「本当の贅沢」について考察する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/anti-tourist-the-art-of-nothing.mp3"
+title: 「あえて逆を行く」観光地巡り：誰もいない穴場を探す旅
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  SNSで話題の「映えスポット」を一切排除し、Googleマップで評価が一件もない場所や、ガイドブックに載らない廃駅・無人集落だけを巡る旅の記録。不便さと静寂の中で見つけた「本当の贅沢」について考察する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/anti-tourist-the-art-of-nothing.mp3
+image: >-
+  https://images.unsplash.com/photo-1721632093726-da7496162bd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwODF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「映え」を捨てた先にある静寂：評価ゼロの場所を巡る旅の記録

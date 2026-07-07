@@ -1,11 +1,16 @@
 ---
-title: "あえて「逆」をいく！Googleマップの評価「星1」の観光地だけを巡る弾丸ツアー"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "誰もが絶賛する名所には行かず、あえて評価が低い場所ばかりを訪れる検証旅。実際に行ってみると「なぜ低評価なのか？」という理由が独特すぎて、逆に愛おしく感じてしまうポイントや、意外な穴場的魅力をコミカルに深掘りする。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/reverse-travel-1-star-tour.mp3"
+title: あえて「逆」をいく！Googleマップの評価「星1」の観光地だけを巡る弾丸ツアー
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  誰もが絶賛する名所には行かず、あえて評価が低い場所ばかりを訪れる検証旅。実際に行ってみると「なぜ低評価なのか？」という理由が独特すぎて、逆に愛おしく感じてしまうポイントや、意外な穴場的魅力をコミカルに深掘りする。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/reverse-travel-1-star-tour.mp3
+image: >-
+  https://images.unsplash.com/photo-1532188142562-df556b861e6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3ODV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 絶賛の声に飽きたあなたへ。Googleマップ「星1」だけを巡る、地獄（？）の弾丸ツアーへようこそ

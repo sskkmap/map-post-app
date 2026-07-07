@@ -1,11 +1,16 @@
 ---
-title: "誰にも教えたくない「終電を逃した街」で過ごす深夜の冒険"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "計画的な旅ではなく、あえて終電を逃した先で見知らぬ街に一晩だけ滞在。深夜2時の深夜食堂、24時間営業のサウナ、朝焼けの市場など、観光客が絶対に目撃できない「街の裏側の顔」をレポートする。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/midnight-adventure-in-lost-city.mp3"
+title: 誰にも教えたくない「終電を逃した街」で過ごす深夜の冒険
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  計画的な旅ではなく、あえて終電を逃した先で見知らぬ街に一晩だけ滞在。深夜2時の深夜食堂、24時間営業のサウナ、朝焼けの市場など、観光客が絶対に目撃できない「街の裏側の顔」をレポートする。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/midnight-adventure-in-lost-city.mp3
+image: >-
+  https://images.unsplash.com/photo-1586525030278-7f695e1e9147?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3NDJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 終電の先、地図にない「深夜の特等席」を探して

@@ -1,11 +1,16 @@
 ---
-title: "30代で「一人暮らしの自炊」にこだわりすぎて、もはや錬金術師になった男の末路"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "節約のために始めた自炊がエスカレートし、冷蔵庫の残り物をパズルのように組み合わせて新メニューを開発し続けた結果、見た目は「芸術作品」だが味は「未知の領域」という料理しか作れなくなってしまった男の、孤独な食卓のリアル。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-alchemist-of-leftovers.mp3"
+title: 30代で「一人暮らしの自炊」にこだわりすぎて、もはや錬金術師になった男の末路
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  節約のために始めた自炊がエスカレートし、冷蔵庫の残り物をパズルのように組み合わせて新メニューを開発し続けた結果、見た目は「芸術作品」だが味は「未知の領域」という料理しか作れなくなってしまった男の、孤独な食卓のリアル。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-alchemist-of-leftovers.mp3
+image: >-
+  https://images.unsplash.com/photo-1645513109783-17abcaca5d87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwMTN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 30代、自炊を極めた結果「禁忌の錬金術師」になってしまった男の食卓

@@ -1,11 +1,16 @@
 ---
-title: "現地の「一番うまい店」を教わらずに、その街の「美容室」で紹介してもらう旅"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "グルメサイトやSNSの情報を一切遮断し、街の美容室で髪を切りながら「地元民しか行かない本当に美味い店」を教えてもらうルール。パーマをかけながら聞いたローカル情報から、観光ガイドには絶対に載らない路地裏の名店と、そこに集う人々の生活に飛び込むドキュメンタリー。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/local-haircut-gourmet-trip.mp3"
+title: 現地の「一番うまい店」を教わらずに、その街の「美容室」で紹介してもらう旅
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  グルメサイトやSNSの情報を一切遮断し、街の美容室で髪を切りながら「地元民しか行かない本当に美味い店」を教えてもらうルール。パーマをかけながら聞いたローカル情報から、観光ガイドには絶対に載らない路地裏の名店と、そこに集う人々の生活に飛び込むドキュメンタリー。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/local-haircut-gourmet-trip.mp3
+image: >-
+  https://images.unsplash.com/photo-1564264705448-3877636aa82a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3MzJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 検索エンジンを捨てて、ハサミに身を委ねる。美容室で巡る「街の真実」

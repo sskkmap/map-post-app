@@ -1,11 +1,16 @@
 ---
-title: "「意識高い系」の朝活を三日坊主で終わらせた男の悲惨な記録"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "「朝5時起き、ヨガ、読書、スムージー」という完璧な意識高い系生活を始めたが、初日に寝坊し、スムージーの代わりに泥のような野菜汁を生成し、ヨガで謎の部位を肉離れするまでの悲劇を、スタイリッシュな写真と共に自虐的に振り返ります。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/three-day-morning-routine-disaster.mp3"
+title: 「意識高い系」の朝活を三日坊主で終わらせた男の悲惨な記録
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  「朝5時起き、ヨガ、読書、スムージー」という完璧な意識高い系生活を始めたが、初日に寝坊し、スムージーの代わりに泥のような野菜汁を生成し、ヨガで謎の部位を肉離れするまでの悲劇を、スタイリッシュな写真と共に自虐的に振り返ります。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/three-day-morning-routine-disaster.mp3
+image: >-
+  https://images.unsplash.com/photo-1679802470260-b5cf71f792a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwNDl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 意識高い系への道は、泥水の味と肉離れで舗装されていた

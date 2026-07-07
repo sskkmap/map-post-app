@@ -1,11 +1,16 @@
 ---
-title: "絶対に笑ってはいけない「高級フレンチ」で、店員が言い放った衝撃のメニュー名"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "静寂に包まれた高級レストランにて、店員が料理名を言う瞬間に、あえて小学生が喜びそうな「下品な空耳」に聞こえる専門用語を混ぜてくるというイタズラ企画。耐えきれずに吹き出す友人の顔を撮影し、どれだけ我慢できるかを競う。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/funny-french-restaurant-prank.mp3"
+title: 絶対に笑ってはいけない「高級フレンチ」で、店員が言い放った衝撃のメニュー名
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  静寂に包まれた高級レストランにて、店員が料理名を言う瞬間に、あえて小学生が喜びそうな「下品な空耳」に聞こえる専門用語を混ぜてくるというイタズラ企画。耐えきれずに吹き出す友人の顔を撮影し、どれだけ我慢できるかを競う。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/funny-french-restaurant-prank.mp3
+image: >-
+  https://images.unsplash.com/photo-1770096731219-d5abae49aa71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4NjJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 静寂の高級フレンチで勃発！「絶対に笑ってはいけない」極限のディナータイム

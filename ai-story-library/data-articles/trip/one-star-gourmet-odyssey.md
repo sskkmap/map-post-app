@@ -1,11 +1,16 @@
 ---
-title: "Googleマップの「評価1」の店だけをあえて巡る、食のミステリーツアー"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "旅行先で「酷評」されている飲食店には、なぜ低評価がついたのか？あえてその店へ飛び込み、店主のクセの強さや独特すぎるルール、あるいは時代に翻弄された味を体験。批判の裏にある意外な人間ドラマや、逆に「なぜ低評価なのか分からない」という驚きの発見をユーモラスにレポートする。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/one-star-gourmet-odyssey.mp3"
+title: Googleマップの「評価1」の店だけをあえて巡る、食のミステリーツアー
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  旅行先で「酷評」されている飲食店には、なぜ低評価がついたのか？あえてその店へ飛び込み、店主のクセの強さや独特すぎるルール、あるいは時代に翻弄された味を体験。批判の裏にある意外な人間ドラマや、逆に「なぜ低評価なのか分からない」という驚きの発見をユーモラスにレポートする。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/one-star-gourmet-odyssey.mp3
+image: >-
+  https://images.unsplash.com/photo-1770909878397-8ef9f980a463?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3NzN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 酷評の先にある真実：Googleマップ「評価1」の店をあえて食べ歩く弾丸ツアー

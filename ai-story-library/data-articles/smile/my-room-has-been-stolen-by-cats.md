@@ -1,11 +1,16 @@
 ---
-title: "10年ぶりに実家に帰ったら、母が「私の部屋」を完全に猫のゲーミングルームに改造していた"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "かつて自分の部屋だった場所が、今は猫専用の高級タワーやRGBライトで光り輝くゲーミングPCが置かれた「猫の秘密基地」に。帰省した自分が居場所をなくし、結局ペットベッドで寝る羽目になる悲哀と爆笑の帰省レポート。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/my-room-has-been-stolen-by-cats.mp3"
+title: 10年ぶりに実家に帰ったら、母が「私の部屋」を完全に猫のゲーミングルームに改造していた
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  かつて自分の部屋だった場所が、今は猫専用の高級タワーやRGBライトで光り輝くゲーミングPCが置かれた「猫の秘密基地」に。帰省した自分が居場所をなくし、結局ペットベッドで寝る羽目になる悲哀と爆笑の帰省レポート。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/my-room-has-been-stolen-by-cats.mp3
+image: >-
+  https://images.unsplash.com/photo-1610792472421-b81c0943d169?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg5MDJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 10年ぶりの帰省、僕の部屋が「猫用ゲーミングルーム」になっていた件

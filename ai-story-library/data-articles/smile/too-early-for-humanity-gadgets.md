@@ -1,11 +1,16 @@
 ---
-title: "AIが勝手に考えた「人類には早すぎる便利グッズ」5選"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "「靴下のペアを自動で探してくれるドローン」や「寝ている間に全自動で髪をセットしてくれる（ただし失敗率90%）ヘルメット」など、画期的すぎて逆に生活を破滅させる架空の便利グッズを紹介する企画。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/too-early-for-humanity-gadgets.mp3"
+title: AIが勝手に考えた「人類には早すぎる便利グッズ」5選
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  「靴下のペアを自動で探してくれるドローン」や「寝ている間に全自動で髪をセットしてくれる（ただし失敗率90%）ヘルメット」など、画期的すぎて逆に生活を破滅させる架空の便利グッズを紹介する企画。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/too-early-for-humanity-gadgets.mp3
+image: >-
+  https://images.unsplash.com/photo-1551323879-b2f626997e22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwNTF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 人類には早すぎる！生活を破滅に導く「AI考案・最新便利グッズ」5選

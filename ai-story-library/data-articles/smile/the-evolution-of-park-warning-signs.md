@@ -1,11 +1,16 @@
 ---
-title: "近所の公園の「注意書き」が、年々ヒートアップしていて読んでしまう"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "公園の入り口にある「ゴミを捨てないで」という看板。最初は丁寧な注意書きだったのが、近隣住民の民度とマナー違反に怒り心頭の管理人により、次第に感情剥き出しのポエムのような文面に進化していく様子を追跡。もはや近隣のエンタメスポットと化した看板の歴史を考察する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-evolution-of-park-warning-signs.mp3"
+title: 近所の公園の「注意書き」が、年々ヒートアップしていて読んでしまう
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  公園の入り口にある「ゴミを捨てないで」という看板。最初は丁寧な注意書きだったのが、近隣住民の民度とマナー違反に怒り心頭の管理人により、次第に感情剥き出しのポエムのような文面に進化していく様子を追跡。もはや近隣のエンタメスポットと化した看板の歴史を考察する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-evolution-of-park-warning-signs.mp3
+image: >-
+  https://images.unsplash.com/photo-1631949289937-93246e7886ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwMjR8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 公園の看板が「悲痛な叫び」に進化するまで：近所の公園が面白すぎる件

@@ -1,11 +1,16 @@
 ---
-title: "美容室で「お任せで」と言ったら、店長がノリノリすぎて奇抜な髪型にされた結果"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "美容室の予約時に「かっこよくしてください」と曖昧なオーダーをした主人公。担当の美容師が「任せてください！」と自信満々にハサミを入れ続けた結果、仕上がった姿が某有名アニメの悪役と瓜二つに。そのまま出社した時の同僚の反応や、必死で誤魔化そうとする滑稽な姿を描く。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/my-hair-is-a-villain.mp3"
+title: 美容室で「お任せで」と言ったら、店長がノリノリすぎて奇抜な髪型にされた結果
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  美容室の予約時に「かっこよくしてください」と曖昧なオーダーをした主人公。担当の美容師が「任せてください！」と自信満々にハサミを入れ続けた結果、仕上がった姿が某有名アニメの悪役と瓜二つに。そのまま出社した時の同僚の反応や、必死で誤魔化そうとする滑稽な姿を描く。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/my-hair-is-a-villain.mp3
+image: >-
+  https://images.unsplash.com/photo-1775264047165-d01f87ac328b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4OTZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 美容室で「お任せ」した結果、会社で伝説の悪役になってしまった話

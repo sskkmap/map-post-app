@@ -1,11 +1,16 @@
 ---
-title: "1000円札1枚でどこまで贅沢できるか？：限界集落の商店街で「豪遊」してみた"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "インフレの時代に、あえて1000円札1枚のみを持って地方の商店街へ。高級なレストランには行けないが、駄菓子屋、精肉店のコロッケ、自販機の飲み物を組み合わせることで、どれだけ「フルコース」に近い満足感を得られるかを検証する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/1000-yen-luxury-trip.mp3"
+title: 1000円札1枚でどこまで贅沢できるか？：限界集落の商店街で「豪遊」してみた
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  インフレの時代に、あえて1000円札1枚のみを持って地方の商店街へ。高級なレストランには行けないが、駄菓子屋、精肉店のコロッケ、自販機の飲み物を組み合わせることで、どれだけ「フルコース」に近い満足感を得られるかを検証する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/1000-yen-luxury-trip.mp3
+image: >-
+  https://images.unsplash.com/photo-1658681931112-7797e2a8be93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwNzB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 1000円札1枚で「限界集落の王」になる。商店街フルコース検証記

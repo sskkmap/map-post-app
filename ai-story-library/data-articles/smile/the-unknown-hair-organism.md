@@ -1,11 +1,16 @@
 ---
-title: "美容院で「おまかせ」と言った結果、鏡に映っていたのは「未知の生命体」だった"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "イメチェンを狙って美容師さんに全てを委ねた主人公。しかし、完成した髪型は、どう見ても地球上の生物ではない謎のフォルムに。帰宅後の家族の反応と、翌日からの強烈な「視線」との戦いを記録する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-unknown-hair-organism.mp3"
+title: 美容院で「おまかせ」と言った結果、鏡に映っていたのは「未知の生命体」だった
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  イメチェンを狙って美容師さんに全てを委ねた主人公。しかし、完成した髪型は、どう見ても地球上の生物ではない謎のフォルムに。帰宅後の家族の反応と、翌日からの強烈な「視線」との戦いを記録する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-unknown-hair-organism.mp3
+image: >-
+  https://images.unsplash.com/photo-1679802657230-913ddd83a4f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwNDZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 美容院で「おまかせ」した結果、鏡に映っていたのは「未知の生命体」だった

@@ -1,11 +1,16 @@
 ---
-title: "もしも歴史上の偉人が現代の観光地に来たら？「もしも」を検証する妄想旅行記"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "特定の歴史人物（例：織田信長や松尾芭蕉など）が現代の観光地を訪れたらどう反応するかを、当時のエピソードを交えながら考察する妄想紀行。最新技術に翻弄される歴史上の偉人の姿を、ユーモアたっぷりにシミュレーションする。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/oda-nobunaga-shibuya-scramble.mp3"
+title: もしも歴史上の偉人が現代の観光地に来たら？「もしも」を検証する妄想旅行記
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  特定の歴史人物（例：織田信長や松尾芭蕉など）が現代の観光地を訪れたらどう反応するかを、当時のエピソードを交えながら考察する妄想紀行。最新技術に翻弄される歴史上の偉人の姿を、ユーモアたっぷりにシミュレーションする。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/oda-nobunaga-shibuya-scramble.mp3
+image: >-
+  https://images.unsplash.com/photo-1649069348561-5311a036c516?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3NjZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 覇王、渋谷を往く。織田信長が「スクランブル交差点」で見た天下の形

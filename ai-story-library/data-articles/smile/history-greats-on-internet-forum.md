@@ -1,11 +1,16 @@
 ---
-title: "もしも歴史上の偉人が「現代のネット掲示板」に参加したら？"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "織田信長が「天下統一の効率的な進め方」をスレ立てしたり、ベートーヴェンが「耳が聞こえなくてもおすすめの音楽教えて」と書き込んだりする様子を妄想。論破されまくる歴史上の偉人たちのやり取りを再現。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/history-greats-on-internet-forum.mp3"
+title: もしも歴史上の偉人が「現代のネット掲示板」に参加したら？
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  織田信長が「天下統一の効率的な進め方」をスレ立てしたり、ベートーヴェンが「耳が聞こえなくてもおすすめの音楽教えて」と書き込んだりする様子を妄想。論破されまくる歴史上の偉人たちのやり取りを再現。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/history-greats-on-internet-forum.mp3
+image: >-
+  https://images.unsplash.com/photo-1610792472828-d27010ade45d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4Nzd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # ネット掲示板「歴史の深淵」で起きた惨劇：偉人たちのレスバが酷すぎる件

@@ -1,11 +1,16 @@
 ---
-title: "「お母さんのLINE」がもはや暗号文だった件"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "親世代の独特なLINE操作（スタンプ連打、句読点の謎の多用、予測変換のミスなど）をピックアップ。「了解」のつもりがなぜか「領海」になっていたり、誤字が奇跡的に深い意味を持っていたりする、親子のシュールなやり取りをコレクションして紹介します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/mothers-mysterious-line-messages.mp3"
+title: 「お母さんのLINE」がもはや暗号文だった件
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  親世代の独特なLINE操作（スタンプ連打、句読点の謎の多用、予測変換のミスなど）をピックアップ。「了解」のつもりがなぜか「領海」になっていたり、誤字が奇跡的に深い意味を持っていたりする、親子のシュールなやり取りをコレクションして紹介します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/mothers-mysterious-line-messages.mp3
+image: >-
+  https://images.unsplash.com/photo-1622565838335-94486df09d92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4OTN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 母親からのLINEが「解読不可能」な暗号文だった件

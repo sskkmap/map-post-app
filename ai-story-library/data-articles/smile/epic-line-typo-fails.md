@@ -1,11 +1,16 @@
 ---
-title: "実録！スマホの「予測変換」が引き起こした、人生最大の誤爆LINE選手権"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "真面目な仕事の報告や家族への連絡が、予測変換のせいでとんでもない下ネタや意味不明な文章に化けてしまった爆笑エピソードを読者から募集し、ランキング形式で紹介します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/epic-line-typo-fails.mp3"
+title: 実録！スマホの「予測変換」が引き起こした、人生最大の誤爆LINE選手権
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  真面目な仕事の報告や家族への連絡が、予測変換のせいでとんでもない下ネタや意味不明な文章に化けてしまった爆笑エピソードを読者から募集し、ランキング形式で紹介します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/epic-line-typo-fails.mp3
+image: >-
+  https://images.unsplash.com/photo-1622565838335-94486df09d92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4NTd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 実録！スマホの「予測変換」が引き起こした、人生最大の誤爆LINE選手権

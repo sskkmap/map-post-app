@@ -1,11 +1,16 @@
 ---
-title: "Googleマップの「星1つのクチコミ」が多い宿を、あえて泊まり歩いてみた"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "評価が極端に低い宿にはどんな理由があるのかを徹底調査。実際に泊まってみて分かった「不評の裏にある意外な真実」や、逆に「なぜそんなに酷評されるのか」を潜入レポート形式で紹介する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/review-of-one-star-hotels.mp3"
+title: Googleマップの「星1つのクチコミ」が多い宿を、あえて泊まり歩いてみた
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  評価が極端に低い宿にはどんな理由があるのかを徹底調査。実際に泊まってみて分かった「不評の裏にある意外な真実」や、逆に「なぜそんなに酷評されるのか」を潜入レポート形式で紹介する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/review-of-one-star-hotels.mp3
+image: >-
+  https://images.unsplash.com/photo-1464917474204-45ad826a6a13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3ODl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # Googleマップ「星1つ」の宿に泊まって分かった、地獄の正体と意外な人間模様

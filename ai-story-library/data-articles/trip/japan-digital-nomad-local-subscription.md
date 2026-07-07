@@ -1,13 +1,19 @@
 ---
-title: "日本初「デジタルノマドビザ」解禁！外国人が殺到する“地方のサブスク生活”に1ヶ月潜入してみた"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "政府が新設したデジタルノマドビザの影響で、海外のITワーカーが日本の地方都市に集結中。彼らがなぜ東京ではなく「あえて地方」を選ぶのか？月額数万円で泊まり放題のサブスク住居を活用し、地元民しか知らない絶景コワーキングスペースや、多国籍なコミュニティが生まれる現場を実録。円安を逆手に取った「賢い旅と仕事の両立」の最前線をレポートします。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/japan-digital-nomad-local-subscription.mp3"
-image: "/og-image.png"
-sns_share: "ついに解禁！日本初のデジタルノマドビザで地方が激変？月額数万円のサブスク住居に1ヶ月潜入。東京をスルーし、海外ITワーカーが「日本の地方」を目指す真の理由とは。円安を武器にした賢い旅と仕事の最前線をレポートします！ #デジタルノマド #地方創生 #ワーケーション"
+title: 日本初「デジタルノマドビザ」解禁！外国人が殺到する“地方のサブスク生活”に1ヶ月潜入してみた
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  政府が新設したデジタルノマドビザの影響で、海外のITワーカーが日本の地方都市に集結中。彼らがなぜ東京ではなく「あえて地方」を選ぶのか？月額数万円で泊まり放題のサブスク住居を活用し、地元民しか知らない絶景コワーキングスペースや、多国籍なコミュニティが生まれる現場を実録。円安を逆手に取った「賢い旅と仕事の両立」の最前線をレポートします。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/japan-digital-nomad-local-subscription.mp3
+image: >-
+  https://images.unsplash.com/photo-1538061879026-7703d25d483c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3MTR8&ixlib=rb-4.1.0&q=80&w=1080
+sns_share: >-
+  ついに解禁！日本初のデジタルノマドビザで地方が激変？月額数万円のサブスク住居に1ヶ月潜入。東京をスルーし、海外ITワーカーが「日本の地方」を目指す真の理由とは。円安を武器にした賢い旅と仕事の最前線をレポートします！
+  #デジタルノマド #地方創生 #ワーケーション
 ---
 
 【日本初「デジタルノマドビザ」解禁！外国人が殺到する“地方のサブスク生活”に1ヶ月潜入してみた】

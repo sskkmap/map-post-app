@@ -1,11 +1,16 @@
 ---
-title: "初めての高級フレンチで、隣の席のマダムの「知ったかぶり」が止まらない"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "記念日で訪れた高級フレンチレストラン。隣席のマダムがメニューを読み解こうと必死だが、どう見てもフランス語を完全に読み間違えている。ウェイターに堂々と嘘の蘊蓄を語り始めるマダムと、それを冷や汗を流しながら聞く主人公たちの気まずい空気感を描く。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-madam-of-french-misunderstanding.mp3"
+title: 初めての高級フレンチで、隣の席のマダムの「知ったかぶり」が止まらない
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: >-
+  記念日で訪れた高級フレンチレストラン。隣席のマダムがメニューを読み解こうと必死だが、どう見てもフランス語を完全に読み間違えている。ウェイターに堂々と嘘の蘊蓄を語り始めるマダムと、それを冷や汗を流しながら聞く主人公たちの気まずい空気感を描く。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-madam-of-french-misunderstanding.mp3
+image: >-
+  https://images.unsplash.com/photo-1592295227425-8512e8d6975e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwMzN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 記念日の高級フレンチで、隣の席の「美食家マダム」が迷走を始めた件

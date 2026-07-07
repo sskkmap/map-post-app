@@ -1,11 +1,15 @@
 ---
-title: "「雨の日しか行けない場所」だけを巡る、憂鬱を逆手に取った雨天専門の旅"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "雨が降らないと入れない洞窟、雨の日にしか見られない景色、雨音が最も心地よい古民家など、悪天候を逆転の発想で楽しむための「雨の日限定」観光ガイド。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/rainy-day-exclusive-travel.mp3"
+title: 「雨の日しか行けない場所」だけを巡る、憂鬱を逆手に取った雨天専門の旅
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: 雨が降らないと入れない洞窟、雨の日にしか見られない景色、雨音が最も心地よい古民家など、悪天候を逆転の発想で楽しむための「雨の日限定」観光ガイド。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/rainy-day-exclusive-travel.mp3
+image: >-
+  https://images.unsplash.com/photo-1573146132918-d0404bc6e01b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3ODB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 傘を片手に、雨だけが扉を開く場所へ。極上の「雨天専門」旅ガイド

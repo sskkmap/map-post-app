@@ -1,11 +1,16 @@
 ---
-title: "Googleマップを禁止して「道行く人の教え」だけで旅をしたら、たどり着いたのは伝説の秘境だった"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "デジタルデバイスを一切排除し、現地の人に「おすすめの場所」を聞いて移動する旅。自分の計画を超えた先にある、ガイドブックには載っていない絶景や、予期せぬトラブルを乗り越える冒険記。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/journey-by-human-connection.mp3"
+title: Googleマップを禁止して「道行く人の教え」だけで旅をしたら、たどり着いたのは伝説の秘境だった
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  デジタルデバイスを一切排除し、現地の人に「おすすめの場所」を聞いて移動する旅。自分の計画を超えた先にある、ガイドブックには載っていない絶景や、予期せぬトラブルを乗り越える冒険記。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/journey-by-human-connection.mp3
+image: >-
+  https://images.unsplash.com/photo-1675342657107-ee01463aab21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3MTZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # スマホを捨てて、地図を捨てた。行き先すら知らない「偶然」だけの旅に出る

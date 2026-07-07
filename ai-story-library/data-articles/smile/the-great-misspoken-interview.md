@@ -1,11 +1,16 @@
 ---
-title: "「面接でやってしまった『言い間違い』の最高傑作」：志望動機を熱弁している最中に、極度の緊張から「御社」を「御仏（おほとけ）」と連呼してしまい、面接官を爆笑させた（そして不採用になった）苦い記憶。"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: ""
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-great-misspoken-interview.mp3"
+title: >-
+  「面接でやってしまった『言い間違い』の最高傑作」：志望動機を熱弁している最中に、極度の緊張から「御社」を「御仏（おほとけ）」と連呼してしまい、面接官を爆笑させた（そして不採用になった）苦い記憶。
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: ''
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-great-misspoken-interview.mp3
+image: >-
+  https://images.unsplash.com/photo-1613007065691-84bf7ab479ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwMzB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 拝啓、面接官様。私は「御仏」に入社したかったわけではありません。

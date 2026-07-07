@@ -1,11 +1,16 @@
 ---
-title: "30歳を超えてから突然判明した「自分の勘違い」が恥ずかしすぎる"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "「パセリは食べるものだと思っていた」「言葉の意味を20年間ずっと逆に覚えていた」など、大人が本気で勘違いしていた恥ずかしくも可愛い失敗を振り返り、読者の自尊心を優しく救済する記事。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/thirty-years-of-misunderstanding.mp3"
+title: 30歳を超えてから突然判明した「自分の勘違い」が恥ずかしすぎる
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  「パセリは食べるものだと思っていた」「言葉の意味を20年間ずっと逆に覚えていた」など、大人が本気で勘違いしていた恥ずかしくも可愛い失敗を振り返り、読者の自尊心を優しく救済する記事。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/thirty-years-of-misunderstanding.mp3
+image: >-
+  https://images.unsplash.com/photo-1624639644241-fb03ff7b30ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwNDh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 30歳を過ぎて知った「私の常識」の崩壊：恥ずかしすぎる勘違いの告白

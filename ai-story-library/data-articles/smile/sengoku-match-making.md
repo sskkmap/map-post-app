@@ -1,11 +1,16 @@
 ---
-title: "「もしも戦国武将たちが今のマッチングアプリを使っていたら」"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "プロフィール欄に「天下統一狙ってます」「織田信長（36）趣味：本能寺の変」などと書く武将たちの様子を妄想。マッチングした瞬間に「貴様、どこの家臣だ！」と罵り合いが始まり、全くデートが成立しない様子を描く。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/sengoku-match-making.mp3"
+title: 「もしも戦国武将たちが今のマッチングアプリを使っていたら」
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  プロフィール欄に「天下統一狙ってます」「織田信長（36）趣味：本能寺の変」などと書く武将たちの様子を妄想。マッチングした瞬間に「貴様、どこの家臣だ！」と罵り合いが始まり、全くデートが成立しない様子を描く。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/sengoku-match-making.mp3
+image: >-
+  https://images.unsplash.com/photo-1610792472421-b81c0943d169?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg5MjV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 戦国武将たちがマッチングアプリを始めた結果、地獄絵図が爆誕した

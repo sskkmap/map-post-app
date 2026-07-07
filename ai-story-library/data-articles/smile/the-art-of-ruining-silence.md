@@ -1,11 +1,16 @@
 ---
-title: "「気まずい沈黙」を救うために必死になりすぎて、逆に事件を起こした失敗談"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "美容室やエレベーターなど、逃げ場のない場所での沈黙を破ろうとして、うっかり変な嘘をついたり、的外れな相槌を打って状況を悪化させてしまった読者の投稿エピソード集。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-art-of-ruining-silence.mp3"
+title: 「気まずい沈黙」を救うために必死になりすぎて、逆に事件を起こした失敗談
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  美容室やエレベーターなど、逃げ場のない場所での沈黙を破ろうとして、うっかり変な嘘をついたり、的外れな相槌を打って状況を悪化させてしまった読者の投稿エピソード集。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/the-art-of-ruining-silence.mp3
+image: >-
+  https://images.unsplash.com/photo-1712258690504-1da9afaa65d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMwMTl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 沈黙は金、饒舌は災い？「気まずい空気」を破壊しようとして自爆した人々の末路

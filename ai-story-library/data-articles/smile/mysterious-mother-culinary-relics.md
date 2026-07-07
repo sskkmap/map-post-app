@@ -1,11 +1,16 @@
 ---
-title: "「実家の母が送ってきた『謎の自作料理』の写真を専門家たちが真剣に鑑定してみた」"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "見たこともない色の煮物や、原型を留めていない物体が写った写真を、あたかも美術品や考古学遺物のように過剰な専門用語で解説・評価し、最終的に「食べてはならない理由」をこじつけていく。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/mysterious-mother-culinary-relics.mp3"
+title: 「実家の母が送ってきた『謎の自作料理』の写真を専門家たちが真剣に鑑定してみた」
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  見たこともない色の煮物や、原型を留めていない物体が写った写真を、あたかも美術品や考古学遺物のように過剰な専門用語で解説・評価し、最終的に「食べてはならない理由」をこじつけていく。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/mysterious-mother-culinary-relics.mp3
+image: >-
+  https://images.unsplash.com/photo-1758525226304-bde3a91d3de9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg5MDd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 実家の母が送ってきた「謎の自作料理」の写真を専門家たちが真剣に鑑定してみた

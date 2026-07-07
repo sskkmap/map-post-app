@@ -1,11 +1,16 @@
 ---
-title: "時給800円の地方アルバイトをしながら、その土地の「本当の暮らし」を体験してみた"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "観光客として訪れるのではなく、あえて住み込みの短期バイトに従事。地元のスーパーでしか売っていない謎の食材や、地元民しか知らない憩いのスポットなど、生活者目線で切り取ったディープな旅行記。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/living-on-minimum-wage-in-the-countryside.mp3"
+title: 時給800円の地方アルバイトをしながら、その土地の「本当の暮らし」を体験してみた
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  観光客として訪れるのではなく、あえて住み込みの短期バイトに従事。地元のスーパーでしか売っていない謎の食材や、地元民しか知らない憩いのスポットなど、生活者目線で切り取ったディープな旅行記。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/living-on-minimum-wage-in-the-countryside.mp3
+image: >-
+  https://images.unsplash.com/photo-1592640845644-17d8a6ba0c90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjY3Mjh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 時給800円の「生活者」として、名前も知らない町に潜り込んだ

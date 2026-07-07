@@ -1,11 +1,16 @@
 ---
-title: "廃墟と化していた古民家を、地元のじいちゃんたちと1週間で修復してみた"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "田舎で見つけた空き家に滞在し、宿泊料の代わりにDIYで修復を手伝う「労働型滞在記」。釘の打ち方も知らないライターが、不器用ながらも地域コミュニティに溶け込み、最後には村の宴会に招待されるまでの温かな交流記。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/diy-renovation-in-rural-village.mp3"
+title: 廃墟と化していた古民家を、地元のじいちゃんたちと1週間で修復してみた
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  田舎で見つけた空き家に滞在し、宿泊料の代わりにDIYで修復を手伝う「労働型滞在記」。釘の打ち方も知らないライターが、不器用ながらも地域コミュニティに溶け込み、最後には村の宴会に招待されるまでの温かな交流記。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/diy-renovation-in-rural-village.mp3
+image: >-
+  https://images.unsplash.com/photo-1644395628537-4c531de12e57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MjMxMDJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 釘一本打てなかった僕が、廃墟の古民家を村の宝物に変えるまで

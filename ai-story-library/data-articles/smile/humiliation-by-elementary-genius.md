@@ -1,11 +1,16 @@
 ---
-title: "30代からの「急な習い事」で、先生よりも教えるのが上手い小学生に追い詰められる話"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-05"
-description: "軽い気持ちで始めた大人の趣味教室。しかし、隣の席に座る天才小学生に技術面で完膚なきまでに叩きのめされ、先生からも「君の教え方は、あの子を見習いなさい」と説教されるという、プライドがボロボロに砕け散る悲喜劇。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/humiliation-by-elementary-genius.mp3"
+title: 30代からの「急な習い事」で、先生よりも教えるのが上手い小学生に追い詰められる話
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-05'
+description: >-
+  軽い気持ちで始めた大人の趣味教室。しかし、隣の席に座る天才小学生に技術面で完膚なきまでに叩きのめされ、先生からも「君の教え方は、あの子を見習いなさい」と説教されるという、プライドがボロボロに砕け散る悲喜劇。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/humiliation-by-elementary-genius.mp3
+image: >-
+  https://images.unsplash.com/photo-1722755329817-e72cc3777ae6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4ODB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 30代のプライド、小学4年生に粉砕される。僕が「先生」に降格したあの日

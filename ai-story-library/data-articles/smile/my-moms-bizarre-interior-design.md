@@ -1,11 +1,15 @@
 ---
-title: "「おかんのセンスが斜め上」実家の謎すぎるインテリア・珍グッズ図鑑"
-genre: "smile"
-category: "笑える話"
-tags: ["笑える話"]
-date: "2026-07-06"
-description: "「なぜこれを買ったのか」「どこで手に入れたのか」が謎すぎる、実家で見つけたシュールな置物や、おかんの独創的なDIY術を写真付きでツッコミながら紹介します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/my-moms-bizarre-interior-design.mp3"
+title: 「おかんのセンスが斜め上」実家の謎すぎるインテリア・珍グッズ図鑑
+genre: smile
+category: 笑える話
+tags:
+  - 笑える話
+date: '2026-07-06'
+description: 「なぜこれを買ったのか」「どこで手に入れたのか」が謎すぎる、実家で見つけたシュールな置物や、おかんの独創的なDIY術を写真付きでツッコミながら紹介します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/smile/my-moms-bizarre-interior-design.mp3
+image: >-
+  https://images.unsplash.com/photo-1499081589563-7c400fcd94e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MTg4OTh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 実家がもはや異次元！おかんのセンスが斜め上すぎる「謎インテリア」図鑑
