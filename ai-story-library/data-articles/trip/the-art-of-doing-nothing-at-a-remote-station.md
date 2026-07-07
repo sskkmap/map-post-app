@@ -1,11 +1,16 @@
 ---
-title: "絶景はもう飽きた？「不便すぎる」秘境駅で丸一日、ただ座って過ごしてみた"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "特急も止まらず、コンビニもない、電波も入りにくい「究極の秘境駅」に、あえて一日滞在。ひたすら移り変わる空の色を眺め、持参した文庫本を読み、通り過ぎる地元の人と挨拶を交わす。効率重視の旅行とは真逆の「何もしない贅沢」を通じて、現代人が忘れた時間の感覚を取り戻すドキュメンタリー。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/the-art-of-doing-nothing-at-a-remote-station.mp3"
+title: 絶景はもう飽きた？「不便すぎる」秘境駅で丸一日、ただ座って過ごしてみた
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  特急も止まらず、コンビニもない、電波も入りにくい「究極の秘境駅」に、あえて一日滞在。ひたすら移り変わる空の色を眺め、持参した文庫本を読み、通り過ぎる地元の人と挨拶を交わす。効率重視の旅行とは真逆の「何もしない贅沢」を通じて、現代人が忘れた時間の感覚を取り戻すドキュメンタリー。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/the-art-of-doing-nothing-at-a-remote-station.mp3
+image: >-
+  https://images.unsplash.com/photo-1565516728652-5e8b713d4c16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MzA0MTN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 絶景はもう飽きた？「不便すぎる」秘境駅で丸一日、ただ座って過ごしてみた

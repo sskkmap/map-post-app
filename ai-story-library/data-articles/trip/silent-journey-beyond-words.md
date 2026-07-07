@@ -1,11 +1,16 @@
 ---
-title: "言葉が全く通じない村で、24時間「ジェスチャー」だけで生活してみた結果"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "翻訳アプリも使わず、身振り手振りと笑顔だけで現地の日常に溶け込めるかを実験。言葉を捨てたことで初めて気づいた「コミュニケーションの本質」と、国境を超えた心の通い合いを綴る。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/silent-journey-beyond-words.mp3"
+title: 言葉が全く通じない村で、24時間「ジェスチャー」だけで生活してみた結果
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  翻訳アプリも使わず、身振り手振りと笑顔だけで現地の日常に溶け込めるかを実験。言葉を捨てたことで初めて気づいた「コミュニケーションの本質」と、国境を超えた心の通い合いを綴る。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/silent-journey-beyond-words.mp3
+image: >-
+  https://images.unsplash.com/photo-1593697153104-363dfdc63ea5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MzAzOTh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 言葉を捨てた24時間。ジェスチャーだけで「異国の村」に溶け込んでみた

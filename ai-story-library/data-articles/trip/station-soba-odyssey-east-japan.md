@@ -1,11 +1,16 @@
 ---
-title: "「駅弁」ではなく「駅の立ち食いそば」だけを全制覇する、極私的・東日本横断録"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "高級グルメ旅とは真逆の、駅のホームにある立ち食いそば屋だけをハシゴする旅。店ごとに異なる出汁の味、店主のこだわり、そして旅人たちの哀愁を「一杯の麺」を通して考察するグルメ紀行。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/station-soba-odyssey-east-japan.mp3"
+title: 「駅弁」ではなく「駅の立ち食いそば」だけを全制覇する、極私的・東日本横断録
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  高級グルメ旅とは真逆の、駅のホームにある立ち食いそば屋だけをハシゴする旅。店ごとに異なる出汁の味、店主のこだわり、そして旅人たちの哀愁を「一杯の麺」を通して考察するグルメ紀行。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/station-soba-odyssey-east-japan.mp3
+image: >-
+  https://images.unsplash.com/photo-1754196159624-b6f1a7610a1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MzA0MDV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 孤独をすする、東日本「駅の立ち食いそば」全制覇の旅路

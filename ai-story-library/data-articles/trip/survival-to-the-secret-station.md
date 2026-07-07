@@ -1,11 +1,16 @@
 ---
-title: "「日本一の秘境駅」まで歩いて行こうとしたら、想定外の過酷なサバイバルになった話"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "アクセスの悪い駅へ向かう道のりで、地図にはない廃道や野生動物との遭遇など、観光気分が一変するハプニングに遭遇。旅の計画がいかに無力かを思い知らされる、笑いありのリアル体験記。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/survival-to-the-secret-station.mp3"
+title: 「日本一の秘境駅」まで歩いて行こうとしたら、想定外の過酷なサバイバルになった話
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  アクセスの悪い駅へ向かう道のりで、地図にはない廃道や野生動物との遭遇など、観光気分が一変するハプニングに遭遇。旅の計画がいかに無力かを思い知らされる、笑いありのリアル体験記。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/survival-to-the-secret-station.mp3
+image: >-
+  https://images.unsplash.com/photo-1617259945824-4fb5248e7e21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MzA0MDl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 日本一の秘境駅を目指したはずが、森の深淵でサバイバルを繰り広げた話

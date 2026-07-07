@@ -1,11 +1,16 @@
 ---
-title: "駅のホームで朝食を。日本全国「立ち食いそば」全制覇への道"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "観光名所ではなく、駅のホームの「立ち食いそば」だけを巡る異色のグルメ旅。地域ごとに異なる出汁の文化や、店主のこだわり、一杯のそばに込められた「旅人の物語」をエモーショナルに綴る。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/standing-soba-journey.mp3"
+title: 駅のホームで朝食を。日本全国「立ち食いそば」全制覇への道
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  観光名所ではなく、駅のホームの「立ち食いそば」だけを巡る異色のグルメ旅。地域ごとに異なる出汁の文化や、店主のこだわり、一杯のそばに込められた「旅人の物語」をエモーショナルに綴る。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/standing-soba-journey.mp3
+image: >-
+  https://images.unsplash.com/photo-1578761780913-e7b7fc104d0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MzA0MDR8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 汽笛と湯気のあいだで。日本全国「駅そば」を巡る、孤独で愛おしい旅の記録

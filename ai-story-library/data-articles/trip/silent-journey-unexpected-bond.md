@@ -1,11 +1,16 @@
 ---
-title: "「日本語禁止」のルールで海外旅行に行ったら、思いがけず現地の親友ができた話"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "一切日本語を喋らず、片言の英語とジェスチャーだけで3日間過ごす過酷な海外旅行。言葉が通じないことで逆に五感が研ぎ澄まされ、現地の人々と心を通わせていく過程を、失敗談も交えてコミカルに紹介します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/silent-journey-unexpected-bond.mp3"
+title: 「日本語禁止」のルールで海外旅行に行ったら、思いがけず現地の親友ができた話
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  一切日本語を喋らず、片言の英語とジェスチャーだけで3日間過ごす過酷な海外旅行。言葉が通じないことで逆に五感が研ぎ澄まされ、現地の人々と心を通わせていく過程を、失敗談も交えてコミカルに紹介します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/silent-journey-unexpected-bond.mp3
+image: >-
+  https://images.unsplash.com/photo-1557907719-27c9497c9f95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MzA0MDB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「日本語禁止」の3日間。言葉を捨てて手に入れた、一生モノの親友

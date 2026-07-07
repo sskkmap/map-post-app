@@ -1,11 +1,16 @@
 ---
-title: "観光パンフレットに載らない「街の変な看板」だけを撮り歩く弾丸ツアー"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "地元のセンスが光る独特な看板や、意味不明な貼り紙、手書きの珍妙な案内板だけをカメラに収める旅。その土地の住民の「クセ」や「ユーモア」を深掘りし、ガイドブックには載らない文化を解説する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/strange-signboard-hunting-tour.mp3"
+title: 観光パンフレットに載らない「街の変な看板」だけを撮り歩く弾丸ツアー
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  地元のセンスが光る独特な看板や、意味不明な貼り紙、手書きの珍妙な案内板だけをカメラに収める旅。その土地の住民の「クセ」や「ユーモア」を深掘りし、ガイドブックには載らない文化を解説する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/strange-signboard-hunting-tour.mp3
+image: >-
+  https://images.unsplash.com/photo-1607931358565-8f708615cee5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MzA0MDd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 絶滅危惧の「クセ」を追え。観光ガイドが絶対に教えない看板巡りの旅

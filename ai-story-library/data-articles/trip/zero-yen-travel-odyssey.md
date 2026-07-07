@@ -1,11 +1,16 @@
 ---
-title: "「0円」でどれだけ楽しめる？ 地方都市の無料施設だけを巡る弾丸ツアー"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "予算ゼロを掲げ、自治体が運営する博物館、無料展望台、無料足湯、ボランティアガイドによる散策など、徹底的に「無料」だけで旅を構成。お金を払わないことで逆に気づいた、その街の隠れた「本質的な魅力」をレポートする。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/zero-yen-travel-odyssey.mp3"
+title: 「0円」でどれだけ楽しめる？ 地方都市の無料施設だけを巡る弾丸ツアー
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  予算ゼロを掲げ、自治体が運営する博物館、無料展望台、無料足湯、ボランティアガイドによる散策など、徹底的に「無料」だけで旅を構成。お金を払わないことで逆に気づいた、その街の隠れた「本質的な魅力」をレポートする。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/zero-yen-travel-odyssey.mp3
+image: >-
+  https://images.unsplash.com/photo-1557907719-27c9497c9f95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MzA0MzR8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 0円で味わう街の深淵：お金を払わない旅が教えてくれた「本当の贅沢」

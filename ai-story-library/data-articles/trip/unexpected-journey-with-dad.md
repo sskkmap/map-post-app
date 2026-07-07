@@ -1,11 +1,16 @@
 ---
-title: "定年退職した親父を無理やり海外旅行に連れ出したら、想像の斜め上をいく結末になった"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "旅行慣れしていない家族を強引に連れ出す「親孝行旅」企画。ガイドブック通りにはいかないハプニングや、頑固な親父が旅を通して少しずつ変化していく様子を、笑いと感動を交えて書き上げる。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/unexpected-journey-with-dad.mp3"
+title: 定年退職した親父を無理やり海外旅行に連れ出したら、想像の斜め上をいく結末になった
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  旅行慣れしていない家族を強引に連れ出す「親孝行旅」企画。ガイドブック通りにはいかないハプニングや、頑固な親父が旅を通して少しずつ変化していく様子を、笑いと感動を交えて書き上げる。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/unexpected-journey-with-dad.mp3
+image: >-
+  https://images.unsplash.com/photo-1648672967084-e38967341ab8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MzA0Mjl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 頑固親父を無理やり海外へ連れ出したら、想像の斜め上をいく結末になった

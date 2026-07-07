@@ -1,11 +1,16 @@
 ---
-title: "Googleマップの「低評価レビュー」だけを頼りに観光地を巡る過酷な弾丸ツアー"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "星1〜2のレビューに書かれた「二度と行かない」「最悪だった」という場所にあえて赴き、何がそんなに不満だったのかを検証。意外な発見や、文句を言う側の主観のズレを面白おかしくルポする。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/tour-of-one-star-reviews.mp3"
+title: Googleマップの「低評価レビュー」だけを頼りに観光地を巡る過酷な弾丸ツアー
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  星1〜2のレビューに書かれた「二度と行かない」「最悪だった」という場所にあえて赴き、何がそんなに不満だったのかを検証。意外な発見や、文句を言う側の主観のズレを面白おかしくルポする。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/tour-of-one-star-reviews.mp3
+image: >-
+  https://images.unsplash.com/photo-1577918045042-090bdea75b30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MzA0MjV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「二度と行かない」の正体を探せ：Googleマップ低評価レビュー縛りの弾丸観光ツアー

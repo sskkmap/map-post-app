@@ -1,11 +1,16 @@
 ---
-title: "Googleマップの「口コミ」が極端に悪い場所だけをあえて巡る、逆転の発想旅"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "評価が「星1」や「星2」の観光地には何があるのか？実際に行ってみると、そこには過小評価された意外な魅力や、逆に納得の「カオスな体験」が待っていた。世間の評価と自分の感性のギャップを楽しむ検証企画。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/unconventional-low-rated-trip.mp3"
+title: Googleマップの「口コミ」が極端に悪い場所だけをあえて巡る、逆転の発想旅
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  評価が「星1」や「星2」の観光地には何があるのか？実際に行ってみると、そこには過小評価された意外な魅力や、逆に納得の「カオスな体験」が待っていた。世間の評価と自分の感性のギャップを楽しむ検証企画。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/unconventional-low-rated-trip.mp3
+image: >-
+  https://images.unsplash.com/photo-1655722724170-b3ab67a48791?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MzA0Mjd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「星1」の観光地には何がある？あえて低評価スポットだけを巡る逆転の旅

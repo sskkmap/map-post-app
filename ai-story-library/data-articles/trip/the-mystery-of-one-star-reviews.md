@@ -1,11 +1,16 @@
 ---
-title: "グーグルマップの「評価1」の店にあえて行ってみた。そこには驚きの結末が…"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "レビューサイトで極端に評価が低い場所や、情報が一切ない謎の店・スポットにあえて潜入する企画。期待を裏切る「最高に愛すべきダメな場所」や、なぜ評価が低いのかという納得の理由を独自の視点で深掘りする。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/the-mystery-of-one-star-reviews.mp3"
+title: グーグルマップの「評価1」の店にあえて行ってみた。そこには驚きの結末が…
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  レビューサイトで極端に評価が低い場所や、情報が一切ない謎の店・スポットにあえて潜入する企画。期待を裏切る「最高に愛すべきダメな場所」や、なぜ評価が低いのかという納得の理由を独自の視点で深掘りする。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/the-mystery-of-one-star-reviews.mp3
+image: >-
+  https://images.unsplash.com/photo-1752652405584-4f1359a91439?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MzA0MjB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # Googleマップの「評価1」を追いかけて：地獄の先にある愛すべき「何か」を探す旅

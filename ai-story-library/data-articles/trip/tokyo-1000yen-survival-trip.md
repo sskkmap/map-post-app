@@ -1,11 +1,16 @@
 ---
-title: "「1日1000円」で過ごす、東京大都会の極貧サバイバル観光"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "あえて予算を極限まで絞り、東京という物価の高い街でどうやって充実した一日を過ごすか。無料の絶景スポット、穴場の立ち食い店、意外と知られていない公共施設の活用術を駆使した「知恵と工夫の節約旅」の記録。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/tokyo-1000yen-survival-trip.mp3"
+title: 「1日1000円」で過ごす、東京大都会の極貧サバイバル観光
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  あえて予算を極限まで絞り、東京という物価の高い街でどうやって充実した一日を過ごすか。無料の絶景スポット、穴場の立ち食い店、意外と知られていない公共施設の活用術を駆使した「知恵と工夫の節約旅」の記録。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/tokyo-1000yen-survival-trip.mp3
+image: >-
+  https://images.unsplash.com/photo-1533228359762-1d3346e1c50a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MzA0MjN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 1000円で東京を喰らう。大都会の隙間で生き抜く「極貧サバイバル観光」記

@@ -1,11 +1,16 @@
 ---
-title: "時速30kmで駆け抜ける、軽自動車キャンピングカー日本一周のリアル"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "あえてスピードの出ない軽キャンを選んだ旅人が、高速道路を使わずに下道だけで日本を縦断。効率とは無縁の「寄り道だらけの景色」と、軽自動車ゆえに体験したトラブルや地元住民との濃密な交流を描く。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/slow-travel-japan-by-kei-camper.mp3"
+title: 時速30kmで駆け抜ける、軽自動車キャンピングカー日本一周のリアル
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  あえてスピードの出ない軽キャンを選んだ旅人が、高速道路を使わずに下道だけで日本を縦断。効率とは無縁の「寄り道だらけの景色」と、軽自動車ゆえに体験したトラブルや地元住民との濃密な交流を描く。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/slow-travel-japan-by-kei-camper.mp3
+image: >-
+  https://images.unsplash.com/photo-1581520666713-4469279d5662?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MzA0MDJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 時速30kmの絶景：軽キャンで巡る、効率を捨てた日本一周のリアル

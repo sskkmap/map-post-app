@@ -1,11 +1,15 @@
 ---
-title: "「地元民の『なんもないよ』は嘘説」を検証！人口3,000人の限界集落で24時間過ごしてみた"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "「何もない」と言われた田舎町にあえて泊まり込み、地元民が教えてくれない本当の魅力や、過疎地だからこそ残る濃密な人間模様を体当たりで取材するルポルタージュ。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/verification-nothing-village.mp3"
+title: '「地元民の『なんもないよ』は嘘説」を検証！人口3,000人の限界集落で24時間過ごしてみた'
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: 「何もない」と言われた田舎町にあえて泊まり込み、地元民が教えてくれない本当の魅力や、過疎地だからこそ残る濃密な人間模様を体当たりで取材するルポルタージュ。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/verification-nothing-village.mp3
+image: >-
+  https://images.unsplash.com/photo-1633580969727-df2611ac1e87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MzA0MzN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「なんもないよ」は旅の最高の褒め言葉だった。人口3,000人の限界集落で24時間を過ごした記録

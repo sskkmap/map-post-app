@@ -1,11 +1,16 @@
 ---
-title: "財布の中身は3000円！所持金制限ありの限界地方旅でいかに贅沢するか"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "予算の少なさを逆手に取り、限られた資金でどれだけ満足度の高い旅ができるかを追求する。地元スーパーの半額品を公園で食べる「格安ピクニック」や、地元民しか知らない無料の絶景スポット探しなど、工夫を凝らした貧乏旅行の楽しさを伝える。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/survival-trip-3000yen.mp3"
+title: 財布の中身は3000円！所持金制限ありの限界地方旅でいかに贅沢するか
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  予算の少なさを逆手に取り、限られた資金でどれだけ満足度の高い旅ができるかを追求する。地元スーパーの半額品を公園で食べる「格安ピクニック」や、地元民しか知らない無料の絶景スポット探しなど、工夫を凝らした貧乏旅行の楽しさを伝える。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/survival-trip-3000yen.mp3
+image: >-
+  https://images.unsplash.com/photo-1552654618-5a3744257174?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MzA0MTF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 所持金3000円の「贅沢」学：地方の絶景と半額グルメで心を満たす極上旅

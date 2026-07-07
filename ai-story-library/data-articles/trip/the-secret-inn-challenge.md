@@ -1,11 +1,16 @@
 ---
-title: "「日本一、宿にたどり着けない」秘境旅館への挑戦記"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "地図アプリも電波も通用しない山奥の旅館を目指し、地元住民への聞き込みと勘だけで進むリアル脱出ゲームのような旅。辿り着いた先で待っていた予想外の「おもてなし」の正体とは。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/the-secret-inn-challenge.mp3"
+title: 「日本一、宿にたどり着けない」秘境旅館への挑戦記
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  地図アプリも電波も通用しない山奥の旅館を目指し、地元住民への聞き込みと勘だけで進むリアル脱出ゲームのような旅。辿り着いた先で待っていた予想外の「おもてなし」の正体とは。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/the-secret-inn-challenge.mp3
+image: >-
+  https://images.unsplash.com/photo-1655722724170-b3ab67a48791?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MzA0MjF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「電波圏外、道なし」日本一たどり着けない秘境旅館への冒険記

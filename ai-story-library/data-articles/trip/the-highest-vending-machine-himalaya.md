@@ -1,11 +1,16 @@
 ---
-title: "「世界一高い場所にある自販機」を探してヒマラヤを彷徨ってみた結果"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "ネットで見かけた「エベレスト付近にある幻の自販機」の噂を検証するため、ネパールのトレッキングルートを徹底調査。高山病と戦いながら、数日かけて辿り着いた先で目撃した驚愕の光景と、そこから学んだ「旅の目的」についての考察。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/the-highest-vending-machine-himalaya.mp3"
+title: 「世界一高い場所にある自販機」を探してヒマラヤを彷徨ってみた結果
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  ネットで見かけた「エベレスト付近にある幻の自販機」の噂を検証するため、ネパールのトレッキングルートを徹底調査。高山病と戦いながら、数日かけて辿り着いた先で目撃した驚愕の光景と、そこから学んだ「旅の目的」についての考察。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/the-highest-vending-machine-himalaya.mp3
+image: >-
+  https://images.unsplash.com/photo-1754196159624-b6f1a7610a1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MzA0MTZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 標高5,000mの絶望と渇望。「世界一高い場所にある自販機」を追って

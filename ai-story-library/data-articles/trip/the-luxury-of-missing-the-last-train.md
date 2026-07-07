@@ -1,11 +1,16 @@
 ---
-title: "「終電をあえて逃す」という贅沢。深夜の無人駅で朝まで街の息吹を観察する日記"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "計画的な旅を捨て、終電後の静まり返った街で何が起きているのかを定点観測。深夜のコンビニ、始発を待つ人々の人間ドラマ、夜明けと共に動き出す街の音を綴るエモーショナルな紀行文。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/the-luxury-of-missing-the-last-train.mp3"
+title: 「終電をあえて逃す」という贅沢。深夜の無人駅で朝まで街の息吹を観察する日記
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  計画的な旅を捨て、終電後の静まり返った街で何が起きているのかを定点観測。深夜のコンビニ、始発を待つ人々の人間ドラマ、夜明けと共に動き出す街の音を綴るエモーショナルな紀行文。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/the-luxury-of-missing-the-last-train.mp3
+image: >-
+  https://images.unsplash.com/photo-1723788934200-027be2d83a61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MzA0MTh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 終電をあえて逃すという贅沢。深夜の無人駅で街の息吹を聴く

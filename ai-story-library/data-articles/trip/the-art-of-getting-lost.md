@@ -1,11 +1,16 @@
 ---
-title: "「スマホの充電を捨てろ」—あえて地図を持たず、道行く人に聞き込みだけで目的地を目指す旅"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-05"
-description: "現代の旅行に不可欠なスマホを封印し、完全なアナログスタイルで旅をする。道に迷うことで出会う想定外の人々や、偶然見つけた隠れスポットなど、「不便さ」がもたらす最高の旅の体験をドキュメンタリー形式で描く。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/the-art-of-getting-lost.mp3"
+title: 「スマホの充電を捨てろ」—あえて地図を持たず、道行く人に聞き込みだけで目的地を目指す旅
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-05'
+description: >-
+  現代の旅行に不可欠なスマホを封印し、完全なアナログスタイルで旅をする。道に迷うことで出会う想定外の人々や、偶然見つけた隠れスポットなど、「不便さ」がもたらす最高の旅の体験をドキュメンタリー形式で描く。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/the-art-of-getting-lost.mp3
+image: >-
+  https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MzA0MTR8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # スマホを捨てて、地図を捨てろ。迷い込んだ先で見つけた「本当の旅」

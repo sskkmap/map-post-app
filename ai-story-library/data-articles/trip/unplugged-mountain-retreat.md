@@ -1,11 +1,16 @@
 ---
-title: "「Wi-Fiも電波も圏外」の山小屋で、あえて紙の地図だけで過ごす24時間"
-genre: "trip"
-category: "旅行記"
-tags: ["旅行記"]
-date: "2026-07-06"
-description: "デジタルデトックスをテーマに、スマホを預けて山奥の小屋へ。アナログな地図とコンパスだけを頼りに周辺を探索し、現代人が忘れがちな「今この瞬間に集中する感覚」を取り戻していくまでの内省的な体験談。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/unplugged-mountain-retreat.mp3"
+title: 「Wi-Fiも電波も圏外」の山小屋で、あえて紙の地図だけで過ごす24時間
+genre: trip
+category: 旅行記
+tags:
+  - 旅行記
+date: '2026-07-06'
+description: >-
+  デジタルデトックスをテーマに、スマホを預けて山奥の小屋へ。アナログな地図とコンパスだけを頼りに周辺を探索し、現代人が忘れがちな「今この瞬間に集中する感覚」を取り戻していくまでの内省的な体験談。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/trip/unplugged-mountain-retreat.mp3
+image: >-
+  https://images.unsplash.com/photo-1650884230497-d3459c67f14c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MzA0MzF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 電波のない山小屋で、地図とコンパスだけを頼りに。24時間のデジタルデトックス体験記
