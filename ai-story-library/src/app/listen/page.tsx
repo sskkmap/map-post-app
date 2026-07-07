@@ -1,28 +1,12 @@
 import { getAllArticlesGlobal } from "@/lib/articles";
 import PodcastPlayer from "@/components/PodcastPlayer";
 import { Headphones } from "lucide-react";
-import fs from "fs";
-import path from "path";
+import bgmMapData from "@/data/bgmMap.json";
 
 export default function ListenPage() {
   const articles = getAllArticlesGlobal();
 
-  const bgmMap: Record<string, string[]> = { common: [] };
-  const bgmBaseDir = path.join(process.cwd(), 'public', 'audio', 'bgm');
-  try {
-    if (fs.existsSync(bgmBaseDir)) {
-      const folders = fs.readdirSync(bgmBaseDir, { withFileTypes: true });
-      for (const folder of folders) {
-        if (folder.isDirectory()) {
-          const genre = folder.name;
-          const files = fs.readdirSync(path.join(bgmBaseDir, genre)).filter(f => f.endsWith('.mp3') || f.endsWith('.wav'));
-          bgmMap[genre] = files.map(f => `/audio/bgm/${genre}/${encodeURIComponent(f)}`);
-        }
-      }
-    }
-  } catch (e) {
-    console.error("BGM load error:", e);
-  }
+  const bgmMap: Record<string, string[]> = bgmMapData;
 
   return (
     <div className="max-w-5xl mx-auto px-4 min-h-[70vh] flex flex-col items-center justify-center">

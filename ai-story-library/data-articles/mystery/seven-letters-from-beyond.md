@@ -1,11 +1,16 @@
 ---
-title: "「死者からの遺言書が毎日届く」―7日間で完結する殺人予告の謎"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "亡くなったはずの資産家の老人から、相続人たちの元へ毎日一通ずつ「殺人予告」が届く。予告通りに次々と関係者が姿を消す中、最後の一通に書かれた衝撃の名前とは。古典的叙述トリックを現代風にアレンジした短編連作。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/seven-letters-from-beyond.mp3"
+title: 「死者からの遺言書が毎日届く」―7日間で完結する殺人予告の謎
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  亡くなったはずの資産家の老人から、相続人たちの元へ毎日一通ずつ「殺人予告」が届く。予告通りに次々と関係者が姿を消す中、最後の一通に書かれた衝撃の名前とは。古典的叙述トリックを現代風にアレンジした短編連作。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/seven-letters-from-beyond.mp3
+image: >-
+  https://images.unsplash.com/photo-1617376605887-975ebbaf1b11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxMzF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 7通の告別式：死者からの遺言書が刻むカウントダウン

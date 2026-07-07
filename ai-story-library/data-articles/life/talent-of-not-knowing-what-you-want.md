@@ -1,11 +1,16 @@
 ---
-title: "「やりたいことが見つからない」は才能である：迷える大人のための「好き」の再発見ロードマップ"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "やりたいことがない状態を「自分を縛るものがない自由な状態」と再定義。自己分析ツールや過去の感情日記を用いて、自分の中にある「無意識に時間を忘れて没頭していたこと」を掘り出し、キャリアに結びつけるための具体的なワークを紹介する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/talent-of-not-knowing-what-you-want.mp3"
+title: 「やりたいことが見つからない」は才能である：迷える大人のための「好き」の再発見ロードマップ
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  やりたいことがない状態を「自分を縛るものがない自由な状態」と再定義。自己分析ツールや過去の感情日記を用いて、自分の中にある「無意識に時間を忘れて没頭していたこと」を掘り出し、キャリアに結びつけるための具体的なワークを紹介する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/talent-of-not-knowing-what-you-want.mp3
+image: >-
+  https://images.unsplash.com/photo-1552224565-16cb28ccf570?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDEzOTR8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「やりたいことがない」は才能である：迷える大人のための「好き」の再発見ロードマップ

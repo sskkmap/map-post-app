@@ -1,11 +1,16 @@
 ---
-title: "名探偵はなぜ「現場」を掃除するのか？：推理小説における「痕跡」の心理学"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "数々の名作ミステリーを題材に、探偵たちがなぜ執拗に現場を観察し、逆に証拠を隠滅したり偽装したりするキャラクターがどのような論理で動くのかを、犯罪心理学の観点から徹底解説する考察記事。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/mystery-of-detective-cleansing-traces.mp3"
+title: 名探偵はなぜ「現場」を掃除するのか？：推理小説における「痕跡」の心理学
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  数々の名作ミステリーを題材に、探偵たちがなぜ執拗に現場を観察し、逆に証拠を隠滅したり偽装したりするキャラクターがどのような論理で動くのかを、犯罪心理学の観点から徹底解説する考察記事。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/mystery-of-detective-cleansing-traces.mp3
+image: >-
+  https://images.unsplash.com/photo-1615203593992-1bf8e3733e83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxMDV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 名探偵はなぜ「現場」を掃除するのか？：推理小説における「痕跡」の心理学

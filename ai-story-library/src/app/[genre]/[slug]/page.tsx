@@ -4,8 +4,7 @@ import { notFound } from "next/navigation";
 import AudioPlayer from "@/components/AudioPlayer";
 import Link from "next/link";
 import { Tag, Compass } from "lucide-react";
-import fs from "fs";
-import path from "path";
+import bgmMapData from "@/data/bgmMap.json";
 import { ArticleCard } from "@/components/ArticleSearchUI";
 import Breadcrumb from "@/components/Breadcrumb";
 import ArticleStats from "@/components/ArticleStats";
@@ -101,21 +100,14 @@ export default async function ArticlePage({ params }: Props) {
   // BGMファイルのランダム取得
   let bgmUrl: string | undefined;
   try {
-    const bgmDir = path.join(process.cwd(), 'public', 'audio', 'bgm', genre);
-    if (fs.existsSync(bgmDir)) {
-      const files = fs.readdirSync(bgmDir).filter(f => f.endsWith('.mp3') || f.endsWith('.wav'));
-      if (files.length > 0) {
-        const randomBgm = files[Math.floor(Math.random() * files.length)];
-        bgmUrl = `/audio/bgm/${genre}/${encodeURIComponent(randomBgm)}`;
-      }
+    const bgmMap: Record<string, string[]> = bgmMapData;
+    const genreBgms = bgmMap[genre] || [];
+    if (genreBgms.length > 0) {
+      bgmUrl = genreBgms[Math.floor(Math.random() * genreBgms.length)];
     } else {
-      const commonDir = path.join(process.cwd(), 'public', 'audio', 'bgm', 'common');
-      if (fs.existsSync(commonDir)) {
-        const files = fs.readdirSync(commonDir).filter(f => f.endsWith('.mp3') || f.endsWith('.wav'));
-        if (files.length > 0) {
-          const randomBgm = files[Math.floor(Math.random() * files.length)];
-          bgmUrl = `/audio/bgm/common/${encodeURIComponent(randomBgm)}`;
-        }
+      const commonBgms = bgmMap["common"] || [];
+      if (commonBgms.length > 0) {
+        bgmUrl = commonBgms[Math.floor(Math.random() * commonBgms.length)];
       }
     }
   } catch (e) {

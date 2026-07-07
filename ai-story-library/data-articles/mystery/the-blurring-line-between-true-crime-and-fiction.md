@@ -1,11 +1,16 @@
 ---
-title: "「現実の未解決事件」とミステリー小説の境界線：事実がフィクションを超える瞬間"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "現実世界で起きた不可解な未解決事件を振り返りつつ、それらがどのようにミステリー小説のプロットに昇華されてきたかを検証。ノンフィクションとフィクションの危うい境界線を考察します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-blurring-line-between-true-crime-and-fiction.mp3"
+title: 「現実の未解決事件」とミステリー小説の境界線：事実がフィクションを超える瞬間
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  現実世界で起きた不可解な未解決事件を振り返りつつ、それらがどのようにミステリー小説のプロットに昇華されてきたかを検証。ノンフィクションとフィクションの危うい境界線を考察します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-blurring-line-between-true-crime-and-fiction.mp3
+image: >-
+  https://images.unsplash.com/photo-1755960331545-4bf70fa20b50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxNDJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 現実の闇がペンを走らせる：事実がフィクションを超える瞬間

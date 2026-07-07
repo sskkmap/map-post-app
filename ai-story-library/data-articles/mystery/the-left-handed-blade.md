@@ -1,11 +1,16 @@
 ---
-title: "犯人は全員「右利き」：左利き専用の包丁が語る違和感"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "一族の邸宅で起きた殺人事件。容疑者は全員右利きで、凶器は左利き用の特注包丁だった。現場には争った形跡はなく、被害者は納得した表情で息を引き取っていた。なぜ左利きの包丁が選ばれ、なぜ犯人はあえて「利き手とは逆」の武器を使ったのか。家族の隠された確執と絆を解く心理ミステリー。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-left-handed-blade.mp3"
+title: 犯人は全員「右利き」：左利き専用の包丁が語る違和感
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  一族の邸宅で起きた殺人事件。容疑者は全員右利きで、凶器は左利き用の特注包丁だった。現場には争った形跡はなく、被害者は納得した表情で息を引き取っていた。なぜ左利きの包丁が選ばれ、なぜ犯人はあえて「利き手とは逆」の武器を使ったのか。家族の隠された確執と絆を解く心理ミステリー。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-left-handed-blade.mp3
+image: >-
+  https://images.unsplash.com/photo-1781614447682-7b117587d138?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxNjV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 矛盾する凶器：右利きの一族に潜む「左手」の記憶

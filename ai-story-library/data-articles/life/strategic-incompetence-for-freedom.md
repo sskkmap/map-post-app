@@ -1,11 +1,16 @@
 ---
-title: "「明日から使える無能の哲学：あえて『できない人』を演じる戦略的メリット」"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "高い能力を誇示せず、あえて周囲から「少し抜けている人」と認識されることで、面倒な責任や人間関係の煩わしさを回避し、自分の時間を確保する「戦略的ポンコツ術」を解説。過度な期待を背負わずに楽に生きるためのマインドセットを説く。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/strategic-incompetence-for-freedom.mp3"
+title: 「明日から使える無能の哲学：あえて『できない人』を演じる戦略的メリット」
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  高い能力を誇示せず、あえて周囲から「少し抜けている人」と認識されることで、面倒な責任や人間関係の煩わしさを回避し、自分の時間を確保する「戦略的ポンコツ術」を解説。過度な期待を背負わずに楽に生きるためのマインドセットを説く。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/strategic-incompetence-for-freedom.mp3
+image: >-
+  https://images.unsplash.com/photo-1758520144705-b39e11ff32e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDEzODh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 明日から使える「戦略的ポンコツ術」：あえて「できない人」を演じる贅沢

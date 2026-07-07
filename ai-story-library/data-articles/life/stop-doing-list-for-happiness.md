@@ -1,11 +1,16 @@
 ---
-title: "年収アップより「幸福度」が上がる：人生の質を劇的に変える「やめることリスト」の作り方"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "何かを足すことで向上心を満たすのではなく、人間関係、無駄なルーティン、SNSの比較といった「やめるもの」を明確にすることで、結果的に生産性と幸福度が向上した実例を紹介し、今日から実践できるリスト作成術を解説します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/stop-doing-list-for-happiness.mp3"
+title: 年収アップより「幸福度」が上がる：人生の質を劇的に変える「やめることリスト」の作り方
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  何かを足すことで向上心を満たすのではなく、人間関係、無駄なルーティン、SNSの比較といった「やめるもの」を明確にすることで、結果的に生産性と幸福度が向上した実例を紹介し、今日から実践できるリスト作成術を解説します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/stop-doing-list-for-happiness.mp3
+image: >-
+  https://images.unsplash.com/photo-1586958575243-085f13e1090f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDEzNzl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 年収アップより「幸福度」が上がる：人生の質を劇的に変える「やめることリスト」の作り方

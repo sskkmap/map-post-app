@@ -1,11 +1,16 @@
 ---
-title: "「無能な上司」こそ最強の教材？彼らを観察して学ぶ「逆・反面教師スキル」の極意"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "なぜか出世する「仕事ができない上司」の行動を分析。彼らの振る舞いから「いかに好かれ、いかに責任を回避し、いかに上にゴマをすりつつ生き残るか」という生存戦略を逆説的に学び、現代のストレス社会をたくましく生き抜く術を提案します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-art-of-reverse-mentoring-from-incompetent-bosses.mp3"
+title: 「無能な上司」こそ最強の教材？彼らを観察して学ぶ「逆・反面教師スキル」の極意
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  なぜか出世する「仕事ができない上司」の行動を分析。彼らの振る舞いから「いかに好かれ、いかに責任を回避し、いかに上にゴマをすりつつ生き残るか」という生存戦略を逆説的に学び、現代のストレス社会をたくましく生き抜く術を提案します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-art-of-reverse-mentoring-from-incompetent-bosses.mp3
+image: >-
+  https://images.unsplash.com/photo-1751718862101-b4be94ee4c50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0MDJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「無能な上司」は最高の反面教師！出世する「生存戦略」を盗み取る技術

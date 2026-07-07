@@ -1,11 +1,16 @@
 ---
-title: "貸し出し禁止の図書館：返却期限を過ぎると「客」が来る"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "街の片隅にある古本屋では、貸し出し禁止の「黒い本」を借りた者が必ず行方不明になる。本を借りた人物たちの共通点は、全員が過去に誰かを死に追いやった隠れた罪人であることだった。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-library-of-no-return.mp3"
+title: 貸し出し禁止の図書館：返却期限を過ぎると「客」が来る
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  街の片隅にある古本屋では、貸し出し禁止の「黒い本」を借りた者が必ず行方不明になる。本を借りた人物たちの共通点は、全員が過去に誰かを死に追いやった隠れた罪人であることだった。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-library-of-no-return.mp3
+image: >-
+  https://images.unsplash.com/photo-1625525059698-7e2c81a071c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxNjh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 貸し出し禁止の「黒い本」：罪人が最後に辿り着く場所

@@ -1,11 +1,16 @@
 ---
-title: "年収を追うのをやめたら、人生の「時給」が上がった話"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "「いくら稼ぐか」ではなく「どれだけストレスフリーな時間を持てるか」を指標にキャリアを再設計した人の体験談。労働時間当たりの幸福度を最大化するための、ミニマリスト的キャリア戦略と資産運用の考え方を提示する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/stop-chasing-salary-increase-hourly-happiness.mp3"
+title: 年収を追うのをやめたら、人生の「時給」が上がった話
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  「いくら稼ぐか」ではなく「どれだけストレスフリーな時間を持てるか」を指標にキャリアを再設計した人の体験談。労働時間当たりの幸福度を最大化するための、ミニマリスト的キャリア戦略と資産運用の考え方を提示する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/stop-chasing-salary-increase-hourly-happiness.mp3
+image: >-
+  https://images.unsplash.com/photo-1689896506061-002a4a6c670d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDEzNzZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 年収を追うのをやめたら、人生の「時給」が上がった話

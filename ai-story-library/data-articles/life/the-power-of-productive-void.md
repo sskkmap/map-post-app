@@ -1,11 +1,16 @@
 ---
-title: "「あえて何もしない」が最強のスキル？現代人が忘れた「生産的空白」の作り方"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "効率化ばかりを追い求める現代社会において、あえて予定を入れない時間を設けることの科学的メリットを解説。退屈が脳にもたらす創造性の爆発と、メンタルを回復させる「空白」の戦略的な活用法を提案します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-power-of-productive-void.mp3"
+title: 「あえて何もしない」が最強のスキル？現代人が忘れた「生産的空白」の作り方
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  効率化ばかりを追い求める現代社会において、あえて予定を入れない時間を設けることの科学的メリットを解説。退屈が脳にもたらす創造性の爆発と、メンタルを回復させる「空白」の戦略的な活用法を提案します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-power-of-productive-void.mp3
+image: >-
+  https://images.unsplash.com/photo-1629203666157-cfe88e3d9de6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0MTN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「あえて何もしない」が最強のスキル？現代人が忘れた「生産的空白」の作り方

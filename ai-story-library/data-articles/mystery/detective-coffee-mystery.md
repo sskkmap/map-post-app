@@ -1,11 +1,16 @@
 ---
-title: "名探偵の休息：なぜ彼は「事件現場のコーヒー」を飲むのか"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "古今東西のミステリー小説に登場する「名探偵の癖」に焦点を当てたコラム。なぜ探偵たちはコーヒーや紅茶を飲むのか？その背景にある精神心理学的な考察や、有名な伏線回収エピソードをランキング形式で紹介。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/detective-coffee-mystery.mp3"
+title: 名探偵の休息：なぜ彼は「事件現場のコーヒー」を飲むのか
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  古今東西のミステリー小説に登場する「名探偵の癖」に焦点を当てたコラム。なぜ探偵たちはコーヒーや紅茶を飲むのか？その背景にある精神心理学的な考察や、有名な伏線回収エピソードをランキング形式で紹介。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/detective-coffee-mystery.mp3
+image: >-
+  https://images.unsplash.com/photo-1735299738054-41e4235dbfbc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0NTd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 名探偵の休息：なぜ彼は「事件現場のコーヒー」を飲むのか

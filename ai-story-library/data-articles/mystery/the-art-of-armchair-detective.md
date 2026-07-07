@@ -1,11 +1,16 @@
 ---
-title: "「安楽椅子探偵」はなぜ現場に行かないのか？場所の制約から生まれる知的な緊張感"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "現場へ赴かずに事件を解決する「安楽椅子探偵」スタイルのミステリーに注目。証言や書類のみから真実を導き出すプロセスが、読者の想像力をどのように刺激するのかを掘り下げます。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-art-of-armchair-detective.mp3"
+title: 「安楽椅子探偵」はなぜ現場に行かないのか？場所の制約から生まれる知的な緊張感
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  現場へ赴かずに事件を解決する「安楽椅子探偵」スタイルのミステリーに注目。証言や書類のみから真実を導き出すプロセスが、読者の想像力をどのように刺激するのかを掘り下げます。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-art-of-armchair-detective.mp3
+image: >-
+  https://images.unsplash.com/photo-1553361118-f6a94b479278?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxMzh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 現場なき迷宮：安楽椅子探偵が「動かない」ことで生まれる極上の知的な緊張感

@@ -1,11 +1,16 @@
 ---
-title: "「人生の答え合わせは『墓場』でする：若いうちに失敗したほうが圧倒的に有利な理由」"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "「成功」ばかりを追い求める現代社会の弊害に対し、あえて早い段階で大きな失敗を経験することの重要性を説く記事。人生の後半で立ち直れないほどの挫折を味わうリスクを避けるため、小さいうちに「取り返しのつく傷」を作っておくことの優位性を論理的に解説する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-advantage-of-early-failure.mp3"
+title: 「人生の答え合わせは『墓場』でする：若いうちに失敗したほうが圧倒的に有利な理由」
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  「成功」ばかりを追い求める現代社会の弊害に対し、あえて早い段階で大きな失敗を経験することの重要性を説く記事。人生の後半で立ち直れないほどの挫折を味わうリスクを避けるため、小さいうちに「取り返しのつく傷」を作っておくことの優位性を論理的に解説する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-advantage-of-early-failure.mp3
+image: >-
+  https://images.unsplash.com/photo-1513350921226-0636746f6a32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDEzOTV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 人生の答え合わせは「墓場」でする：若いうちに失敗したほうが圧倒的に有利な理由

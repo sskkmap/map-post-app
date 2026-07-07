@@ -1,11 +1,16 @@
 ---
-title: "密室トリックの最前線：現代の「スマート家電」はアリバイを証明できるか？"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "古典的な密室ミステリーのトリックを、現代のIoT環境に置き換えて検証する。スマートロック、人感センサー、スマートスピーカーのログがどのように「絶対的なアリバイ」を崩し、あるいは犯人を追い詰めるのか。テクノロジーと推理小説の交差点に迫る。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/iot-locked-room-mystery.mp3"
+title: 密室トリックの最前線：現代の「スマート家電」はアリバイを証明できるか？
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  古典的な密室ミステリーのトリックを、現代のIoT環境に置き換えて検証する。スマートロック、人感センサー、スマートスピーカーのログがどのように「絶対的なアリバイ」を崩し、あるいは犯人を追い詰めるのか。テクノロジーと推理小説の交差点に迫る。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/iot-locked-room-mystery.mp3
+image: >-
+  https://images.unsplash.com/photo-1617376605887-975ebbaf1b11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUwOTh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 密室の証言者：スマート家電は「完璧なアリバイ」を崩せるか？

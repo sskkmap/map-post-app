@@ -1,11 +1,16 @@
 ---
-title: "AIが書くミステリーは犯人を特定できるか？生成AIと本格推理作家の対決企画"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "AIに複雑な伏線を張ったミステリーを書かせ、それを推理マニアが解読する。人間特有の「ミスリード」とAIが生成する「予測不能な論理の飛躍」の違いを浮き彫りにし、人間対AIの推理勝負の可能性を探る。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/ai-vs-novelist-mystery-showdown.mp3"
+title: AIが書くミステリーは犯人を特定できるか？生成AIと本格推理作家の対決企画
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  AIに複雑な伏線を張ったミステリーを書かせ、それを推理マニアが解読する。人間特有の「ミスリード」とAIが生成する「予測不能な論理の飛躍」の違いを浮き彫りにし、人間対AIの推理勝負の可能性を探る。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/ai-vs-novelist-mystery-showdown.mp3
+image: >-
+  https://images.unsplash.com/photo-1620951103368-756f5d488e53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0NTB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 犯人は誰か、あるいは「アルゴリズムの罠」か：AI対推理作家の極限ミステリー対決

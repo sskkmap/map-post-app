@@ -1,11 +1,16 @@
 ---
-title: "「3日坊主」こそ最強の生存戦略？飽き性な人が「多動力」を武器に変えるための極意"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "何かを継続できないことをコンプレックスに感じている人に向けて、あえて「飽きる」ことを前提に複数の趣味や仕事を短期間で回し続ける「飽き性特化型」のライフスタイルを提案。やり遂げることよりも、体験を切り替える速度を上げることで得られる知見の広さを解説します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/strategy-of-the-fickle.mp3"
+title: 「3日坊主」こそ最強の生存戦略？飽き性な人が「多動力」を武器に変えるための極意
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  何かを継続できないことをコンプレックスに感じている人に向けて、あえて「飽きる」ことを前提に複数の趣味や仕事を短期間で回し続ける「飽き性特化型」のライフスタイルを提案。やり遂げることよりも、体験を切り替える速度を上げることで得られる知見の広さを解説します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/strategy-of-the-fickle.mp3
+image: >-
+  https://images.unsplash.com/photo-1671356010809-a71ea2c40238?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDEzOTJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「3日坊主」こそ最強の生存戦略？飽き性な人が「多動力」を武器に変えるための極意

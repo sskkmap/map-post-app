@@ -1,11 +1,16 @@
 ---
-title: "「計画倒れ」が止まらない人へ：あえて今日から「目標を捨てる」技術"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "高い目標を立てすぎて自滅する現代人に向けた逆転の発想。目標を達成するために必要なのは「努力」ではなく「タスクの細分化と即時完了」であることを説き、壮大な計画よりも「今すぐできる小さな行動」がいかに人生を動かすかを提示する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/stop-goal-setting-start-doing.mp3"
+title: 「計画倒れ」が止まらない人へ：あえて今日から「目標を捨てる」技術
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  高い目標を立てすぎて自滅する現代人に向けた逆転の発想。目標を達成するために必要なのは「努力」ではなく「タスクの細分化と即時完了」であることを説き、壮大な計画よりも「今すぐできる小さな行動」がいかに人生を動かすかを提示する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/stop-goal-setting-start-doing.mp3
+image: >-
+  https://images.unsplash.com/photo-1573747434145-40725b131d3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDEzODF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「計画倒れ」が止まらない人へ：あえて今日から「目標を捨てる」技術

@@ -1,11 +1,16 @@
 ---
-title: "あなたの隣人は犯人かもしれない：「叙述トリック」の仕掛けを日常で体感する思考実験"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "読者を騙す「叙述トリック」の構造を身近な人間関係に当てはめる思考実験。日常会話の中で「性別」「年齢」「職業」を誤認させる伏線の貼り方をレクチャーし、読者のミステリー脳を刺激する読み物。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/neighbor-is-the-culprit-narrative-trick.mp3"
+title: あなたの隣人は犯人かもしれない：「叙述トリック」の仕掛けを日常で体感する思考実験
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  読者を騙す「叙述トリック」の構造を身近な人間関係に当てはめる思考実験。日常会話の中で「性別」「年齢」「職業」を誤認させる伏線の貼り方をレクチャーし、読者のミステリー脳を刺激する読み物。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/neighbor-is-the-culprit-narrative-trick.mp3
+image: >-
+  https://images.unsplash.com/photo-1586665068934-539e2bd54b4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxMTB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # あなたの隣人は犯人かもしれない：日常に潜む「叙述トリック」の思考実験

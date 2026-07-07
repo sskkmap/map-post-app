@@ -1,11 +1,16 @@
 ---
-title: "「密室」はなぜ飽きられないのか？本格ミステリーにおける「物理法則」の進化論"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "読者が愛してやまない「密室トリック」の歴史を紐解き、古典的な鍵かけトリックから、現代のハイテク機器や物理法則を逆手に取った最新の仕掛けまで、その進化の軌跡と魅力の正体を分析する読み物。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-evolution-of-locked-room-mysteries.mp3"
+title: 「密室」はなぜ飽きられないのか？本格ミステリーにおける「物理法則」の進化論
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  読者が愛してやまない「密室トリック」の歴史を紐解き、古典的な鍵かけトリックから、現代のハイテク機器や物理法則を逆手に取った最新の仕掛けまで、その進化の軌跡と魅力の正体を分析する読み物。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-evolution-of-locked-room-mysteries.mp3
+image: >-
+  https://images.unsplash.com/photo-1770362603231-7c7b3a01d587?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxNTR8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「密室」はなぜ飽きられないのか？本格ミステリーにおける「物理法則」の進化論

@@ -1,11 +1,16 @@
 ---
-title: "「『やらないことリスト』を作るだけで人生の純度が上がる：選択と集中の究極形」"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "ToDoリストよりも重要視すべき「やらないことリスト」の作り方を提案。惰性で続けている習慣、付き合いの飲み会、SNSの無駄な閲覧などを削ぎ落とし、自分の人生にとって本当に大切なことだけに時間とエネルギーを注ぐための断捨離メソッドを紹介。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-art-of-not-doing.mp3"
+title: 「『やらないことリスト』を作るだけで人生の純度が上がる：選択と集中の究極形」
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  ToDoリストよりも重要視すべき「やらないことリスト」の作り方を提案。惰性で続けている習慣、付き合いの飲み会、SNSの無駄な閲覧などを削ぎ落とし、自分の人生にとって本当に大切なことだけに時間とエネルギーを注ぐための断捨離メソッドを紹介。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-art-of-not-doing.mp3
+image: >-
+  https://images.unsplash.com/photo-1640077596538-be70c80c183a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0MDF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「やらないことリスト」を作るだけで人生の純度が上がる：選択と集中の究極形

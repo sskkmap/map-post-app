@@ -1,11 +1,16 @@
 ---
-title: "「誰もいない部屋から足音がする」……ビデオ通話の背景に映り込んだ、10年前の死者の影"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "リモートワーク中の女性が、ビデオ通話の背景に「10年前に失踪した元恋人」が歩いているのを目撃する。デジタル画像解析と過去の未解決事件が交差する、現代的な都市伝説ミステリー。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-ghost-in-the-zoom-frame.mp3"
+title: 「誰もいない部屋から足音がする」……ビデオ通話の背景に映り込んだ、10年前の死者の影
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  リモートワーク中の女性が、ビデオ通話の背景に「10年前に失踪した元恋人」が歩いているのを目撃する。デジタル画像解析と過去の未解決事件が交差する、現代的な都市伝説ミステリー。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-ghost-in-the-zoom-frame.mp3
+image: >-
+  https://images.unsplash.com/photo-1522641258421-11cd8678f308?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxNjF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # デジタル越しに見る死者の影：ビデオ通話の背景に映り込んだ「10年前の失踪者」

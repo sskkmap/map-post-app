@@ -1,11 +1,16 @@
 ---
-title: "「密室」は実在するのか：物理学者がガチで検証した伝説のトリック5選"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "「針と糸」や「気圧差」など、ミステリー小説で語られる古典的な密室トリックを、物理学の知見を用いて実現可能性を検証。現実世界で再現するのはどれほど困難なのか、プロの視点で分析するエンタメ検証企画。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/reality-of-locked-room-tricks.mp3"
+title: 「密室」は実在するのか：物理学者がガチで検証した伝説のトリック5選
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  「針と糸」や「気圧差」など、ミステリー小説で語られる古典的な密室トリックを、物理学の知見を用いて実現可能性を検証。現実世界で再現するのはどれほど困難なのか、プロの視点で分析するエンタメ検証企画。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/reality-of-locked-room-tricks.mp3
+image: >-
+  https://images.unsplash.com/photo-1593344272651-a44cf1dedf10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxMjN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「密室」は実在するのか：物理学者がガチで検証した伝説のトリック5選

@@ -1,11 +1,16 @@
 ---
-title: "密室殺人の名作を読み解く！なぜ探偵は「犯人がいない部屋」で謎を解けるのか"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "古今東西のクローズドサークルや密室トリックの傑作を題材に、論理的思考の面白さを解説。読者が「自分ならどう脱出するか」をシミュレーションしたくなる、思考のパズルとしてのミステリーの魅力を紐解きます。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/mystery-of-locked-room-logic.mp3"
+title: 密室殺人の名作を読み解く！なぜ探偵は「犯人がいない部屋」で謎を解けるのか
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  古今東西のクローズドサークルや密室トリックの傑作を題材に、論理的思考の面白さを解説。読者が「自分ならどう脱出するか」をシミュレーションしたくなる、思考のパズルとしてのミステリーの魅力を紐解きます。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/mystery-of-locked-room-logic.mp3
+image: >-
+  https://images.unsplash.com/photo-1615203593992-1bf8e3733e83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxMDd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 密室殺人の名作を読み解く！なぜ探偵は「犯人がいない部屋」で謎を解けるのか

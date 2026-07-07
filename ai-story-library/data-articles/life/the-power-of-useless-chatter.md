@@ -1,11 +1,16 @@
 ---
-title: "AI時代にこそ人間味が勝つ。「無駄な雑談」がキャリアに劇的なリターンをもたらす科学的理由"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "効率化ばかりが叫ばれる時代に、あえて効率の悪い「雑談」を大切にすることが、信頼関係の構築や予期せぬチャンスの引き寄せ、さらには自身の脳のリフレッシュにどう貢献するのかを、最新の知見を交えて考察します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-power-of-useless-chatter.mp3"
+title: AI時代にこそ人間味が勝つ。「無駄な雑談」がキャリアに劇的なリターンをもたらす科学的理由
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  効率化ばかりが叫ばれる時代に、あえて効率の悪い「雑談」を大切にすることが、信頼関係の構築や予期せぬチャンスの引き寄せ、さらには自身の脳のリフレッシュにどう貢献するのかを、最新の知見を交えて考察します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-power-of-useless-chatter.mp3
+image: >-
+  https://images.unsplash.com/photo-1625034500315-2d7bfe49735f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0MjB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「効率化」の時代に、あえて「無駄な雑談」こそがキャリアの最強の武器になる科学的理由

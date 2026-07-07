@@ -1,11 +1,16 @@
 ---
-title: "「死者からの予約投稿」を追いかけて：SNSに投稿され続ける日記の謎"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "事故死したはずの親友のブログに、毎日「死後の日記」が投稿される。最初は追悼を装った嫌がらせかと思われたが、その内容は警察すら知らない未解決事件の核心を突いていた。インターネットの海に潜む「デジタルな亡霊」の正体に迫るサイバー・ミステリー。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-ghost-in-the-feed.mp3"
+title: 「死者からの予約投稿」を追いかけて：SNSに投稿され続ける日記の謎
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  事故死したはずの親友のブログに、毎日「死後の日記」が投稿される。最初は追悼を装った嫌がらせかと思われたが、その内容は警察すら知らない未解決事件の核心を突いていた。インターネットの海に潜む「デジタルな亡霊」の正体に迫るサイバー・ミステリー。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-ghost-in-the-feed.mp3
+image: >-
+  https://images.unsplash.com/photo-1686452554510-0ad853599ef9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxNTh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「死者からの予約投稿」を追いかけて：デジタルな亡霊が暴く未解決事件の真実

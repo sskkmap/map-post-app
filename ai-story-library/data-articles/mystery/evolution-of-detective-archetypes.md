@@ -1,11 +1,16 @@
 ---
-title: "「名探偵」の定義を書き換えた革命的キャラクターの系譜"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "ポアロやホームズといった古典的名探偵から、現代の「訳あり探偵」「サイコパス探偵」まで。時代背景とともに変化してきた探偵像の変遷を辿り、次にくる「次世代型名探偵」の姿を大胆に予測する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/evolution-of-detective-archetypes.mp3"
+title: 「名探偵」の定義を書き換えた革命的キャラクターの系譜
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  ポアロやホームズといった古典的名探偵から、現代の「訳あり探偵」「サイコパス探偵」まで。時代背景とともに変化してきた探偵像の変遷を辿り、次にくる「次世代型名探偵」の姿を大胆に予測する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/evolution-of-detective-archetypes.mp3
+image: >-
+  https://images.unsplash.com/photo-1638866413207-0cd121fe0284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUwODd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 灰色の脳細胞からAIへ：名探偵の定義を書き換える「進化の系譜」

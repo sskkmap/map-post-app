@@ -1,11 +1,16 @@
 ---
-title: "「効率化を捨てた一日：あえて『生産性の低いこと』に没頭すると人生が好転する理由」"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "「タイパ」や効率化が叫ばれる現代において、あえて非効率な趣味や作業に一日費やす実験企画。無駄な時間の中にこそ「自分を取り戻すための余白」があり、長期的なクリエイティビティやメンタルの安定にどう繋がるのかを考察します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-art-of-inefficiency.mp3"
+title: 「効率化を捨てた一日：あえて『生産性の低いこと』に没頭すると人生が好転する理由」
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  「タイパ」や効率化が叫ばれる現代において、あえて非効率な趣味や作業に一日費やす実験企画。無駄な時間の中にこそ「自分を取り戻すための余白」があり、長期的なクリエイティビティやメンタルの安定にどう繋がるのかを考察します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-art-of-inefficiency.mp3
+image: >-
+  https://images.unsplash.com/photo-1547648952-2a382717c505?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDEzOTl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 効率化を捨てた一日：あえて「生産性の低いこと」に没頭すると人生が好転する理由

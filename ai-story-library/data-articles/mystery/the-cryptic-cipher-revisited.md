@@ -1,11 +1,16 @@
 ---
-title: "未解決事件の被害者が残した「謎のメモ」を現代の暗号解読班が解析"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "歴史上の有名な未解決事件や、奇妙な手紙に残された暗号にスポットを当て、暗号解読のエキスパートが最新のAI技術と統計学を用いて再調査を行う。解読が不可能とされた文字列の背後に浮かび上がる「偶然の産物」と「犯人の心理」に迫る。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-cryptic-cipher-revisited.mp3"
+title: 未解決事件の被害者が残した「謎のメモ」を現代の暗号解読班が解析
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  歴史上の有名な未解決事件や、奇妙な手紙に残された暗号にスポットを当て、暗号解読のエキスパートが最新のAI技術と統計学を用いて再調査を行う。解読が不可能とされた文字列の背後に浮かび上がる「偶然の産物」と「犯人の心理」に迫る。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-cryptic-cipher-revisited.mp3
+image: >-
+  https://images.unsplash.com/photo-1661647199503-a5acaf836111?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxNDV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 消えたメッセージの残響：AIが暴く未解決事件の「暗号」の正体

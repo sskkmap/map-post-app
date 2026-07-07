@@ -1,11 +1,16 @@
 ---
-title: "「誰もいないはずの地下室から聞こえるピアノ曲」の正体を追う"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "深夜の古びた屋敷で、住人以外誰もいない地下室から毎日決まった時間にピアノの旋律が響く。幽霊騒動として処理されそうになるが、音楽家の主人公がその旋律に「楽譜には存在しない不協和音」が含まれていることに気づく。それは、何者かが鍵盤を叩くことで送信している「助けを求めるモールス信号」だった。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/piano-in-the-basement.mp3"
+title: 「誰もいないはずの地下室から聞こえるピアノ曲」の正体を追う
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  深夜の古びた屋敷で、住人以外誰もいない地下室から毎日決まった時間にピアノの旋律が響く。幽霊騒動として処理されそうになるが、音楽家の主人公がその旋律に「楽譜には存在しない不協和音」が含まれていることに気づく。それは、何者かが鍵盤を叩くことで送信している「助けを求めるモールス信号」だった。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/piano-in-the-basement.mp3
+image: >-
+  https://images.unsplash.com/photo-1776738804653-75ff3c5131a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxMTV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 深夜の地下室に潜む「不協和音」――その旋律は、助けを求める叫びだった

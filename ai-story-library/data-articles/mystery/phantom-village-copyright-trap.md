@@ -1,11 +1,16 @@
 ---
-title: "地図から消えた村の正体：地図作成者が仕込んだ「著作権トラップ」の深層"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "かつて地図上に実在したが、実際には存在しなかった「幽霊集落」。地図作成者が盗作を防ぐために意図的に配置したこの虚構が、なぜか怪談や失踪事件の舞台として語り継がれるようになった背景を、地理学と都市伝説の側面から紐解く。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/phantom-village-copyright-trap.mp3"
+title: 地図から消えた村の正体：地図作成者が仕込んだ「著作権トラップ」の深層
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  かつて地図上に実在したが、実際には存在しなかった「幽霊集落」。地図作成者が盗作を防ぐために意図的に配置したこの虚構が、なぜか怪談や失踪事件の舞台として語り継がれるようになった背景を、地理学と都市伝説の側面から紐解く。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/phantom-village-copyright-trap.mp3
+image: >-
+  https://images.unsplash.com/photo-1773394843538-7c7cc41b8a49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxMTJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 地図から消えた村の正体：地図作成者が仕込んだ「著作権トラップ」の深層

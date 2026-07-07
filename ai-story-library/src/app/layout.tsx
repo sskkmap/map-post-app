@@ -42,6 +42,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ja" data-theme="portal">
+      <head>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3015895490418469" crossOrigin="anonymous"></script>
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased transition-colors duration-700`}
       >

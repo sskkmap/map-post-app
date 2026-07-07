@@ -1,11 +1,16 @@
 ---
-title: "「鏡の中の殺人は誰の仕業？」―左右反転した死体が見つけた唯一の証拠"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "鏡の中にだけ「あるはずのない傷跡」が映る不可解な殺人現場。被害者は死の直前、鏡に向かって何かを必死に書き残していた。鏡の配置トリックを利用した、読者の視覚を狂わせる心理ミステリー。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/mirror-deception-murder.mp3"
+title: 「鏡の中の殺人は誰の仕業？」―左右反転した死体が見つけた唯一の証拠
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  鏡の中にだけ「あるはずのない傷跡」が映る不可解な殺人現場。被害者は死の直前、鏡に向かって何かを必死に書き残していた。鏡の配置トリックを利用した、読者の視覚を狂わせる心理ミステリー。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/mirror-deception-murder.mp3
+image: >-
+  https://images.unsplash.com/photo-1522641258421-11cd8678f308?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxMDN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 鏡の中の殺人は誰の仕業？―左右反転した死体が見つけた唯一の証拠

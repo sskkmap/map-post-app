@@ -1,11 +1,16 @@
 ---
-title: "時効成立のその日に届いた一通のラブレター。差出人は、30年前に殺したはずの被害者だった"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "未解決殺人事件の時効が成立したその日、容疑者だった元刑事に届いた手紙。そこには犯人しか知り得ない「遺体の隠し場所」と、被害者からの切ないメッセージが記されていた。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-letter-from-thirty-years-ago.mp3"
+title: 時効成立のその日に届いた一通のラブレター。差出人は、30年前に殺したはずの被害者だった
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  未解決殺人事件の時効が成立したその日、容疑者だった元刑事に届いた手紙。そこには犯人しか知り得ない「遺体の隠し場所」と、被害者からの切ないメッセージが記されていた。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-letter-from-thirty-years-ago.mp3
+image: >-
+  https://images.unsplash.com/photo-1617376605887-975ebbaf1b11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxNjd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 時効の刻限に届いた「死者」からの恋文

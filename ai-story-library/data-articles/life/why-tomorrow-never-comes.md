@@ -1,11 +1,16 @@
 ---
-title: "「明日やろう」は一生やらない説：なぜ私たちの脳は「期限」がないと動かないのか"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "締め切りがないタスクほど先延ばしにしてしまう心理メカニズムを、最新の行動経済学の視点から解説。先延ばし癖を「意志の弱さ」ではなく「脳の防衛本能」と捉え直し、無理なくタスクを消化する「2分間ルール」などの具体的なハック術を紹介する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/why-tomorrow-never-comes.mp3"
+title: 「明日やろう」は一生やらない説：なぜ私たちの脳は「期限」がないと動かないのか
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  締め切りがないタスクほど先延ばしにしてしまう心理メカニズムを、最新の行動経済学の視点から解説。先延ばし癖を「意志の弱さ」ではなく「脳の防衛本能」と捉え直し、無理なくタスクを消化する「2分間ルール」などの具体的なハック術を紹介する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/why-tomorrow-never-comes.mp3
+image: >-
+  https://images.unsplash.com/photo-1513350921226-0636746f6a32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0Mzd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「明日やろう」は一生やらない：脳が「締め切り」に支配される科学的な理由

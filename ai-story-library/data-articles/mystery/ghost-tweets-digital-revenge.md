@@ -1,11 +1,16 @@
 ---
-title: "「死者はSNSで呟く：デジタル遺品が明かした殺害予告の真実」"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "ある若手IT起業家が急死。しかし、彼のアカウントから死後も定期的に「犯人を探せ」というメッセージが投稿され続ける。警察が事故として処理する中、フリーライターがデジタルフォレンジックを駆使し、投稿予約システムの裏に隠された驚愕の犯行トリックを暴き出す。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/ghost-tweets-digital-revenge.mp3"
+title: 「死者はSNSで呟く：デジタル遺品が明かした殺害予告の真実」
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  ある若手IT起業家が急死。しかし、彼のアカウントから死後も定期的に「犯人を探せ」というメッセージが投稿され続ける。警察が事故として処理する中、フリーライターがデジタルフォレンジックを駆使し、投稿予約システムの裏に隠された驚愕の犯行トリックを暴き出す。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/ghost-tweets-digital-revenge.mp3
+image: >-
+  https://images.unsplash.com/photo-1585160159207-95884c758032?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUwOTR8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 死者はSNSで呟く：デジタル遺品が明かした殺害予告の真実

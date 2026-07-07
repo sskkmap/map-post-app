@@ -1,11 +1,16 @@
 ---
-title: "デジタル・フォレンジックで解き明かす「消えたSNSアカウント」の謎"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "死後や失踪後に更新され続けるSNSアカウントや、デジタル上の痕跡だけを残して消えた人々のミステリーに焦点を当てる。IT専門家が語る「デジタル・ゴースト」の仕組みと、インターネット空間に残された不可解な「遺言」の真意を探る。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/digital-ghost-investigation.mp3"
+title: デジタル・フォレンジックで解き明かす「消えたSNSアカウント」の謎
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  死後や失踪後に更新され続けるSNSアカウントや、デジタル上の痕跡だけを残して消えた人々のミステリーに焦点を当てる。IT専門家が語る「デジタル・ゴースト」の仕組みと、インターネット空間に残された不可解な「遺言」の真意を探る。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/digital-ghost-investigation.mp3
+image: >-
+  https://images.unsplash.com/photo-1709455237000-678076b41f64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0NjN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # デジタル・ゴーストの囁き：消えたSNSアカウントが「生き続ける」理由

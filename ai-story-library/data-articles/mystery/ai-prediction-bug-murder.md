@@ -1,11 +1,17 @@
 ---
-title: "AIが予測した「来週、町で起きる殺人事件」に隠されたバグ"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "ある日突然、近未来予測AIが町で発生する殺人事件を具体的に予言した。しかし、被害者として挙げられた人物たちは、数日後に全員が「奇跡的に助かる」という結末を迎える。犯人はなぜ、AIの予測を逆手に取ったのか？ AIに仕込まれた「悪意あるプログラミング」の謎に迫る。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/ai-prediction-bug-murder.mp3"
+title: AIが予測した「来週、町で起きる殺人事件」に隠されたバグ
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  ある日突然、近未来予測AIが町で発生する殺人事件を具体的に予言した。しかし、被害者として挙げられた人物たちは、数日後に全員が「奇跡的に助かる」という結末を迎える。犯人はなぜ、AIの予測を逆手に取ったのか？
+  AIに仕込まれた「悪意あるプログラミング」の謎に迫る。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/ai-prediction-bug-murder.mp3
+image: >-
+  https://images.unsplash.com/photo-1761933787304-2d51658c19d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0NDZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 予言された死の「バグ」：AIが描き出した完璧な偽装

@@ -1,11 +1,16 @@
 ---
-title: "AIにアガサ・クリスティの未発表作を書かせてみた結果"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "最新の生成AIに、クリスティ風の文体とプロット構成を学習させ、新作ミステリーを執筆させる企画。AIが作り出した「それらしいトリック」と「人間味のないロジック」をミステリーファンが添削し、機械と人間による「どんでん返し」の作り方の違いを比較する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/ai-agatha-christie-experiment.mp3"
+title: AIにアガサ・クリスティの未発表作を書かせてみた結果
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  最新の生成AIに、クリスティ風の文体とプロット構成を学習させ、新作ミステリーを執筆させる企画。AIが作り出した「それらしいトリック」と「人間味のないロジック」をミステリーファンが添削し、機械と人間による「どんでん返し」の作り方の違いを比較する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/ai-agatha-christie-experiment.mp3
+image: >-
+  https://images.unsplash.com/photo-1713018604654-51f531066e8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0NDR8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # AIは「クリスティ」を超えられるか？ 名探偵ポアロが挑む電子の迷宮

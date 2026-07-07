@@ -1,11 +1,16 @@
 ---
-title: "「嫌われる勇気」より「愛される脱力」。仕事で成果を出し続ける人の「隙」の作り方"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "完璧主義で追い詰められている人に向けて、あえて少しだけ「隙」を見せることで周囲の協力を引き出し、結果として仕事のパフォーマンスと精神的健康を両立させるコミュニケーション戦略を紐解きます。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-power-of-strategic-imperfection.mp3"
+title: 「嫌われる勇気」より「愛される脱力」。仕事で成果を出し続ける人の「隙」の作り方
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  完璧主義で追い詰められている人に向けて、あえて少しだけ「隙」を見せることで周囲の協力を引き出し、結果として仕事のパフォーマンスと精神的健康を両立させるコミュニケーション戦略を紐解きます。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-power-of-strategic-imperfection.mp3
+image: >-
+  https://images.unsplash.com/photo-1713946598253-59d6418cb85b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0MTh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「嫌われる勇気」より「愛される脱力」。仕事で成果を出し続ける人の「隙」の作り方

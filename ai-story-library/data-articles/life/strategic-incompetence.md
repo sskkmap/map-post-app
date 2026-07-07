@@ -1,11 +1,16 @@
 ---
-title: "「明日から使える無能の哲学」：あえて「できない人」を演じて生産性を高める逆転の発想"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "優秀であることに疲れ切った現代人へ。あえて仕事で期待値を下げ、抱え込む責任を最小化することで、心身の健康とクリエイティビティを取り戻す「戦略的無能化」の技術を提案する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/strategic-incompetence.mp3"
+title: 「明日から使える無能の哲学」：あえて「できない人」を演じて生産性を高める逆転の発想
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  優秀であることに疲れ切った現代人へ。あえて仕事で期待値を下げ、抱え込む責任を最小化することで、心身の健康とクリエイティビティを取り戻す「戦略的無能化」の技術を提案する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/strategic-incompetence.mp3
+image: >-
+  https://images.unsplash.com/photo-1666220657794-6dd939281a7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDEzOTB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「明日から使える無能の哲学」：あえて「できない人」を演じる戦略的無能化のすすめ

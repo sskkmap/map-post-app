@@ -1,11 +1,16 @@
 ---
-title: "なぜ犯人はわざわざ「チェス」を現場に残すのか？連続殺人鬼の歪んだ美学と意外な動機"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "警察を翻弄する知能犯が、現場に必ずチェスの駒を残す理由を追う。犯人の過去と戦術を紐解くうちに、チェスの棋譜そのものが「次なるターゲットの住所」を示していることに気づく。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-chess-killer-obsession.mp3"
+title: なぜ犯人はわざわざ「チェス」を現場に残すのか？連続殺人鬼の歪んだ美学と意外な動機
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  警察を翻弄する知能犯が、現場に必ずチェスの駒を残す理由を追う。犯人の過去と戦術を紐解くうちに、チェスの棋譜そのものが「次なるターゲットの住所」を示していることに気づく。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-chess-killer-obsession.mp3
+image: >-
+  https://images.unsplash.com/photo-1620951103368-756f5d488e53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxNDN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 盤上の断罪者：なぜ殺人鬼はチェスの駒を現場に残すのか

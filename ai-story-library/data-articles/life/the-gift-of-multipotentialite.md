@@ -1,11 +1,16 @@
 ---
-title: "「やりたいこと」が見つからないのは才能がある証拠：多才な人が陥るキャリアの迷宮"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "一つのことに打ち込めない自分を責めている人へ向けた逆転の発想。複数の興味を次々と横断する「マルチポテンシャライト」という概念を紹介し、専門性を一つに絞るのではなく、点と点を繋いで独自のキャリアを構築する生存戦略を提示する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-gift-of-multipotentialite.mp3"
+title: 「やりたいこと」が見つからないのは才能がある証拠：多才な人が陥るキャリアの迷宮
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  一つのことに打ち込めない自分を責めている人へ向けた逆転の発想。複数の興味を次々と横断する「マルチポテンシャライト」という概念を紹介し、専門性を一つに絞るのではなく、点と点を繋いで独自のキャリアを構築する生存戦略を提示する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-gift-of-multipotentialite.mp3
+image: >-
+  https://images.unsplash.com/photo-1728545403150-30cc9ffc5163?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0MDh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「やりたいことがない」のは才能の証：多才な人がキャリアの迷宮から脱出する方法

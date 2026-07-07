@@ -1,11 +1,16 @@
 ---
-title: "辞めた瞬間にわかる「職場環境の本当の価値」：退職代行を使って気づいた意外な事実"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "退職代行を利用して会社を辞めた人々のリアルな体験談をベースに、執着していた環境がいかに自分をすり減らしていたかを分析。次のステージへ進むための「心理的な退職」のタイミングと、後悔しないための自己分析のコツをまとめる。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-truth-behind-quitting.mp3"
+title: 辞めた瞬間にわかる「職場環境の本当の価値」：退職代行を使って気づいた意外な事実
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  退職代行を利用して会社を辞めた人々のリアルな体験談をベースに、執着していた環境がいかに自分をすり減らしていたかを分析。次のステージへ進むための「心理的な退職」のタイミングと、後悔しないための自己分析のコツをまとめる。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-truth-behind-quitting.mp3
+image: >-
+  https://images.unsplash.com/photo-1558470252-689a7a78ba0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0MjR8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 辞めた瞬間にわかる「職場環境の本当の価値」：退職代行を使って気づいた意外な事実

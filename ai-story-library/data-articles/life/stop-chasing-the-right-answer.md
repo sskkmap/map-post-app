@@ -1,11 +1,16 @@
 ---
-title: "「人生の答え合わせ」はもうやめよう。30代から始める「最適解を捨てた生き方」"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "世間が定義する成功や幸福のルートからあえて外れ、自分だけの「心地よい人生」を見つけた人々の事例を紹介。「正解」を追い求めることに疲れた読者へ向けて、違和感を大切にする人生の戦略を提案します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/stop-chasing-the-right-answer.mp3"
+title: 「人生の答え合わせ」はもうやめよう。30代から始める「最適解を捨てた生き方」
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  世間が定義する成功や幸福のルートからあえて外れ、自分だけの「心地よい人生」を見つけた人々の事例を紹介。「正解」を追い求めることに疲れた読者へ向けて、違和感を大切にする人生の戦略を提案します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/stop-chasing-the-right-answer.mp3
+image: >-
+  https://images.unsplash.com/photo-1680771761827-b1fdebe06339?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDEzNzh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「人生の答え合わせ」はもうやめよう。30代から始める「最適解を捨てた生き方」

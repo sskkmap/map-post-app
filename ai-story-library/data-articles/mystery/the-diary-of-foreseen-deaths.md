@@ -1,11 +1,16 @@
 ---
-title: "犯人は「未来の被害者」：予知夢日記が導く連続殺人事件"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "連続殺人事件の現場に必ず残される「日記」。そこには、犯行の記録ではなく、被害者が死ぬ数日前に見た「自分の殺害予告」が記されていた。被害者たちはなぜ、自分の死を予期しながら殺されたのか。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-diary-of-foreseen-deaths.mp3"
+title: 犯人は「未来の被害者」：予知夢日記が導く連続殺人事件
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  連続殺人事件の現場に必ず残される「日記」。そこには、犯行の記録ではなく、被害者が死ぬ数日前に見た「自分の殺害予告」が記されていた。被害者たちはなぜ、自分の死を予期しながら殺されたのか。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-diary-of-foreseen-deaths.mp3
+image: >-
+  https://images.unsplash.com/photo-1781614447682-7b117587d138?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxNTF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 予知夢日記の罠：死を予告された者たちの沈黙

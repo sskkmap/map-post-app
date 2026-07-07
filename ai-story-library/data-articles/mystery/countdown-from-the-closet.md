@@ -1,11 +1,16 @@
 ---
-title: "隣人のクローゼットから聞こえる「カウントダウン」の正体"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "引っ越し先のマンションで、隣の部屋から毎日決まった時間に100から0までのカウントダウンが聞こえてくることに気づく。0になった瞬間、物音は止む。恐怖を感じて隣人を調べ始めると、その部屋には住人が存在しないことが判明する。音の出どころを突き止めた時、主人公は衝撃の事実に直面する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/countdown-from-the-closet.mp3"
+title: 隣人のクローゼットから聞こえる「カウントダウン」の正体
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  引っ越し先のマンションで、隣の部屋から毎日決まった時間に100から0までのカウントダウンが聞こえてくることに気づく。0になった瞬間、物音は止む。恐怖を感じて隣人を調べ始めると、その部屋には住人が存在しないことが判明する。音の出どころを突き止めた時、主人公は衝撃の事実に直面する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/countdown-from-the-closet.mp3
+image: >-
+  https://images.unsplash.com/photo-1679553879245-5d8309afb657?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0NTN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 隣人のクローゼットから聞こえる「100」の正体

@@ -7,9 +7,9 @@
   },
   "scripts": {
     "generate-kana": "node scripts/generateKanaMap.mjs",
-    "predev": "npm run generate-kana",
+    "predev": "npm run generate-kana && node scripts/generateBgmMap.mjs",
     "dev": "next dev",
-    "prebuild": "npm run generate-kana",
+    "prebuild": "npm run generate-kana && node scripts/generateBgmMap.mjs",
     "build": "next build",
     "start": "next start",
     "lint": "eslint",

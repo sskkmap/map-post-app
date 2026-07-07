@@ -1,11 +1,16 @@
 ---
-title: "名探偵の「職業病」とは？物語を彩る一風変わった探偵たちの人間模様"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "コナン・ドイルから現代のミステリーまで、個性的すぎる名探偵たちをピックアップ。彼らが抱える孤独や奇行、そして「事件を解決しなければならない」という業が、どのように物語の深みを生んでいるのかを考察する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/professional-hazard-of-detectives.mp3"
+title: 名探偵の「職業病」とは？物語を彩る一風変わった探偵たちの人間模様
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  コナン・ドイルから現代のミステリーまで、個性的すぎる名探偵たちをピックアップ。彼らが抱える孤独や奇行、そして「事件を解決しなければならない」という業が、どのように物語の深みを生んでいるのかを考察する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/professional-hazard-of-detectives.mp3
+image: >-
+  https://images.unsplash.com/photo-1523475566668-5e8cd458acb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxMTd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 名探偵の「職業病」：解決という名の呪いに囚われた者たちの孤独

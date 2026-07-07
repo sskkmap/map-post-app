@@ -1,11 +1,16 @@
 ---
-title: "歴史の闇に消えた「未解決事件」の意外な結末：最新科学捜査が覆した定説"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "長年語り継がれてきた歴史的な未解決事件が、DNA鑑定やAI解析といった最新技術によってどのように解明されたか、あるいは「新たな謎」が浮上したかを深掘りします。歴史ミステリーファン必見のドキュメンタリー形式で綴ります。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/scientific-unveiling-of-historical-cold-cases.mp3"
+title: 歴史の闇に消えた「未解決事件」の意外な結末：最新科学捜査が覆した定説
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  長年語り継がれてきた歴史的な未解決事件が、DNA鑑定やAI解析といった最新技術によってどのように解明されたか、あるいは「新たな謎」が浮上したかを深掘りします。歴史ミステリーファン必見のドキュメンタリー形式で綴ります。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/scientific-unveiling-of-historical-cold-cases.mp3
+image: >-
+  https://images.unsplash.com/photo-1661730869005-a609b78da9a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxMjZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 歴史の闇を照らす閃光：最新科学捜査が塗り替える「未解決事件」の真実

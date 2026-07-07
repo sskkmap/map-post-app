@@ -1,11 +1,15 @@
 ---
-title: "ラスト一行で読者を凍りつかせた「どんでん返し」文学史：選りすぐりの5作品"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "叙述トリックや信頼できない語り手を巧みに用いた名作ミステリーを紹介し、なぜ読者は「騙されたい」と願うのか、その心理的メカニズムを解説する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/five-masterpieces-of-the-twist-ending.mp3"
+title: ラスト一行で読者を凍りつかせた「どんでん返し」文学史：選りすぐりの5作品
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: 叙述トリックや信頼できない語り手を巧みに用いた名作ミステリーを紹介し、なぜ読者は「騙されたい」と願うのか、その心理的メカニズムを解説する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/five-masterpieces-of-the-twist-ending.mp3
+image: >-
+  https://images.unsplash.com/photo-1743064259453-7e6e2b17bb5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUwOTB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # ラスト一行で世界が歪む：読者を凍りつかせた「どんでん返し」文学史・傑作5選

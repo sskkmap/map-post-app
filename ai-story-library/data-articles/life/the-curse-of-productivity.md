@@ -1,11 +1,16 @@
 ---
-title: "「生産性」という呪い。あえて何もしない「無駄な時間」が人生の豊かさを加速させる理由"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "効率化ばかりを追い求めて余裕を失った現代人へ、意識的な「空白の時間」の作り方を提唱。ぼんやり過ごす時間が脳の創造性を高め、結果的に人生の選択肢を広げるという科学的根拠と実践法を紹介します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-curse-of-productivity.mp3"
+title: 「生産性」という呪い。あえて何もしない「無駄な時間」が人生の豊かさを加速させる理由
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  効率化ばかりを追い求めて余裕を失った現代人へ、意識的な「空白の時間」の作り方を提唱。ぼんやり過ごす時間が脳の創造性を高め、結果的に人生の選択肢を広げるという科学的根拠と実践法を紹介します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-curse-of-productivity.mp3
+image: >-
+  https://images.unsplash.com/photo-1767652231897-49b25f30f0d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0MDZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「生産性」という呪いを解け。あえて「無駄な時間」を作ることが人生を加速させる理由

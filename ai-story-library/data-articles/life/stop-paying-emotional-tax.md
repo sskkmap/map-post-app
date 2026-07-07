@@ -1,11 +1,16 @@
 ---
-title: "なぜ私たちは「嫌いな人」のために人生の貴重な時間を消費してしまうのか"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "職場の苦手な相手に悩む時間を「税金」として換算。その相手に脳のメモリを奪われている損失を数値化し、他人の言動に左右されない「自分軸」の守り方を、脳科学と哲学の視点から紐解く。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/stop-paying-emotional-tax.mp3"
+title: なぜ私たちは「嫌いな人」のために人生の貴重な時間を消費してしまうのか
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  職場の苦手な相手に悩む時間を「税金」として換算。その相手に脳のメモリを奪われている損失を数値化し、他人の言動に左右されない「自分軸」の守り方を、脳科学と哲学の視点から紐解く。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/stop-paying-emotional-tax.mp3
+image: >-
+  https://images.unsplash.com/photo-1573817291663-a13a25b57466?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDEzODN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # なぜ私たちは「嫌いな人」のために人生の貴重な時間を消費してしまうのか

@@ -1,11 +1,16 @@
 ---
-title: "「名探偵」の給料はいくら？物語の裏側で発生している莫大な経費を試算"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "ホームズやポアロなど、名探偵が事件解決のために使う交通費、報酬、機材代などを現代の物価に換算して徹底シミュレーション。彼らがなぜあれほど高額な依頼料を請求するのか、経済的な側面から探偵たちの「経営難」を浮き彫りにする。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/economics-of-detectives.mp3"
+title: 「名探偵」の給料はいくら？物語の裏側で発生している莫大な経費を試算
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  ホームズやポアロなど、名探偵が事件解決のために使う交通費、報酬、機材代などを現代の物価に換算して徹底シミュレーション。彼らがなぜあれほど高額な依頼料を請求するのか、経済的な側面から探偵たちの「経営難」を浮き彫りにする。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/economics-of-detectives.mp3
+image: >-
+  https://images.unsplash.com/photo-1641811669171-a9c58f278e39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUwODN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 名探偵の給料はいくら？物語の裏側で発生している「莫大な経費」を試算する

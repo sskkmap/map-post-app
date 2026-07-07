@@ -1,11 +1,15 @@
 ---
-title: "会議で何も発言しなくても評価される？ 「聞き上手」が最強のリーダーシップである理由"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "喋るのが得意な人が評価されるという思い込みを覆す。沈黙を恐れず、他者の意見を引き出すことでチーム全体の最適解を導き出す「沈黙のマネジメント術」を紹介する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-power-of-silent-leadership.mp3"
+title: 会議で何も発言しなくても評価される？ 「聞き上手」が最強のリーダーシップである理由
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: 喋るのが得意な人が評価されるという思い込みを覆す。沈黙を恐れず、他者の意見を引き出すことでチーム全体の最適解を導き出す「沈黙のマネジメント術」を紹介する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-power-of-silent-leadership.mp3
+image: >-
+  https://images.unsplash.com/photo-1555111359-851254288029?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0MTd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 会議で一言も話さない？ 「沈黙のマネジメント」が最強のリーダーシップである理由

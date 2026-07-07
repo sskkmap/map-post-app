@@ -1,11 +1,16 @@
 ---
-title: "「明日会社に行きたくない」が消える！週明けの月曜朝を「イベント化」する5つのルーティン"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "多くのビジネスパーソンが抱える「ブルーマンデー症候群」を解消するため、月曜の朝を単なる作業開始ではなく、最高に贅沢な体験（高級コーヒーの抽出、好きな音楽のプレイリスト作成など）に変えることで、心理的ハードルを下げる実戦的なテクニックを紹介します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/turn-monday-into-your-best-day.mp3"
+title: 「明日会社に行きたくない」が消える！週明けの月曜朝を「イベント化」する5つのルーティン
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  多くのビジネスパーソンが抱える「ブルーマンデー症候群」を解消するため、月曜の朝を単なる作業開始ではなく、最高に贅沢な体験（高級コーヒーの抽出、好きな音楽のプレイリスト作成など）に変えることで、心理的ハードルを下げる実戦的なテクニックを紹介します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/turn-monday-into-your-best-day.mp3
+image: >-
+  https://images.unsplash.com/photo-1548126466-4470dfd3a209?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0Mjl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「明日会社に行きたくない」が消える！週明けの月曜朝を「イベント化」する5つのルーティン

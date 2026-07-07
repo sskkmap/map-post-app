@@ -1,11 +1,16 @@
 ---
-title: "失敗続きだった自分を「愛せる」ようになった、小さなルーティンの魔法"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "大きな成果が出せなくても、自己肯定感を保ち続けるための「自分との約束」の作り方。挫折ばかりの人生から脱却するために導入した、毎日の小さな習慣とその効果を、心理学的な観点を交えて語る。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-magic-of-micro-habits.mp3"
+title: 失敗続きだった自分を「愛せる」ようになった、小さなルーティンの魔法
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  大きな成果が出せなくても、自己肯定感を保ち続けるための「自分との約束」の作り方。挫折ばかりの人生から脱却するために導入した、毎日の小さな習慣とその効果を、心理学的な観点を交えて語る。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-magic-of-micro-habits.mp3
+image: >-
+  https://images.unsplash.com/photo-1605206731612-e7dc29d3209a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0MTF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 失敗続きだった自分を「愛せる」ようになった、小さなルーティンの魔法

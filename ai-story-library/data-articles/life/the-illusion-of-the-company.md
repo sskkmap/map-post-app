@@ -1,11 +1,16 @@
 ---
-title: "「退職代行を使って辞めた人・使われた上司の双方にインタビューして見えた『会社という虚像』」"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "「辞め方」の多様化が進む中、退職代行を利用した若手社員と、突然部下を失った上司の両者に取材。双方の視点から「会社との適切な距離感」を分析し、組織に依存せず個人として自律的にキャリアを築くためのヒントを紐解きます。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-illusion-of-the-company.mp3"
+title: 「退職代行を使って辞めた人・使われた上司の双方にインタビューして見えた『会社という虚像』」
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  「辞め方」の多様化が進む中、退職代行を利用した若手社員と、突然部下を失った上司の両者に取材。双方の視点から「会社との適切な距離感」を分析し、組織に依存せず個人として自律的にキャリアを築くためのヒントを紐解きます。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-illusion-of-the-company.mp3
+image: >-
+  https://images.unsplash.com/photo-1713946598456-a25ab3645730?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0MTB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「辞めます」と言えない社会で：退職代行が暴いた「会社という虚像」の正体

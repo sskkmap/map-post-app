@@ -1,11 +1,16 @@
 ---
-title: "現代の犯罪捜査とミステリー：デジタルフォレンジックが変える「探偵の推理」のあり方"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "GPS、防犯カメラ、SNSの履歴など、現代の捜査技術が伝統的なミステリーの「推理」をどう進化させているかを紹介。科学捜査と古典的な知恵比べが融合する最新ミステリーのトレンドを分析します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/digital-forensics-meets-classic-mystery.mp3"
+title: 現代の犯罪捜査とミステリー：デジタルフォレンジックが変える「探偵の推理」のあり方
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  GPS、防犯カメラ、SNSの履歴など、現代の捜査技術が伝統的なミステリーの「推理」をどう進化させているかを紹介。科学捜査と古典的な知恵比べが融合する最新ミステリーのトレンドを分析します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/digital-forensics-meets-classic-mystery.mp3
+image: >-
+  https://images.unsplash.com/photo-1736167852489-71eb892a66e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0NjF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # デジタル探偵の誕生：現代ミステリーを変える「証拠」の正体

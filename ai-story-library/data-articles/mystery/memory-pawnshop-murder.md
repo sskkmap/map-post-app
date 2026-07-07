@@ -1,11 +1,16 @@
 ---
-title: "「記憶を切り売りする質屋」―失った記憶の中に隠された殺人の動機"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "他人の記憶を買い取って展示する風変わりな質屋。ある日、持ち込まれた記憶の中に「誰かを殺害する瞬間」の映像が見つかる。記憶の所有者を探し出し、犯行を阻止しようとする主人公がたどり着く、悲しき因縁の物語。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/memory-pawnshop-murder.mp3"
+title: 「記憶を切り売りする質屋」―失った記憶の中に隠された殺人の動機
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  他人の記憶を買い取って展示する風変わりな質屋。ある日、持ち込まれた記憶の中に「誰かを殺害する瞬間」の映像が見つかる。記憶の所有者を探し出し、犯行を阻止しようとする主人公がたどり着く、悲しき因縁の物語。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/memory-pawnshop-murder.mp3
+image: >-
+  https://images.unsplash.com/photo-1767481732722-9ee269aab736?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUwOTl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 記憶を切り売りする質屋 ― 犯行現場は誰の脳裏に刻まれたのか

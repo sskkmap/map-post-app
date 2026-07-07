@@ -1,11 +1,16 @@
 ---
-title: "「密室」はなぜ飽きられないのか？本格ミステリーにおける「物理法則」の進化と限界"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "時代ごとの密室トリックの変遷を振り返り、現代の科学技術（スマホ、監視カメラ、スマート家電）がどうトリックを無効化し、逆にどう利用されているのかを分析する考察記事。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/evolution-of-the-locked-room-mystery.mp3"
+title: 「密室」はなぜ飽きられないのか？本格ミステリーにおける「物理法則」の進化と限界
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  時代ごとの密室トリックの変遷を振り返り、現代の科学技術（スマホ、監視カメラ、スマート家電）がどうトリックを無効化し、逆にどう利用されているのかを分析する考察記事。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/evolution-of-the-locked-room-mystery.mp3
+image: >-
+  https://images.unsplash.com/photo-1686452554510-0ad853599ef9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUwODh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「密室」はなぜ飽きられないのか？物理法則が織りなす極限の知的遊戯

@@ -1,11 +1,16 @@
 ---
-title: "実在する「呪いの館」の登記簿を読み解く：家主が短期間で入れ替わる物件の正体"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "短期間で入居者が退去を繰り返す、いわゆる「いわくつき物件」の登記簿を徹底調査。過去の所有者や事件の歴史を紐解き、そこに隠された「本当の理由（幽霊以外の論理的な原因）」を不動産鑑定の視点から解明する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-cursed-registry-investigation.mp3"
+title: 実在する「呪いの館」の登記簿を読み解く：家主が短期間で入れ替わる物件の正体
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  短期間で入居者が退去を繰り返す、いわゆる「いわくつき物件」の登記簿を徹底調査。過去の所有者や事件の歴史を紐解き、そこに隠された「本当の理由（幽霊以外の論理的な原因）」を不動産鑑定の視点から解明する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-cursed-registry-investigation.mp3
+image: >-
+  https://images.unsplash.com/photo-1694532496411-3c38b97df3fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxNDd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 呪いの館の登記簿を読み解く：入居者が消える「負の連鎖」に潜む論理的真実

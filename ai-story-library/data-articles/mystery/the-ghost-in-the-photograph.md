@@ -1,11 +1,16 @@
 ---
-title: "逆転のアリバイ崩し：死んだはずの男が写る集合写真"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "殺人事件の容疑者には、犯行時刻に海外にいたという完璧なアリバイがあった。しかし、事件当日に撮影された現地の集合写真の隅に、死んだはずの被害者の姿が写り込んでいることが判明する。写真トリックを解き明かし、隠された二重生活を暴き出す。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-ghost-in-the-photograph.mp3"
+title: 逆転のアリバイ崩し：死んだはずの男が写る集合写真
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  殺人事件の容疑者には、犯行時刻に海外にいたという完璧なアリバイがあった。しかし、事件当日に撮影された現地の集合写真の隅に、死んだはずの被害者の姿が写り込んでいることが判明する。写真トリックを解き明かし、隠された二重生活を暴き出す。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-ghost-in-the-photograph.mp3
+image: >-
+  https://images.unsplash.com/photo-1559423649-3129dd793cd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxNjB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 鏡の中の死者：完璧なアリバイを崩す「一枚の写真」

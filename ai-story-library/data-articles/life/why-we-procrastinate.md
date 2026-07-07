@@ -1,11 +1,16 @@
 ---
-title: "なぜ私たちは「明日から本気出す」と言ってしまうのか？脳科学が教える「先延ばし」の正体"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "意志の弱さが原因ではないという衝撃の事実を解説。タスクを細分化するだけでなく、あえて「5分だけやる」という脳の仕組みを逆手に取った、意思力に頼らない究極の着手術を紹介する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/why-we-procrastinate.mp3"
+title: なぜ私たちは「明日から本気出す」と言ってしまうのか？脳科学が教える「先延ばし」の正体
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  意志の弱さが原因ではないという衝撃の事実を解説。タスクを細分化するだけでなく、あえて「5分だけやる」という脳の仕組みを逆手に取った、意思力に頼らない究極の着手術を紹介する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/why-we-procrastinate.mp3
+image: >-
+  https://images.unsplash.com/photo-1649452942945-cd20ccdbb1e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0Mzh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「明日から本気出す」の正体：脳科学が教える、意志力に頼らない「着火」の技術

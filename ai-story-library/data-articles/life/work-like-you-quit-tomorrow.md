@@ -1,11 +1,16 @@
 ---
-title: "「明日辞める」つもりで働くと、仕事のパフォーマンスが劇的に上がる理由"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "「今日で終わりなら、誰に遠慮する必要があるか？」という開き直りが、無駄な人間関係や完璧主義という足かせをどう外すのか。心理的安全性と生産性の意外な相関関係を、実体験や科学的根拠を交えて解説する記事。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/work-like-you-quit-tomorrow.mp3"
+title: 「明日辞める」つもりで働くと、仕事のパフォーマンスが劇的に上がる理由
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  「今日で終わりなら、誰に遠慮する必要があるか？」という開き直りが、無駄な人間関係や完璧主義という足かせをどう外すのか。心理的安全性と生産性の意外な相関関係を、実体験や科学的根拠を交えて解説する記事。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/work-like-you-quit-tomorrow.mp3
+image: >-
+  https://images.unsplash.com/photo-1603624787650-bc63766a6910?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0NDB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「明日辞める」つもりで働くと、仕事のパフォーマンスが劇的に上がる理由

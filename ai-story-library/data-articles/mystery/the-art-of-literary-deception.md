@@ -1,11 +1,16 @@
 ---
-title: "「読者への挑戦」の裏側：作者が読者を欺くために使っている「卑劣なテクニック」"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "本格ミステリーにおいて、著者が読者の視線を意図的に誘導し、真実を見えなくさせる「ミスディレクション」の技法を徹底解剖。叙述トリックの第一人者たちが、いかにして脳の錯覚を誘発しているのか、その執筆テクニックを具体例と共に解説する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-art-of-literary-deception.mp3"
+title: 「読者への挑戦」の裏側：作者が読者を欺くために使っている「卑劣なテクニック」
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  本格ミステリーにおいて、著者が読者の視線を意図的に誘導し、真実を見えなくさせる「ミスディレクション」の技法を徹底解剖。叙述トリックの第一人者たちが、いかにして脳の錯覚を誘発しているのか、その執筆テクニックを具体例と共に解説する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-art-of-literary-deception.mp3
+image: >-
+  https://images.unsplash.com/photo-1709455237000-678076b41f64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxNDB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 読者への挑戦状：ミステリー作家が仕掛ける「視覚と脳の魔術」

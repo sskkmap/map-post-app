@@ -1,11 +1,16 @@
 ---
-title: "あなたの本棚に眠る「呪いのミステリー」選書ガイド"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "読んだ後に「何か」が起きる、あるいは所有者に不幸が訪れると言い伝えられる実在のミステリー小説を徹底紹介。都市伝説の裏側にある事実と、なぜ人々が「物語に呪いを投影するのか」を文化人類学的な視点で読み解く。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/cursed-mystery-bookshelf.mp3"
+title: あなたの本棚に眠る「呪いのミステリー」選書ガイド
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  読んだ後に「何か」が起きる、あるいは所有者に不幸が訪れると言い伝えられる実在のミステリー小説を徹底紹介。都市伝説の裏側にある事実と、なぜ人々が「物語に呪いを投影するのか」を文化人類学的な視点で読み解く。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/cursed-mystery-bookshelf.mp3
+image: >-
+  https://images.unsplash.com/photo-1702240396435-3e5e892568f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0NTV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # あなたの本棚に眠る「呪いのミステリー」――実在する禁書と、物語に憑依する人々の心理

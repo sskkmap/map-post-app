@@ -1,11 +1,16 @@
 ---
-title: "「鏡に映らない死体」を撮影してしまった写真家の末路"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "死体安置所を撮影する写真家が、現像した写真にだけ「鏡に映るはずの死体が映っていない」現象に遭遇する。それは物理的な反射の問題ではなく、その死体が「まだ死んでいない（あるいは既に死んでいた）」ことを示す警告だった。写真家は、死体の身元を辿るうちに、死んだはずの人間たちが入れ替わって生活する社会の闇に足を踏み入れる。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-invisible-corpse.mp3"
+title: 「鏡に映らない死体」を撮影してしまった写真家の末路
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  死体安置所を撮影する写真家が、現像した写真にだけ「鏡に映るはずの死体が映っていない」現象に遭遇する。それは物理的な反射の問題ではなく、その死体が「まだ死んでいない（あるいは既に死んでいた）」ことを示す警告だった。写真家は、死体の身元を辿るうちに、死んだはずの人間たちが入れ替わって生活する社会の闇に足を踏み入れる。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-invisible-corpse.mp3
+image: >-
+  https://images.unsplash.com/photo-1630572780070-fce8b9e1e7e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxNjN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 鏡に映らない死体――禁断のシャッターが暴いた「入れ替わりの街」

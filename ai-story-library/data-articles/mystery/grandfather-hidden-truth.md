@@ -1,11 +1,16 @@
 ---
-title: "失踪した祖父の遺品：暗号化された日記が暴く「家族の嘘」"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "亡くなった祖父の遺品から見つかった、謎の数字と記号で埋め尽くされた日記。孫である筆者が暗号を解読していくうちに、平和だった家族の歴史が実は精巧に作られた「偽物」であったことが判明していく、実話風ミステリー・ノンフィクション。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/grandfather-hidden-truth.mp3"
+title: 失踪した祖父の遺品：暗号化された日記が暴く「家族の嘘」
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  亡くなった祖父の遺品から見つかった、謎の数字と記号で埋め尽くされた日記。孫である筆者が暗号を解読していくうちに、平和だった家族の歴史が実は精巧に作られた「偽物」であったことが判明していく、実話風ミステリー・ノンフィクション。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/grandfather-hidden-truth.mp3
+image: >-
+  https://images.unsplash.com/photo-1770362603231-7c7b3a01d587?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUwOTZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 祖父の遺品：暗号化された日記が暴く「家族の嘘」

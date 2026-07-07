@@ -1,11 +1,16 @@
 ---
-title: "「もしも江戸時代にシャーロック・ホームズがいたら？」歴史ミステリーの楽しみ方"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "史実とフィクションを融合させた「歴史ミステリー」の魅力を深掘りする。実際の歴史上の未解決事件や謎を題材に、当時の時代背景を活かした推理を展開する作品の面白さと、資料調査の裏側や創作のポイントを解説する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/edo-sherlock-holmes-mystery.mp3"
+title: 「もしも江戸時代にシャーロック・ホームズがいたら？」歴史ミステリーの楽しみ方
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  史実とフィクションを融合させた「歴史ミステリー」の魅力を深掘りする。実際の歴史上の未解決事件や謎を題材に、当時の時代背景を活かした推理を展開する作品の面白さと、資料調査の裏側や創作のポイントを解説する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/edo-sherlock-holmes-mystery.mp3
+image: >-
+  https://images.unsplash.com/photo-1709455237000-678076b41f64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUwODV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # もしも江戸時代にシャーロック・ホームズがいたら？歴史ミステリーが描く「知」の冒険

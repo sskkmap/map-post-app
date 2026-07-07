@@ -1,11 +1,16 @@
 ---
-title: "もしも「犯人」が読者に語りかけてきたら？叙述トリックの名作に学ぶ「騙される快感」の正体"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "ミステリー小説の醍醐味である「叙述トリック」の仕組みを心理学の観点から解説。読者がなぜ騙されてしまうのか、脳の認知バイアスを利用した作者の高度なテクニックを、名作ミステリーの例を挙げて考察します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/mystery-of-narrative-trick.mp3"
+title: もしも「犯人」が読者に語りかけてきたら？叙述トリックの名作に学ぶ「騙される快感」の正体
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  ミステリー小説の醍醐味である「叙述トリック」の仕組みを心理学の観点から解説。読者がなぜ騙されてしまうのか、脳の認知バイアスを利用した作者の高度なテクニックを、名作ミステリーの例を挙げて考察します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/mystery-of-narrative-trick.mp3
+image: >-
+  https://images.unsplash.com/photo-1661730869005-a609b78da9a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxMDh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # もしも「犯人」が読者に語りかけてきたら？叙述トリックの名作に学ぶ「騙される快感」の正体

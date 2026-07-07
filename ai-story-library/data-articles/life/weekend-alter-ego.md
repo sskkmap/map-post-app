@@ -1,11 +1,16 @@
 ---
-title: "週末だけでいいから「別人」になってみる：副業でも趣味でもない「自分探し」の新しい形"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "本業とは全く関係のないコミュニティに属したり、全く別のキャラクターとして活動したりすることで、会社員という殻を破る実験。パラレルキャリアの入り口として、自己効力感を高める「小さな冒険」の始め方を提案する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/weekend-alter-ego.mp3"
+title: 週末だけでいいから「別人」になってみる：副業でも趣味でもない「自分探し」の新しい形
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  本業とは全く関係のないコミュニティに属したり、全く別のキャラクターとして活動したりすることで、会社員という殻を破る実験。パラレルキャリアの入り口として、自己効力感を高める「小さな冒険」の始め方を提案する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/weekend-alter-ego.mp3
+image: >-
+  https://images.unsplash.com/photo-1524861646941-b897e7f18230?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0MzF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 週末だけでいいから「別人」になってみる：会社員の殻を破る「小さな冒険」のすすめ

@@ -1,11 +1,16 @@
 ---
-title: "「辞める力」の正体：なぜ優秀な人ほど「損切り」がうまいのか"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "「継続は美徳」という呪縛を解き、あえて今のキャリアを捨てることで幸福度を上げた人々のケーススタディを紹介。サンクコストに囚われない合理的な撤退の基準と、次のステージへの転換タイミングを解説する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-power-of-quitting.mp3"
+title: 「辞める力」の正体：なぜ優秀な人ほど「損切り」がうまいのか
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  「継続は美徳」という呪縛を解き、あえて今のキャリアを捨てることで幸福度を上げた人々のケーススタディを紹介。サンクコストに囚われない合理的な撤退の基準と、次のステージへの転換タイミングを解説する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-power-of-quitting.mp3
+image: >-
+  https://images.unsplash.com/photo-1583132648774-17255c2d63f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0MTV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「辞める力」の正体：なぜ優秀な人ほど「損切り」がうまいのか

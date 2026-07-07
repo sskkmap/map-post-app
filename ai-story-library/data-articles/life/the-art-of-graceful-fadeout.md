@@ -1,11 +1,16 @@
 ---
-title: "30代からの「人間関係の断捨離」：絶縁ではなく「フェードアウト」という大人の作法"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "年齢とともに増える不必要な付き合いを、角を立てずに整理するための具体的な方法論。相手を否定せず、自分のリソースを本当に大切な人だけに注ぐための「心の境界線」の引き方を考察します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-art-of-graceful-fadeout.mp3"
+title: 30代からの「人間関係の断捨離」：絶縁ではなく「フェードアウト」という大人の作法
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  年齢とともに増える不必要な付き合いを、角を立てずに整理するための具体的な方法論。相手を否定せず、自分のリソースを本当に大切な人だけに注ぐための「心の境界線」の引き方を考察します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/the-art-of-graceful-fadeout.mp3
+image: >-
+  https://images.unsplash.com/photo-1563222853-1d741625ec32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDEzOTd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 30代からの「人間関係の断捨離」：絶縁ではなく「フェードアウト」という大人の作法

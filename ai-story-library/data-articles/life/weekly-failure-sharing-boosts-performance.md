@@ -1,11 +1,16 @@
 ---
-title: "「週に一度の『失敗共有会』を社内で開いたら、なぜか業績が上がった話」"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "全社員がその週に犯した最大のミスを匿名で発表し、解決策を議論する「失敗共有会」を実施した企業の事例を紹介。失敗を隠す文化から、素早く共有して改善する文化へと変革し、結果として組織の心理的安全性と生産性がどう向上したかを解説します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/weekly-failure-sharing-boosts-performance.mp3"
+title: 「週に一度の『失敗共有会』を社内で開いたら、なぜか業績が上がった話」
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  全社員がその週に犯した最大のミスを匿名で発表し、解決策を議論する「失敗共有会」を実施した企業の事例を紹介。失敗を隠す文化から、素早く共有して改善する文化へと変革し、結果として組織の心理的安全性と生産性がどう向上したかを解説します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/weekly-failure-sharing-boosts-performance.mp3
+image: >-
+  https://images.unsplash.com/photo-1663408996660-ab40e72a6ac9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0MzN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「失敗を隠すな、祝杯をあげろ」：週1回の『失敗共有会』が組織を最強に変える理由

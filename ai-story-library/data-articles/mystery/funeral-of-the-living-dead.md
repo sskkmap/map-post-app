@@ -1,11 +1,16 @@
 ---
-title: "「雨の降らない村の葬列：棺桶に入っていたのは『生きている自分』」"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "閉鎖的な山村で執り行われた伝統的な葬儀。棺桶の中には、死んだはずの村の長の遺体ではなく、まだ十代の主人公の身体が安置されていた。村人全員が主人公を「死者」として扱い、儀式を強行する中、彼は自分が死者として扱われる理由を突き止め、この狂った村からの脱出を試みる。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/funeral-of-the-living-dead.mp3"
+title: 「雨の降らない村の葬列：棺桶に入っていたのは『生きている自分』」
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  閉鎖的な山村で執り行われた伝統的な葬儀。棺桶の中には、死んだはずの村の長の遺体ではなく、まだ十代の主人公の身体が安置されていた。村人全員が主人公を「死者」として扱い、儀式を強行する中、彼は自分が死者として扱われる理由を突き止め、この狂った村からの脱出を試みる。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/funeral-of-the-living-dead.mp3
+image: >-
+  https://images.unsplash.com/photo-1774491791386-942f45ab0170?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUwOTJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 雨の降らない村の葬列：棺桶に横たわっていたのは「自分」だった

@@ -1,11 +1,15 @@
 ---
-title: "「AI×本格ミステリー」は成立するか？小説執筆補助ツールと「論理」の未来"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "AIが作成した犯人像やトリックの矛盾を人間が指摘する「人間対AIの推理ゲーム」を試行し、AI時代におけるミステリーの「問い」のあり方について考察する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/ai-vs-human-mystery-logic.mp3"
+title: 「AI×本格ミステリー」は成立するか？小説執筆補助ツールと「論理」の未来
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: AIが作成した犯人像やトリックの矛盾を人間が指摘する「人間対AIの推理ゲーム」を試行し、AI時代におけるミステリーの「問い」のあり方について考察する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/ai-vs-human-mystery-logic.mp3
+image: >-
+  https://images.unsplash.com/photo-1777463504812-aaee7ce8c883?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0NDh8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # AIは「完全犯罪」を設計できるか？——論理と欺瞞の境界線

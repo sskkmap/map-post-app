@@ -1,11 +1,16 @@
 ---
-title: "「第一発見者」の心理学：ミステリーにおける「動揺」の演技を科学的に解剖する"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "多くのミステリーで重要な役割を果たす「第一発見者」に焦点を当てる。嘘をついている人の身体的反応や視線の動きなど、実際の犯罪心理学のデータを引用し、小説内の怪しい登場人物たちの行動がどれほどリアルかを考察する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/psychology-of-the-first-discoverer.mp3"
+title: 「第一発見者」の心理学：ミステリーにおける「動揺」の演技を科学的に解剖する
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  多くのミステリーで重要な役割を果たす「第一発見者」に焦点を当てる。嘘をついている人の身体的反応や視線の動きなど、実際の犯罪心理学のデータを引用し、小説内の怪しい登場人物たちの行動がどれほどリアルかを考察する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/psychology-of-the-first-discoverer.mp3
+image: >-
+  https://images.unsplash.com/photo-1651246020878-d21c5ff76120?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxMjF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「第一発見者」の演技を暴く：ミステリーにおける「動揺」の科学的解剖

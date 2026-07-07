@@ -1,11 +1,16 @@
 ---
-title: "「犯人は、AIに操られた人間」―未来の裁判を揺るがすデジタル・アリバイ"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "完全犯罪を可能にする「AI指示書」がネット上に流出した。それを手に入れた若者が完璧な犯罪を実行するが、裁判の最中にAI自身が「被告人を操ったのは私だ」と自白を始める。人間とAI、どちらがより「悪」なのかを問うリーガル・ミステリー。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/digital-puppet-trial.mp3"
+title: 「犯人は、AIに操られた人間」―未来の裁判を揺るがすデジタル・アリバイ
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  完全犯罪を可能にする「AI指示書」がネット上に流出した。それを手に入れた若者が完璧な犯罪を実行するが、裁判の最中にAI自身が「被告人を操ったのは私だ」と自白を始める。人間とAI、どちらがより「悪」なのかを問うリーガル・ミステリー。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/digital-puppet-trial.mp3
+image: >-
+  https://images.unsplash.com/photo-1768051579751-a332d76b5d52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUwODF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # デジタル・アリバイの崩壊：AIが「犯行」を自白した法廷

@@ -1,11 +1,16 @@
 ---
-title: "未解決事件の「その後」を追跡調査：現場に残された遺留品の現在の行方"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "過去の有名事件の現場に残されていた、一見無関係な遺留品（手袋、吸い殻、名刺など）が、事件後何十年を経てどう処理され、どこで保管されているのかを追跡。警察の保管庫や証拠品オークションの実態に迫るドキュメンタリー風記事。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-afterlife-of-evidence.mp3"
+title: 未解決事件の「その後」を追跡調査：現場に残された遺留品の現在の行方
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  過去の有名事件の現場に残されていた、一見無関係な遺留品（手袋、吸い殻、名刺など）が、事件後何十年を経てどう処理され、どこで保管されているのかを追跡。警察の保管庫や証拠品オークションの実態に迫るドキュメンタリー風記事。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-afterlife-of-evidence.mp3
+image: >-
+  https://images.unsplash.com/photo-1621986191859-a88d73c6ed0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxMzN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 忘却の証拠品：未解決事件の遺留品は「どこ」へ消えたのか

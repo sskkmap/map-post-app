@@ -1,11 +1,16 @@
 ---
-title: "「忙しい」が口癖の人が、実は一番損をしている理由"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "「忙しい」という言葉が持つ、自分の可能性を制限してしまう負のメカニズムを脳科学的視点で解説。口癖を変えるだけで周囲からの評価やチャンスの巡りがどう変わるのか、具体的な「言い換え戦略」を紹介します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/stop-saying-busy.mp3"
+title: 「忙しい」が口癖の人が、実は一番損をしている理由
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  「忙しい」という言葉が持つ、自分の可能性を制限してしまう負のメカニズムを脳科学的視点で解説。口癖を変えるだけで周囲からの評価やチャンスの巡りがどう変わるのか、具体的な「言い換え戦略」を紹介します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/stop-saying-busy.mp3
+image: >-
+  https://images.unsplash.com/photo-1526431038803-6f6c3ee137ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDEzODV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「忙しい」を口にするほど、あなたの脳は「無能」になっていく

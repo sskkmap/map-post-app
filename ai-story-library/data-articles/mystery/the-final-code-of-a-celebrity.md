@@ -1,11 +1,16 @@
 ---
-title: "死ぬ間際に言い残した「犯人の名前」が、とある有名人のフルネームだった件"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "臨終の床で被害者が残した唯一のヒントは、国民的人気タレントの名前だった。しかし、そのタレントには完璧なアリバイがあり、事件当時は生放送に出演していた。捜査を進める刑事は、被害者が伝えようとしたのは「犯人の名前」ではなく、別の「暗号」だったことに気づく。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-final-code-of-a-celebrity.mp3"
+title: 死ぬ間際に言い残した「犯人の名前」が、とある有名人のフルネームだった件
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  臨終の床で被害者が残した唯一のヒントは、国民的人気タレントの名前だった。しかし、そのタレントには完璧なアリバイがあり、事件当時は生放送に出演していた。捜査を進める刑事は、被害者が伝えようとしたのは「犯人の名前」ではなく、別の「暗号」だったことに気づく。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-final-code-of-a-celebrity.mp3
+image: >-
+  https://images.unsplash.com/photo-1570345302822-83ac4c39fbae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxNTZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 臨終の告発――国民的スターの名前が指し示す「真実の暗号」

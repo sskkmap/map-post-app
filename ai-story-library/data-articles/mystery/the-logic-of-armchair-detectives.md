@@ -1,11 +1,16 @@
 ---
-title: "安楽椅子探偵のルーツを探る：現場に行かずに解決する「最強の論理」とは"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "アガサ・クリスティのミス・マープルから現代のネット掲示板で謎を解くキャラクターまで、直接的な調査を行わない探偵たちの思考法を紐解き、読者が日常の些細な謎を解くヒントを提案する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-logic-of-armchair-detectives.mp3"
+title: 安楽椅子探偵のルーツを探る：現場に行かずに解決する「最強の論理」とは
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  アガサ・クリスティのミス・マープルから現代のネット掲示板で謎を解くキャラクターまで、直接的な調査を行わない探偵たちの思考法を紐解き、読者が日常の些細な謎を解くヒントを提案する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-logic-of-armchair-detectives.mp3
+image: >-
+  https://images.unsplash.com/photo-1736167852489-71eb892a66e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxNzB8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 安楽椅子探偵のルーツを探る：現場に行かずに解決する「最強の論理」とは

@@ -1,11 +1,16 @@
 ---
-title: "「死を予告する」デジタル遺品：亡き友から届いた謎の動画ファイル"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "生前、不可解な死を遂げた友人のPCから、死後3ヶ月目に自動送信された動画。そこには、友人が殺される直前の様子が映っていたが、映像の中に「現在の自分」の姿が映り込んでいることに気づく。なぜ未来の自分がそこにいるのか。ネットの怪談から始まる本格サスペンス。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-digital-revenant-video.mp3"
+title: 「死を予告する」デジタル遺品：亡き友から届いた謎の動画ファイル
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  生前、不可解な死を遂げた友人のPCから、死後3ヶ月目に自動送信された動画。そこには、友人が殺される直前の様子が映っていたが、映像の中に「現在の自分」の姿が映り込んでいることに気づく。なぜ未来の自分がそこにいるのか。ネットの怪談から始まる本格サスペンス。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-digital-revenant-video.mp3
+image: >-
+  https://images.unsplash.com/photo-1651246020878-d21c5ff76120?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxNTN8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 死後3ヶ月の告発：なぜ「未来の僕」は亡き友の最期に立ち会ったのか

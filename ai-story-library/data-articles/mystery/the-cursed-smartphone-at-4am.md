@@ -1,11 +1,16 @@
 ---
-title: "午前4時の落とし物：持ち主全員が失踪する「呪いのスマートフォン」"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "フリマアプリに出品された謎のスマートフォン。購入者は例外なく、購入から3日後に姿を消すという都市伝説がある。主人公は好奇心からその端末を手に入れ、中に入っていた一つのボイスメモを再生する。そこには、失踪したはずの前の持ち主たちの「断末魔」が録音されていた。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-cursed-smartphone-at-4am.mp3"
+title: 午前4時の落とし物：持ち主全員が失踪する「呪いのスマートフォン」
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  フリマアプリに出品された謎のスマートフォン。購入者は例外なく、購入から3日後に姿を消すという都市伝説がある。主人公は好奇心からその端末を手に入れ、中に入っていた一つのボイスメモを再生する。そこには、失踪したはずの前の持ち主たちの「断末魔」が録音されていた。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-cursed-smartphone-at-4am.mp3
+image: >-
+  https://images.unsplash.com/photo-1717598418896-d30f97cf5a5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxNDl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 午前4時の落とし物：持ち主全員が消える「呪いのスマートフォン」

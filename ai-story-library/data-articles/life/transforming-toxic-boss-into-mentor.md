@@ -1,11 +1,16 @@
 ---
-title: "「嫌いな上司」をあえてメンターにする：最強の反面教師から学ぶスキルアップ術"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "「反面教師」という言葉を逆手に取り、苦手な上司の言動を「やってはいけない行動リスト」として客観的に記録することで、自分の行動を劇的に改善し、さらにメンタルを安定させるための具体的なトレーニング法を提案します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/transforming-toxic-boss-into-mentor.mp3"
+title: 「嫌いな上司」をあえてメンターにする：最強の反面教師から学ぶスキルアップ術
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  「反面教師」という言葉を逆手に取り、苦手な上司の言動を「やってはいけない行動リスト」として客観的に記録することで、自分の行動を劇的に改善し、さらにメンタルを安定させるための具体的なトレーニング法を提案します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/transforming-toxic-boss-into-mentor.mp3
+image: >-
+  https://images.unsplash.com/photo-1623748380989-db7edc168f4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0Mjd8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「嫌いな上司」をあえてメンターにする：最強の反面教師から学ぶスキルアップ術

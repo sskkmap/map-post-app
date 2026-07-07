@@ -1,11 +1,16 @@
 ---
-title: "AIが描いた「犯人の顔」：生成画像が暴いた20年前の迷宮入り事件"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "未解決事件の被害者が残した断片的な記憶を最新のAIに学習させたところ、犯人の鮮明な顔が生成された。しかし、その顔は現在の捜査本部にいる署長の若い頃と瓜二つだった。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-ai-witness-and-the-chief.mp3"
+title: AIが描いた「犯人の顔」：生成画像が暴いた20年前の迷宮入り事件
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  未解決事件の被害者が残した断片的な記憶を最新のAIに学習させたところ、犯人の鮮明な顔が生成された。しかし、その顔は現在の捜査本部にいる署長の若い頃と瓜二つだった。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-ai-witness-and-the-chief.mp3
+image: >-
+  https://images.unsplash.com/photo-1621986186630-41890778b67a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxMzV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # AIが暴いた20年前の亡霊：生成画像が映し出した「署長の若き顔」

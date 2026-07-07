@@ -1,10 +1,17 @@
 ---
-slug: "secret-facility-under-tokyo-station"
-title: "東京駅地下の秘密施設"
-date: "2026-07-05"
-category: "都市伝説"
-tags: ["東京駅", "地下迷宮", "都市伝説", "秘密施設", "戦時遺構"]
-description: "日本の心臓部、東京駅の地下深くに眠る「決して地図には載らない場所」の噂。そこに隠された真実とは。"
+slug: secret-facility-under-tokyo-station
+title: 東京駅地下の秘密施設
+date: '2026-07-05'
+category: 都市伝説
+tags:
+  - 東京駅
+  - 地下迷宮
+  - 都市伝説
+  - 秘密施設
+  - 戦時遺構
+description: 日本の心臓部、東京駅の地下深くに眠る「決して地図には載らない場所」の噂。そこに隠された真実とは。
+image: >-
+  https://images.unsplash.com/photo-1634725941954-9ff6b7ecc03b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxMjl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 東京駅地下の秘密施設

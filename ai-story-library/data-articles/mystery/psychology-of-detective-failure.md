@@ -1,11 +1,16 @@
 ---
-title: "名探偵が「心理学」で敗北する時：認知バイアスが招く冤罪の科学"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "シャーロック・ホームズのような天才的な推理が、実は「確証バイアス」という人間の心理的弱点に陥る危険性を解説。なぜ優秀な捜査官ほど特定の容疑者に固執してしまうのか？実際の裁判資料を参考に、思い込みが作り出した悲劇的な誤認逮捕の事例を検証する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/psychology-of-detective-failure.mp3"
+title: 名探偵が「心理学」で敗北する時：認知バイアスが招く冤罪の科学
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  シャーロック・ホームズのような天才的な推理が、実は「確証バイアス」という人間の心理的弱点に陥る危険性を解説。なぜ優秀な捜査官ほど特定の容疑者に固執してしまうのか？実際の裁判資料を参考に、思い込みが作り出した悲劇的な誤認逮捕の事例を検証する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/psychology-of-detective-failure.mp3
+image: >-
+  https://images.unsplash.com/photo-1758264008711-0715ebaf20e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxMTl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 天才の盲点：名探偵が「心理学」で敗北する時

@@ -1,11 +1,16 @@
 ---
-title: "なぜ優秀な人ほど「明日から本気出す」と言ってしまうのか？先延ばしのメカニズムと処方箋"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-06"
-description: "完璧主義がもたらす「着手できない病」の正体を心理学的に解説。大きな目標をあえて「ゴミのように低いハードル」に設定することで、脳を騙して行動量を最大化するハック術を伝授します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/why-the-best-procrastinate.mp3"
+title: なぜ優秀な人ほど「明日から本気出す」と言ってしまうのか？先延ばしのメカニズムと処方箋
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-06'
+description: >-
+  完璧主義がもたらす「着手できない病」の正体を心理学的に解説。大きな目標をあえて「ゴミのように低いハードル」に設定することで、脳を騙して行動量を最大化するハック術を伝授します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/why-the-best-procrastinate.mp3
+image: >-
+  https://images.unsplash.com/photo-1576992018290-d3651509d49d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0MzV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # なぜ優秀な人ほど「明日から本気出す」と言ってしまうのか？先延ばしのメカニズムと処方箋

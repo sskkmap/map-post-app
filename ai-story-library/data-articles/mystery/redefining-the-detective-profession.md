@@ -1,11 +1,16 @@
 ---
-title: "名探偵の「職業」を再定義する：なぜ彼らは事件現場に居合わせるのか？"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "コナン・ドイルから現代のミステリーまで、私立探偵、警察官、素人探偵というカテゴリーがいかに物語の構造を規定しているかを比較し、読者が「次の物語」に求める人物像を探る。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/redefining-the-detective-profession.mp3"
+title: 名探偵の「職業」を再定義する：なぜ彼らは事件現場に居合わせるのか？
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  コナン・ドイルから現代のミステリーまで、私立探偵、警察官、素人探偵というカテゴリーがいかに物語の構造を規定しているかを比較し、読者が「次の物語」に求める人物像を探る。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/redefining-the-detective-profession.mp3
+image: >-
+  https://images.unsplash.com/photo-1545067465-de09a75c3a26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxMjV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 現場に「居合わせる」運命：名探偵という職業の構造と進化

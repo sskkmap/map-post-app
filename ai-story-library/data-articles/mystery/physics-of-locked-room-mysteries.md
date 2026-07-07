@@ -1,11 +1,16 @@
 ---
-title: "名探偵はなぜ「現場」にこだわるのか？物理法則で解く密室トリックの嘘と真実"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "現実の科学捜査とミステリー小説のトリックを比較し、物理学的に「成立するもの」と「絶対に不可能なもの」を検証する。重力や空気力学の観点から、古典的名作の密室を現代の技術で再構築する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/physics-of-locked-room-mysteries.mp3"
+title: 名探偵はなぜ「現場」にこだわるのか？物理法則で解く密室トリックの嘘と真実
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  現実の科学捜査とミステリー小説のトリックを比較し、物理学的に「成立するもの」と「絶対に不可能なもの」を検証する。重力や空気力学の観点から、古典的名作の密室を現代の技術で再構築する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/physics-of-locked-room-mysteries.mp3
+image: >-
+  https://images.unsplash.com/photo-1776738804653-75ff3c5131a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxMTR8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 名探偵はなぜ「現場」にこだわるのか？物理法則で解く密室トリックの嘘と真実

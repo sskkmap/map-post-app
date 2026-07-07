@@ -1,11 +1,16 @@
 ---
-title: "なぜ私たちは「嫌いな人」のために時間を溶かしてしまうのか"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "職場の人間関係やSNSでの他人との比較など、人生を消耗させる「他人のノイズ」を遮断する方法を解説。自分の人生の「持ち時間」がいかに有限であるかを可視化し、自分が関心を持つべきものだけにエネルギーを集中させるためのマインドセットを提案。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/stop-wasting-time-on-people-you-dislike.mp3"
+title: なぜ私たちは「嫌いな人」のために時間を溶かしてしまうのか
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  職場の人間関係やSNSでの他人との比較など、人生を消耗させる「他人のノイズ」を遮断する方法を解説。自分の人生の「持ち時間」がいかに有限であるかを可視化し、自分が関心を持つべきものだけにエネルギーを集中させるためのマインドセットを提案。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/stop-wasting-time-on-people-you-dislike.mp3
+image: >-
+  https://images.unsplash.com/photo-1758520144705-b39e11ff32e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDEzODZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # なぜ私たちは「嫌いな人」のために時間を溶かしてしまうのか

@@ -1,11 +1,16 @@
 ---
-title: "死者の声を聴くアプリで「殺人」を告発された開発者。AIは真実を語っているのか？"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "死者のSNS投稿やデータを学習し、対話ができるAIアプリ。ある日、AIが「私は殺された」と開発者を告発する。AIが嘘をついているのか、それとも開発者の記憶が操作されているのかを問う、近未来ミステリー。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-ai-witness-dilemma.mp3"
+title: 死者の声を聴くアプリで「殺人」を告発された開発者。AIは真実を語っているのか？
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  死者のSNS投稿やデータを学習し、対話ができるAIアプリ。ある日、AIが「私は殺された」と開発者を告発する。AIが嘘をついているのか、それとも開発者の記憶が操作されているのかを問う、近未来ミステリー。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/the-ai-witness-dilemma.mp3
+image: >-
+  https://images.unsplash.com/photo-1777458456742-0bfdda98dc11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxMzZ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 遺されたコードが語る死の真相――AIは「殺人者」を告発した

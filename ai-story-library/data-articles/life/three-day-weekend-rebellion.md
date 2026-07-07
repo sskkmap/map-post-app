@@ -1,11 +1,16 @@
 ---
-title: "「週休3日制」を独断で導入してみた：労働時間の削減がむしろ会社との関係を良好にした話"
-genre: "life"
-category: "人生・仕事"
-tags: ["人生・仕事"]
-date: "2026-07-05"
-description: "組織のルールに縛られず、成果を出すことで労働時間を自らコントロールする実験。定時退社や休暇を勝ち取るための交渉術と、結果を残すことで周囲の反発を「称賛」に変えていくプロセスをドキュメンタリー形式で綴る。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/three-day-weekend-rebellion.mp3"
+title: 「週休3日制」を独断で導入してみた：労働時間の削減がむしろ会社との関係を良好にした話
+genre: life
+category: 人生・仕事
+tags:
+  - 人生・仕事
+date: '2026-07-05'
+description: >-
+  組織のルールに縛られず、成果を出すことで労働時間を自らコントロールする実験。定時退社や休暇を勝ち取るための交渉術と、結果を残すことで周囲の反発を「称賛」に変えていくプロセスをドキュメンタリー形式で綴る。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/life/three-day-weekend-rebellion.mp3
+image: >-
+  https://images.unsplash.com/photo-1608178691857-070a7f2606df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0MjV8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「週休3日制」を独断で導入してみた：なぜ労働時間を減らすと会社との絆が深まったのか

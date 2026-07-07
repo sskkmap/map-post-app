@@ -1,11 +1,16 @@
 ---
-title: "「図書館の深夜12時：存在しない『本の背表紙』に隠された毒」"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-06"
-description: "深夜の図書館で、閉館後にしか姿を現さない不可解な蔵書が話題になる。その本を読んだ者は必ず毒殺されるという都市伝説を追う大学生。彼は、本棚の「ありえない隙間」に隠された、物理法則を無視した蔵書システムの秘密と、図書委員長が抱える数十年越しの復讐劇に巻き込まれていく。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/midnight-library-poison-book.mp3"
+title: 「図書館の深夜12時：存在しない『本の背表紙』に隠された毒」
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-06'
+description: >-
+  深夜の図書館で、閉館後にしか姿を現さない不可解な蔵書が話題になる。その本を読んだ者は必ず毒殺されるという都市伝説を追う大学生。彼は、本棚の「ありえない隙間」に隠された、物理法則を無視した蔵書システムの秘密と、図書委員長が抱える数十年越しの復讐劇に巻き込まれていく。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/midnight-library-poison-book.mp3
+image: >-
+  https://images.unsplash.com/photo-1641811669171-a9c58f278e39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDUxMDF8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 図書館の深夜12時：存在しない「本の背表紙」に隠された毒

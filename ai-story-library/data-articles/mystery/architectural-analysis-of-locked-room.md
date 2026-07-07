@@ -1,11 +1,16 @@
 ---
-title: "「完全密室」はなぜ作られたのか？現代建築家がガチ検証してみた"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "古典ミステリーに登場する「不可能犯罪の現場」を、現役の一級建築家と構造エンジニアが図面を引いて検証。物理的に成立するのか、それともトリックの要点だけを抽出するのかを考察し、現代の建築技術で「最も脱出不可能な部屋」を設計する。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/architectural-analysis-of-locked-room.mp3"
+title: 「完全密室」はなぜ作られたのか？現代建築家がガチ検証してみた
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  古典ミステリーに登場する「不可能犯罪の現場」を、現役の一級建築家と構造エンジニアが図面を引いて検証。物理的に成立するのか、それともトリックの要点だけを抽出するのかを考察し、現代の建築技術で「最も脱出不可能な部屋」を設計する。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/architectural-analysis-of-locked-room.mp3
+image: >-
+  https://images.unsplash.com/photo-1775990630948-3c1f696f4ab1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0NTJ8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 「完全密室」はなぜ作られたのか？現代建築家がガチ検証してみた

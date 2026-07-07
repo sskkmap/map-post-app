@@ -1,11 +1,16 @@
 ---
-title: "【現役探偵が教える】「この部屋、何かおかしい」違和感の正体を見抜く5つのチェックリスト"
-genre: "mystery"
-category: "ミステリー"
-tags: ["ミステリー"]
-date: "2026-07-05"
-description: "プロの探偵が現場検証で使用する「違和感を見つける観察術」を解説。住人の生活パターンや家具の配置から、事件やトラブルの予兆を読み解くための具体的なポイントを、架空の「呪われたアパート」の事例を交えて紹介します。"
-audio: "https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/detective-eye-checklist.mp3"
+title: 【現役探偵が教える】「この部屋、何かおかしい」違和感の正体を見抜く5つのチェックリスト
+genre: mystery
+category: ミステリー
+tags:
+  - ミステリー
+date: '2026-07-05'
+description: >-
+  プロの探偵が現場検証で使用する「違和感を見つける観察術」を解説。住人の生活パターンや家具の配置から、事件やトラブルの予兆を読み解くための具体的なポイントを、架空の「呪われたアパート」の事例を交えて紹介します。
+audio: >-
+  https://storage.googleapis.com/share-map-bubble.firebasestorage.app/audio/mystery/detective-eye-checklist.mp3
+image: >-
+  https://images.unsplash.com/photo-1773291933696-06949474d59b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5OTMzNTR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0MDE0NTl8&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 # 【現役探偵が教える】「この部屋、何かおかしい」違和感の正体を見抜く5つのチェックリスト
