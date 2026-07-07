@@ -20,6 +20,7 @@ export default function Footer() {
           <div className="flex gap-6 border-t md:border-t-0 md:border-l border-white/10 pt-4 md:pt-0 md:pl-8 text-xs font-normal">
             <a href="/about" className="hover:text-white transition-colors">サイトについて</a>
             <a href="/privacy" className="hover:text-white transition-colors">プライバシーポリシー</a>
+            <a href="/contact" className="hover:text-white transition-colors">お問い合わせ</a>
           </div>
         </div>
       </div>
@@ -31,7 +32,7 @@ export default function Footer() {
         />
       </div>
       <div className="mt-8 text-center text-xs text-white/30">
-        &copy; {new Date().getFullYear()} AI CONTENT PORTAL - Bubble-Share. All rights reserved.
+        &copy; {new Date().getFullYear()} AI CONTENT PORTAL - Bubble Share運営委員会. All rights reserved.
       </div>
     </footer>
   );

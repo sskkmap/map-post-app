@@ -2,6 +2,7 @@
 
 import { useState, useRef, useEffect } from "react";
 import { Play, Pause, Volume2, VolumeX, SkipForward, RotateCcw, RotateCw, Music } from "lucide-react";
+import { useRouter } from "next/navigation";
 
 interface AudioPlayerProps {
   audioUrl: string;
@@ -13,6 +14,7 @@ interface AudioPlayerProps {
 }
 
 export default function AudioPlayer({ audioUrl, nextArticleUrl, bgmUrl, title, category, imageUrl }: AudioPlayerProps) {
+  const router = useRouter();
   const [isPlaying, setIsPlaying] = useState(false);
   const [progress, setProgress] = useState(0);
   const [volume, setVolume] = useState(1);
@@ -52,32 +54,55 @@ export default function AudioPlayer({ audioUrl, nextArticleUrl, bgmUrl, title, c
       if (bgmRef.current) bgmRef.current.pause();
       // 連続再生ロジック（次の記事へ自動遷移し、autoplayパラメータを付与）
       if (nextArticleUrl) {
-        window.location.href = `${nextArticleUrl}?autoplay=true`;
+        router.push(`${nextArticleUrl}?autoplay=true`);
       }
     };
 
     audio.addEventListener("timeupdate", updateProgress);
     audio.addEventListener("ended", handleEnded);
 
-    if (typeof window !== "undefined") {
-      const params = new URLSearchParams(window.location.search);
-      if (params.get("autoplay") === "true") {
-        setTimeout(() => {
-          audio.play().then(() => {
-            setIsPlaying(true);
-            if (bgmRef.current && bgmVolume > 0) {
-              bgmRef.current.play().catch(e => console.error("BGM Autoplay prevented:", e));
-            }
-          }).catch(e => console.error("Autoplay prevented:", e));
-        }, 500);
-      }
-    }
-
     return () => {
       audio.removeEventListener("timeupdate", updateProgress);
       audio.removeEventListener("ended", handleEnded);
     };
-  }, [nextArticleUrl, bgmVolume]);
+  }, [nextArticleUrl, router]);
+
+  // 音声URLの変更検知と自動再生の制御
+  useEffect(() => {
+    const audio = audioRef.current;
+    if (!audio) return;
+
+    if (typeof window !== "undefined") {
+      const params = new URLSearchParams(window.location.search);
+      if (params.get("autoplay") === "true") {
+        let isCurrent = true;
+
+        // 連打や複数回ロード時の再生競合を防ぐため一時停止
+        audio.pause();
+
+        audio.play().then(() => {
+          if (!isCurrent) return;
+          setIsPlaying(true);
+          if (bgmRef.current && bgmVolume > 0) {
+            bgmRef.current.play().catch(e => {
+              if (e.name !== 'AbortError') {
+                console.error("BGM Autoplay prevented:", e);
+              }
+            });
+          }
+        }).catch(e => {
+          // ページ遷移時の新規ロード割り込み（AbortError）は正常な挙動のためログ出力を抑止
+          if (e.name !== 'AbortError') {
+            console.error("Autoplay prevented:", e);
+          }
+        });
+
+        return () => {
+          isCurrent = false;
+        };
+      }
+    }
+  }, [audioUrl, bgmVolume]);
 
   // コンポーネントのアンマウント時のみ音声を停止する
   useEffect(() => {
@@ -104,13 +129,13 @@ export default function AudioPlayer({ audioUrl, nextArticleUrl, bgmUrl, title, c
       navigator.mediaSession.setActionHandler("seekforward", () => skip(15));
       if (nextArticleUrl) {
         navigator.mediaSession.setActionHandler("nexttrack", () => {
-          window.location.href = `${nextArticleUrl}?autoplay=true`;
+          router.push(`${nextArticleUrl}?autoplay=true`);
         });
       } else {
         navigator.mediaSession.setActionHandler("nexttrack", null);
       }
     }
-  }, [title, category, imageUrl, nextArticleUrl, isPlaying, bgmVolume]);
+  }, [title, category, imageUrl, nextArticleUrl, isPlaying, bgmVolume, router]);
 
   // 音量の適用
   useEffect(() => {
@@ -290,7 +315,7 @@ export default function AudioPlayer({ audioUrl, nextArticleUrl, bgmUrl, title, c
 
             {nextArticleUrl && (
               <button 
-                onClick={() => window.location.href = `${nextArticleUrl}?autoplay=true`}
+                onClick={() => router.push(`${nextArticleUrl}?autoplay=true`)}
                 className="hover:text-white transition-colors p-2"
                 title="次の記事へ"
               >

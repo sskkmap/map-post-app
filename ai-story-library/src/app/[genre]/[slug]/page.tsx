@@ -52,7 +52,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 export async function generateStaticParams() {
-  const genres = ['mystery', 'trip', 'smile'];
+  const genres = ['mystery', 'trip', 'smile', 'emotion', 'life', 'knowledge'];
   const params: { genre: string; slug: string }[] = [];
   
   for (const genre of genres) {
