@@ -23,11 +23,11 @@ export default function PodcastPlayer({ articles, bgmMap }: { articles: ArticleD
   const [isPlaying, setIsPlaying] = useState(false);
   const [progress, setProgress] = useState(0);
   const [duration, setDuration] = useState(0);
-  const [volume, setVolume] = useState(1);
+  const [volume, setVolume] = useState(100); // 0〜200
   const [isMuted, setIsMuted] = useState(false);
   const [playbackRate, setPlaybackRate] = useState(1.0);
   const [showVolumeSlider, setShowVolumeSlider] = useState(false);
-  const [bgmVolume, setBgmVolume] = useState(0.15);
+  const [bgmVolume, setBgmVolume] = useState(15); // 0〜30
   const [showBgmSlider, setShowBgmSlider] = useState(false);
   const [currentBgmUrl, setCurrentBgmUrl] = useState<string | undefined>();
   
@@ -35,6 +35,10 @@ export default function PodcastPlayer({ articles, bgmMap }: { articles: ArticleD
   
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const bgmRef = useRef<HTMLAudioElement | null>(null);
+  
+  const isSeekingRef = useRef(false);
+  const audioContextRef = useRef<AudioContext | null>(null);
+  const gainNodeRef = useRef<GainNode | null>(null);
 
   // ジャンルのトグル処理
   const toggleGenre = (genreId: string) => {
@@ -44,7 +48,6 @@ export default function PodcastPlayer({ articles, bgmMap }: { articles: ArticleD
     }
 
     setSelectedGenres(prev => {
-      // "all"が選択されている状態から他のジャンルを選んだ場合
       let next = prev.filter(g => g !== "all");
       
       if (next.includes(genreId)) {
@@ -53,23 +56,19 @@ export default function PodcastPlayer({ articles, bgmMap }: { articles: ArticleD
         next.push(genreId);
       }
 
-      // 何も選択されていなければ"all"に戻す
       if (next.length === 0) return ["all"];
       return next;
     });
   };
 
   useEffect(() => {
-    // コンポーネントマウント時（ページを開いた時）にプレイリストをシャッフルする
     const shuffled = [...articles].sort(() => 0.5 - Math.random());
     setShuffledArticles(shuffled);
   }, [articles]);
 
   // ジャンルでフィルタリングされた記事リスト
   const filteredArticles = useMemo(() => {
-    // まだシャッフルが終わっていない初期レンダー時は空配列（または元の配列）を返す
     const targetArticles = shuffledArticles.length > 0 ? shuffledArticles : articles;
-    
     if (selectedGenres.includes("all")) return targetArticles;
     return targetArticles.filter(a => selectedGenres.includes(a.genre));
   }, [shuffledArticles, articles, selectedGenres]);
@@ -115,24 +114,62 @@ export default function PodcastPlayer({ articles, bgmMap }: { articles: ArticleD
     }
   }, [currentArticle]);
 
+  // Web Audio APIの初期化
+  const initAudioContext = () => {
+    if (typeof window === "undefined" || !audioRef.current || gainNodeRef.current) return;
+    try {
+      const AudioContextClass = window.AudioContext || (window as any).webkitAudioContext;
+      if (!AudioContextClass) return;
+      const ctx = new AudioContextClass();
+      const source = ctx.createMediaElementSource(audioRef.current);
+      const gain = ctx.createGain();
+      
+      source.connect(gain);
+      gain.connect(ctx.destination);
+      
+      audioContextRef.current = ctx;
+      gainNodeRef.current = gain;
+      
+      gain.gain.value = isMuted ? 0 : (volume / 100);
+    } catch (e) {
+      console.error("Failed to initialize AudioContext in PodcastPlayer:", e);
+    }
+  };
+
+  // 音量の適用
   useEffect(() => {
     if (audioRef.current) {
-      audioRef.current.volume = isMuted ? 0 : volume;
+      if (gainNodeRef.current) {
+        gainNodeRef.current.gain.value = isMuted ? 0 : (volume / 100);
+      } else {
+        audioRef.current.volume = isMuted ? 0 : Math.min(1.0, volume / 100);
+      }
     }
     if (bgmRef.current) {
-      bgmRef.current.volume = (isMuted || bgmVolume === 0) ? 0 : (bgmVolume * 0.2);
+      bgmRef.current.volume = (isMuted || bgmVolume === 0) ? 0 : (bgmVolume / 100);
     }
   }, [volume, bgmVolume, isMuted]);
 
   useEffect(() => {
     const savedRate = localStorage.getItem("playbackRate");
     if (savedRate) {
-      // eslint-disable-next-line react-hooks/set-state-in-effect
       setPlaybackRate(parseFloat(savedRate));
     }
     
+    const savedVol = localStorage.getItem("mainVolume");
+    if (savedVol !== null) {
+      setVolume(parseFloat(savedVol));
+    }
+    
     const savedBgmVol = localStorage.getItem("bgmVolume");
-    if (savedBgmVol !== null) setBgmVolume(parseFloat(savedBgmVol));
+    if (savedBgmVol !== null) {
+      let vol = parseFloat(savedBgmVol);
+      // 従来の0.0〜1.0スケールの場合は0〜30スケールに変換
+      if (vol > 0 && vol <= 1.0) {
+        vol = Math.round(vol * 100);
+      }
+      setBgmVolume(Math.min(30, vol));
+    }
   }, []);
 
   useEffect(() => {
@@ -143,28 +180,48 @@ export default function PodcastPlayer({ articles, bgmMap }: { articles: ArticleD
 
   useEffect(() => {
     if (isPlaying && audioRef.current && currentArticle) {
+      initAudioContext();
+      if (audioContextRef.current && audioContextRef.current.state === "suspended") {
+        audioContextRef.current.resume().catch(console.error);
+      }
       audioRef.current.play().catch(() => setIsPlaying(false));
-      if (bgmVolume > 0 && bgmRef.current) bgmRef.current.play().catch(e => console.error(e));
     }
   }, [currentIndex, currentArticle]); // 曲が変わったら自動再生
 
   useEffect(() => {
     if (isPlaying && currentArticle && bgmVolume > 0 && bgmRef.current) {
-      bgmRef.current.play().catch(e => console.error(e));
+      bgmRef.current.play().catch(e => {
+        if (e.name !== 'AbortError') {
+          console.error("BGM play error:", e);
+        }
+      });
     } else if (bgmRef.current) {
       bgmRef.current.pause();
     }
-  }, [isPlaying, bgmVolume]);
+  }, [isPlaying, bgmVolume, currentBgmUrl]);
+
+  // コンポーネントのアンマウント時にAudioContextの解放
+  useEffect(() => {
+    return () => {
+      if (audioContextRef.current && audioContextRef.current.state !== "closed") {
+        audioContextRef.current.close().catch(console.error);
+      }
+    };
+  }, []);
 
   const togglePlay = (forceState?: boolean) => {
     if (!audioRef.current || !currentArticle) return;
+    
+    initAudioContext();
+    if (audioContextRef.current && audioContextRef.current.state === "suspended") {
+      audioContextRef.current.resume().catch(console.error);
+    }
+
     const nextState = forceState !== undefined ? forceState : !isPlaying;
     if (nextState) {
-      audioRef.current.play();
-      if (bgmVolume > 0 && bgmRef.current) bgmRef.current.play().catch(e => console.error(e));
+      audioRef.current.play().catch(console.error);
     } else {
       audioRef.current.pause();
-      if (bgmRef.current) bgmRef.current.pause();
     }
     setIsPlaying(nextState);
   };
@@ -198,6 +255,7 @@ export default function PodcastPlayer({ articles, bgmMap }: { articles: ArticleD
 
   const handleTimeUpdate = () => {
     if (audioRef.current) {
+      if (isSeekingRef.current) return;
       const currentTime = audioRef.current.currentTime;
       const duration = audioRef.current.duration || 1;
       setProgress(currentTime);
@@ -214,7 +272,6 @@ export default function PodcastPlayer({ articles, bgmMap }: { articles: ArticleD
 
   const handleError = () => {
     console.warn("音声データが見つからないか、再生に失敗しました。次の記事にスキップします。");
-    // 無限ループでブラウザが固まるのを防ぐため少しだけ待機して次へ
     setTimeout(() => {
       playNext();
     }, 1500);
@@ -229,10 +286,18 @@ export default function PodcastPlayer({ articles, bgmMap }: { articles: ArticleD
 
   const handleSeek = (e: React.ChangeEvent<HTMLInputElement>) => {
     const time = Number(e.target.value);
+    setProgress(time);
     if (audioRef.current) {
       audioRef.current.currentTime = time;
-      setProgress(time);
     }
+  };
+
+  const handleSeekStart = () => {
+    isSeekingRef.current = true;
+  };
+
+  const handleSeekEnd = () => {
+    isSeekingRef.current = false;
   };
 
   return (
@@ -291,22 +356,33 @@ export default function PodcastPlayer({ articles, bgmMap }: { articles: ArticleD
 
           {/* シークバー */}
           <div className="w-full mb-8 z-10">
-            <div className="relative w-full h-2">
+            <div className="relative w-full h-6 flex items-center group/seek">
               <input
                 type="range"
                 min={0}
                 max={duration || 100}
                 value={progress}
                 onChange={handleSeek}
+                onMouseDown={handleSeekStart}
+                onMouseUp={handleSeekEnd}
+                onTouchStart={handleSeekStart}
+                onTouchEnd={handleSeekEnd}
                 disabled={!currentArticle}
                 className="absolute w-full h-full opacity-0 cursor-pointer z-10 disabled:cursor-not-allowed"
               />
-              <div className={`absolute w-full h-full bg-white/10 rounded-full overflow-hidden pointer-events-none ${!currentArticle ? 'opacity-30' : ''}`}>
+              <div className={`absolute w-full h-1.5 bg-white/10 rounded-full pointer-events-none ${!currentArticle ? 'opacity-30' : ''}`}>
                 <div 
-                  className="h-full bg-accent transition-all duration-100"
+                  className="h-full bg-accent rounded-full"
                   style={{ width: `${duration > 0 ? (progress / duration) * 100 : 0}%` }}
                 />
               </div>
+              {/* カスタムつまみ */}
+              {currentArticle && (
+                <div 
+                  className="absolute w-3 h-3 bg-white border border-accent rounded-full shadow pointer-events-none -translate-x-1/2 opacity-0 group-hover/seek:opacity-100 transition-opacity"
+                  style={{ left: `${duration > 0 ? (progress / duration) * 100 : 0}%` }}
+                />
+              )}
             </div>
             <div className="flex justify-between text-xs text-white/50 mt-2 font-mono">
               <span>{formatTime(progress)}</span>
@@ -378,25 +454,26 @@ export default function PodcastPlayer({ articles, bgmMap }: { articles: ArticleD
                   >
                     <Music className="w-5 h-5" />
                   </button>
-                  <div className={`overflow-hidden transition-all duration-300 flex items-center ${showBgmSlider ? 'max-w-[120px] w-24 opacity-100 mr-2' : 'max-w-0 w-0 opacity-0'}`}>
+                  <div className={`overflow-hidden transition-all duration-300 flex items-center ${showBgmSlider ? 'w-24 opacity-100 mr-2' : 'w-0 opacity-0'}`}>
                     <div className="relative w-full h-1.5 bg-black/50 rounded-full mx-2 flex items-center">
                       <input
                         type="range"
                         min="0"
-                        max="1"
-                        step="0.01"
+                        max="30"
+                        step="1"
                         value={bgmVolume}
                         onChange={(e) => {
-                          const val = parseFloat(e.target.value);
+                          const val = parseInt(e.target.value, 10);
                           setBgmVolume(val);
                           localStorage.setItem("bgmVolume", val.toString());
-                          if (val > 0 && isPlaying && bgmRef.current && bgmRef.current.paused) {
-                            bgmRef.current.play().catch(console.error);
-                          }
                         }}
                         className="absolute w-full h-full opacity-0 cursor-pointer z-10"
                       />
-                      <div className="absolute h-full bg-accent rounded-full pointer-events-none" style={{ width: `${bgmVolume * 100}%` }} />
+                      <div className="absolute h-full bg-accent rounded-full pointer-events-none" style={{ width: `${(bgmVolume / 30) * 100}%` }} />
+                      <div 
+                        className="absolute w-3 h-3 bg-white border border-accent rounded-full shadow pointer-events-none -translate-x-1/2" 
+                        style={{ left: `${(bgmVolume / 30) * 100}%` }}
+                      />
                     </div>
                   </div>
                 </div>
@@ -414,20 +491,33 @@ export default function PodcastPlayer({ articles, bgmMap }: { articles: ArticleD
                   {isMuted || volume === 0 ? <VolumeX className="w-5 h-5" /> : <Volume2 className="w-5 h-5" />}
                 </button>
                 <div className={`overflow-hidden transition-all duration-300 flex items-center ${showVolumeSlider ? 'w-24 opacity-100 ml-2' : 'w-0 opacity-0'}`}>
-                  <input
-                    type="range"
-                    min={0}
-                    max={1}
-                    step={0.01}
-                    value={isMuted ? 0 : volume}
-                    onChange={(e) => {
-                      const val = Number(e.target.value);
-                      setVolume(val);
-                      if (isMuted && val > 0) setIsMuted(false);
-                      if (val === 0) setIsMuted(true);
-                    }}
-                    className="w-24 h-1 bg-white/20 rounded-lg appearance-none cursor-pointer accent-accent shrink-0"
-                  />
+                  <div className="relative w-full h-1.5 bg-black/50 rounded-full mx-2 flex items-center">
+                    <input
+                      type="range"
+                      min="0"
+                      max="200"
+                      step="1"
+                      value={isMuted ? 0 : volume}
+                      onChange={(e) => {
+                        const val = parseInt(e.target.value, 10);
+                        setVolume(val);
+                        localStorage.setItem("mainVolume", val.toString());
+                        if (isMuted && val > 0) setIsMuted(false);
+                        if (val === 0) setIsMuted(true);
+                        
+                        initAudioContext();
+                        if (audioContextRef.current && audioContextRef.current.state === "suspended") {
+                          audioContextRef.current.resume().catch(console.error);
+                        }
+                      }}
+                      className="absolute w-full h-full opacity-0 cursor-pointer z-10"
+                    />
+                    <div className="absolute h-full bg-accent rounded-full pointer-events-none" style={{ width: `${((isMuted ? 0 : volume) / 200) * 100}%` }} />
+                    <div 
+                      className="absolute w-3 h-3 bg-white border border-accent rounded-full shadow pointer-events-none -translate-x-1/2" 
+                      style={{ left: `${((isMuted ? 0 : volume) / 200) * 100}%` }}
+                    />
+                  </div>
                 </div>
               </div>
             </div>
@@ -451,8 +541,9 @@ export default function PodcastPlayer({ articles, bgmMap }: { articles: ArticleD
                 onError={handleError}
                 onLoadedMetadata={handleTimeUpdate}
                 autoPlay={isPlaying}
+                crossOrigin="anonymous"
               />
-              {currentBgmUrl && <audio ref={bgmRef} src={currentBgmUrl} preload="auto" loop autoPlay={isPlaying && bgmVolume > 0} />}
+              {currentBgmUrl && <audio ref={bgmRef} src={currentBgmUrl} preload="auto" loop />}
             </>
           )}
         </div>

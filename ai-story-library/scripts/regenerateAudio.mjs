@@ -145,7 +145,7 @@ async function findArticleByTitle(title) {
         const content = await fs.readFile(filePath, 'utf-8');
         const { data, content: body } = matter(content);
         const slug = file.replace('.md', '').trim();
-        
+
         if (
           (data.title && data.title.trim() === title.trim()) ||
           (slug === title.trim())
@@ -225,7 +225,7 @@ async function main() {
 
       console.log(`[変換] WAVをMP3に圧縮中...`);
       await convertWavToMp3(audioPathWav, audioPathMp3);
-      await fs.unlink(audioPathWav).catch(() => {});
+      await fs.unlink(audioPathWav).catch(() => { });
 
       const storageDest = `audio/${article.genre}/${safeTitle}.mp3`;
       const publicUrl = await uploadAudioToFirebase(audioPathMp3, storageDest);
@@ -235,7 +235,7 @@ async function main() {
       let mdContent = await fs.readFile(mdPath, 'utf-8');
       mdContent = mdContent.replace(/audio:\s*".*?"/, `audio: "${publicUrl}"`);
       await fs.writeFile(mdPath, mdContent, 'utf-8');
-      
+
       console.log(`✓ 記事(${title}.md)の音声URLをFirebaseのものに更新しました`);
     }
 

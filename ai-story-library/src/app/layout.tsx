@@ -81,10 +81,10 @@ export default function RootLayout({
                   <PenTool className="w-4 h-4" />
                   <span>投稿</span>
                 </Link>
-                <Link href="/contact" className="text-sm flex items-center space-x-1 theme-text-muted hover:text-accent transition-colors">
+                {/* <Link href="/contact" className="text-sm flex items-center space-x-1 theme-text-muted hover:text-accent transition-colors">
                   <Mail className="w-4 h-4" />
                   <span>お問い合わせ</span>
-                </Link>
+                </Link> */}
               </div>
             </div>
           </nav>
