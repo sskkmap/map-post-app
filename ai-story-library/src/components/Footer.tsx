@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="max-w-5xl mx-auto px-4 flex flex-col md:flex-row justify-between items-center gap-6">
         <div className="text-center md:text-left">
           <h2 className="text-2xl font-bold tracking-widest mb-2 neon-text">
-            AI CONTENT PORTAL <span className="text-lg text-white/70 tracking-normal ml-2">Bubble-Share</span>
+            AI CONTENT PORTAL<br></br><span className="text-lg text-white/70 tracking-normal ml-2">Bubble-Share</span>
           </h2>
           <p className="text-sm text-white/40">読む・聴く・AIと創る。無限に広がるコンテンツライブラリ。</p>
         </div>
@@ -26,8 +26,8 @@ export default function Footer() {
       </div>
 
       <div className="mt-8 flex justify-center">
-        <ShareButtons 
-          title="AI CONTENT PORTAL - Bubble-Share | 読む・聴く・AIと創る" 
+        <ShareButtons
+          title="AI CONTENT PORTAL - Bubble-Share | 読む・聴く・AIと創る"
           url="https://www.share-map-bubble.site"
         />
       </div>

@@ -288,33 +288,62 @@ async function ensureVoicevoxRunning() {
   }
 }
 
-/**
- * 複数のWAVバッファを結合する関数
- */
 function concatWavs(buffers) {
   if (buffers.length === 0) return Buffer.from([]);
   if (buffers.length === 1) return buffers[0];
 
+  const pcmParts = [];
   let totalPcmLength = 0;
+  let firstHeader = null;
+
   for (let i = 0; i < buffers.length; i++) {
-    totalPcmLength += buffers[i].length - 44;
+    const buf = buffers[i];
+    
+    // "data" チャンクのシグネチャ (0x64, 0x61, 0x74, 0x61) を動的に探す
+    let dataOffset = -1;
+    for (let j = 12; j < buf.length - 8; j++) {
+      if (buf[j] === 0x64 && buf[j+1] === 0x61 && buf[j+2] === 0x74 && buf[j+3] === 0x61) {
+        dataOffset = j;
+        break;
+      }
+    }
+
+    if (dataOffset === -1) {
+      // 見つからない場合はフォールバックとして44バイト以降をPCMとする
+      const pcm = buf.slice(44);
+      pcmParts.push(pcm);
+      totalPcmLength += pcm.length;
+      if (i === 0) {
+        firstHeader = buf.slice(0, 44);
+      }
+    } else {
+      const pcmSize = buf.readUInt32LE(dataOffset + 4);
+      const pcmStart = dataOffset + 8;
+      const pcm = buf.slice(pcmStart, Math.min(buf.length, pcmStart + pcmSize));
+      pcmParts.push(pcm);
+      totalPcmLength += pcm.length;
+      if (i === 0) {
+        firstHeader = Buffer.alloc(pcmStart);
+        buf.copy(firstHeader, 0, 0, pcmStart);
+      }
+    }
   }
 
-  const outBuffer = Buffer.alloc(44 + totalPcmLength);
+  // 新しいWAVバッファを作成
+  const outBuffer = Buffer.alloc(firstHeader.length + totalPcmLength);
+  firstHeader.copy(outBuffer, 0);
+  
+  // RIFFサイズを更新 (全体サイズ - 8)
+  outBuffer.writeUInt32LE(firstHeader.length + totalPcmLength - 8, 4);
 
-  // 最初のバッファからヘッダ（44バイト）をコピー
-  buffers[0].copy(outBuffer, 0, 0, 44);
+  // dataチャンクのサイズを更新
+  outBuffer.writeUInt32LE(totalPcmLength, firstHeader.length - 4);
 
-  // ChunkSize (offset 4, 4 bytes, Little Endian) = 36 + Subchunk2Size
-  outBuffer.writeUInt32LE(36 + totalPcmLength, 4);
-  // Subchunk2Size (offset 40, 4 bytes, Little Endian) = total PCM length
-  outBuffer.writeUInt32LE(totalPcmLength, 40);
-
-  let offset = 44;
-  for (let i = 0; i < buffers.length; i++) {
-    const pcmData = buffers[i].slice(44);
-    pcmData.copy(outBuffer, offset);
-    offset += pcmData.length;
+  // PCMデータを連結
+  let offset = firstHeader.length;
+  for (let i = 0; i < pcmParts.length; i++) {
+    pcmParts[i].copy(outBuffer, offset);
+    offset += pcmParts[i].length;
   }
 
   return outBuffer;
@@ -360,6 +389,8 @@ async function generateAudio(text, outputPath, speakerId = 3) {
 
       // 読み上げ速度を設定
       queryJson.speedScale = 1.25;
+      // 音量を設定 (1.5倍)
+      queryJson.volumeScale = 1.5;
 
       // 2. 音声合成
       const synthRes = await fetch(`http://127.0.0.1:50021/synthesis?speaker=${speakerId}`, {

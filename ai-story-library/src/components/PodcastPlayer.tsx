@@ -23,7 +23,7 @@ export default function PodcastPlayer({ articles, bgmMap }: { articles: ArticleD
   const [isPlaying, setIsPlaying] = useState(false);
   const [progress, setProgress] = useState(0);
   const [duration, setDuration] = useState(0);
-  const [volume, setVolume] = useState(100); // 0〜200
+  const [volume, setVolume] = useState(100); // 0〜100
   const [isMuted, setIsMuted] = useState(false);
   const [playbackRate, setPlaybackRate] = useState(1.0);
   const [showVolumeSlider, setShowVolumeSlider] = useState(false);
@@ -37,8 +37,6 @@ export default function PodcastPlayer({ articles, bgmMap }: { articles: ArticleD
   const bgmRef = useRef<HTMLAudioElement | null>(null);
   
   const isSeekingRef = useRef(false);
-  const audioContextRef = useRef<AudioContext | null>(null);
-  const gainNodeRef = useRef<GainNode | null>(null);
 
   // ジャンルのトグル処理
   const toggleGenre = (genreId: string) => {
@@ -114,39 +112,15 @@ export default function PodcastPlayer({ articles, bgmMap }: { articles: ArticleD
     }
   }, [currentArticle]);
 
-  // Web Audio APIの初期化
-  const initAudioContext = () => {
-    if (typeof window === "undefined" || !audioRef.current || gainNodeRef.current) return;
-    try {
-      const AudioContextClass = window.AudioContext || (window as any).webkitAudioContext;
-      if (!AudioContextClass) return;
-      const ctx = new AudioContextClass();
-      const source = ctx.createMediaElementSource(audioRef.current);
-      const gain = ctx.createGain();
-      
-      source.connect(gain);
-      gain.connect(ctx.destination);
-      
-      audioContextRef.current = ctx;
-      gainNodeRef.current = gain;
-      
-      gain.gain.value = isMuted ? 0 : (volume / 100);
-    } catch (e) {
-      console.error("Failed to initialize AudioContext in PodcastPlayer:", e);
-    }
-  };
-
   // 音量の適用
   useEffect(() => {
     if (audioRef.current) {
-      if (gainNodeRef.current) {
-        gainNodeRef.current.gain.value = isMuted ? 0 : (volume / 100);
-      } else {
-        audioRef.current.volume = isMuted ? 0 : Math.min(1.0, volume / 100);
-      }
+      audioRef.current.volume = isMuted ? 0 : Math.min(1.0, volume / 100);
     }
     if (bgmRef.current) {
-      bgmRef.current.volume = (isMuted || bgmVolume === 0) ? 0 : (bgmVolume / 100);
+      // 3乗カーブを適用（bgmVolume=30のときに元の最大値0.3となるように調整）
+      const actualBgmVolume = 0.3 * Math.pow(bgmVolume / 30, 3);
+      bgmRef.current.volume = (isMuted || bgmVolume === 0) ? 0 : actualBgmVolume;
     }
   }, [volume, bgmVolume, isMuted]);
 
@@ -158,7 +132,7 @@ export default function PodcastPlayer({ articles, bgmMap }: { articles: ArticleD
     
     const savedVol = localStorage.getItem("mainVolume");
     if (savedVol !== null) {
-      setVolume(parseFloat(savedVol));
+      setVolume(Math.min(100, parseFloat(savedVol)));
     }
     
     const savedBgmVol = localStorage.getItem("bgmVolume");
@@ -180,10 +154,6 @@ export default function PodcastPlayer({ articles, bgmMap }: { articles: ArticleD
 
   useEffect(() => {
     if (isPlaying && audioRef.current && currentArticle) {
-      initAudioContext();
-      if (audioContextRef.current && audioContextRef.current.state === "suspended") {
-        audioContextRef.current.resume().catch(console.error);
-      }
       audioRef.current.play().catch(() => setIsPlaying(false));
     }
   }, [currentIndex, currentArticle]); // 曲が変わったら自動再生
@@ -200,22 +170,10 @@ export default function PodcastPlayer({ articles, bgmMap }: { articles: ArticleD
     }
   }, [isPlaying, bgmVolume, currentBgmUrl]);
 
-  // コンポーネントのアンマウント時にAudioContextの解放
-  useEffect(() => {
-    return () => {
-      if (audioContextRef.current && audioContextRef.current.state !== "closed") {
-        audioContextRef.current.close().catch(console.error);
-      }
-    };
-  }, []);
+
 
   const togglePlay = (forceState?: boolean) => {
     if (!audioRef.current || !currentArticle) return;
-    
-    initAudioContext();
-    if (audioContextRef.current && audioContextRef.current.state === "suspended") {
-      audioContextRef.current.resume().catch(console.error);
-    }
 
     const nextState = forceState !== undefined ? forceState : !isPlaying;
     if (nextState) {
@@ -495,7 +453,7 @@ export default function PodcastPlayer({ articles, bgmMap }: { articles: ArticleD
                     <input
                       type="range"
                       min="0"
-                      max="200"
+                      max="100"
                       step="1"
                       value={isMuted ? 0 : volume}
                       onChange={(e) => {
@@ -504,18 +462,13 @@ export default function PodcastPlayer({ articles, bgmMap }: { articles: ArticleD
                         localStorage.setItem("mainVolume", val.toString());
                         if (isMuted && val > 0) setIsMuted(false);
                         if (val === 0) setIsMuted(true);
-                        
-                        initAudioContext();
-                        if (audioContextRef.current && audioContextRef.current.state === "suspended") {
-                          audioContextRef.current.resume().catch(console.error);
-                        }
                       }}
                       className="absolute w-full h-full opacity-0 cursor-pointer z-10"
                     />
-                    <div className="absolute h-full bg-accent rounded-full pointer-events-none" style={{ width: `${((isMuted ? 0 : volume) / 200) * 100}%` }} />
+                    <div className="absolute h-full bg-accent rounded-full pointer-events-none" style={{ width: `${((isMuted ? 0 : volume) / 100) * 100}%` }} />
                     <div 
                       className="absolute w-3 h-3 bg-white border border-accent rounded-full shadow pointer-events-none -translate-x-1/2" 
-                      style={{ left: `${((isMuted ? 0 : volume) / 200) * 100}%` }}
+                      style={{ left: `${((isMuted ? 0 : volume) / 100) * 100}%` }}
                     />
                   </div>
                 </div>

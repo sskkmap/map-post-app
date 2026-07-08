@@ -17,7 +17,7 @@ export default function AudioPlayer({ audioUrl, nextArticleUrl, bgmUrl, title, c
   const router = useRouter();
   const [isPlaying, setIsPlaying] = useState(false);
   const [progress, setProgress] = useState(0);
-  const [volume, setVolume] = useState(100); // 0〜200
+  const [volume, setVolume] = useState(100); // 0〜100
   const [isMuted, setIsMuted] = useState(false);
   const [showVolumeSlider, setShowVolumeSlider] = useState(false);
   const [playbackRate, setPlaybackRate] = useState(1.0);
@@ -29,8 +29,7 @@ export default function AudioPlayer({ audioUrl, nextArticleUrl, bgmUrl, title, c
   const bgmRef = useRef<HTMLAudioElement>(null);
   
   const isSeekingRef = useRef(false);
-  const audioContextRef = useRef<AudioContext | null>(null);
-  const gainNodeRef = useRef<GainNode | null>(null);
+
   const bgmVolumeRef = useRef(bgmVolume);
 
   useEffect(() => {
@@ -44,7 +43,7 @@ export default function AudioPlayer({ audioUrl, nextArticleUrl, bgmUrl, title, c
     }
     const savedVol = localStorage.getItem("mainVolume");
     if (savedVol !== null) {
-      setVolume(parseFloat(savedVol));
+      setVolume(Math.min(100, parseFloat(savedVol)));
     }
     const savedBgmVol = localStorage.getItem("bgmVolume");
     if (savedBgmVol !== null) {
@@ -57,28 +56,7 @@ export default function AudioPlayer({ audioUrl, nextArticleUrl, bgmUrl, title, c
     }
   }, []);
 
-  // Web Audio APIの初期化
-  const initAudioContext = () => {
-    if (typeof window === "undefined" || !audioRef.current || gainNodeRef.current) return;
-    try {
-      const AudioContextClass = window.AudioContext || (window as any).webkitAudioContext;
-      if (!AudioContextClass) return;
-      const ctx = new AudioContextClass();
-      const source = ctx.createMediaElementSource(audioRef.current);
-      const gain = ctx.createGain();
-      
-      source.connect(gain);
-      gain.connect(ctx.destination);
-      
-      audioContextRef.current = ctx;
-      gainNodeRef.current = gain;
-      
-      // 初期の音量を適用
-      gain.gain.value = isMuted ? 0 : (volume / 100);
-    } catch (e) {
-      console.error("Failed to initialize AudioContext:", e);
-    }
-  };
+
 
   useEffect(() => {
     const audio = audioRef.current;
@@ -148,14 +126,11 @@ export default function AudioPlayer({ audioUrl, nextArticleUrl, bgmUrl, title, c
     }
   }, [isPlaying, bgmVolume]);
 
-  // コンポーネントのアンマウント時に音声を停止 & AudioContextの解放
+  // コンポーネントのアンマウント時に音声を停止
   useEffect(() => {
     return () => {
       if (audioRef.current) audioRef.current.pause();
       if (bgmRef.current) bgmRef.current.pause();
-      if (audioContextRef.current && audioContextRef.current.state !== "closed") {
-        audioContextRef.current.close().catch(console.error);
-      }
     };
   }, []);
 
@@ -187,14 +162,12 @@ export default function AudioPlayer({ audioUrl, nextArticleUrl, bgmUrl, title, c
   // 音量の適用
   useEffect(() => {
     if (audioRef.current) {
-      if (gainNodeRef.current) {
-        gainNodeRef.current.gain.value = isMuted ? 0 : (volume / 100);
-      } else {
-        audioRef.current.volume = isMuted ? 0 : Math.min(1, volume / 100);
-      }
+      audioRef.current.volume = isMuted ? 0 : Math.min(1, volume / 100);
     }
     if (bgmRef.current) {
-      bgmRef.current.volume = (isMuted || bgmVolume === 0) ? 0 : (bgmVolume / 100);
+      // 3乗カーブを適用（bgmVolume=30のときに元の最大値0.3となるように調整）
+      const actualBgmVolume = 0.3 * Math.pow(bgmVolume / 30, 3);
+      bgmRef.current.volume = (isMuted || bgmVolume === 0) ? 0 : actualBgmVolume;
     }
   }, [volume, bgmVolume, isMuted]);
 
@@ -214,11 +187,6 @@ export default function AudioPlayer({ audioUrl, nextArticleUrl, bgmUrl, title, c
 
   const togglePlay = () => {
     if (audioRef.current) {
-      initAudioContext();
-      if (audioContextRef.current && audioContextRef.current.state === "suspended") {
-        audioContextRef.current.resume().catch(console.error);
-      }
-
       if (isPlaying) {
         audioRef.current.pause();
       } else {
@@ -371,7 +339,7 @@ export default function AudioPlayer({ audioUrl, nextArticleUrl, bgmUrl, title, c
                   <input
                     type="range"
                     min="0"
-                    max="200"
+                    max="100"
                     step="1"
                     value={isMuted ? 0 : volume}
                     onChange={(e) => {
@@ -380,18 +348,13 @@ export default function AudioPlayer({ audioUrl, nextArticleUrl, bgmUrl, title, c
                       localStorage.setItem("mainVolume", val.toString());
                       if (isMuted && val > 0) setIsMuted(false);
                       if (val === 0) setIsMuted(true);
-                      
-                      initAudioContext();
-                      if (audioContextRef.current && audioContextRef.current.state === "suspended") {
-                        audioContextRef.current.resume().catch(console.error);
-                      }
                     }}
                     className="absolute w-full h-full opacity-0 cursor-pointer z-10"
                   />
-                  <div className="absolute h-full bg-accent rounded-full pointer-events-none" style={{ width: `${((isMuted ? 0 : volume) / 200) * 100}%` }} />
+                  <div className="absolute h-full bg-accent rounded-full pointer-events-none" style={{ width: `${((isMuted ? 0 : volume) / 100) * 100}%` }} />
                   <div 
                     className="absolute w-3 h-3 bg-white border border-accent rounded-full shadow pointer-events-none -translate-x-1/2" 
-                    style={{ left: `${((isMuted ? 0 : volume) / 200) * 100}%` }}
+                    style={{ left: `${((isMuted ? 0 : volume) / 100) * 100}%` }}
                   />
                 </div>
               </div>
