@@ -45,10 +45,21 @@ async function ensureVoicevoxRunning() {
     if (res.ok) return; // すでに起動済み
   } catch (e) {
     console.log('  [VOICEVOX] アプリが起動していません。自動起動を試みます...');
-    const exePath = 'C:\\Users\\owner\\AppData\\Local\\Programs\\VOICEVOX\\VOICEVOX.exe';
-    spawn(exePath, [], { detached: true, stdio: 'ignore' }).unref();
+    const userProfile = process.env.USERPROFILE || 'C:\\Users\\owner';
+    const exePath = path.join(userProfile, 'AppData\\Local\\Programs\\VOICEVOX\\VOICEVOX.exe');
+    try {
+      const child = spawn(exePath, [], { detached: true, stdio: 'ignore' });
+      child.on('error', (err) => {
+        console.log(`  [VOICEVOX] 自動起動に失敗しました (${err.message})。`);
+        console.log(`  手動で VOICEVOX アプリを起動してください。`);
+      });
+      child.unref();
+    } catch (spawnErr) {
+      console.log(`  [VOICEVOX] 自動起動の呼び出しに失敗しました (${spawnErr.message})。`);
+    }
 
-    for (let i = 0; i < 30; i++) {
+    console.log('  [VOICEVOX] VOICEVOXの起動を確認中 (最大15秒待ちます)...');
+    for (let i = 0; i < 15; i++) {
       await new Promise(r => setTimeout(r, 1000));
       try {
         const res = await fetch(checkUrl);
@@ -58,7 +69,7 @@ async function ensureVoicevoxRunning() {
         }
       } catch (err) { }
     }
-    throw new Error('VOICEVOXアプリの自動起動に失敗したか、起動に時間がかかりすぎています。');
+    throw new Error('VOICEVOXアプリが起動していません。手動でVOICEVOXアプリを起動してから再実行してください。');
   }
 }
 
@@ -184,6 +195,18 @@ async function generateAudio(text, outputPath, speakerId = 3) {
   }
 }
 
+function getAudioFileName(audioValue, mdFile) {
+  if (!audioValue) {
+    return mdFile.replace('.md', '.wav');
+  }
+  // URLだった場合はクエリパラメータを除去して末尾のファイル名を取得
+  if (audioValue.startsWith('http://') || audioValue.startsWith('https://')) {
+    const cleanUrl = audioValue.split('?')[0];
+    return path.basename(cleanUrl);
+  }
+  return audioValue;
+}
+
 async function findArticleByTitle(title) {
   for (const genre of GENRES) {
     const genreDir = path.join(ARTICLES_DIR, genre.id);
@@ -203,7 +226,7 @@ async function findArticleByTitle(title) {
           return {
             genre: genre.id,
             speakerId: genre.speakerId,
-            audioFileName: data.audio || file.replace('.md', '.wav'),
+            audioFileName: getAudioFileName(data.audio, file),
             body,
             filePath
           };
@@ -246,7 +269,7 @@ async function getAllArticles() {
           title: data.title || slug,
           genre: genreId,
           speakerId: genre.speakerId,
-          audioFileName: data.audio || file.replace('.md', '.wav'),
+          audioFileName: getAudioFileName(data.audio, file),
           body,
           filePath
         });
@@ -315,16 +338,22 @@ async function main() {
       await convertWavToMp3(audioPathWav, audioPathMp3);
       await fs.unlink(audioPathWav).catch(() => { });
 
-      const storageDest = `audio/${article.genre}/${safeTitle}.mp3`;
-      const publicUrl = await uploadAudioToFirebase(audioPathMp3, storageDest);
+      const hasFirebaseConfig = !!(process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID && process.env.FIREBASE_CLIENT_EMAIL && process.env.FIREBASE_PRIVATE_KEY);
+      if (hasFirebaseConfig) {
+        const storageDest = `audio/${article.genre}/${safeTitle}.mp3`;
+        const publicUrl = await uploadAudioToFirebase(audioPathMp3, storageDest);
 
-      // Markdownファイルを更新して新しいURLを書き込む
-      const mdPath = article.filePath;
-      let mdContent = await fs.readFile(mdPath, 'utf-8');
-      mdContent = mdContent.replace(/audio:\s*".*?"/, `audio: "${publicUrl}"`);
-      await fs.writeFile(mdPath, mdContent, 'utf-8');
+        // Markdownファイルを更新して新しいURLを書き込む
+        const mdPath = article.filePath;
+        let mdContent = await fs.readFile(mdPath, 'utf-8');
+        mdContent = mdContent.replace(/audio:\s*".*?"/, `audio: "${publicUrl}"`);
+        await fs.writeFile(mdPath, mdContent, 'utf-8');
 
-      console.log(`✓ 記事(${title}.md)の音声URLをFirebaseのものに更新しました`);
+        console.log(`✓ 記事(${title}.md)の音声URLをFirebaseのものに更新しました`);
+      } else {
+        console.log(`✓ [ローカル保存] MP3ファイルがローカルに保存されました: ${audioPathMp3}`);
+        console.log(`  (Firebase環境変数が設定されていないため、アップロードとMarkdown更新をスキップしました)`);
+      }
     }
     console.log('\n✓ 全ての音声ファイルの再生成が完了しました！');
 
@@ -383,16 +412,22 @@ async function main() {
         await convertWavToMp3(audioPathWav, audioPathMp3);
         await fs.unlink(audioPathWav).catch(() => { });
 
-        const storageDest = `audio/${article.genre}/${safeTitle}.mp3`;
-        const publicUrl = await uploadAudioToFirebase(audioPathMp3, storageDest);
+        const hasFirebaseConfig = !!(process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID && process.env.FIREBASE_CLIENT_EMAIL && process.env.FIREBASE_PRIVATE_KEY);
+        if (hasFirebaseConfig) {
+          const storageDest = `audio/${article.genre}/${safeTitle}.mp3`;
+          const publicUrl = await uploadAudioToFirebase(audioPathMp3, storageDest);
 
-        // Markdownファイルを更新して新しいURLを書き込む
-        const mdPath = path.join(ARTICLES_DIR, article.genre, `${title}.md`);
-        let mdContent = await fs.readFile(mdPath, 'utf-8');
-        mdContent = mdContent.replace(/audio:\s*".*?"/, `audio: "${publicUrl}"`);
-        await fs.writeFile(mdPath, mdContent, 'utf-8');
+          // Markdownファイルを更新して新しいURLを書き込む
+          const mdPath = path.join(ARTICLES_DIR, article.genre, `${title}.md`);
+          let mdContent = await fs.readFile(mdPath, 'utf-8');
+          mdContent = mdContent.replace(/audio:\s*".*?"/, `audio: "${publicUrl}"`);
+          await fs.writeFile(mdPath, mdContent, 'utf-8');
 
-        console.log(`✓ 記事(${title}.md)の音声URLをFirebaseのものに更新しました`);
+          console.log(`✓ 記事(${title}.md)の音声URLをFirebaseのものに更新しました`);
+        } else {
+          console.log(`✓ [ローカル保存] MP3ファイルがローカルに保存されました: ${audioPathMp3}`);
+          console.log(`  (Firebase環境変数が設定されていないため、アップロードとMarkdown更新をスキップしました)`);
+        }
       }
 
       // 処理が完了（またはスキップ）したら、ファイルから該当行を削除して上書き

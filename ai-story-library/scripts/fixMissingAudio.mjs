@@ -19,10 +19,21 @@ async function ensureVoicevoxRunning() {
     if (res.ok) return; // すでに起動済み
   } catch (e) {
     console.log('  [VOICEVOX] アプリが起動していません。自動起動を試みます...');
-    const exePath = 'C:\\Users\\owner\\AppData\\Local\\Programs\\VOICEVOX\\VOICEVOX.exe';
-    spawn(exePath, [], { detached: true, stdio: 'ignore' }).unref();
+    const userProfile = process.env.USERPROFILE || 'C:\\Users\\owner';
+    const exePath = path.join(userProfile, 'AppData\\Local\\Programs\\VOICEVOX\\VOICEVOX.exe');
+    try {
+      const child = spawn(exePath, [], { detached: true, stdio: 'ignore' });
+      child.on('error', (err) => {
+        console.log(`  [VOICEVOX] 自動起動に失敗しました (${err.message})。`);
+        console.log(`  手動で VOICEVOX アプリを起動してください。`);
+      });
+      child.unref();
+    } catch (spawnErr) {
+      console.log(`  [VOICEVOX] 自動起動の呼び出しに失敗しました (${spawnErr.message})。`);
+    }
 
-    for (let i = 0; i < 30; i++) {
+    console.log('  [VOICEVOX] VOICEVOXの起動を確認中 (最大15秒待ちます)...');
+    for (let i = 0; i < 15; i++) {
       await new Promise(r => setTimeout(r, 1000));
       try {
         const res = await fetch(checkUrl);
@@ -32,7 +43,7 @@ async function ensureVoicevoxRunning() {
         }
       } catch (err) { }
     }
-    throw new Error('VOICEVOXアプリの自動起動に失敗しました。');
+    throw new Error('VOICEVOXアプリが起動していません。手動でVOICEVOXアプリを起動してから再実行してください。');
   }
 }
 
@@ -200,7 +211,12 @@ async function main() {
       const parsed = matter(fileContent);
 
       const title = parsed.data.title;
-      const audioFileName = parsed.data.audio;
+      let audioFileName = parsed.data.audio;
+
+      if (audioFileName && (audioFileName.startsWith('http://') || audioFileName.startsWith('https://'))) {
+        const cleanUrl = audioFileName.split('?')[0];
+        audioFileName = path.basename(cleanUrl);
+      }
 
       if (!title || !audioFileName) continue;
 
