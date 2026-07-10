@@ -7,17 +7,42 @@ import RankingSection from "@/components/RankingSection";
 
 export default function PortalPage() {
   const allArticles = getAllArticlesGlobal();
+  const totalCount = allArticles.length;
+  
+  // カテゴリ数
+  const categories = new Set(allArticles.map(a => a.category).filter(Boolean));
+  const categoryCount = categories.size;
+
+  // 推定総再生時間 (1分間に約450文字VOICEVOXスピード換算)
+  const totalChars = allArticles.reduce((sum, a) => sum + (a.content ? a.content.length : 0), 0);
+  const totalMinutes = Math.round(totalChars / 450);
+  const totalHours = (totalMinutes / 60).toFixed(1);
 
   return (
     <div className="max-w-5xl mx-auto px-4 flex flex-col items-center justify-center min-h-[70vh]">
-      <header className="mb-12 text-center w-full">
+      <header className="mb-8 text-center w-full">
         <h1 className="text-5xl md:text-7xl font-bold tracking-widest mb-6 leading-tight">
           <span className="bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 bg-clip-text text-transparent">AI CONTENT</span>
           <span className="text-white/50 bg-gradient-to-r from-pink-500 to-accent bg-clip-text text-transparent"> PORTAL</span><br />
           <span className="text-xl md:text-3xl bg-gradient-to-r from-accent to-emerald-400 bg-clip-text text-transparent tracking-normal">Bubble-Share</span>
         </h1>
-        <p className="text-xl text-white/60 mb-12">読む・聴く・AIと創る。無限に広がるコンテンツライブラリ。</p>
+        <p className="text-xl text-white/60 mb-6">読む・聴く・AIと創る。無限に広がるコンテンツライブラリ。</p>
 
+        {/* 動的統計ダッシュボード */}
+        <div className="flex flex-wrap justify-center gap-4 mb-8 z-10 relative">
+          <div className="glass-panel px-6 py-3 rounded-full border border-white/5 flex items-center space-x-3 shadow-lg">
+            <BookOpen className="w-5 h-5 text-accent animate-pulse" />
+            <span className="text-white/80 font-bold text-sm">公開記事: <span className="text-accent text-base ml-1 font-mono">{totalCount}</span> 本</span>
+          </div>
+          <div className="glass-panel px-6 py-3 rounded-full border border-white/5 flex items-center space-x-3 shadow-lg">
+            <Compass className="w-5 h-5 text-blue-400" />
+            <span className="text-white/80 font-bold text-sm">カテゴリ: <span className="text-blue-400 text-base ml-1 font-mono">{categoryCount}</span> 種類</span>
+          </div>
+          <div className="glass-panel px-6 py-3 rounded-full border border-white/5 flex items-center space-x-3 shadow-lg">
+            <Flame className="w-5 h-5 text-pink-400 animate-bounce" />
+            <span className="text-white/80 font-bold text-sm">総再生時間: <span className="text-pink-400 text-base ml-1 font-mono">{totalHours}</span> 時間</span>
+          </div>
+        </div>
       </header>
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 w-full max-w-4xl mt-8">

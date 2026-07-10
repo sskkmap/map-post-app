@@ -1,9 +1,8 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import { LayoutGrid, Headphones, BookOpen, PenTool } from "lucide-react";
+import { LayoutGrid, Headphones, BookOpen, PenTool, Mail } from "lucide-react";
 import Link from "next/link";
-import Script from "next/script";
 import { GoogleAnalytics } from '@next/third-parties/google';
 import ThemeProvider from "@/components/ThemeProvider";
 import Footer from "@/components/Footer";
@@ -47,10 +46,10 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="ja" data-theme="portal">
+    <html lang="ja" data-theme="portal" suppressHydrationWarning>
       <head>
         <meta name="google-adsense-account" content="ca-pub-3015895490418469" />
-        <Script
+        <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3015895490418469"
           crossOrigin="anonymous"
@@ -82,6 +81,10 @@ export default function RootLayout({
                   <PenTool className="w-4 h-4" />
                   <span>投稿</span>
                 </Link>
+                {/* <Link href="/contact" className="text-sm flex items-center space-x-1 theme-text-muted hover:text-accent transition-colors">
+                  <Mail className="w-4 h-4" />
+                  <span>お問い合わせ</span>
+                </Link> */}
               </div>
             </div>
           </nav>

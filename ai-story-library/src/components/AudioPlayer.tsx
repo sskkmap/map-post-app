@@ -2,6 +2,7 @@
 
 import { useState, useRef, useEffect } from "react";
 import { Play, Pause, Volume2, VolumeX, SkipForward, RotateCcw, RotateCw, Music } from "lucide-react";
+import { useRouter } from "next/navigation";
 
 interface AudioPlayerProps {
   audioUrl: string;
@@ -13,32 +14,56 @@ interface AudioPlayerProps {
 }
 
 export default function AudioPlayer({ audioUrl, nextArticleUrl, bgmUrl, title, category, imageUrl }: AudioPlayerProps) {
+  const router = useRouter();
   const [isPlaying, setIsPlaying] = useState(false);
   const [progress, setProgress] = useState(0);
-  const [volume, setVolume] = useState(1);
+  const [volume, setVolume] = useState(100); // 0〜100
   const [isMuted, setIsMuted] = useState(false);
   const [showVolumeSlider, setShowVolumeSlider] = useState(false);
   const [playbackRate, setPlaybackRate] = useState(1.0);
-  const [bgmVolume, setBgmVolume] = useState(0.15);
+  const [bgmVolume, setBgmVolume] = useState(15); // 0〜30
   const [showBgmSlider, setShowBgmSlider] = useState(false);
   const RATES = [0.5, 0.75, 1.0, 1.25, 1.5, 1.75, 2.0];
+  
   const audioRef = useRef<HTMLAudioElement>(null);
   const bgmRef = useRef<HTMLAudioElement>(null);
+  
+  const isSeekingRef = useRef(false);
+
+  const bgmVolumeRef = useRef(bgmVolume);
+
+  useEffect(() => {
+    bgmVolumeRef.current = bgmVolume;
+  }, [bgmVolume]);
 
   useEffect(() => {
     const savedRate = localStorage.getItem("playbackRate");
     if (savedRate) {
       setPlaybackRate(parseFloat(savedRate));
     }
+    const savedVol = localStorage.getItem("mainVolume");
+    if (savedVol !== null) {
+      setVolume(Math.min(100, parseFloat(savedVol)));
+    }
     const savedBgmVol = localStorage.getItem("bgmVolume");
-    if (savedBgmVol !== null) setBgmVolume(parseFloat(savedBgmVol));
+    if (savedBgmVol !== null) {
+      let vol = parseFloat(savedBgmVol);
+      // 従来の0.0〜1.0スケールの場合は0〜30スケールに変換
+      if (vol > 0 && vol <= 1.0) {
+        vol = Math.round(vol * 100);
+      }
+      setBgmVolume(Math.min(30, vol));
+    }
   }, []);
+
+
 
   useEffect(() => {
     const audio = audioRef.current;
     if (!audio) return;
 
     const updateProgress = () => {
+      if (isSeekingRef.current) return;
       const currentTime = audio.currentTime;
       const duration = audio.duration || 1;
       const currentProgress = (currentTime / duration) * 100;
@@ -49,37 +74,59 @@ export default function AudioPlayer({ audioUrl, nextArticleUrl, bgmUrl, title, c
     const handleEnded = () => {
       setIsPlaying(false);
       setProgress(0);
-      if (bgmRef.current) bgmRef.current.pause();
-      // 連続再生ロジック（次の記事へ自動遷移し、autoplayパラメータを付与）
-      if (nextArticleUrl) {
-        window.location.href = `${nextArticleUrl}?autoplay=true`;
-      }
     };
 
     audio.addEventListener("timeupdate", updateProgress);
     audio.addEventListener("ended", handleEnded);
 
-    if (typeof window !== "undefined") {
-      const params = new URLSearchParams(window.location.search);
-      if (params.get("autoplay") === "true") {
-        setTimeout(() => {
-          audio.play().then(() => {
-            setIsPlaying(true);
-            if (bgmRef.current && bgmVolume > 0) {
-              bgmRef.current.play().catch(e => console.error("BGM Autoplay prevented:", e));
-            }
-          }).catch(e => console.error("Autoplay prevented:", e));
-        }, 500);
-      }
-    }
-
     return () => {
       audio.removeEventListener("timeupdate", updateProgress);
       audio.removeEventListener("ended", handleEnded);
     };
-  }, [nextArticleUrl, bgmVolume]);
+  }, [nextArticleUrl, router]);
 
-  // コンポーネントのアンマウント時のみ音声を停止する
+  // 音声URLの変更検知と自動再生の制御
+  useEffect(() => {
+    const audio = audioRef.current;
+    if (!audio) return;
+
+    if (typeof window !== "undefined") {
+      const params = new URLSearchParams(window.location.search);
+      if (params.get("autoplay") === "true") {
+        let isCurrent = true;
+
+        audio.pause();
+
+        audio.play().then(() => {
+          if (!isCurrent) return;
+          setIsPlaying(true);
+        }).catch(e => {
+          if (e.name !== 'AbortError') {
+            console.error("Autoplay prevented:", e);
+          }
+        });
+
+        return () => {
+          isCurrent = false;
+        };
+      }
+    }
+  }, [audioUrl]);
+
+  // BGMの再生状態とボリュームの同期制御
+  useEffect(() => {
+    if (isPlaying && bgmVolume > 0 && bgmRef.current) {
+      bgmRef.current.play().catch(e => {
+        if (e.name !== 'AbortError') {
+          console.error("BGM play error:", e);
+        }
+      });
+    } else if (bgmRef.current) {
+      bgmRef.current.pause();
+    }
+  }, [isPlaying, bgmVolume]);
+
+  // コンポーネントのアンマウント時に音声を停止
   useEffect(() => {
     return () => {
       if (audioRef.current) audioRef.current.pause();
@@ -104,21 +151,23 @@ export default function AudioPlayer({ audioUrl, nextArticleUrl, bgmUrl, title, c
       navigator.mediaSession.setActionHandler("seekforward", () => skip(15));
       if (nextArticleUrl) {
         navigator.mediaSession.setActionHandler("nexttrack", () => {
-          window.location.href = `${nextArticleUrl}?autoplay=true`;
+          router.push(`${nextArticleUrl}?autoplay=true`);
         });
       } else {
         navigator.mediaSession.setActionHandler("nexttrack", null);
       }
     }
-  }, [title, category, imageUrl, nextArticleUrl, isPlaying, bgmVolume]);
+  }, [title, category, imageUrl, nextArticleUrl, isPlaying, router]);
 
   // 音量の適用
   useEffect(() => {
     if (audioRef.current) {
-      audioRef.current.volume = isMuted ? 0 : volume;
+      audioRef.current.volume = isMuted ? 0 : Math.min(1, volume / 100);
     }
     if (bgmRef.current) {
-      bgmRef.current.volume = (isMuted || bgmVolume === 0) ? 0 : (bgmVolume * 0.2);
+      // 3乗カーブを適用（bgmVolume=30のときに元の最大値0.3となるように調整）
+      const actualBgmVolume = 0.3 * Math.pow(bgmVolume / 30, 3);
+      bgmRef.current.volume = (isMuted || bgmVolume === 0) ? 0 : actualBgmVolume;
     }
   }, [volume, bgmVolume, isMuted]);
 
@@ -140,10 +189,8 @@ export default function AudioPlayer({ audioUrl, nextArticleUrl, bgmUrl, title, c
     if (audioRef.current) {
       if (isPlaying) {
         audioRef.current.pause();
-        if (bgmRef.current) bgmRef.current.pause();
       } else {
         audioRef.current.play();
-        if (bgmRef.current && bgmVolume > 0) bgmRef.current.play().catch(e => console.error(e));
       }
       setIsPlaying(!isPlaying);
     }
@@ -157,11 +204,20 @@ export default function AudioPlayer({ audioUrl, nextArticleUrl, bgmUrl, title, c
   };
 
   const handleSeek = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const val = parseFloat(e.target.value);
+    setProgress(val);
     if (audioRef.current && audioRef.current.duration) {
-      const seekTime = (parseFloat(e.target.value) / 100) * audioRef.current.duration;
+      const seekTime = (val / 100) * audioRef.current.duration;
       audioRef.current.currentTime = seekTime;
-      setProgress(parseFloat(e.target.value));
     }
+  };
+
+  const handleSeekStart = () => {
+    isSeekingRef.current = true;
+  };
+
+  const handleSeekEnd = () => {
+    isSeekingRef.current = false;
   };
 
   return (
@@ -194,7 +250,8 @@ export default function AudioPlayer({ audioUrl, nextArticleUrl, bgmUrl, title, c
             {isPlaying ? <Pause className="fill-current w-6 h-6" /> : <Play className="fill-current w-6 h-6 ml-1" />}
           </button>
 
-          <div className="flex-1 flex items-center relative h-2">
+          {/* シークバー */}
+          <div className="flex-1 flex items-center relative h-6 group/seek">
             <input 
               type="range" 
               min="0" 
@@ -202,15 +259,24 @@ export default function AudioPlayer({ audioUrl, nextArticleUrl, bgmUrl, title, c
               step="0.1"
               value={progress || 0} 
               onChange={handleSeek}
+              onMouseDown={handleSeekStart}
+              onMouseUp={handleSeekEnd}
+              onTouchStart={handleSeekStart}
+              onTouchEnd={handleSeekEnd}
               className="absolute w-full h-full opacity-0 cursor-pointer z-10"
             />
             {/* カスタムプログレスバーの見た目 */}
-            <div className="absolute w-full h-full bg-black/50 rounded-full overflow-hidden pointer-events-none">
+            <div className="absolute w-full h-1.5 bg-black/50 rounded-full overflow-hidden pointer-events-none">
               <div 
-                className="h-full bg-accent transition-all duration-100"
+                className="h-full bg-accent"
                 style={{ width: `${progress}%` }}
               />
             </div>
+            {/* カスタムつまみ */}
+            <div 
+              className="absolute w-3 h-3 bg-white border border-accent rounded-full shadow pointer-events-none -translate-x-1/2 opacity-0 group-hover/seek:opacity-100 transition-opacity animate-in fade-in" 
+              style={{ left: `${progress}%` }}
+            />
           </div>
 
           <div className="flex items-center gap-3 text-white/60 shrink-0">
@@ -227,25 +293,26 @@ export default function AudioPlayer({ audioUrl, nextArticleUrl, bgmUrl, title, c
                 >
                   <Music className="w-5 h-5" />
                 </button>
-                <div className={`overflow-hidden transition-all duration-300 flex items-center ${showBgmSlider ? 'w-20 opacity-100 mr-2' : 'w-0 opacity-0'}`}>
+                <div className={`overflow-hidden transition-all duration-300 flex items-center ${showBgmSlider ? 'w-24 opacity-100 mr-2' : 'w-0 opacity-0'}`}>
                   <div className="relative w-full h-1.5 bg-black/50 rounded-full mx-2 flex items-center">
                     <input
                       type="range"
                       min="0"
-                      max="1"
-                      step="0.01"
+                      max="30"
+                      step="1"
                       value={bgmVolume}
                       onChange={(e) => {
-                        const val = parseFloat(e.target.value);
+                        const val = parseInt(e.target.value, 10);
                         setBgmVolume(val);
                         localStorage.setItem("bgmVolume", val.toString());
-                        if (val > 0 && isPlaying && bgmRef.current && bgmRef.current.paused) {
-                          bgmRef.current.play().catch(console.error);
-                        }
                       }}
                       className="absolute w-full h-full opacity-0 cursor-pointer z-10"
                     />
-                    <div className="absolute h-full bg-accent rounded-full pointer-events-none" style={{ width: `${bgmVolume * 100}%` }} />
+                    <div className="absolute h-full bg-accent rounded-full pointer-events-none" style={{ width: `${(bgmVolume / 30) * 100}%` }} />
+                    <div 
+                      className="absolute w-3 h-3 bg-white border border-accent rounded-full shadow pointer-events-none -translate-x-1/2" 
+                      style={{ left: `${(bgmVolume / 30) * 100}%` }}
+                    />
                   </div>
                 </div>
               </div>
@@ -267,30 +334,35 @@ export default function AudioPlayer({ audioUrl, nextArticleUrl, bgmUrl, title, c
               </button>
               
               {/* 音量スライダー (クリック時に表示) */}
-              <div className={`overflow-hidden transition-all duration-300 flex items-center ${showVolumeSlider ? 'w-20 opacity-100 mr-2' : 'w-0 opacity-0'}`}>
+              <div className={`overflow-hidden transition-all duration-300 flex items-center ${showVolumeSlider ? 'w-24 opacity-100 mr-2' : 'w-0 opacity-0'}`}>
                 <div className="relative w-full h-1.5 bg-black/50 rounded-full mx-2 flex items-center">
                   <input
                     type="range"
                     min="0"
-                    max="1"
-                    step="0.01"
+                    max="100"
+                    step="1"
                     value={isMuted ? 0 : volume}
                     onChange={(e) => {
-                      const val = parseFloat(e.target.value);
+                      const val = parseInt(e.target.value, 10);
                       setVolume(val);
+                      localStorage.setItem("mainVolume", val.toString());
                       if (isMuted && val > 0) setIsMuted(false);
                       if (val === 0) setIsMuted(true);
                     }}
                     className="absolute w-full h-full opacity-0 cursor-pointer z-10"
                   />
-                  <div className="absolute h-full bg-accent rounded-full pointer-events-none" style={{ width: `${(isMuted ? 0 : volume) * 100}%` }} />
+                  <div className="absolute h-full bg-accent rounded-full pointer-events-none" style={{ width: `${((isMuted ? 0 : volume) / 100) * 100}%` }} />
+                  <div 
+                    className="absolute w-3 h-3 bg-white border border-accent rounded-full shadow pointer-events-none -translate-x-1/2" 
+                    style={{ left: `${((isMuted ? 0 : volume) / 100) * 100}%` }}
+                  />
                 </div>
               </div>
             </div>
 
             {nextArticleUrl && (
               <button 
-                onClick={() => window.location.href = `${nextArticleUrl}?autoplay=true`}
+                onClick={() => router.push(`${nextArticleUrl}?autoplay=true`)}
                 className="hover:text-white transition-colors p-2"
                 title="次の記事へ"
               >
@@ -308,7 +380,7 @@ export default function AudioPlayer({ audioUrl, nextArticleUrl, bgmUrl, title, c
           </div>
         </div>
       </div>
-      <audio ref={audioRef} src={audioUrl} preload="metadata" />
+      <audio ref={audioRef} src={audioUrl} preload="metadata" crossOrigin="anonymous" />
       {bgmUrl && <audio ref={bgmRef} src={bgmUrl} preload="auto" loop />}
     </div>
   );

@@ -19,10 +19,21 @@ async function ensureVoicevoxRunning() {
     if (res.ok) return; // すでに起動済み
   } catch (e) {
     console.log('  [VOICEVOX] アプリが起動していません。自動起動を試みます...');
-    const exePath = 'C:\\Users\\owner\\AppData\\Local\\Programs\\VOICEVOX\\VOICEVOX.exe';
-    spawn(exePath, [], { detached: true, stdio: 'ignore' }).unref();
-    
-    for (let i = 0; i < 30; i++) {
+    const userProfile = process.env.USERPROFILE || 'C:\\Users\\owner';
+    const exePath = path.join(userProfile, 'AppData\\Local\\Programs\\VOICEVOX\\VOICEVOX.exe');
+    try {
+      const child = spawn(exePath, [], { detached: true, stdio: 'ignore' });
+      child.on('error', (err) => {
+        console.log(`  [VOICEVOX] 自動起動に失敗しました (${err.message})。`);
+        console.log(`  手動で VOICEVOX アプリを起動してください。`);
+      });
+      child.unref();
+    } catch (spawnErr) {
+      console.log(`  [VOICEVOX] 自動起動の呼び出しに失敗しました (${spawnErr.message})。`);
+    }
+
+    console.log('  [VOICEVOX] VOICEVOXの起動を確認中 (最大15秒待ちます)...');
+    for (let i = 0; i < 15; i++) {
       await new Promise(r => setTimeout(r, 1000));
       try {
         const res = await fetch(checkUrl);
@@ -30,9 +41,9 @@ async function ensureVoicevoxRunning() {
           console.log('  [VOICEVOX] 起動完了を確認しました！');
           return;
         }
-      } catch (err) {}
+      } catch (err) { }
     }
-    throw new Error('VOICEVOXアプリの自動起動に失敗しました。');
+    throw new Error('VOICEVOXアプリが起動していません。手動でVOICEVOXアプリを起動してから再実行してください。');
   }
 }
 
@@ -43,26 +54,58 @@ function concatWavs(buffers) {
   if (buffers.length === 0) return Buffer.from([]);
   if (buffers.length === 1) return buffers[0];
 
+  const pcmParts = [];
   let totalPcmLength = 0;
+  let firstHeader = null;
+
   for (let i = 0; i < buffers.length; i++) {
-    totalPcmLength += buffers[i].length - 44;
+    const buf = buffers[i];
+    
+    // "data" チャンクのシグネチャ (0x64, 0x61, 0x74, 0x61) を動的に探す
+    let dataOffset = -1;
+    for (let j = 12; j < buf.length - 8; j++) {
+      if (buf[j] === 0x64 && buf[j+1] === 0x61 && buf[j+2] === 0x74 && buf[j+3] === 0x61) {
+        dataOffset = j;
+        break;
+      }
+    }
+
+    if (dataOffset === -1) {
+      // 見つからない場合はフォールバックとして44バイト以降をPCMとする
+      const pcm = buf.slice(44);
+      pcmParts.push(pcm);
+      totalPcmLength += pcm.length;
+      if (i === 0) {
+        firstHeader = buf.slice(0, 44);
+      }
+    } else {
+      const pcmSize = buf.readUInt32LE(dataOffset + 4);
+      const pcmStart = dataOffset + 8;
+      const pcm = buf.slice(pcmStart, Math.min(buf.length, pcmStart + pcmSize));
+      pcmParts.push(pcm);
+      totalPcmLength += pcm.length;
+      if (i === 0) {
+        firstHeader = Buffer.alloc(pcmStart);
+        buf.copy(firstHeader, 0, 0, pcmStart);
+      }
+    }
   }
 
-  const outBuffer = Buffer.alloc(44 + totalPcmLength);
+  // 新しいWAVバッファを作成
+  const outBuffer = Buffer.alloc(firstHeader.length + totalPcmLength);
+  firstHeader.copy(outBuffer, 0);
   
-  // 最初のバッファからヘッダ（44バイト）をコピー
-  buffers[0].copy(outBuffer, 0, 0, 44);
-  
-  // ChunkSize (offset 4, 4 bytes, Little Endian) = 36 + Subchunk2Size
-  outBuffer.writeUInt32LE(36 + totalPcmLength, 4);
-  // Subchunk2Size (offset 40, 4 bytes, Little Endian) = total PCM length
-  outBuffer.writeUInt32LE(totalPcmLength, 40);
+  // RIFFサイズを更新 (全体サイズ - 8)
+  outBuffer.writeUInt32LE(firstHeader.length + totalPcmLength - 8, 4);
 
-  let offset = 44;
-  for (let i = 0; i < buffers.length; i++) {
-    const pcmData = buffers[i].slice(44);
-    pcmData.copy(outBuffer, offset);
-    offset += pcmData.length;
+  // dataチャンクのサイズを更新
+  outBuffer.writeUInt32LE(totalPcmLength, firstHeader.length - 4);
+
+  // PCMデータを連結
+  let offset = firstHeader.length;
+  for (let i = 0; i < pcmParts.length; i++) {
+    pcmParts[i].copy(outBuffer, offset);
+    offset += pcmParts[i].length;
   }
 
   return outBuffer;
@@ -76,12 +119,12 @@ async function generateAudio(text, outputPath, speakerId = 3) {
     await ensureVoicevoxRunning();
 
     let safeText = text.replace(/#/g, '').replace(/\*/g, '');
-    
+
     // 長いテキストを句読点や改行で分割してチャンク化（1チャンク最大200文字程度）
     const sentences = safeText.split(/(?<=[。！？\n])/);
     let chunks = [];
     let currentChunk = "";
-    
+
     for (const sentence of sentences) {
       if (currentChunk.length + sentence.length > 200) {
         if (currentChunk.trim()) chunks.push(currentChunk.trim());
@@ -105,9 +148,11 @@ async function generateAudio(text, outputPath, speakerId = 3) {
       });
       if (!queryRes.ok) throw new Error(`audio_query failed: ${queryRes.status}`);
       const queryJson = await queryRes.json();
-      
+
       // 読み上げ速度を設定
       queryJson.speedScale = 1.25;
+      // 音量を設定 (1.5倍)
+      queryJson.volumeScale = 1.5;
 
       // 2. 音声合成
       const synthRes = await fetch(`http://127.0.0.1:50021/synthesis?speaker=${speakerId}`, {
@@ -118,14 +163,14 @@ async function generateAudio(text, outputPath, speakerId = 3) {
         body: JSON.stringify(queryJson)
       });
       if (!synthRes.ok) throw new Error(`synthesis failed: ${synthRes.status}`);
-      
+
       const arrayBuffer = await synthRes.arrayBuffer();
       wavBuffers.push(Buffer.from(arrayBuffer));
-      
+
       // 連続リクエストでサーバーに負荷をかけないよう少し待機
       await new Promise(r => setTimeout(r, 500));
     }
-    
+
     if (wavBuffers.length > 0) {
       // 全てのWAVを結合して1つのファイルにする
       const finalBuffer = concatWavs(wavBuffers);
@@ -145,7 +190,7 @@ async function generateAudio(text, outputPath, speakerId = 3) {
 async function main() {
   console.log("=== 音声データ再生成スクリプト開始 ===");
   const genres = await fs.readdir(ARTICLES_DIR);
-  
+
   const genreSpeakers = {
     'mystery': 13, // 青山龍星
     'smile': 3,    // ずんだもん
@@ -166,12 +211,17 @@ async function main() {
       const parsed = matter(fileContent);
 
       const title = parsed.data.title;
-      const audioFileName = parsed.data.audio;
-      
+      let audioFileName = parsed.data.audio;
+
+      if (audioFileName && (audioFileName.startsWith('http://') || audioFileName.startsWith('https://'))) {
+        const cleanUrl = audioFileName.split('?')[0];
+        audioFileName = path.basename(cleanUrl);
+      }
+
       if (!title || !audioFileName) continue;
 
       const currentAudioPath = path.join(AUDIO_DIR, genre, audioFileName);
-      
+
       let needsFix = false;
       try {
         const audioStat = await fs.stat(currentAudioPath);
@@ -183,7 +233,7 @@ async function main() {
 
       if (needsFix) {
         console.log(`\n【修復対象】${title} (現在の音声: ${audioFileName})`);
-        
+
         const slug = file.replace(/\.md$/, '');
         const newAudioFileName = `${slug}.wav`;
         const newAudioPath = path.join(AUDIO_DIR, genre, newAudioFileName);
@@ -208,9 +258,9 @@ async function main() {
           // 古いダミーファイルを削除 (.mp3 で生成したファイル等)
           if (audioFileName !== newAudioFileName) {
             try {
-               await fs.unlink(currentAudioPath);
-               console.log(`  ✓ 古いダミーファイル (${audioFileName}) を削除しました`);
-            } catch(e) {} // 無視
+              await fs.unlink(currentAudioPath);
+              console.log(`  ✓ 古いダミーファイル (${audioFileName}) を削除しました`);
+            } catch (e) { } // 無視
           }
         } catch (err) {
           console.error(`  ✕ 修復に失敗しました: ${err.message}`);
