@@ -12,23 +12,23 @@
     "/audio/bgm/knowledge/Sometimes.mp3"
   ],
   "life": [
-    "/audio/bgm/life/Dark_blue_night.mp3",
-    "/audio/bgm/life/Jack%E2%80%99s_journey.mp3",
-    "/audio/bgm/life/Street_Cutout.mp3",
-    "/audio/bgm/life/%E6%82%B2%E3%81%97%E3%81%BF%E3%81%AE%E9%90%98.mp3"
+    "/audio/bgm/life/Dark_blue_night%20(mp3cut.net).mp3",
+    "/audio/bgm/life/Jack%E2%80%99s_journey%20(mp3cut.net).mp3",
+    "/audio/bgm/life/Street_Cutout%20(mp3cut.net).mp3",
+    "/audio/bgm/life/%E6%82%B2%E3%81%97%E3%81%BF%E3%81%AE%E9%90%98%20(mp3cut.net).mp3"
   ],
   "mystery": [
-    "/audio/bgm/mystery/%E5%9C%B0%E4%B8%8B%E5%AE%A4%E3%81%AE%E6%A1%88%E5%86%85%E4%BA%BA_2.mp3",
-    "/audio/bgm/mystery/%E6%B1%BA%E6%84%8F%E3%81%AE%E9%87%8D%E3%81%95.mp3"
+    "/audio/bgm/mystery/%E5%9C%B0%E4%B8%8B%E5%AE%A4%E3%81%AE%E6%A1%88%E5%86%85%E4%BA%BA_2%20(mp3cut.net).mp3",
+    "/audio/bgm/mystery/%E6%B1%BA%E6%84%8F%E3%81%AE%E9%87%8D%E3%81%95%20(mp3cut.net).mp3"
   ],
   "smile": [
-    "/audio/bgm/smile/Oriental_Poppy.mp3",
-    "/audio/bgm/smile/%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%89%E3%83%9E%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%86%E3%83%83%E3%83%97.mp3"
+    "/audio/bgm/smile/Oriental_Poppy%20(mp3cut.net).mp3",
+    "/audio/bgm/smile/%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%89%E3%83%9E%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%20(mp3cut.net).mp3"
   ],
   "trip": [
-    "/audio/bgm/trip/%E3%81%82%E3%82%84%E3%81%97%E3%81%84%E3%81%8A%E5%BA%97.mp3",
-    "/audio/bgm/trip/%E3%81%84%E3%81%9F%E3%81%9A%E3%82%89%E3%82%AD%E3%83%83%E3%82%BA.mp3",
-    "/audio/bgm/trip/%E3%81%BC%E3%81%95%E3%81%BC%E3%81%95%E3%81%BC%E3%81%95%E3%81%AE%E3%81%B0.mp3",
-    "/audio/bgm/trip/%E6%9B%B8%E3%82%92%E6%8D%A8%E3%81%A6%E3%82%88%E3%80%81%E3%83%8D%E3%82%AA%E3%83%B3%E8%A1%97%E3%81%B8%E5%87%BA%E3%82%88%E3%81%86.mp3"
+    "/audio/bgm/trip/%E3%81%82%E3%82%84%E3%81%97%E3%81%84%E3%81%8A%E5%BA%97%20(mp3cut.net).mp3",
+    "/audio/bgm/trip/%E3%81%84%E3%81%9F%E3%81%9A%E3%82%89%E3%82%AD%E3%83%83%E3%82%BA%20(mp3cut.net).mp3",
+    "/audio/bgm/trip/%E3%81%BC%E3%81%95%E3%81%BC%E3%81%95%E3%81%BC%E3%81%95%E3%81%AE%E3%81%B0%20(mp3cut.net).mp3",
+    "/audio/bgm/trip/%E6%9B%B8%E3%82%92%E6%8D%A8%E3%81%A6%E3%82%88%E3%80%81%E3%83%8D%E3%82%AA%E3%83%B3%E8%A1%97%E3%81%B8%E5%87%BA%E3%82%88%E3%81%86%20(mp3cut.net).mp3"
   ]
 }

@@ -27,7 +27,7 @@ export default function PodcastPlayer({ articles, bgmMap }: { articles: ArticleD
   const [isMuted, setIsMuted] = useState(false);
   const [playbackRate, setPlaybackRate] = useState(1.0);
   const [showVolumeSlider, setShowVolumeSlider] = useState(false);
-  const [bgmVolume, setBgmVolume] = useState(15); // 0〜30
+  const [bgmVolume, setBgmVolume] = useState(50); // 0〜100
   const [showBgmSlider, setShowBgmSlider] = useState(false);
   const [currentBgmUrl, setCurrentBgmUrl] = useState<string | undefined>();
   
@@ -118,8 +118,7 @@ export default function PodcastPlayer({ articles, bgmMap }: { articles: ArticleD
       audioRef.current.volume = isMuted ? 0 : Math.min(1.0, volume / 100);
     }
     if (bgmRef.current) {
-      // 3乗カーブを適用（bgmVolume=30のときに元の最大値0.3となるように調整）
-      const actualBgmVolume = 0.3 * Math.pow(bgmVolume / 30, 3);
+      const actualBgmVolume = bgmVolume / 100;
       bgmRef.current.volume = (isMuted || bgmVolume === 0) ? 0 : actualBgmVolume;
     }
   }, [volume, bgmVolume, isMuted]);
@@ -142,7 +141,7 @@ export default function PodcastPlayer({ articles, bgmMap }: { articles: ArticleD
       if (vol > 0 && vol <= 1.0) {
         vol = Math.round(vol * 100);
       }
-      setBgmVolume(Math.min(30, vol));
+      setBgmVolume(Math.min(100, vol));
     }
   }, []);
 
@@ -417,20 +416,21 @@ export default function PodcastPlayer({ articles, bgmMap }: { articles: ArticleD
                       <input
                         type="range"
                         min="0"
-                        max="30"
+                        max="100"
                         step="1"
                         value={bgmVolume}
                         onChange={(e) => {
-                          const val = parseInt(e.target.value, 10);
+                          let val = parseInt(e.target.value, 10);
+                          if (val <= 5) val = 0; // スナップ機能
                           setBgmVolume(val);
                           localStorage.setItem("bgmVolume", val.toString());
                         }}
                         className="absolute w-full h-full opacity-0 cursor-pointer z-10"
                       />
-                      <div className="absolute h-full bg-accent rounded-full pointer-events-none" style={{ width: `${(bgmVolume / 30) * 100}%` }} />
+                      <div className="absolute h-full bg-accent rounded-full pointer-events-none" style={{ width: `${bgmVolume}%` }} />
                       <div 
                         className="absolute w-3 h-3 bg-white border border-accent rounded-full shadow pointer-events-none -translate-x-1/2" 
-                        style={{ left: `${(bgmVolume / 30) * 100}%` }}
+                        style={{ left: `${bgmVolume}%` }}
                       />
                     </div>
                   </div>
@@ -457,7 +457,8 @@ export default function PodcastPlayer({ articles, bgmMap }: { articles: ArticleD
                       step="1"
                       value={isMuted ? 0 : volume}
                       onChange={(e) => {
-                        const val = parseInt(e.target.value, 10);
+                        let val = parseInt(e.target.value, 10);
+                        if (val <= 5) val = 0; // スナップ機能
                         setVolume(val);
                         localStorage.setItem("mainVolume", val.toString());
                         if (isMuted && val > 0) setIsMuted(false);
