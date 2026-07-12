@@ -46,17 +46,29 @@ async function main() {
 
       console.log(`\n[Orchestrator] 全ての処理が完了、または Unsplash API上限 に達しました。`);
       
-      // 3. 1日1回のGitバックアップ
-      const currentDate = new Date().toLocaleDateString();
-      if (lastBackupDate !== currentDate) {
+      // 3. 1日1回のGitバックアップ (12時以降に実行)
+      const now = new Date();
+      const currentDate = now.toLocaleDateString();
+      const currentHour = now.getHours();
+      
+      if (lastBackupDate !== currentDate && currentHour >= 12) {
         console.log(`\n[Orchestrator] 1日1回のGit自動バックアップを開始します...`);
-        const dateStr = new Date().toISOString().split('T')[0];
+        
+        console.log(`[Orchestrator] 記事の自動装飾 (formatArticles.mjs) を実行します...`);
+        runScript('formatArticles.mjs');
+        
+        const dateStr = now.toISOString().split('T')[0];
         const projectRoot = path.resolve(__dirname, '../');
         try {
           spawnSync('git', ['add', '.'], { cwd: projectRoot });
           const commitRes = spawnSync('git', ['commit', '-m', `Auto backup: ${dateStr}`], { cwd: projectRoot });
-          // コミット成功時またはコミットすべき変更がない場合はpushを試みる
+          
+          // コミット成功時またはコミットすべき変更がない場合はpull & pushを試みる
           if (commitRes.status === 0 || (commitRes.stdout && commitRes.stdout.toString().includes('nothing to commit'))) {
+            console.log(`[Orchestrator] Git Pullを実行します...`);
+            spawnSync('git', ['pull'], { cwd: projectRoot });
+            
+            console.log(`[Orchestrator] Git Pushを実行します...`);
             const pushRes = spawnSync('git', ['push'], { cwd: projectRoot });
             if (pushRes.status === 0) {
               console.log(`[Orchestrator] Gitへのバックアップが完了しました！`);
